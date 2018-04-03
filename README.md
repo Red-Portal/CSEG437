@@ -1,5 +1,6 @@
 
-# CSEG437 Numerical Computing and GPU Programming
+# CSEG437
+Numerical Computing and GPU Programming
 
 ## introduction
 
