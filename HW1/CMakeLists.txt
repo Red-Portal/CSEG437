@@ -21,6 +21,10 @@ add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 if(NOT MSVC)
     set(BUILD_FLAGS
 	"${CMAKE_CXX_FLAGS} -g -O3 -Wall -Wextra -Wpedantic")
+
+    find_package (Threads)
+
+    target_link_libraries(${PROJECT_NAME} ${CMAKE_THREAD_LIBS_INIT})
 endif()
 
 message("C++ flags = ${BUILD_FLAGS}")
@@ -36,5 +40,4 @@ target_include_directories(${PROJECT_NAME}
     ${OpenCL_INCLUDE_DIR})
 
 target_link_libraries(${PROJECT_NAME}
-    PUBLIC
     ${OpenCL_LIBRARY})
