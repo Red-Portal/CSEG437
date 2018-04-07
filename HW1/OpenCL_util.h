@@ -200,6 +200,37 @@ size_t read_kernel_from_file(const char *filename, char **source_str) {
     
     return count;
 }
+
+// size_t read_kernel_from_str(char const* filename) {
+//     FILE *fp;
+//     size_t count;
+    
+//     if ((fp = fopen(filename, "rb")) == NULL) {
+//         fprintf(stderr, "Error: cannot open the file %s for reading...\n", filename);
+//         exit(EXIT_FAILURE);
+//     }
+    
+//     fseek(fp, 0, SEEK_END);
+//     count = ftell(fp);
+    
+//     fseek(fp, 0, SEEK_SET);
+    
+//     *source_str = (char *)malloc(count + 1);
+//     if (*source_str == NULL) {
+//         fprintf(stderr, "Error: cannot allocate memory for reading the file %s for reading...\n", filename);
+//     }
+    
+//     fread(*source_str, sizeof(char), count, fp);
+//     *(*source_str + count) = '\0';
+    
+//     fclose(fp);
+    
+// #ifdef _SHOW_OPENCL_C_PROGRAM
+//     fprintf(stdout, "\n^^^^^^^^^^^^^^ The OpenCL C program ^^^^^^^^^^^^^^\n%s\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n", *source_str);
+// #endif
+    
+//     return count;
+// }
 /******************************************************************************************************/
 
 /******************************************************************************************************/
@@ -295,31 +326,31 @@ void print_platform(cl_platform_id *platforms, int i) {
     char *param_value;
     size_t param_value_size;
     
-    clGetPlatformInfo(platforms[i], CL_PLATFORM_NAME, NULL, NULL, &param_value_size);
+    clGetPlatformInfo(platforms[i], CL_PLATFORM_NAME, 0, NULL, &param_value_size);
     param_value = (char *)malloc(param_value_size);
     clGetPlatformInfo(platforms[i], CL_PLATFORM_NAME, param_value_size, param_value, NULL);
     fprintf(stdout, "  * CL_PLATFORM_NAME:\t\t\t\t%s\n", param_value);
     free(param_value);
     
-    clGetPlatformInfo(platforms[i], CL_PLATFORM_VENDOR, NULL, NULL, &param_value_size);
+    clGetPlatformInfo(platforms[i], CL_PLATFORM_VENDOR, 0, NULL, &param_value_size);
     param_value = (char *)malloc(param_value_size);
     clGetPlatformInfo(platforms[i], CL_PLATFORM_VENDOR, param_value_size, param_value, NULL);
     fprintf(stdout, "  * CL_PLATFORM_VENDOR:\t\t\t\t%s\n", param_value);
     free(param_value);
     
-    clGetPlatformInfo(platforms[i], CL_PLATFORM_VERSION, NULL, NULL, &param_value_size);
+    clGetPlatformInfo(platforms[i], CL_PLATFORM_VERSION, 0, NULL, &param_value_size);
     param_value = (char *)malloc(param_value_size);
     clGetPlatformInfo(platforms[i], CL_PLATFORM_VERSION, param_value_size, param_value, NULL);
     fprintf(stdout, "  * CL_PLATFORM_VERSION:\t\t\t%s\n", param_value);
     free(param_value);
     
-    clGetPlatformInfo(platforms[i], CL_PLATFORM_PROFILE, NULL, NULL, &param_value_size);
+    clGetPlatformInfo(platforms[i], CL_PLATFORM_PROFILE, 0, NULL, &param_value_size);
     param_value = (char *)malloc(param_value_size);
     clGetPlatformInfo(platforms[i], CL_PLATFORM_PROFILE, param_value_size, param_value, NULL);
     fprintf(stdout, "  * CL_PLATFORM_PROFILE:\t\t\t%s\n", param_value);
     free(param_value);
     
-    clGetPlatformInfo(platforms[i], CL_PLATFORM_EXTENSIONS, NULL, NULL, &param_value_size);
+    clGetPlatformInfo(platforms[i], CL_PLATFORM_EXTENSIONS, 0, NULL, &param_value_size);
     param_value = (char *)malloc(param_value_size);
     clGetPlatformInfo(platforms[i], CL_PLATFORM_EXTENSIONS, param_value_size, param_value, NULL);
     fprintf(stdout, "  * CL_PLATFORM_EXTENSIONS:\t\t\t%s\n", param_value);
@@ -380,10 +411,13 @@ void print_device(cl_device_id *devices, int j) {
     
     clGetDeviceInfo(device, CL_DEVICE_MAX_WORK_ITEM_SIZES, sizeof(_buffer), _buffer, NULL);
     printf("   - CL_DEVICE_MAX_WORK_ITEM_SIZES:\t\t\t%lu / %lu / %lu \n",
-           *((size_t *) _buffer), *(((size_t *) _buffer) + 1), *(((size_t *)_buffer) + 2));
+           (unsigned long)*((size_t *) _buffer),
+           (unsigned long)*(((size_t *) _buffer) + 1),
+           (unsigned long)*(((size_t *)_buffer) + 2));
     
     clGetDeviceInfo(device, CL_DEVICE_MAX_WORK_GROUP_SIZE, sizeof(_buffer), _buffer, NULL);
-    fprintf(stdout, "   - CL_DEVICE_MAX_WORK_GROUP_SIZE:\t\t\t%lu\n", *((size_t *)_buffer));
+    fprintf(stdout, "   - CL_DEVICE_MAX_WORK_GROUP_SIZE:\t\t\t%lu\n",
+            (unsigned long)*((size_t *)_buffer));
     
     clGetDeviceInfo(device, CL_DEVICE_MAX_CLOCK_FREQUENCY, sizeof(_buffer), _buffer, NULL);
     fprintf(stdout, "   - CL_DEVICE_MAX_CLOCK_FREQUENCY:\t\t\t%u MHz\n", *((cl_uint *)_buffer));
@@ -392,10 +426,12 @@ void print_device(cl_device_id *devices, int j) {
     fprintf(stdout, "   - CL_DEVICE_ADDRESS_BITS:\t\t\t\t%u\n", *((cl_uint *)_buffer));
     
     clGetDeviceInfo(device, CL_DEVICE_MAX_MEM_ALLOC_SIZE, sizeof(_buffer), _buffer, NULL);
-    fprintf(stdout, "   - CL_DEVICE_MAX_MEM_ALLOC_SIZE:\t\t\t%llu MBytes\n", *((cl_ulong *)_buffer) >> 20);
+    fprintf(stdout, "   - CL_DEVICE_MAX_MEM_ALLOC_SIZE:\t\t\t%llu MBytes\n",
+            (unsigned long long)*((cl_ulong *)_buffer) >> 20);
     
     clGetDeviceInfo(device, CL_DEVICE_GLOBAL_MEM_SIZE, sizeof(_buffer), _buffer, NULL);
-    fprintf(stdout, "   - CL_DEVICE_GLOBAL_MEM_SIZE:\t\t\t\t%llu MBytes\n", *((cl_ulong *)_buffer) >> 20);
+    fprintf(stdout, "   - CL_DEVICE_GLOBAL_MEM_SIZE:\t\t\t\t%llu MBytes\n",
+            (unsigned long long)*((cl_ulong *)_buffer) >> 20);
     
     clGetDeviceInfo(device, CL_DEVICE_GLOBAL_MEM_CACHE_TYPE, sizeof(_buffer), _buffer, NULL);
     fprintf(stdout, "   - CL_DEVICE_GLOBAL_MEM_CACHE_TYPE:\t\t");
@@ -412,7 +448,8 @@ void print_device(cl_device_id *devices, int j) {
     }
     
     clGetDeviceInfo(device, CL_DEVICE_GLOBAL_MEM_CACHE_SIZE, sizeof(_buffer), _buffer, NULL);
-    fprintf(stdout, "   - CL_DEVICE_GLOBAL_MEM_CACHE_SIZE:\t\t%lluKBytes\n", *((cl_ulong *)_buffer) >> 10);
+    fprintf(stdout, "   - CL_DEVICE_GLOBAL_MEM_CACHE_SIZE:\t\t%lluKBytes\n",
+            (unsigned long long)*((cl_ulong *)_buffer) >> 10);
     
     clGetDeviceInfo(device, CL_DEVICE_GLOBAL_MEM_CACHELINE_SIZE, sizeof(_buffer), _buffer, NULL);
     fprintf(stdout, "   - CL_DEVICE_GLOBAL_MEM_CACHELINE_SIZE:\t%u Bytes\n", *((cl_int *)_buffer));
@@ -421,10 +458,12 @@ void print_device(cl_device_id *devices, int j) {
     fprintf(stdout, "   - CL_DEVICE_LOCAL_MEM_TYPE:\t\t\t\t%s\n", *((cl_device_local_mem_type *)_buffer) == CL_LOCAL ? "LOCAL" : "GLOBAL");
     
     clGetDeviceInfo(device, CL_DEVICE_LOCAL_MEM_SIZE, sizeof(_buffer), _buffer, NULL);
-    fprintf(stdout, "   - CL_DEVICE_LOCAL_MEM_SIZE:\t\t\t\t%llu KByte\n", *((cl_ulong *)_buffer) >> 10);
+    fprintf(stdout, "   - CL_DEVICE_LOCAL_MEM_SIZE:\t\t\t\t%llu KByte\n",
+            (unsigned long long)*((cl_ulong *)_buffer) >> 10);
     
     clGetDeviceInfo(device, CL_DEVICE_MAX_CONSTANT_BUFFER_SIZE, sizeof(_buffer), _buffer, NULL);
-    fprintf(stdout, "   - CL_DEVICE_MAX_CONSTANT__buffer_SIZE:\t%llu MBytes\n", *((cl_ulong *)_buffer) >> 20);
+    fprintf(stdout, "   - CL_DEVICE_MAX_CONSTANT__buffer_SIZE:\t%llu MBytes\n",
+            (unsigned long long)*((cl_ulong *)_buffer) >> 20);
     
     clGetDeviceInfo(device, CL_DEVICE_MEM_BASE_ADDR_ALIGN, sizeof(_buffer), _buffer, NULL);
     fprintf(stdout, "   - CL_DEVICE_MEM_BASE_ADDR_ALIGN:\t\t\t%u Bits\n", *((cl_uint *)_buffer));
@@ -569,14 +608,14 @@ void print_devices(cl_platform_id *platforms, int i) {
     cl_device_id *devices;
     cl_int errcode_ret;
     
-    errcode_ret = clGetDeviceIDs(platforms[i], CL_DEVICE_TYPE_ALL, NULL, NULL, &n_devices);
+    errcode_ret = clGetDeviceIDs(platforms[i], CL_DEVICE_TYPE_ALL, 0, NULL, &n_devices);
     CHECK_ERROR_CODE(errcode_ret);
     
     devices = (cl_device_id *)malloc(sizeof(cl_device_id) * n_devices);
     errcode_ret = clGetDeviceIDs(platforms[i], CL_DEVICE_TYPE_ALL, n_devices, devices, NULL);
     CHECK_ERROR_CODE(errcode_ret);
     
-    for (int j = 0; j < n_devices; j++) {
+    for (cl_uint j = 0; j < n_devices; j++) {
         fprintf(stdout, "----- [Begin of Device %d(%d) of Platform %d] ----------------------------------------------------------------------\n\n",
                 j, n_devices, i);
         print_device(devices, j);
@@ -591,7 +630,7 @@ void show_OpenCL_platform(void) {
     cl_platform_id *platforms;
     cl_int errcode_ret;
     
-    errcode_ret = clGetPlatformIDs(NULL, NULL, &n_platforms);
+    errcode_ret = clGetPlatformIDs(0, NULL, &n_platforms);
     CHECK_ERROR_CODE(errcode_ret);
     
     platforms = (cl_platform_id *)malloc(sizeof(cl_platform_id) * n_platforms);
@@ -600,7 +639,7 @@ void show_OpenCL_platform(void) {
     CHECK_ERROR_CODE(errcode_ret);
     
     fprintf(stdout, "\n");
-    for (int i = 0; i < n_platforms; i++) {
+    for (cl_uint i = 0; i < n_platforms; i++) {
         fprintf(stdout, "===== [Begin of Platform %d(%d)] ========================================================================================\n\n",
                 i, n_platforms);
         print_platform(platforms, i);
@@ -622,28 +661,31 @@ void printf_KernelWorkGroupInfo(cl_kernel kernel, cl_device_id device) {
     errcode_ret = clGetKernelWorkGroupInfo(kernel, device, CL_KERNEL_PREFERRED_WORK_GROUP_SIZE_MULTIPLE,
                                            sizeof(size_t), (void *)tmp_size, NULL);
     CHECK_ERROR_CODE(errcode_ret);
-    fprintf(stdout,    "   # The preferred multiple of workgroup size for launch (hint) is %lu.\n", tmp_size[0]);
+    fprintf(stdout,    "   # The preferred multiple of workgroup size for launch (hint) is %lu.\n",
+            (unsigned long)tmp_size[0]);
     
     errcode_ret = clGetKernelWorkGroupInfo(kernel, device, CL_KERNEL_WORK_GROUP_SIZE,
                                            sizeof(size_t), (void *)tmp_size, NULL);
     CHECK_ERROR_CODE(errcode_ret);
-    fprintf(stdout,    "   # The maximum work-group size that can be used to execute this kernel on this device is %lu.\n", tmp_size[0]);
+    fprintf(stdout,    "   # The maximum work-group size that can be used to execute this kernel on this device is %lu.\n",
+            (unsigned long)tmp_size[0]);
     
     errcode_ret = clGetKernelWorkGroupInfo(kernel, device, CL_KERNEL_LOCAL_MEM_SIZE,
                                            sizeof(cl_ulong), (void *)tmp_ulong, NULL);
     CHECK_ERROR_CODE(errcode_ret);
-    fprintf(stdout,    "   # The amount of local memory in bytes being used by this kernel is %llu.\n", tmp_ulong);
+    fprintf(stdout,    "   # The amount of local memory in bytes being used by this kernel is %llu.\n",
+            (unsigned long long)tmp_ulong);
     
     errcode_ret = clGetKernelWorkGroupInfo(kernel, device, CL_KERNEL_PRIVATE_MEM_SIZE,
                                            sizeof(cl_ulong), (void *)tmp_ulong, NULL);
     CHECK_ERROR_CODE(errcode_ret);
-    fprintf(stdout,    "   # The minimum amount of private memory in bytes used by each workitem in the kernel is %llu.\n", tmp_ulong);
+    fprintf(stdout,    "   # The minimum amount of private memory in bytes used by each workitem in the kernel is %llu.\n", (unsigned long long)tmp_ulong);
     
     errcode_ret = clGetKernelWorkGroupInfo(kernel, device, CL_KERNEL_COMPILE_WORK_GROUP_SIZE,
                                            sizeof(size_t)*3, (void *)tmp_size, NULL);
     CHECK_ERROR_CODE(errcode_ret);
     fprintf(stdout,    "   # The work-group size specified by the __attribute__((reqd_work_group_size(X, Y, Z))) qualifier is (%lu, %lu, %lu).\n",
-            tmp_size[0], tmp_size[1], tmp_size[2]);
+            (unsigned long)tmp_size[0], (unsigned long)tmp_size[1], (unsigned long)tmp_size[2]);
     
     fprintf(stdout, "\n");
 }
