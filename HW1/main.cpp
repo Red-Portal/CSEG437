@@ -106,7 +106,7 @@ void double_reduce_benchmark(cl_context* context,
                              cl_command_queue* queue,
                              opencl_kernel* kernel)
 {
-    printf("-- parallel reduction 1d local memory\n");
+    printf("-- parallel reduction 1d local memory by calling kernels twice\n");
     double_reduce bench(*context, *queue, kernel);            
 
     size_t group_size = 64;
@@ -149,7 +149,7 @@ int main(void) {
     opencl_kernel reduce4 = prog.create_kernel("reduce_2d_local");
 
     //global_1d_benchmark(&context, &cmd_queue, &reduce1);
-    //local_1d_benchmark(&context, &cmd_queue, &reduce2);
+    local_1d_benchmark(&context, &cmd_queue, &reduce2);
     //global_2d_benchmark(&context, &cmd_queue, &reduce3);
     //local_2d_benchmark(&context, &cmd_queue, &reduce4);
     //group_size_benchmark(&context, &cmd_queue, &reduce2);
