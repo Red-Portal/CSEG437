@@ -368,12 +368,13 @@ struct local_2d
         _group_num[0] = (size_t)ceil((float)_problem_size[0] / _group_dim[0]);
         _group_num[1] = (size_t)ceil((float)_problem_size[1] / _group_dim[1]);
 
-        size_t total_group_size = _group_num[0] * _group_num[1];
+        size_t total_group_num = _group_num[0] * _group_num[1];
+        size_t total_group_size = _group_dim[0] * _group_dim[1];
 
-        _partial = (float*)malloc(sizeof(float) * total_group_size);
+        _partial = (float*)malloc(sizeof(float) * total_group_num);
         _partial_buffer.init(_context,
                              mem_flag::read_write,
-                             total_group_size);
+                             total_group_num);
 
         _kernel->allocate_local_memory(2, total_group_size * sizeof(float));
     }
