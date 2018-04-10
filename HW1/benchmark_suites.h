@@ -505,6 +505,8 @@ struct double_reduce
         _kernel->enqueue_args(&_input_buffer, &_partial_buffer);
         _kernel->enqueue_run(_cmd_queue, 1, &_problem_size, &_group_dim, NULL);
 
+        printf("%d\n", _group_num_first);
+
         _kernel->enqueue_args(&_partial_buffer, &_final_partial_buffer);
         _kernel->enqueue_run(_cmd_queue, 1, &_group_num_first, &_group_dim, NULL);
 
