@@ -110,7 +110,7 @@ void double_reduce_benchmark(cl_context* context,
     double_reduce bench(*context, *queue, kernel);            
 
     size_t group_size = 64;
-    for(size_t i = 0; i < 11; ++i)
+    for(size_t i = 3; i < 11; ++i)
     {
         size_t problem_size = 1024 << i;
         run_benchmark(std::move(bench), &group_size, &problem_size, 1);
