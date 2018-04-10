@@ -68,6 +68,7 @@ struct opencl_buffer
 
     inline ~opencl_buffer()
     {
+        printf("freed memory!\n");
         clReleaseMemObject(_buffer);
     }
 };

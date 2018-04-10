@@ -532,6 +532,7 @@ struct double_reduce
     inline ~double_reduce()
     {
         free(_partial);
+        free(_final_partial);
         free(_input);
     }
 };
