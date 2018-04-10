@@ -81,7 +81,7 @@ __kernel void reduce_2d(__global float* vec,
         if(local_row_idx < stride)
             vec[idx] += vec[idx + (stride * col_dim)];
 
-        //barrier(CLK_GLOBAL_MEM_FENCE);
+        barrier(CLK_GLOBAL_MEM_FENCE);
     }
 
     if(local_row_idx == 0)
