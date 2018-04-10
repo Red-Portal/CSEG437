@@ -54,10 +54,10 @@ void global_2d_benchmark(cl_context* context,
     printf("-- parallel reduction 2d global memory\n");
     global_2d bench(*context, *queue, kernel);            
 
-    size_t group_size[2] = {64, 64};
-    for(size_t i = 1; i < 11; ++i)
+    size_t group_size[2] = {16, 16};
+    for(size_t i = 0; i < 5; ++i)
     {
-        size_t root = 64 << i;
+        size_t root = 16 << i;
         size_t problem_size[2] = {root, root};
         run_benchmark(std::move(bench), group_size, problem_size, 2);
     }

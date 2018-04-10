@@ -250,7 +250,7 @@ struct global_2d
         _problem_size[1] = problem_size[1];
 
         _input = (float*)malloc(sizeof(float) * _problem_size[0] * _problem_size[1]);
-        fill_random(_input, _input + _problem_size[0], -1.0f, 1.0f);
+        fill_random(_input, _input + _problem_size[0] * _problem_size[1], -1.0f, 1.0f);
 
         _input_buffer.init(_context, mem_flag::read, _problem_size[0] * _problem_size[1]);
         _partial_buffer = opencl_buffer<float>();
@@ -288,6 +288,11 @@ struct global_2d
         
         _partial_buffer.enqueue_read(_cmd_queue, _partial);
         clFinish(_cmd_queue);  
+
+        printf("%f\n",_partial[0]);
+        // printf("%f\n",_partial[1]);
+        // printf("%f\n",_partial[2]);
+        // printf("%f\n",_partial[3]);
 
         _gpu = kahan_reduce(_partial, _partial + (_group_num[0] * _group_num[1]), 0.0f);
     }
