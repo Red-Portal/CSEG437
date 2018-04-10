@@ -169,10 +169,6 @@ void run_benchmark(Suite&& benchmark_suite,
                    size_t dims)
 {
     benchmark_suite.init(problem_size);
-
-//cl_event event_for_timing;
-
-    // size_t local_dim[Dim];
     benchmark_suite.work_dimensions(group_dim);
 
     size_t const sample_num = 200;
