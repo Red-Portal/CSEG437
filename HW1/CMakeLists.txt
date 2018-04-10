@@ -20,7 +20,7 @@ add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 # Build options
 if(NOT MSVC)
     set(BUILD_FLAGS
-	"${CMAKE_CXX_FLAGS} -g -O3 -Wall -Wextra -Wpedantic")
+	"${CMAKE_CXX_FLAGS} -std=c++14 -g -O3 -Wall -Wextra -Wpedantic")
 
     find_package (Threads)
 
