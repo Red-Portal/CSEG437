@@ -289,17 +289,12 @@ struct global_2d
         _partial_buffer.enqueue_read(_cmd_queue, _partial);
         clFinish(_cmd_queue);  
 
-        printf("%f\n",_partial[0]);
-        // printf("%f\n",_partial[1]);
-        // printf("%f\n",_partial[2]);
-        // printf("%f\n",_partial[3]);
-
         _gpu = kahan_reduce(_partial, _partial + (_group_num[0] * _group_num[1]), 0.0f);
     }
 
     inline void run_cpu()
     {
-        _cpu = kahan_reduce(_input, _input + (_problem_size[0] + _problem_size[1]), 0.0);
+        _cpu = kahan_reduce(_input, _input + (_problem_size[0] * _problem_size[1]), 0.0);
     }
 
     inline bool check_result()
@@ -313,6 +308,228 @@ struct global_2d
     }
 
     inline ~global_2d()
+    {
+        free(_partial);
+        free(_input);
+    }
+};
+
+struct local_2d
+{
+    size_t _problem_size[2];
+    size_t _group_dim[2];
+    size_t _group_num[2];
+    float* _input;
+    float* _partial;
+    float _gpu;
+    float _cpu;
+
+    opencl_kernel* _kernel;
+    cl_context _context;
+    cl_command_queue _cmd_queue;
+
+    opencl_buffer<float> _partial_buffer;
+    opencl_buffer<float> _input_buffer;
+
+    inline local_2d(cl_context context,
+                    cl_command_queue cmd_queue,
+                    opencl_kernel* kernel)
+        :_problem_size{0, 0},
+         _group_dim{0,0},
+         _group_num{0,0},
+         _input(NULL),
+         _partial(NULL),
+         _gpu(0),
+         _cpu(0),
+         _kernel(kernel),
+         _context(context),
+         _cmd_queue(cmd_queue),
+         _partial_buffer(),
+         _input_buffer() {} 
+
+    inline void init(size_t* problem_size)
+    {
+        _problem_size[0] = problem_size[0];
+        _problem_size[1] = problem_size[1];
+
+        _input = (float*)malloc(sizeof(float) * _problem_size[0] * _problem_size[1]);
+        fill_random(_input, _input + _problem_size[0] * _problem_size[1], -1.0f, 1.0f);
+
+        _input_buffer.init(_context, mem_flag::read, _problem_size[0] * _problem_size[1]);
+        _partial_buffer = opencl_buffer<float>();
+
+    }
+
+    inline void work_dimensions(size_t* group_dim)
+    {
+        _group_dim[0] = group_dim[0];
+        _group_dim[1] = group_dim[1];
+        
+        _group_num[0] = (size_t)ceil((float)_problem_size[0] / _group_dim[0]);
+        _group_num[1] = (size_t)ceil((float)_problem_size[1] / _group_dim[1]);
+
+        size_t total_group_size = _group_num[0] * _group_num[1];
+
+        _partial = (float*)malloc(sizeof(float) * total_group_size);
+        _partial_buffer.init(_context,
+                             mem_flag::read_write,
+                             total_group_size);
+
+        _kernel->allocate_local_memory(2, total_group_size * sizeof(float));
+    }
+
+    inline void prepare()
+    {
+        _gpu = 0;
+        fill(_partial, _partial + (_group_num[0] * _group_num[1]), 0.0f);
+
+        _input_buffer.enqueue_write(_cmd_queue, _input);
+        _partial_buffer.enqueue_write(_cmd_queue, _partial);
+        clFinish(_cmd_queue);
+    }
+
+    inline void run_gpu()
+    {
+        _kernel->enqueue_args(&_input_buffer, &_partial_buffer);
+        _kernel->enqueue_run(_cmd_queue, 2, _problem_size, _group_dim, NULL);
+        
+        _partial_buffer.enqueue_read(_cmd_queue, _partial);
+        clFinish(_cmd_queue);  
+
+        _gpu = kahan_reduce(_partial, _partial + (_group_num[0] * _group_num[1]), 0.0f);
+    }
+
+    inline void run_cpu()
+    {
+        _cpu = kahan_reduce(_input, _input + (_problem_size[0] * _problem_size[1]), 0.0);
+    }
+
+    inline bool check_result()
+    {
+        return ::check_result(_gpu, _cpu);
+    }
+
+    inline void teardown()
+    {
+        return;
+    }
+
+    inline ~local_2d()
+    {
+        free(_partial);
+        free(_input);
+    }
+};
+
+struct double_reduce
+{
+    size_t _problem_size;
+    size_t _group_dim;
+    size_t _group_num_first;
+    size_t _group_num_second;
+    float* _input;
+    float* _partial;
+    float* _final_partial;
+    float _gpu;
+    float _cpu;
+
+    opencl_kernel* _kernel;
+    cl_context _context;
+    cl_command_queue _cmd_queue;
+
+    opencl_buffer<float> _partial_buffer;
+    opencl_buffer<float> _final_partial_buffer;
+    opencl_buffer<float> _input_buffer;
+
+    inline double_reduce(cl_context context,
+                         cl_command_queue cmd_queue,
+                         opencl_kernel* kernel)
+        :_problem_size(0),
+         _group_dim(0),
+         _group_num_first(0),
+         _group_num_second(0),
+         _input(NULL),
+         _partial(NULL),
+         _final_partial(NULL),
+         _gpu(0),
+         _cpu(0),
+         _kernel(kernel),
+         _context(context),
+         _cmd_queue(cmd_queue),
+         _partial_buffer(),
+         _final_partial_buffer(),
+         _input_buffer() {} 
+
+    inline void init(size_t* problem_size)
+    {
+        _problem_size = *problem_size;
+        _input = (float*)malloc(sizeof(float) * _problem_size);
+        fill_random(_input, _input + _problem_size, -1.0f, 1.0f);
+
+        _input_buffer.init(_context, mem_flag::read, _problem_size);
+    }
+
+    inline void work_dimensions(size_t* group_dim)
+    {
+        _group_dim = group_dim[0];
+        {
+            _group_num_first = (size_t)ceil((float)_problem_size / _group_dim);
+
+            _partial = (float*)malloc(sizeof(float) * _group_num_first);
+            _partial_buffer.init(_context, mem_flag::read_write, _group_num_first);
+        }
+
+        {
+            _group_num_second = (size_t)ceil((float)_group_num_first / _group_dim);
+
+            _final_partial = (float*)malloc(sizeof(float) * _group_num_second);
+            _final_partial_buffer.init(_context, mem_flag::read_write, _group_num_second);
+        }
+        _kernel->allocate_local_memory(2, _group_dim * sizeof(float));
+    }
+
+    inline void prepare()
+    {
+        _gpu = 0;
+        fill(_partial, _partial + _group_num_first, 0.0f);
+        fill(_final_partial, _final_partial + _group_num_second, 0.0f);
+
+        _input_buffer.enqueue_write(_cmd_queue, _input);
+        _partial_buffer.enqueue_write(_cmd_queue, _partial);
+        _final_partial_buffer.enqueue_write(_cmd_queue, _final_partial);
+        clFinish(_cmd_queue);
+    }
+
+    inline void run_gpu()
+    {
+        _kernel->enqueue_args(&_input_buffer, &_partial_buffer);
+        _kernel->enqueue_run(_cmd_queue, 1, &_problem_size, &_group_dim, NULL);
+
+        _kernel->enqueue_args(&_partial_buffer, &_final_partial_buffer);
+        _kernel->enqueue_run(_cmd_queue, 1, &_group_num_first, &_group_dim, NULL);
+
+        _final_partial_buffer.enqueue_read(_cmd_queue, _final_partial);
+        clFinish(_cmd_queue);  
+
+        _gpu = kahan_reduce(_final_partial, _final_partial + _group_num_second, 0.0f);
+    }
+
+    inline void run_cpu()
+    {
+        _cpu = kahan_reduce(_input, _input + _problem_size, 0.0);
+    }
+
+    inline bool check_result()
+    {
+        return ::check_result(_gpu, _cpu);
+    }
+
+    inline void teardown()
+    {
+        return;
+    }
+
+    inline ~double_reduce()
     {
         free(_partial);
         free(_input);
