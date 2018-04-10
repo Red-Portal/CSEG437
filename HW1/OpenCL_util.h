@@ -201,37 +201,6 @@ size_t read_kernel_from_file(const char *filename, char **source_str) {
     return count;
 }
 
-// size_t read_kernel_from_str(char const* filename) {
-//     FILE *fp;
-//     size_t count;
-    
-//     if ((fp = fopen(filename, "rb")) == NULL) {
-//         fprintf(stderr, "Error: cannot open the file %s for reading...\n", filename);
-//         exit(EXIT_FAILURE);
-//     }
-    
-//     fseek(fp, 0, SEEK_END);
-//     count = ftell(fp);
-    
-//     fseek(fp, 0, SEEK_SET);
-    
-//     *source_str = (char *)malloc(count + 1);
-//     if (*source_str == NULL) {
-//         fprintf(stderr, "Error: cannot allocate memory for reading the file %s for reading...\n", filename);
-//     }
-    
-//     fread(*source_str, sizeof(char), count, fp);
-//     *(*source_str + count) = '\0';
-    
-//     fclose(fp);
-    
-// #ifdef _SHOW_OPENCL_C_PROGRAM
-//     fprintf(stdout, "\n^^^^^^^^^^^^^^ The OpenCL C program ^^^^^^^^^^^^^^\n%s\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n", *source_str);
-// #endif
-    
-//     return count;
-// }
-/******************************************************************************************************/
 
 /******************************************************************************************************/
 void print_build_log(cl_program program, cl_device_id device, const char *title_suppl) {
