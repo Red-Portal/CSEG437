@@ -4,6 +4,10 @@
 #include <time.h>
 #include <stdlib.h>
 
+#ifndef HW_ROOT_PATH
+#define HW_ROOT_PATH "."
+#endif
+
 #ifdef __APPLE__
 #include <OpenCL/opencl.h>
 #else
@@ -140,7 +144,7 @@ int main(void) {
     cl_command_queue cmd_queue = clCreateCommandQueue(context, device, CL_QUEUE_PROFILING_ENABLE, &errcode_ret);
 
     char* kernel_sources;
-    size_t size = read_file("./reduce_sum.cl", &kernel_sources, false);
+    size_t size = read_file(HW_ROOT_PATH "./reduce_sum.cl", &kernel_sources, false);
 
     opencl_program prog(&context, &device, 1, kernel_sources, size, 1);
     opencl_kernel reduce1 = prog.create_kernel("reduce");
