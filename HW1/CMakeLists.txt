@@ -1,10 +1,6 @@
 
-cmake_minimum_required(VERSION 3.8)
+cmake_minimum_required(VERSION 3.5)
 project(HW1)
-
-# cmake modules path
-set(CMAKE_MODULE_PATH
-    ${CMAKE_MODULE_PATH} ${PROJECT_SOURCE_DIR}/cmake)
 
 # project source files
 set(SOURCE_DIR ".")
@@ -18,7 +14,9 @@ endforeach()
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 
 # Build options
-if(NOT MSVC)
+if(MSVC)
+	add_definitions(-DHW_ROOT_PATH="${SOURCE_DIR}")
+else()
     set(BUILD_FLAGS
 	"${CMAKE_CXX_FLAGS} -std=c++14 -g -O3 -Wall -Wextra -Wpedantic")
 
