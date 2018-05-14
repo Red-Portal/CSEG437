@@ -22,7 +22,7 @@ void copy_to_device(cl_command_queue queue,
                     cl_mem* buf_vel,
                     size_t vel_n);
 
-void cloth_position_host(float* Gravity, // float3,
+void cloth_position_host(float const* Gravity, // float3,
                          float ParticleMass,
                          float ParticleInvMass,
                          float SpringK,

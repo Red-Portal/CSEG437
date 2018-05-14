@@ -159,6 +159,8 @@ GLuint texture_names[N_TEXTURES_USED];
 float REST_LENGTH_HORIZ;
 float REST_LENGTH_VERT;
 float REST_LENGTH_DIAG;
+int NUM_ITER = 500;
+float DELTA_T = (1.0f/ NUM_ITER)*(1.0f / 60.0f); // Draw cloth every once per 1/60 sec.
 
 /******************************************************************************************************/
 
@@ -503,6 +505,8 @@ void FinalizeOpenGL(void) {
 
 void display(void) {
     // run OpenCL kernel
+    printf("here..?\n");
+
     cl_int errcode_ret;
     float compute_time;
     size_t buffer_size = NUM_PARTICLES_X * NUM_PARTICLES_Y;
@@ -523,6 +527,15 @@ void display(void) {
     if(use_cpu)
     {
         copy_to_host(cmd_queue, &buf_pos[0], buffer_size * 4, &buf_vel[0], buffer_size * 4);
+        cloth_position_host(GRAVITY, // float3,
+                            PARTICLE_MASS,
+                            PARTICLE_INV_MASS,
+                            SPRING_K,
+                            REST_LENGTH_HORIZ,
+                            REST_LENGTH_VERT,
+                            REST_LENGTH_DIAG,
+                            DELTA_T,
+                            DAMPING_CONST);
         copy_to_device(cmd_queue, &buf_pos[1], buffer_size * 4, &buf_vel[1], buffer_size * 4 );
     }
     else
@@ -861,6 +874,7 @@ void InitializeRenderer() {
 }
 
 /******************************************************************************************************/
+
 
 int main(int argc, char* argv[]) {
 	printf("\n^^^ Input the number of subintervals that subdivide the 1/60-second interval: ");
