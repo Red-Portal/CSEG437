@@ -1,62 +1,16 @@
 
-#include <algorithm>
-#include <cstdlib>
-#include <cstring>
 #include <exception>
 #include <fstream>
 #include <iostream>
-#include <numeric>
+#include <limits>
 #include <optional>
 #include <string>
 #include <vector>
 
+#include "linalg.h"
+
 namespace hw3
 {
-    class dense_matrix
-    {
-        size_t _m;
-        size_t _n;
-        float* _data;
-
-    public:
-        inline
-        dense_matrix(size_t m, size_t n)
-            : _m(m),
-              _n(n),
-              _data(static_cast<float*>(
-                        malloc(m * n * sizeof(float))))
-        {
-            memset(_data, 0.0f, sizeof(float) * m * n);
-        }
-
-        float
-        operator()(size_t i, size_t j) const
-        {
-            return _data[i + j * _m];
-        }
-
-        float&
-        operator()(size_t i, size_t j)
-        {
-            return _data[i + j * _m];
-        }
-
-        float*
-        data() noexcept
-        {
-            return _data;
-        }
-
-        std::pair<size_t, size_t>
-        shape() const noexcept
-        { return {_m, _n}; }
-
-        ~dense_matrix() noexcept
-        {
-            free(_data);
-        }
-    };
-
     using namespace std::string_literals;
     class word_corpus
     {
@@ -130,6 +84,9 @@ namespace hw3
             std::transform(str.begin(), str.end(), _str.begin(), ::tolower);
             auto splitted = std::vector<std::string>(1, _str);
 
+            if(_str.back() == 's')
+                splitted.emplace_back(_str.begin(), _str.end() - 1);
+
             if(std::all_of(_str.begin(),_str.end(), ::isalnum))
                 return splitted;
             else
@@ -182,7 +139,7 @@ namespace hw3
             auto placeholder = std::string();
             auto file_name = path + "/doc000.txt"s;
 
-            std::cout << "-- loading documents\n";
+            std::cout << "-- constructing document matrix\n";
             auto begin = &file_name[file_name.size() - 7];
             for(size_t i = begin_idx; i < end_idx; ++i)
             {
@@ -193,7 +150,7 @@ namespace hw3
                 parse_document(stream, i);
             }
 
-            std::cout << "-- processing documents - done\n";
+            std::cout << "-- constructing document matrix - done\n";
             std::cout << "   processed " << end_idx - begin_idx << " documents"
                       << ", counted " << count << " words"
                       << std::endl;
@@ -206,7 +163,7 @@ int main()
 {
     std::cout << "****  CSEG347 HW3: Document Search Engine  ****" << std::endl;
     std::string const path = "database";
-    auto db = hw3::document_database<hw3::dense_matrix>(path, 0, 219);
+    auto db = hw3::document_database<linalg::dense_matrix>(path, 0, 219);
 
     while(true)
     {
@@ -220,13 +177,27 @@ int main()
         {
             auto& mat = db._doc_matrix;
             size_t idx = result.value();
-
-            size_t count = 0;
-            for(size_t i = 0; i < mat.shape().first; ++i)
-            {
-                count += mat(i, idx);
-            }
+            size_t count = std::accumulate(&mat(0, idx),
+                                        &mat(0, idx + 1),
+                                        0.0f);
             std::cout << "index: " << idx << " count: " << count << std::endl;
         }
     }
+
+    // while(true)
+    // {
+    //     std::cout<< "$ ";
+    //     size_t i, j
+    //     std::cin >> i;
+    //     std::cin >> j;
+    //     auto result = db._words[word];
+    //     if(!result)
+    //         std::cout << "not found" << std::endl;
+    //     else
+    //     {
+    //         auto& mat = db._doc_matrix;
+    //         std::cout << " val: " << mat(i, j) << std::endl;
+    //     }
+    // }
+
 }
