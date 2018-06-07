@@ -68,11 +68,22 @@ namespace hw3
         }
     };
 
+    class retrieval_accuracy
+    {
+        inline retrieval_accuracy(std::string const& path)
+        {
+            std::ifstream word_stream;
+            word_stream.open(path + "/documentkey.txt"s);
+            /* by keys in the document, compute f score whenever asked for */
+        }
+    };
+
     template<typename Matrix>
     class document_database
     {
     public:
         word_corpus _words;
+        retrieval_accuracy _accuracy;
         Matrix _doc_matrix;
 
         size_t count = 0;
@@ -134,6 +145,7 @@ namespace hw3
                           size_t begin_idx,
                           size_t end_idx)
             : _words(path),
+              _accuracy(path),
               _doc_matrix(end_idx - begin_idx, _words.size())
         {
             auto placeholder = std::string();
