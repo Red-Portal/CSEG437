@@ -75,6 +75,7 @@ namespace hw3
             std::ifstream word_stream;
             word_stream.open(path + "/documentkey.txt"s);
             /* by keys in the document, compute f score whenever asked for */
+            /* probably use cross-entropy */
         }
     };
 
