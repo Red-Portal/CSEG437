@@ -1,0 +1,25 @@
+¡®Wireless¡¯ Humans Could Become Future Mobile Networks
+By Trevor Piper
+Epoch Times Staff Created: Oct 31, 2010 Last Updated: Nov 1, 2010
+
+An illustration of BBNs social applications allowing for live streaming of video via smart devices independent of cell phone networks. (Courtesy of Queens University, Belfast)
+
+A new kind of sensor built into next-generation smartphones could mean people, not antennas, form the backbone of powerful new mobile Internet networks.
+
+The sensors could allow for a reduction in the density of cell phone base stations while allowing for the creation of new, ultrahigh bandwidth mobile Internet infrastructures called ¡°body-to-body networks¡± (BBNs), according to researchers from UK-based Queen¡¯s University Belfast.
+
+¡°Success in this field will not only bring major social benefits, it could also bring significant commercial rewards for those involved,¡± said Dr. Simon Cotton from the Queen¡¯s Institute of Electronics, Communications and Information Technology (ECIT) wireless communications research group in a press release.
+
+The ECIT research is focusing on investigating how small sensors carried by members of the public?in items such as next-generation smartphones?could communicate with each other to potentially create vast BBNs.
+
+The idea behind the BBNs is that all the sensors would interact to transmit data, providing ¡°anytime, anywhere¡± mobile network connectivity. The researchers see a number of applications for the new technology with social benefits, such as advances in remote health care, the precision monitoring of athletes, and real-time tactical training in team sports, as well as vast improvements in mobile gaming.
+
+¡°If the idea takes off, BBNs could also lead to a reduction in the number of base stations needed to service mobile phone users, particularly in areas of high population density,¡± Cotton added. ¡°This could help to alleviate public perceptions of adverse health associated with current networks and be more environmentally friendly due to the much lower power levels required for operation.¡±
+
+ECIT gives an example of how BBNs could function: Imagine being at a music festival and your friend is at the bar queuing for drinks. His favorite artist has just appeared on stage for an impromptu performance with some other celebrities. You get out your smartphone and using BBN, you ¡°stream¡± the jam session live to your friend in the drinks queue (see graphic). 
+
+The information stream consists of short packets of video data that are passed person-to-person and routed to your friend¡¯s smartphone. The other ¡°bodies¡± at the concert all contribute a little of their energy and bandwidth to achieve this, but this does not require their explicit knowledge as the smartphone software looks after it. 
+
+Previous work in this field has only worked on systems designed to share information across the surface of the human body. ¡°Until now, however, little work has been done to address the next major challenge which is one of the last frontiers in wireless communication?how that information can be transferred efficiently to an off-body location,¡± according to Cotton.
+
+The market for wearable wireless sensors is still very much in its infancy, but is expected to grow to more than 400 million devices annually by 2014. The ECIT is working toward creating the basis for the development of the antennas, wireless devices, and networking standards required to make BBNs a reality. 

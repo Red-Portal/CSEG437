@@ -1,0 +1,28 @@
+﻿Applications Processors – The Heart of the Smartphone
+
+I’ve written recently about the major components inside today’s smartphones, including smartphone power systems and the limits to how thin a smartphones can be.
+
+This post is about the applications processor, or APU. 
+
+The term APU arose to identify the chips in smartphones that could run an operating system and applications software. 
+
+These capabilities made them more comparable to computers than early cell phones. 
+
+While earlier cell phones also contained a processor, it was a baseband processor tasked only with handling the digital processing related to the actual communication over the cellphone radios.
+
+State-of-the-art APUs in today’s smartphones are the pinnacle of the system-on-chip (“SoC”) movement that began in the nineties. 
+
+Integration has always been central to the microelectronics business. 
+
+Combining the various functionality offered in multiple discrete integrated circuits became a natural evolution that would reduce component count and circuit board complexity leading to a system cost reduction 
+
+– good for consumers and handset maker profit margins alike.
+
+Nowadays, it is standard for your iPhone to be powered by an Apple A6 APU integrating multiple ARM cores along with several graphics processing units (GPU), 
+
+large on-chip cache memories, memory controllers for communicating with off-chip DRAM, audio and video decoders (and encoders), USB host controllers, and other analog circuit functions.
+
+It’s not just Apple. 
+
+Every smartphone is powered by one of a number of ARM (or similar but proprietary) microprocessor core-based chips offering quad-core processors and multi-core GPUs.
+

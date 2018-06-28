@@ -1,0 +1,21 @@
+﻿Gaming PC & GPU Demand to Boost AMD’s Growth
+
+Per IDC, PC shipments remained flat in the first quarter of 2018 compared with the anticipated decline of 1.5%. The traction witnessed by gaming PCs is likely to have averted the decline.
+ 
+Per a Jon Peddie Research (“JPR”) report, with an increase in the number of people engaging in PC gaming, the related hardware market is experiencing a huge boost. Per the research firm, the market exceeded $30 billion mark in 2016 and is anticipated to witness compound annual growth rate (CAGR) of 6% through 2019.
+
+Notably, growth in the gaming hardware market is driving demand for graphics processors as well. Per Allied Market Research, the GPU market is anticipated to reach $157.1 billion by 2022 at a CAGR of 35.6% from 2016 to 2022.
+
+We believe both AMD and NVIDIA are well poised to benefit from the strong demand of gaming PCs. However, AMD’s expanding GPU portfolio catering to every price points is well-poised to threat NVIDIA’s dominance going forward.
+
+Despite its late entry, AMD is attaining the position of a major player in GPU market. The company started small, targeting the low-end segment and gradually built a position for itself.
+
+JPR report reveals that AMD impressively increased its GPU shipments and gained market share from 14.2% to 14.9% in the first quarter of 2018. The gain can be primarily attributed to the robust adoption witnessed by the company’s expanding product portfolio for workstations and cryptocurrency mining.
+
+Furthermore, increasing adoption of AI techniques and machine learning tools in industries like gaming, automotive and blockchain are primarily responsible for driving GPU demand. AMD is benefiting from this demand.
+
+Although Intel’s market share dipped from 67.4% to 66.6%, the company continues to be a leader. Meanwhile, NVIDIA maintained its market share at 18.4%.
+
+We believe that the launch of the new graphics cards will help AMD increase its market share further, going forward. Shares of AMD have returned 52.4% year to date
+
+

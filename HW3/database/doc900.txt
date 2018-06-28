@@ -1,0 +1,43 @@
+All the new software features that Apple announced during WWDC 2018
+
+The Worldwide Developers Conference 2018 is underway, and Apple crammed a whole host of announcements into the opening keynote. Its engineers have spent the last year busy on a stack of improvements for iOS, macOS, watchOS and tvOS, and we've got a full rundown for you here.
+Developers can get their hands on beta versions of these updates right now, though the rest of us will have to wait a month or two until the public betas roll around. The final, finished versions of the software upgrades should arrive in September or October.
+
+iOS 12: The new features
+It was Apple's phone software that got the most time in the spotlight, and there's a long list of features to talk about. Before we do though, compatibility ? iOS 12 will run on every device that runs iOS 11, and Apple is promising some speed and performance improvements on older hardware as well.
+
+As predicted, Siri continues to get smarter, with suggestions based on your daily routine and the apps you might want to open next. Apple is also introducing Siri Shortcuts ? deeper hooks into third-party apps which let you call up specific actions with a voice command (so a request to find your keys might bring up the Tile app). You can even configure your own Shortcuts.
+Then there's augmented reality. We heard a lot about this with iOS 11, and Apple is adding shared AR experiences, so you and your friends can see the same digital scene as you peer through your iPhone and iPad cameras. Apple also demoed a new iOS app called Measure, which works like a smart augmented reality measuring tape.
+
+Animoji are back ? there's more of them, and they're more realistic ? and iOS 12 will introduce Memoji, little cartoon caricatures of your own face. Apple has built a pile of customization options in here, so you can get something looking just right before sharing your creation with friends and family in the Messages app.
+
+Speaking of friends, FaceTime finally gets the ability to make group video calls, and there are more minor updates to Apple News, Photos, Stocks, Voice Memos, CarPlay, and iBooks (which is now called Apple Books). Besides a few interface refinements, you've got some genuinely useful upgrades too ? CarPlay now supports third-party mapping apps, for example, like Waze and Google Maps.
+
+Lastly, iOS 12 is making it easier to use your phone more responsibly. There's an upgraded Do Not Disturb tool, which includes a bedtime mode where the lock screen gets simplified and dimmed. On top of that, the software will include new tools to help you give yourself a digital health check ? you'll be able to see which apps you're using the most, check how many times you're picking up your phone each day, and even set limits on your screen time (or the screen time your kids are allowed).
+
+macOS 10.14 Mojave: the new features
+
+Apple's desktop software didn't get left out, though there's not quite as much to talk about as there is with iOS 12. The first news is of course the name, but Mojave will also feature a system-wide dark mode ? you'll be able to dim all the on-screen elements inside macOS and first-party apps, with the option there for third-party developers too.
+
+The next version of macOS will feature Desktop Stacks, which are "stacks" (or folders) of files that the software groups together automatically ? think photos and PDFs and so on. The idea is that it makes your desktop much more manageable.
+
+Besides that, macOS Mojave is also going to bring with it a redesigned Mac App Store, something that was definitely overdue. Browsing for apps for your desktop and laptop should now be a much more pleasant experience, and according to Apple, there will be better recommendations for apps you might like.
+
+Speaking of apps, there were rumours that Apple would announce iOS app support on macOS at WWDC 2018, but that didn't materialize. What we did get was a few iOS apps making the jump ? Home, Apple News, Stocks, and Voice Memos. Apple says it wants to do more in this direction over the next 12 months.
+
+macOS is also going to be getting iOS-style security alerts and permission controls, making it easier for users to take charge of their system security and privacy ? always a theme Apple is keen to come back to in its ongoing rivalry with Google. Safari is also going to make it harder for marketing companies and social media organizations to track you across multiple websites in macOS 10.14 Mojave.
+
+And lastly Finder is getting a few upgrades ? a new Gallery View provides a better way to preview files, and a new feature called Quick Actions means you can do more with files (like apply basic edits) without having to open up a whole separate app. Screenshots are getting easier to manage too, with markup tools arriving on macOS to match the ones already available on iOS.
+
+watchOS 5 and tvOS 12: the new features
+Apple didn't go crazy with new features for watchOS and tvOS this year, but there are still some updates worth talking about. The Apple Watch will be able to track your activities more accurately and with less manual input with watchOS 5 ? new activities like Yoga and Hiking have been added, alongside handy new features such as alerts for rolling speed updates and average pace alerts.
+
+Apple is also introducing a new Apple Watch app called Walkie Talkie, which does exactly what it sounds like. It enables short and simple voice messaging across a cellular or Wi-Fi network, between two connected Apple Watch devices.
+
+Smarter suggestions and Siri Shortcuts are coming to watchOS 5 as well as iOS 12, which means you should get more intelligent prompts on your wrist, and deeper interactions with the apps on the watch and on your phone. The "hey Siri" trigger has been removed too ? if you want to speak to Siri on an Apple Watch, once the watchOS 5 update has been applied you just need to lift up your wrist.
+
+After a long wait, the Podcasts app makes its way to the Apple Watch with watchOS 5, and there are new features to enable audio apps to play tunes or podcasts in the background while other apps are running. It should make the wearable more useful as a standalone music-playing device.
+
+Together with improved notifications, more complications for the Siri watch face, and the option to view certain webpages in miniature on the Apple Watch screen, it was an unspectacular but solid update for the smartwatch software this time around. There's also a new Pride watch face to go with the Pride watch strap, though no third-party watch face store as yet.
+
+The tvOS 12 software got the fewest updates of the lot, but it is going to enable support for the Dolby Atmos audio standard as well as the Dolby Vision visual standard, making the Apple TV 4K the only set-top box to support both. A few minor interface tweaks were also announced, as well as support for third-party remote controls.

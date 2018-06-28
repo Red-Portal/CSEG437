@@ -1,0 +1,544 @@
+Quick Reference Guide to Intel¢ç HD Graphics
+
+
+Go to the French Version!
+Download Quick Reference Guide to Intel¢ç HD Graphics PDF (PDF 75kb) 
+Intel¢ç HD Graphics Technical Support page (includes driver download and FAQs)
+
+
+Intel¢ç HD Graphics - Built for Mainstream Desktop and Mobile PC Users
+
+Intel¢ç HD Graphics provides superb visual performance for sharper images, richer color, and lifelike video and audio. Watch movies and Internet videos in high definition, play popular game titles, and get full support for Microsoft* Windows* 7. There¡¯s no need for an extra add-in graphics card ? full graphics and media support is already built-in. Intel¢ç HD Graphics is available on select models of the all-new 2010 Intel¢ç Core¢â processor family.
+
+
+
+
+Full Support for a Great Microsoft* Windows* 7 Experience
+
+Together Intel and Microsoft deliver a combination of powerful performance and intuitive design so consumers can complete multiple tasks faster and more easily on their PCs. From high-definition TV and movies to music, video, and photos, you¡¯ll be entertained like never before with Intel¢ç Core¢â processors and Windows 7.
+
+
+
+
+Video Feature Comparison
+
+Today¡¯s PC Users are demanding high-quality video playback and sharp image quality from their PC. Intel¢ç Core¢â Processors with Intel¢ç HD Graphics and Intel¢ç Clear Video HD Technology provide advanced processing capabilities to enable a richer entertainment experience. Intel HD Graphics also support the latest in high-definition formats including Blu-ray*.
+
+
+Intel Graphics Series
+
+Intel¢ç Core¢â Processors with Intel¢ç HD Graphics
+
+Intel¢ç GMA 4500 Series
+
+Intel¢ç GMA 3150
+
+
+Processor or Chipset
+
+Intel¢ç Core¢â i7-600M, Intel¢ç Core¢â i5-600, Intel¢ç Core¢â i5-500M, and Intel¢ç Core¢â i5-400M processors
+
+Intel¢ç Core¢â i3-500 and Intel¢ç Core¢â i3-300M processors
+
+Intel¢ç G45, GM45, GS45, G43, G41, and GL40 Express Chipsets
+
+Intel¢ç Atom¢â D410, D510, 
+N450 and N470 processors
+
+Feature
+
+Benefit
+
+Blu-ray* Disc Playback
+
+High-density optical disc format designed for the storage of data and high-definition video
+
+New
+(now with premium audio and dual decode)
+
+New
+(now with premium audio and dual decode)
+
+Yes
+
+No
+
+Intel¢ç Clear Video HD Technology
+
+Delivers enhanced high-definition video playback, sharper images and precise color control
+
+New
+(now with x.v.Color
+and HD sharpness)
+
+New
+(now with x.v.Color
+and HD sharpness)
+
+Yes
+
+Yes
+(SD Only)
+
+DVD Upscaling
+
+Provides high quality DVD upscaling through Windows 7
+
+Yes
+(with 8x8 polyphase)
+
+Yes
+(with 8x8 polyphase)
+
+Yes
+(6x6 polyphase)
+
+No
+
+HD Hardware Acceleration
+
+AVC/H.264 Decode
+
+Enables smoother playback for third-generation video compression technology of high-bitrate, high-definition digital video
+
+Yes
+
+Yes
+
+Yes2
+
+No
+
+MPEG-2 Decode
+
+Enables smoother playback for MPEG-2 codec, a standard video compression format used on Blu-ray, DVDs, broadcast, and broadband content
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+VC-1 Decode
+
+Enables smooth Windows Media* Video HD playback while freeing up the CPU for other tasks
+
+Yes
+
+Yes
+
+Yes3
+
+No
+
+Dual Video Decode
+
+Enables Blu-ray picture-in picture hardware acceleration
+
+New
+
+New1
+
+No
+
+No
+
+Video Sharpness/Detail
+
+De-interlacing
+
+Reduces static and motion artifacts, improving the clarity and stability of the video picture
+
+Advanced
+
+Advanced
+
+Advanced
+
+Adaptive
+
+Sharpness Detail
+
+Sharpens the image to provide finer detail and improved image quality
+
+New (with HD)
+
+New1 
+(with HD)
+
+Yes
+(SD Only)
+
+No
+
+Noise Reduction
+
+Filters out unwanted noise to provide finer detail and cleaner images
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Film Mode Detection
+
+Detects film cadence and recovers original film content to improve image quality
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Video Scaling/ Panel Scalar
+
+Provides high-quality scaling to view content clearly in non-native resolution
+
+New 
+(8x8 Polyphase)
+
+New 
+(8x8 Polyphase)
+
+Yes
+(6x6 Polyphase)
+
+Yes
+(Bilinear 2x2)
+
+Vibrant Color
+
+
+Deep Color and x.v.Color
+
+Together, Deep Color and x.v.Color enable future HDTVs to display more natural, accurate and vivid colors
+
+Yes
+
+Yes1
+
+No
+
+No
+
+ProcAmp/Color Control
+
+Enhances fine-detail of video playback and allows for user control over brightness, contrast and saturation
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Display and Audio Features Comparison
+
+Intel¢ç HD Graphics allow the PC to connect to a wide range of digital displays and resolutions, including the latest digital interfaces like HDMI* and DisplayPort*. In addition, Intel HD Graphics support all high-definition resolutions, including 720p, 1080i, and 1080p.
+
+
+Intel Graphics Series
+
+Intel¢ç Core¢â Processors with Intel¢ç HD Graphics
+
+Intel¢ç GMA 4500 Series
+
+Intel¢ç GMA 3150
+
+
+Processor or Chipset
+
+Intel¢ç Core¢â i7-600M, Intel¢ç Core¢â i5-600, Intel¢ç Core¢â i5-500M, and Intel¢ç Core¢â i5-400M processors
+
+Intel¢ç Core¢â i3-500 and Intel¢ç Core¢â i3-300M processors
+
+Intel¢ç G45, GM45, GS45, G43, G41, and GL40 Express Chipsets
+
+Intel¢ç Atom¢â D410, D510, N450 and N470 processors
+
+Feature
+
+Benefit
+
+New Control Panel
+
+New look and feel, easier to use, custom resolution settings
+
+New
+
+New
+
+New
+
+No
+
+TV Set-up Utility
+
+Provides step-by-step configuration wizard for seamless TV setup and configuration
+
+Intel¢ç TV Wizard
+
+Intel¢ç TV Wizard
+
+Intel¢ç TV Wizard
+
+No
+
+Maximum Display Resolution
+
+Higher pixel resolutions allow the PC to show more image detail
+
+DisplayPort* 2560x1600, HDMI*, VGA
+
+DisplayPort* 2560x1600, HDMI*, VGA
+
+DisplayPort* 2560x1600, HDMI*, VGA
+
+VGA 2048x15367 or
+VGA 1400x10508
+
+Display Support
+
+HDMI* w/ HDCP
+
+Provides a user-friendly, single-cable connector that enables transmission of superior, uncompressed digital video and audio
+
+Version 1.3a
+(Deep Color, premium audio, auto lip-sync )
+
+Version 1.3a
+(Deep Color, premium audio, auto lip-sync )
+
+Version 1.3a   (auto lip-sync)
+
+No
+
+DisplayPort* w/HDCP
+
+Highly scalable and efficient display interface for the PC
+
+Version 1.1 
+(with audio)
+
+Version 1.1 
+(with audio)
+
+Version 1.1
+
+No
+
+Embedded DisplayPort*
+
+Highly scalable and efficient display interface for notebooks
+
+Yes4
+
+Yes4
+
+No
+
+No
+
+LVDS
+
+Low voltage digital display interface
+
+Yes5
+
+Yes5
+
+Yes5
+
+Yes
+
+S-Video, Composite, Component
+
+Analog connection that carries high-bandwidth video, resulting in sharper images over standard RGB video
+
+Yes6
+
+Yes6
+
+Yes6
+
+No
+
+DVI w/ HDCP
+
+Digital video interface that maximizes the visual quality of digital displays such as LCD displays and digital projectors
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+VGA
+
+Standard analog display interfaces, such as VGA, provide basic visual quality when connected to CRTs, LCDs, or HDTVs
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Audio Support
+
+Dolby* True HD, DTS* Premium Suite
+
+Supported on a significant number of Blu-ray* titles today for the highest quality audio
+
+Yes
+
+Yes1
+
+No
+
+No
+
+
+
+
+3D Features Comparison
+
+Intel¢ç Core¢â Processors with Intel¢ç HD Graphics deliver a responsive, attractive 3D visual experience for casual and mainstream PC games. When you buy a PC equipped with Intel graphics, you get a cost-effective solution with the performance for more gaming fun.
+
+
+Intel Graphics Series
+
+Intel¢ç Core¢â Processors with Intel¢ç HD Graphics
+
+Intel¢ç GMA 4500 Series
+
+Intel¢ç GMA 3150
+
+
+Processor or Chipset
+
+Intel¢ç Core¢â i7-600M, Intel¢ç Core¢â i5-600, Intel¢ç Core¢â i5-500M, and Intel¢ç Core¢â i5-400M  processors
+
+Intel¢ç Core¢â i3-500 and Intel¢ç Core¢â i3-300M processors
+
+Intel¢ç G45, GM45, GS45, G43, G41,and GL40 Express Chipsets
+
+Intel¢ç Atom¢â D410, D510, 
+N450, and N470 processors
+
+Feature
+
+Benefit
+
+Dynamic Frequency
+
+Automatically distributes extra graphics power for your laptop when you need it
+
+New
+(Mobile Only)
+
+New
+(Mobile Only)
+
+No
+
+No
+
+Video Memory
+
+Enables more realistic game play and provides greater resolution and color depth settings to the system¡¯s video and graphics subsystem
+
+Up to 1.70 GB
+
+Up to 1.70 GB
+
+Up to 1.70 GB
+
+Up to 384 MB
+
+DirectX Support
+
+Standardized programming interface used in by games as an interface to the system¡¯s graphics through Microsoft* Windows*
+
+DirectX* 10
+
+DirectX 10
+
+DirectX 10
+
+DirectX 9
+
+OpenGL* Support
+
+Standardized programming interface used by 2D and 3D graphics applications
+
+OGL 2.1
+
+OGL 2.1
+
+OGL 2.0
+
+OGL 1.59
+
+Shader Model Support
+
+Enables complex animations and visual effects in games with realistic shading, lighting, and textures
+
+4.0
+
+4.0
+
+4.0
+
+3.0
+
+
+
+Intel¢ç Clear Video HD Technology
+
+Intel¢ç Clear Video HD Technology is a combination of video processing hardware and software technologies that deliver enhanced HD video playback, sharper images, precise color control and advanced support for a wide range of digital displays ? without the extra expense of add-in video cards or decoders.
+
+Feature
+
+Benefit
+
+Enhanced High Definition Video Playback
+
+Experience high-definition video playback without the need for expensive add-in video cards or decoders. Enables smoother video playback and multi-stream playback for picture-in-picture, including full support for Blu-ray* disc playback.
+
+Sharper Image Quality
+
+Maintain sharp image quality even at high resolutions and reduce annoying artifacts through both analog and digital video signals. Detects film cadence and recovers original film content to improve image quality.
+
+Vibrant Colors
+
+Allows user adjustment of hue, saturation, brightness, and contrast enabling more accurate color of video clips under any environmental lighting condition.
+
+Advanced Digital Display Support
+
+Allows your PC to connect to a wide range of digital displays by supporting the latest digital display interfaces, including High-Definition Multimedia Interfaces for HDMI* and DisplayPort*, which carry uncompressed HD video and multi-channel audio in one cable.
+
+
+Footnotes
+
+Feature not available on Intel¢ç Pentium processors.
+Intel¢ç G41 and G43 Express Chipsets provide partial H.264 decode hardware acceleration
+Intel¢ç G41 and G43 Express Chipsets provide partial VC-1 decode hardware acceleration
+Mobile only, not supported on desktops
+For desktops, only supported with the Intel¢ç A57 Express Chipset
+Requires SDVO chip
+Supported on Intel¢ç Atom¢â D410 and D510 processors
+Supported on Intel¢ç Atom¢â N450 and N470 processors
+Intel¢ç Graphics Media Accelerator 3150 supports OpenGL* 1.5 with Microsoft* Windows* and OpenGL* 2.0 with Linux

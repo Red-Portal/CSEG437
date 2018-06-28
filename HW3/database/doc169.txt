@@ -1,0 +1,5 @@
+Watch YouTube Videos on Your Phone
+Uploading videos to YouTube from your cell phone has been possible since May, but watching them on your handset has been another matter?until now. Orb Networks just released an updated version of its MyCast, the free web-based service that lets you manage and stream videos, even TV shows, from your home computer to your phone, PDA, or laptop.
+The update lets you stream videos from YouTube to your cell phone, also via your computer. It works like this: MyCast transcodes the video formats used on sites like YouTube, Guba, Google, and Daily Motion into a format suitable for viewing on your cell phone.
+If there are any videos you particularly like, you can bookmark them (by clicking on the "Orb This" link) and compile them into a playlist of sorts?right from your phone.
+I've tried out watching music videos saved on my desktop on my Treo using Orb's software and it works pretty well, if a little grainy. But given the uneven video quality of a lot of YouTube content, it would seem that the small screens of cell phones and PDAs are perfect venues for these little user-generated movies.

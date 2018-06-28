@@ -1,0 +1,186 @@
+Mobile Computing
+* Migration is important for survival.
+* Mobility originated from the desire to move either
+toward resources or away from scarcity.
+* Mobile computing about both physical and logical
+computing entities that move.
+* Physical entities are computers that change locations
+* Logical entities are instances of a running user
+application or a mobile agent.
+* Mobile agents can migrate any where over internet.
+* But active applications can only move to a local
+cluster of computers.
+
+Buzzwords
+* Mobile, ubiquitous, nomadic, untethered, pervasive
+and any time, any where, any person computing
+are used by researchers to refer to computing
+that uses small portable devices and wireless
+communication n/w.
+* Nomadic computing refer to limited migration.
+    - Migration is within a building at a pedestrian
+speed.
+    - Interleaved pattern of user relocation and indoor
+connections
+* In the same vein, users carrying laptop with
+DIAL-UP modems are engaged in nomadic computing
+* Mobile computing requires
+    - wireless n/w to support outdoor mobility and
+handoff from one n/w to the next at a pedestrian
+or vehicular speed.
+* Traveler in car using laptop connected with a
+GSM phone - engaged in mobile computing.
+* Ubiquitous computing or pervasive computing
+refers to access to computer network all the time
+at any location by any person.
+* Ubiquitous computing can not be realized unless
+mobile computing matures.
+
+Challenges
+* Mobility/context aware applications
+* Naming and locating
+* Routing data and messages
+* Reliability in presence of disconnection
+* Data management
+* Transaction models
+* Security
+
+* Mobile computing accects entire spectrum of issues
+in computing.
+* First of all it is distributed + mobile computing.
+* Distributed computing as we know works on
+static wired network.
+* Node may initiate computation some where and
+migrate to another place.
+* So two major problem that arise due to mobility
+    - Searching for current location of a mobile
+node.
+    - To impose a communication structure among
+nodes.
+
+* Physical location of mobile is not the network
+address, so how do we route the message to a
+mobile host.
+* This question is being addressed by two different
+communities: Internet community and cellular
+community
+* Work of Internet community involves Mobile IP
+    - Aims at standards that can extend IP in order
+to deal with location of Mobile host.
+    - Mobile IP work assumes connection    -less,
+packet switching scenario.
+
+* Cellular community's effort based on location
+management of cellular phone users.
+* It deals with connection oriented communication,
+since it is motivated by issues in call    -setup
+in telephony.
+* Main problem in mobility management is to nd
+an appropriate trade-off between searching and
+informing.
+* Searching is performed when address of the message
+recipient is not known - at least not known
+precisely.
+
+* Informing is a responsibility of the mobile unit
+when it migrates.
+* Extreme situations can be
+1. Mobile unit never informs - works for units
+receiving few messages and for units which
+don't move during receiving.
+2. Always informs - works well for units receiving
+messages frequently.
+
+* Ad hoc network routing is the ultimate challenge.
+* Ad hoc networks arise in rapid deployment scenarios:
+1. Emergency disaster management.
+2. Military operation in remote sites.
+3. Business meeting venues without infrastructure
+support.
+* Many routing algorithms are designed: AODV,
+DSR, DSDV, TORA, FSR, LAR, ABR, etc.
+* There are interesting application of conventional
+graph theoretic problems in ad hoc network routing.
+
+* Main cause of loss of packets in wired network
+is congestion because error rates are very low.
+* In wireless n/w congestion still remains a problem,
+but he situation is some what reversed.
+* Wired and wireless n/w require different techniques
+to achieve reliability and ow control.
+* TCP works is unsuitable for wireless n/w as it
+interprets errors as packet loss.
+
+* ITCP (split/indirect TCP) splits TCP into two
+parts
+    - One between sender and local MSS of the
+recipient.
+    - The other between local MSS and recipient.
+    - If MH switches cell during life time of a ITCP
+connection center point of connection moves
+to new MSS. sender remains completely unaware
+about it.
+
+* Disconnection/weak connection support is important.
+* CODA file system provides support for this.
+* It is implemented as a client side cache management
+system.
+* The issue concerns making a le system highly
+available while maintaining consistency.
+* Caching in mobile environment is quite different.
+MSS can not keep state information (due
+to scale) for all client. So invalidation by notification.
+
+* Categories of information dissemination:
+1. Wide area services - such as stock quotes on
+national scale
+2. Macroservices - such weather on a regional
+scale.
+3. Microservices - traffic condition in an immediate
+vicinity.
+* Can be extend to even picocells - such finding a
+parking slot.
+
+* Providing services will require addressing of following
+new issues
+    - Interoperability and adaptability to n/w environments
+ranging from high to low bandwidths
+and infra red communication links
+    - Energy effcient data access.
+    - Support for mobility and disconnection.
+    - Support for active services, triggers (even notication), periodic data delivery.
+
+* Two modes of information dissemination are
+1. Publish.
+2. Provide on demand.
+* Published data is filtered by client and server
+provides directory information for assisting the
+ltering.
+* Advantages of information dissemination by publishing
+are:
+    - Hot spots can be broadcast frequently which saves energy at client, avoid congestion.
+    - Directory helps client to tune in selectively.
+
+* Handoff management - an MH moves from one
+cell to another while being connected.
+* Desirable features are:
+    - probability of call dropping is minimized.
+    - ping    -pong handoffs avoided.
+    - interruption is minimized.
+
+* Conventional model will not work.
+* Kangaroo - joey transaction
+* Two - tier transaction
+* Team transaction
+* Isolation    -Only transaction
+
+* Security is a major concern.
+* Authentication schemes.
+* Encryption schemes.
+* Payment schemes.
+    - E - tickets - getting a service by producing a
+ticket.
+    - E - currency - issues like anonymity, creditworthiness,
+nonrepudiation, etc.
+* Mobile agent security.
+

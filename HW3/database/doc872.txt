@@ -1,0 +1,29 @@
+New wave of AR capable smartphones incoming
+
+IFA 2017 in Berlin has seen a range of players in the smartphone market unveil their latest smartphone models. There has been a common theme of amongst these releases: they all feature hardware advancements that will facilitate AR experiences going forward.  
+
+The joint focus on introducing AR imaging capabilities indicates that the big tech players think that AR is going to go fully mainstream within the next year.
+
+Let’s have a look at some of the different devices that were introduced to us at IFA 2017.
+
+Huawei
+The bulk of the Chinese multinational’s CEO Richard Yu’s presentation was taken up with introducing the Kirin 970 processor, the first of its kind to have AI built into the chip itself.  
+
+The Kirin 970 will first become available on the Huawei Mate 10 series of smartphones that are due to be showcased in Munich on Oct 16. This powerful new bit of hardware will underpin the AR capability of the company’s smartphones.
+
+These kinds of AI-infused processors are going to play an important part in the AR/VR landscape in the next few years. Microsoft in particular has announced that the consumer version of its HoloLens AR headset will have an AI coprocessor.
+
+Sony
+The tech giant introduced the latest models of the Xperia Line of smartphones to the world. The Xperia XZ1 and XZ1 Compact will both feature the Motion-Eye camera that is capable of capturing 960 frames per-second video as well as anticipate action or smiles for photos. The camera is also capable of continually focusing on subjects as they move through a space.
+
+There is also a 3D Creator feature that offers users the ability to scan 3D objects, which can then be used as stickers in messaging apps or as the basis of their own creations.
+
+Both of these add up to a smartphone that looks to put some serous AR capabilities in the hands of its users.
+
+Lenovo
+The new Moto X will have AR filters integrated into its camera app, which will allow people to allow Snapchat-like embellishments and animations to their photos and videos without the need for a third party.
+
+Lenovo seems to be focusing on the fun, social-media facing side of AR, where users are looking for a quick and easy way to jazz up there photos rather than more technical tools.
+
+iPhone 8?
+An interesting aspect of all of this is what features the new iPhone 8 will have. It is very likely that the phone will feature iOS 11 and ARKit capability. 

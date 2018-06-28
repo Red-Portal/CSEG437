@@ -1,0 +1,28 @@
+Apple deprecates support for OpenGL
+
+iOS developers encouraged to use Metal rather than OpenGL or its successor, Vulkan
+
+Beginning with the upcoming version of Apple's MacOS announced at WWDC, the company will no longer actively support OpenGL or OpenCL. 
+
+Apple is encouraging game developers to use its own API, Metal, instead of OpenGL or its successor, Vulkan.
+
+This doesn't mean that everything developed in OpenGL will suddenly stop working. 
+
+However, once 10.14 Mojave is released, if something OpenGL-related does break, Apple will no longer support a fix unless it's a critical bug or security-related problem.
+
+This is effectively the start of a tapering off of support for OpenGL, as Apple puts it
+
+"When a deprecation occurs, it's not an immediate end of life for the specified API. 
+
+Instead, it is the beginning of a grace period for transitioning from that API and to newer and more modern replacements.
+
+"Deprecated APIs typically remain present and usable in the system for a reasonable time past the release in which they were deprecated. 
+
+However, active development on them ceases, and the APIs receive only minor changes to accommodate security patches or to fix other critical bugs. 
+
+Deprecated APIs may be removed entirely from a future version of the operating system."
+
+The Khronos Group, which maintains OpenGL and Vulkan, enabled Vulkan support on iOS devices earlier this year. 
+
+The group continues to work toward enabling Vulkan code to be executed on major development platforms, including Apple platforms that use Metal.
+

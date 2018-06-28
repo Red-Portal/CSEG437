@@ -1,0 +1,74 @@
+WAP- Wireless Application Protocol For your Mobile Phone and Cell Phone | WAP Technology 
+WAP or wireless Application Protocol, adds a new dimension to the Internet i.e. mobility. With a mobile phone or a laptop that supports WAP you can book tickets, order food and check your bank account at any time. You can play games while stuck in traffic, get the stock market news in the elevator¡¦ complete mobility, the world wide web with you all the time. It also includes services such as downloading entire phone books and new, improved ways of controlling outgoing and incoming calls will make mobile telephony even easier. To access WAP services you need a WAP product. Besides the WAP compatibility, WAP products have a large full graphic display and include a micro browser. The basic function of WAP is for mobile phones to be able to communicate with a server installed in the mobile phone network. It brings together the web and telecommunications. Of course, as all new technologies, WAP also comes with its questions and hesitations. 
+ 
+ 
+HISTORY AND BRIEF TECHNOLOGICAL OVERVIEW This technology is only a couple of years old. Brought in by a company called "Unwired Planet", a combination of the leading telecommunications companies. 
+
+
+
+HOW THE SYSTEM WORKS: 
+
+Make a request in WML (Wireless Markup Language), a language derived from HTML especially for wireless network characteristics. 
+
+This request is passed to a WAP Gateway that then retrieves the information from an Internet server either in standard HTML format or preferably directly prepared for wireless terminals using WML. 
+
+The requested information is then sent from the WAP Gateway to the WAP client, using whatever mobile network bearer service is available and most appropriate. 
+ 
+   
+  ADVANTAGES OF WAP Multi-party Communication 
+WAP technology makes it possible for several people to communicate on the move using different devices. Instant and mobile voice, text, image and position messaging capabilities make this media an extremely powerful tool. 
+Checking your horoscope 
+Astrology WAP applications give you constant round-the-clock access to an up-to-the-minute horoscope. Using your mobile phone, you can keep yourself updated on what the stars have in store for you. 
+Personal pocket guide 
+Wherever you are in the world, your WAP-enabled mobile phone is your personal guide to the city. Use it to plan your evening's entertainment. Reserve seats at a restaurant, take in some local art, book cinema tickets or find some place at a quiet drink.
+Weather report 
+An updated world-wide detailed weather report is always available if you have a WAP-enables mobile phone. You can have storm warnings automatically directed to your phone wherever you are. 
+Global yellow pages 
+In your WAP-enabled mobile phone, you have every Yellow pages directory in the world at your fingertips and millions of useful telephone numbers. Anywhere, at any time, you can locate and avail of local services such as taxi services, because you have the local Yellow Pages in your pocket. 
+Mobile stock market 
+Your automatic WAP-based stock-broker tells you the prices of your shares. You can carry out the entire transaction over the Web without moving from the spot. 
+Always in touch 
+Keeping in touch with news at home or abroad. Your WAP-enabled, mobile phone gives you access to all categories of up-to-the-minute local or international news. 
+Wap entertainment 
+Entertain yourself at a traffic jam with WAP. Check out the entertainment sites, online games etc. 
+IMPLICATIONS FOR E-BUSINESS 
+
+Easy, and fast access to Internet. 
+WML and WMLScript (new language, which is based on HTML). 
+Large choice in mobile phones (most of them support WAP). 
+Can be used to download abstract data types ( videos etc.). 
+Supports most wireless networks (like: CDMA, GSM, PDC, PHS, TDMA etc.). 
+Can be built on any operating system. 
+International standard. 
+ 
+   
+  FREQUENTLY ASKED QUESTIONS Which content is possible to access with WAP? 
+Almost anything available on the net; weather, news, stock market information, product updates, software downloads and so on. There is also a broad spectrum of other possible applications: e-mail, information search and retrieval, e-Commerce, calendar and office applications, maps and position-based services, voice messaging and communication, call control, Intranet/Internet access, among others. 
+What type of devices will use WAP? 
+Handheld digital wireless devices such as mobile phones, pagers, two-way radios, smart phones and communicators from low-end to high-end. 
+Is WAP suitable for multimedia mobile services? 
+A current area of interest within WAP Forum is evolution to support multimedia mobile services. WAP is an open protocol that allows the transport of many forms of multimedia content. However, some multimedia services, especially those based on streaming media, require further enhancements to WAP. 
+What are the properties of WAP? 
+WAP can only support DOS-like 2D graphics which are shown on the screen of the WAP devices. The current downloading speed of WAP is between 9.6kbps to 14.4kbps, depending on the telecommunication network it is riding on.
+What is a WAP gateway? 
+The WAP gateway/proxy connects the wireless world with Internet/Intranet, providing a path from the WAP-enabled handsets in the wireless world to applications on the Internet/Intranet. In addition to being a bridge between the Internet world and the mobile world, the WAP gateway/proxy offers service logic such as: 
+a) End-user authentication 
+b) Encoding of WML pages 
+c) WML script compiling 
+Can WAP connect me to any site that I want to? 
+As long as the site has been "wapified", that is, the site has been written in WML (wireless markup language) that is accessible by WAP devices. 
+Is surfing the Internet on a WAP device similar to surfing on a PC? 
+Pretty similar. The main difference is that WAP does not support fanciful graphics as WAP is written in WML . WAP supports real time text information and simple DOS-like graphics. 
+What is the difference between WAP and SMS? 
+With ordinary SMS one can send text messages to mobile phones, e.g. receiving today's news or sports results. But SMS can only give the mobile phone user a limited degree of interaction. One can compare SMS with email: one can send and receive messages but it is not really possible to take any action or easily navigate to other information. WAP could be compared with an Internet browser: it supports hyperlinks for easy navigation and forms that are easy to fill in with selected data and receive a response. In conclusion, the difference between WAP and SMS could be compared to the difference between an Internet browser and Email. 
+What is the difference between WAP and SIM? 
+One can create custom-built applications with SIM Application Toolkit (ATK) that runs on the SIM card in the mobile phone. A SIM card is the Smart card that identifies the user and where the user's phonebook is located. With SIM ATK one can set up new menus, show text in the display, get access to the phonebook and send / receive SMS messages. The difference between WAP and SIM ATK is that SIM ATK applications are located in the phone on the SIM card, and to update an application one has to exchange the SIM cards of all the users. WAP applications on the other hand are fetched from a web-server and can be updated at one central location. Smart cards will have a role to play in the fuure in WAP security and user/operator personalization. 
+   
+  DISADVANTAGES OF WAP  Expensive. 
+Did not have a packet-based service for long time. 
+Limited size of RAM and ROM. 
+Limited power supply. 
+Low bandwidth. 
+Difficult to keep the phones up-to-date with new WAP services. 
+ 
+ 

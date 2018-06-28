@@ -71,7 +71,7 @@ namespace linalg
         }
 
         inline
-        dense_matrix(dense_matrix&& other)
+        dense_matrix(dense_matrix&& other) noexcept
             : _m(other._m),
               _n(other._n),
               _data(other._data)

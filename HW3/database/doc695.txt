@@ -1,0 +1,36 @@
+Android 7.0 Nougat – Vulkan API
+There’s another side to Android 7.0 Nougat that could – in my head, at least – prove as important as advanced app interaction. It’s Vulkan.
+
+This is a graphics API that developers use to exploit a device’s hardware when coding an app or game. Until Nougat, Android had used OpenGL ES – a rival API.
+
+The big difference between it and Vulkan is that the latter is a lower-overhead API, providing more direct control over the hardware. This should result in better performance and less reliance on the need for optimisation for specific GPU types.
+
+Apple has made the same move with the Metal API, introduced during WWDC 2015.
+
+Vulkan isn’t a single-platform API such as Metal, though. It will be used across Android, Windows, Linux, and SteamOS too. Valve is a major backer of Vulkan, which is potentially great news for those keen on seeing a greater number of ports of high-performance and indie-style games we’ll see on SteamOS. If it ever really gets off the ground.
+
+As with any back-end change of this type, the direction that developers choose to take will be important. The issue will be DirectX 12, the rival API used by Windows 10 and Xbox One exclusively. Microsoft wants game developers to use DirectX 12; Valve wants them to use Vulkan.
+
+No matter which dominates, we’ll have to wait and see how this affects future Android ports.
+
+Android device hardware has to support Vulkan too, but this has already started because Vulkan and Google’s support for it were announced in 2015. The Snapdragon 820 supports Vulkan, for example. That SoC is used in the Samsung Galaxy S7, LG G5 and Sony Xperia XZ.
+
+Android 7.0 Nougat – Performance and Doze
+Android 7.0 Nougat also changes the day-to-day performance of devices in a fairly fundamental way. Google has added a JIT compiler, which changes how apps are installed, loaded and run. This is a switch from using ART, which promised to improve performance with Android L – and frankly didn’t. Funnily enough, the run-time used prior to ART, Dalvik, did use a JIT compiler. Is this Google back-tracking?
+
+JIT stands for just-in-time, meaning data required for an app is compiled as needed, rather than doing so beforehand as an AOT (ahead-of-time) compiler would.
+
+Using the Google Pixel C, I haven’t noticed any obvious change in performance. It ran fairly quickly with Android 6.0, and it does so with Android 7.0 too.
+
+The pertinent issue is how well Android 7.0 will run on phones with limited RAM. Android Lollipop and Marshmallow often cause significant day-to-day performance issues on phones with less than 2GB of RAM. Phones with 1GB of RAM often run horribly, as you’d imagine.
+
+With any luck Android 7.0 will improve the experience for those who can only afford bottom-rung phones, because at present very cheap Androids are often harder to recommend than they were in the Android 4.4 era. Display and camera quality may have improved, but ultra-low-end Androids just don’t run well.
+
+Android 7.0 Nougat also features a new version of Doze, which Google introduced with Android Marshmallow. It’s a feature that puts a device into a kind of hibernation when it’s left sitting on standby for a while.
+
+With Android 7.0, Doze is meant to kick in even if the phone is in your pocket. It restricts background data calls to managed intervals, which should reduce power consumption. However, you may see a more marked effect using the Data Saver function. 
+
+Verdict
+Android 7.0 Nougat is actually a more dramatic change than it at first appears. On the surface, it looks like Google has simply adopted its own versions of features we’ve seen before, such as Multi-Window multi-tasking and customisable drop-down feature toggles.
+
+However, there’s been some important behind-the-scenes progress. The Vulkan API is good news for the future of high-end Android games – if developers find a way to tear themselves away from free-to-play casual projects. And the first steps in multi-tasking that involves two apps directly communicating with one another is exciting – even if its uses right now are limited.

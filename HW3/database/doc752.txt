@@ -1,0 +1,21 @@
+AI At The Edge: Apple's Smartphone Leadership
+
+Summary
+Leadership in smartphone AI.
+
+WWDC sees Edge AI enhancements in machine learning and augmented reality.
+
+Apple's robotics opportunity.
+
+Rethink Technology business briefs for June 13, 2018.
+
+Apple's (AAPL) 2018 Worldwide Developer Conference (WWDC) offered no new hardware this year but instead focused on new editions of all its major operating system platforms. Although there were many new features for users, much of the focus was on critical software infrastructure in Edge AI that uses machine learning resident on the iPhone for tasks such as image recognition, natural language, and augmented reality. While Apple still lags in cloud-hosted AI, Apple is out in front in AI on the smartphone.
+
+Leadership in smartphone AI
+The above statement may come as a surprise, since we've gotten used to Apple being characterized as lagging competitors such as Google (GOOG) (NASDAQ:GOOGL), Microsoft (MSFT), and Amazon (AMZN). In terms of cloud-based AI, Siri remains relatively dumb compared to AI assistants such as Alexa or Cortana.
+
+Apple still needs to catch up in this area, but last year, starting at WWDC, Apple jumped out in front in the area of on-device machine learning. This was an area that many didn't see coming. After all, with an always connected device, there was no need to rely on anything but cloud-hosted AI.
+
+Apple's rationale, that on-device AI afforded the user a greater level of privacy and security, may have seemed a little pedantic at the time. Subsequent data sharing scandals have brought the issue of user privacy to the forefront, and have probably worked to Apple's advantage.
+
+Apple's approach was two-pronged. On the hardware front, Apple equipped the new A11 Bionic processor with a dedicated neural network accelerator. Not much is known about the Neural Engine except that it accelerates inference operations for an already trained machine learning model.

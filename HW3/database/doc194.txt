@@ -1,0 +1,16 @@
+THE MOVIE, broadcasting and consumer electronics industries have been talking about HDTV for a long while now, but only since 2003 has progress finally started to be made.
+The technology is already a success in America, Japan, Australia and South Korea and there are certainly impressive revenues in flat panel TV sales. 
+
+So why has HDTV been so long in taking off in Europe? Thomas Wrede, VP of product management for SES Astra, speaking at the HDTV DisplayForum in Berlin argues that consumers need confidence that new HDTV devices can really display high defiition pictures and are fully interoperable. 
+
+This was far from clear two years ago, when existing HDTV in Europe via satellite had a vast difference in quality on some of the displays, with apparently HD ready devices only having around 576p resolution or below. "If the industry produces bad HDTV quality, we will lose consumer confidence" says Heinrich Haase, central Europe Manager for Pace Micro Technology.
+
+The introduction of two equipment labelling schemes has helped restore consumer confidence, says Wrede.. 'HD ready' was introduced for display devices and is already commonly used at point of sale, while the new 'HD TV' logo shows which set top boxes will work with HDTV. 'HD ready' TVs should show at least 720 lines and are compatible with 720 progressive and 1080 interlaced scan formats at 50 and 60 Hz. The 'HD TV' logo on STBs (Set Top Boxes) should be compatible with today's transmissioon standard, DVB-S and the new improved transmission standard, DVB-S2. They must also support video MPEG-4 and MPEG-2 and audio enhanced dolby. However, there is a danger that the consumer may be confused by presence of two separate logos.
+
+According to Wrede, only now are new technologies making HDTV transmissions commercially viable in Europe, while major HDTV produced sports events such as the world soccer championship in 2006 will stimulate its successful breaktrough. More programmes are now being made in HD in Europe so they can be sold to international markets that only use HDTV. 
+
+Europe's first HDTV channel, HD1 launched on Astra in January 2004 while Pro7 and Sat1 wil launch their free-to-air HDTV channels in October 2005. Premiere will introduce three HDTV channels in November 2005 and Canal+ and BSkyB's offerings will launch in 2006.
+
+Market research is certainly encouraging, predicting close to 90 milion homes in Europe with HD sets by 2015. Looking 10 years ahead, Wrede predicts that the majority of all new TV productions will be in HD and transition to digital will have been completed in all core markets.
+
+Haase predicts that it will only take 3 to 5 years for HD PVRs (Personal Video Recorders) to become standard.. A new, 'PVR-to-go' wireless service will download films to portable devices. SD PVRs will be overtaken by HD PVRs very quickly and chances are that demand from football fans will ensure that it is available in time for the premiership soccer broadcasts in 2006

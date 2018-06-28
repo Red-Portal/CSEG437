@@ -1,0 +1,57 @@
+<dual-chip architecture for mobile devices>
+
+As real-time, multimedia-rich applications such as video-- streaming emerge in the next generation of smart phones and advanced mobile Internet appliances, 
+the processing platforms that power them will need to be capable of processing more than ever before. 
+
+The processing demands placed on the engines and system architectures will escalate, as will the need to maintain or extend battery life so consumers 
+can enjoy these new applications. 
+
+The challenge in the case of streaming video is the amount of bandwidth required to provide a real-time instantaneous datastream. 
+
+Streaming video also requires an engine capable of processing the videostream while performing other tasks. Designers of 2.5G and 3G platforms need to 
+base their architectures on scalable and easily expandable concepts so new technologies and applications can be deployed quickly in response to changing 
+market conditions. 
+
+A dual-processor architecture with a general-purpose or Reduced Instruction Set Computing processor and a digital signal processor (DSP) meets these 
+needs better than a general-purpose processor. 
+
+As the computational and other capabilities of a wireless system increase to meet the requirements of streaming video applications, a partitioning of 
+tasks between the two processors becomes more important. After all, who wants to watch a few minutes of video on a wireless device before it runs out of 
+batteries. The system runs more efficiently when tasks are assigned to the processor best suited to the job. 
+
+For example, a DSP is better at processing the highly complex algorithms that make up the pictures and sounds of a music video clip, while a 
+general-purpose processor is better at finding and retrieving a phone number. Divvying up these tasks to the processor best equipped to handle 
+them will reduce power consumption and extend battery life. 2.5G and 3G wireless devices will have to provide expanded multimedia capabilities 
+while keeping in line with the power expectations customers have come to expect from cell phones and PDAs. 
+
+As simple as dual-processor architecture may seem, it can pose challenges for wireless designers. Shared memory must be managed to avoid conflicts 
+involving processors accessing the same memory location at the same time.Another challenge of dual-processor architecture is the difficulty that 
+application developers may experience as their programs move across borders in the wireless architecture. 
+
+One solution is to create a high-level abstract layer - a bridge architecture -- to which designers would develop applications.This would free them 
+from having to delve into the details of the processors' operating characteristics and parameters. 
+
+With this bridge, a designer would develop programs in a high-level language for the architecture's general-purpose processor.When the DSP was needed 
+to perform a task, the designer could call up the DSP through the high-level interface and application protocol interfaces present on the general-purpose 
+processor. A programmer using this design could issue a command for streaming video and the bridge architecture would automatically assemble the 
+resources needed for the task and relieve the designer of this responsibility. 
+
+If recent market trends are any indication, wireless communications technology will continue to advance at a rapid pace, but power consumption will 
+always be a critical factor. Handheld, battery-powered systems can function only as long as their batteries last. 
+
+Batteries that can store more power would help, but a battery's capacity has physical limits. Ingenious wireless system designers can always reduce 
+power consumption through architectural innovations and sound component selections. 
+
+BY SEBASTIEN DE GREGORIO, MADHUKAR BUDAGAVI AND JAMIL CHAOUI 
+
+De Gregorio is European wireless video development manager at Texas Instruments; Budagavi is a member of the technical staff at the digital signal 
+processor research and development center at Texas Instruments; and Chaoui is worldwide OMAP software application and development manager at Texas 
+Instruments. They can be reached at kbengtson@ti.com. 
+
+Copyright Network World Inc. Aug 6, 2001
+Provided by ProQuest Information and Learning Company. All rights Reserved
+
+
+
+
+

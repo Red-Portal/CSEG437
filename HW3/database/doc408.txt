@@ -1,0 +1,35 @@
+A new view of 3D graphics
+
+Have we reached the end of the road for conventional 3D rendering?
+
+Siggraph 2009 ended Friday, and I've spent the last few days digesting what I learned there. 
+Although I've been involved in the graphics industry since 1990 and I've attended Siggraph most years since 1992, a crisis of sorts seems to have snuck up on me.
+
+At the High Performance Graphics conference before the main show, keynote speeches from Larry Gritz of Sony Pictures Imageworks and Tim Sweeney of Epic Games showed that traditional 3D-rendering methods are being augmented and even supplanted by new techniques for motion-picture production as well as real-time computer games.
+
+Gritz reckoned that 3D became a fully integrated element of the moviemaking process in 1989 when computer-generated characters first interacted with human characters in James Cameron's "The Abyss."
+Gritz described how Imageworks has moved to a new ray-tracing rendering system called "Arnold" for several films currently in production, 
+replacing the Reyes (Render Everything Your Eyes See) rendering system, probably the most widely used technology in the industry.
+
+According to Gritz, Reyes rendering led to unmanageable complexity in the artistic component of the production process, outweighing the render-time advantages of the Reyes method.
+But Gritz says even these advantages diminished as the demand for higher quality drove Imageworks to make more use of ray tracing and a sophisticated lighting model called global illumination.
+
+The bottom line for Imageworks is that Arnold, which was licensed from Marcos Fajardo of Solid Angle, takes longer to do the final rendering, 
+but is easier on the artists and makes it easier to create the models and lighting effects--a net win.
+Sweeney echoed this theme the next day, which surprised me considering Sweeney's focus is real-time rendering for 3D games--notably with Epic's Unreal Engine, 
+which has been used in hundreds of 3D games on all the major platforms. Game rendering uses far less sophisticated techniques 
+because each frame has to be rendered in perhaps one-sixtieth of a second, not the four or five hours on average that can be devoted to a single frame of a motion picture.
+
+It seems that Sweeney is also interested in moving beyond the limitations of today's technology as embodied in 3D application programming interfaces (APIs) like Direct3D and OpenGL. Even in games, he said, micropolygon techniques like Reyes, ray tracing, global illumination, and other advanced methods could be used to good advantage.
+The problem, said Sweeney, is that today's GPUs are designed specifically for these APIs, and they aren't flexible enough to host the kind of rendering systems Sweeney would like to build. GPUs have been getting more flexible over the years, but even the latest still dedicate significant portions of their circuitry to specific functions like texture filtering and raster operations. 
+
+Also, GPUs are optimized for stream processing and relatively small shader programs rather than control-flow processing and large applications, as CPUs are.
+Sweeney has plenty of experience with 3D APIs and GPUs, but in his keynote he seemed to be longing for the days when he wrote software rendering engines for the "Pentium-90 processor" (his words). Sweeney anticipates the arrival of Intel's Larrabee processor as potentially restoring that kind of flexibility to the programmer, since Larrabee is really just a collection of simple x86 microprocessor cores, each equipped with a very high-performance floating-point unit. In essence, Larrabee is a compromise between CPU design and GPU design, combining an x86 core microarchitecture with an FPU-rich, cache-light chip design.
+(I wrote about Larrabee at great length following Siggraph 2008: "Intel's Larrabee--more and less than meets the eye" and "Larrabee performance--beyond the sound bite".)
+
+Flexibility is good, no doubt about it, but it isn't the only important characteristic of a graphics processor.
+Flexibility conflicts with power efficiency, for example, since simpler, less flexible rendering algorithms produce acceptable results with fewer mathematical operations and more of these operations can be performed by fixed-function logic rather than programmable cores.
+
+I don't think we'll ever see software rendering return to the position of dominance it held in the earliest days of PC 3D gaming. 
+Since Sweeney has had considerable input to the design of Larrabee, however, it's a safe bet that the next Unreal Engine will provide some unique features when running on Larrabee rather than competing GPUs.
+On the other hand, Larrabee could become very popular for cinematic rendering, where it amounts to a faster, more efficient x86 processor to replace the thousands of CPUs used in render farms at companies like Imageworks. Unfortunately for Intel, it makes most of those chips already--and they're probably a lot more profitable than Larrabee will be. What's good for the motion-picture industry may not be so good for Intel.

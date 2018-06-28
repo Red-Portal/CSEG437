@@ -1,0 +1,67 @@
+How to use a Digital Camera
+
+
+Recording
+With most digital cameras, taking pictures is the same as with a standard camera: just point the
+camera and push the shutter button. Most digital cameras have viewfinders but some digital cameras 
+have LCD screens. LCD screens let you see the image before you shoot and allow you to delete pictures
+ you don¡¯t want, saving you time, effort, and camera memory. Unlike standard cameras, instead of 
+storing pictures on film, digital cameras use a form of computer memory. Digital camera memory limits 
+vary and may be supplemented with memory cards or specialty storage disks. Adding a memory card usually 
+costs less than $100.
+
+All cameras have some kind of delete feature, which may allow you to delete selected images, or may 
+require that the entire memory must be deleted. Some cameras allow images from the computer screen to 
+saved as digital photos for use in print or video applications.
+
+Viewing
+Some digital cameras allow you to actually view the pictures taken with built in LCD screens, without
+ having to connect to an outside viewing medium. Digital cameras usually connect and download to a 
+computer running a camera/imaging program. Some cameras require a computer card installed into the 
+computer, other cameras use the computer¡¯s USB, serial or parallel ports, some cameras download through 
+infrared, and some connect directly into a computer slot. New cameras store directly on floppy disks or
+ cards that use floppy disk adapters.
+
+Certain digital cameras have video output that allow the camera to send out an NTSC or PAL video 
+signal directly through a standard RGB cable to a television, projector or VCR.
+
+Saving
+All digital cameras save pictures in a digital file format, which may be camera specific or 
+standardized, such as PNG, GIF, or JPEG. The format that pictures are saved in will determine the 
+amount of disk space needed to save a picture. Picture files can be converted using a graphics
+program.
+
+If the camera has the ability to output a video signal, video tape can be used to show or archive your 
+pictures. 
+
+Using your computer, you can print out your images. We suggest that you use either a laser or inkjet 
+printer. New print cartridges, glossy paper, and iron on transfers are available for printing photos 
+with inkjet printers. 
+
+Applications
+Once you have your images in your computer, they can be e-mailed as attachments. 
+You can send your image from your fax/modem to any fax machine. 
+Your images can be incorporated into print media, such as posters, signs, reports, banners, certificates,
+ and any other publishable print document. 
+Iron on transfers allow images to be printed on items such as T-shirts, aprons, banners, flags, etc. 
+Depending on the camera, images can be put directly onto video for presentation without a computer. 
+Images can be added to word-processing documents and presentations. 
+Images can also be included on homepages for the World Wide Web. Images should be converted into PNG, 
+GIF or JPEG format for the World Wide Web. 
+Accessory Equipment
+Almost any printer can print images, but for the best quality, use a high resolution ink jet or laser
+ printer. Currently there are printers and/or printing accessories specifically designed for printing 
+pictures. To print high quality "photo style" images you should use a printer that can take a photo 
+quality ink cartridge and print onto glossy or semi-gloss paper.
+
+Most cameras include their own cables to connect to either a PC or Mac computer, and some cameras include
+ the cables for direct video output. It is possible that you will need to purchase cables, but it is 
+also possible to build your own, with a little work.
+
+Most cameras include image handling software. Depending on the software, capabilities may be as simple 
+as view and save or may have numerous picture editing capabilities. Pictures can always be used with 
+the popular graphics and imaging software programs, such as PhotoShop or Corel Graphics.
+
+Images are often large files and saving them can take up a lot of your disk space. It is possible to 
+save the images in compressed formats like JPEG or GIF, and save disk room. If you plan to save lots 
+of images, an external drive like a ZIP drive or a CD ROM burner is recommended. 

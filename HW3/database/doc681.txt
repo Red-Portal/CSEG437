@@ -1,0 +1,74 @@
+﻿The science of smartphone batteries and how to keep them charged
+
+Whenever a new iPhone gets announced, there's one feature that every Apple lover is hoping for: improved battery life. 
+
+We may not agree on headphone jacks, but we all want smartphones that can hold more juice. 
+
+How else are we supposed to catch all those Pokémon?
+
+The latest video from the American Chemical Society gives some tips for making your battery last longer — all informed by chemistry, of course.
+
+Smartphones like the iPhone use lithium-ion batteries. 
+
+They're super light and can hold charges longer than other types of batteries, but they also start degrading as soon as they're manufactured. 
+
+Your smartphone battery will get worse and worse over time and eventually die 
+
+(though let's be honest, you'll probably shatter the screen way before then). 
+
+There's no avoiding its eventual demise. But you can delay the inevitable.
+
+First, let's dispel some myths: You don't need to let your electronics power all the way down before you recharge them. 
+
+This "fact" is actually a holdover from the days when nickel-based batteries reigned supreme. 
+
+Those batteries experience something called the "memory effect," where a battery that isn't fully discharged will "forget" some of its capacity if it recharges with a partially full battery. 
+
+It's as if you had three eggs in your fridge, leaving nine empty spaces in your nifty little egg holder, 
+
+but went to the store and only bought six eggs to fill those spots.
+
+ Nine empty spaces in the morning, nine total eggs after your shopping trip. 
+
+But wait! Your egg holder can hold 12 eggs. Disaster.
+
+Just as you could remedy this ridiculous egg distribution by buying an even dozen after using up that pesky nine, 
+
+nickel batteries could generally "remember" their full capacity by being drained down to zero and starting over.
+
+One of the advantages of lithium-ion batteries is that they aren't as forgetful as our hypothetical egg eater. 
+
+So there's no need to drain your battery to zero.
+
+In fact, as the video above explains, you're better off keeping your battery right around a 50-percent sweet spot. 
+
+As Eric Limer explained for Popular Mechanics, a lithium-ion battery's charge capacity is determined by how many lithium ions it can nestle into its two electrodes. 
+
+As you go through charging cycles, these components degrade and hold fewer ions. Battery University recommends partial discharges, 
+
+because it's more taxing on your phone's battery to start from zero. 
+
+If you constantly drain it down to nothing, your battery will lose its capacity much more quickly.
+
+But heat is the real lithium-ion killer. 
+
+Heat speeds up all chemical reactions, and the ones inside your battery are no exception. 
+
+Not only can heat speed up the process of battery drainage in the short term, but it can also cause the battery to degrade and hold fewer ions. 
+
+Even the heat of your body is enough to help kill a battery quicker — so try to keep your phone out of your pockets.
+
+And finally, if you need to put your phone away for a while and don't want it to die completely, charge it to around 50 percent before you turn it off. 
+
+A battery with no charge can become unstable or even explode, so smartphones and laptops have a fail-safe that kills their batteries if they're uncharged for ages and ages. 
+
+It's a pain in the neck, but it's better than a phone explosion.
+
+On that note, consider this a reminder to turn in your Galaxy Note 7. 
+
+The phones have been recalled for having a small battery fault that may occasionally cause them to burst into flames. 
+
+To protect users who may fail to respond to Samsung's recall, the company is issuing a software update that will keep phone batteries at a lackluster 60 percent charge or lower 
+
+— presumably to avoid overheating.
+

@@ -1,0 +1,93 @@
+Augmented reality: Why 2018 might be the year AR tech goes mainstream
+
+The world's largest annual consumer technology show — CES 2018 in Las Vegas — ends today and some of the most exciting gadgets this year were on display in the augmented reality (AR) marketplace.
+
+This follows the news, announced in December, that 2018 will be the year the previously secretive company Magic Leap joins the likes of Microsoft, Meta, ODG, Mira and DAQRI to launch an AR headset.
+
+At the same time we are seeing Apple, Google, Facebook, Snap and others rushing to release platforms for smartphone-based AR.
+
+But this is only the beginning of the AR computing future.
+
+New AR technologies are set to change industries — from construction to retail — and transform the way we interact with the digital world in everyday life.
+
+What is augmented reality?
+Augmented reality (sometimes also referred to as "mixed reality") is the technique of adding computer graphics to a user's view of the physical world.
+
+You might have experienced this on your smartphone if you played the game Pokémon Go. Or perhaps you have tried placing furniture in your house using the IKEA Place app or the AR View feature on Amazon's smartphone app.
+
+But placing objects on the floor near you — whether furniture or monsters — is only a taste of what mainstream AR technologies could offer in the future.
+
+The real potential for this new computing platform comes when computer graphics merge with, and behave in ways consistent with, their physical surroundings.
+
+This is not just a challenge of matching the same lighting, or ensuring physical objects occlude synthetic ones.
+
+Computer-generated objects will increasingly become more interactive (responding to voice, gesture and even touch), more persistent over time (enabling users to leave a virtual object next to a physical one for someone else to find), and develop a greater understanding of the objects in their physical surroundings (such that they immediately react to changes in the environment).
+
+A simple example of the trend of graphics merging with the physical environment is the difference between playing a game like Minecraft as an isolated and self-contained digital board game sitting only on your dining table and playing such a game on any surface in your home.
+
+Two systems that show how tightly computer graphics can align with the real world were announced at CES: Nvidia's new Drive platform and WayRay's holographic car navigation system.
+
+Both aim to augment the road, buildings and other objects ahead of a vehicle, using sensors designed for autonomous cars.
+
+Another example is Disney Research's new interactive AR characters that can understand and react to different physical objects.
+
+Record investment growth
+The combination of AR capable consumer hardware and intelligent software systems is getting investors excited.
+
+Investment in augmented reality and virtual reality (VR) companies set a new record of more than $US3 billion in 2017.
+
+One estimate suggests that overall total spending on AR/VR products and services will increase from $US11.4 billion in 2017 to nearly $US215 billion in 2021, some $US30 billion of which will be due to sales of AR headsets alone.
+
+The forecasts for growth in AR have typically been much higher than for VR.
+
+This is partly due to the perception that VR will have success in some relatively specific vertical markets (gaming, 360 degree cinema, training, data visualisation, and so on), which mainly benefit from the solo, immersive user experience, while AR has the potential to change many aspects of the way we interact with digital systems in our work and at home.
+
+How will AR go mainstream?
+For a glimpse of some of the ways we can expect to soon be interacting with computers using AR, we can look at the innovations coming out of research organisations, industrial innovation labs and start-up companies.
+
+In the retail space, we are now starting to see AR used for more than just a view of a 3D product model.
+
+Nissan recently launched an AR experience in the United States that lets customers view cars in dealerships through a smartphone and receive an annotated tour from Star Wars droids.
+
+Researchers at MIT Media Lab have demonstrated how results of a product search can be displayed directly on the supermarket shelf. And in Australia, CHOICE has seen great success with its CluckAR app that augments egg cartons with an indication of how happy the hens are back at the respective egg farm.
+
+In CSIRO's Advanced Manufacturing Roadmap, AR is identified as a way for manufacturers to increase productivity and customisation.
+
+Elevator manufacturer Thyssenkrupp claims that AR has enabled it to achieve a four-times-faster workflow for the custom design of in-home chair lifts.
+
+Ford Motor Company's design team is using HoloLens to make rapid decisions about complex geometrical problems such as rear-view mirror blindspots. And systems like ASTOR use AR directly in the manufacturing process to give a machine operator real-time information such as the force on the tip of a milling tool.
+
+In the construction industry, buildings are usually designed using 3D modelling software but built using 2D plans.
+
+Bentley Systems has been figuring out ways to use AR to help make the mental connection on site between the 2D plans and the intended 3D design.
+
+For maintenance workers, emerging products such as SCOPE AR and CSIRO's own Guardian Remote allow remote experts to provide instructions directly within the task space. Just think about how much better this is than a phone call for help that consists mainly of, "Look up and left. No, no, the other left …"
+
+For worker training, the HoloCrane is an example of how AR will enable a novice to practise a skill in situ, without the risk of damage to expensive equipment.
+
+Augmented Reality will allow us to have greater awareness and control of Internet of Things (IoT) devices in smart homes, factories, farms and offices.
+
+At CSIRO's new "Synergy" building in Canberra, we have developed a smart glasses system that displays historical and real-time energy usage data overlaid directly on the appliances consuming the energy.
+
+Meanwhile the ground breaking Reality Editor system from MIT shows how AR can provide intuitive interfaces with which to instruct the smart devices in our everyday life.
+
+The challenges ahead
+While some form of AR in the future is a near certainty, there are a range of socio-technical challenges to address before AR technologies see mainstream adoption.
+
+User interaction with wearable computers is still tricky, especially when users prefer not to have to hold an input device. And if developers of AR services are not careful to respect the privacy and security desires of their users, they can expect user backlash.
+
+Visual clutter is also an issue. When we make use of virtual augmentations on specific parts of the physical world, there is usually limited real estate. We need solutions that help us manage what we see.
+
+Whoever manages to solve these sorts of challenges first may well own the de facto standard of AR computing, and therefore the interface between people and their digital life.
+
+It is no surprise that all the major tech companies, and many start-ups, are rushing to get AR technology to users before anyone else.
+
+One alternative to central "winner takes all" ownership is to deliver cross-platform AR services via the web. Mozilla has been particularly active in this area and recently launched an experimental WebAR browser that works on today's iPhones.
+
+At last year's Web3D conference in Brisbane we demonstrated some of CSIRO's work towards enabling WebAR services on HoloLens.
+
+One way or another, AR computing is coming — it's time to get ready.
+
+Matt Adcock is a research engineer at CSIRO.
+
+Originally published in The Conversation

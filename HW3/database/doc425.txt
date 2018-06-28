@@ -1,0 +1,18 @@
+NVIDIA Quadro Dual-Copy Engines For Real GPU-Asynchronous Texture Transferts Explained
+
+NVIDIA has published a detailed whiteper that explains in detail how the dual copy engines of the new Quadro cards work. To shorten the story, new Quadro cards (Quadro 4000, Quadro 5000, and Quadro 6000 only) come with an additional DMA engine making it now possible to overlap texture transferts (download and upload) and processing.
+
+To take advantage of this architecture, the main app uses one thread for the rendering, a second thread for texture downloads (readback) and a third thread for texture uploads, all texture transfers are done via PBOs (Pixel Buffer Object).
+
+Here are some examples where Quadro dual copy engines are welcome:
+
+- Video processing or time-varying geometry/volumes including post processing, video upload to maintain a frame rate and readback to save to disk.
+- Parallel numerical simulation that uses domain decomposition techniques such as Finite Element/Volume. The Quadro GPU can be used as a co-processor that is able to download, process and readback the various subdomains with CPU scheduling.
+- Parallel rendering ? When a scene is divided and rendered across multiple Quadro GPUs with the color and depth readback for composition, parallelizing readback will speed up the pipeline. Likewise for sort-first implementation where at every frame the data has to be streamed to the GPU based on the viewpoint.
+- Data bricking for large image, terrains and volumes. Bricks or LODs are paged in and out as needed in another thread without disruption to the rendering thread.
+- Cache for OS ? OS can page in and out textures as needed eliminating shadow copies in RAM.
+You can download NVIDIA¡¯s whitepaper about Quadro dual-copy engines HERE (PDF).
+
+Talking about parallel rendering, Equalizer engine is a nice example of parellel rendering  Equalizer is a middleware that allows the creation and deployment of parallel and scalable OpenGL applications:
+
+

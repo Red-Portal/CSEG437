@@ -1,0 +1,255 @@
+Real Time Augmented Reality on Mobile Phone
+
+Fu Yu
+yufu@umich.edu
+
+
+
+Abstract
+
+  As there are many methods designed for augmented reality, it is still hard to really bring augmented real- ity application to the real life due to the performance constraint of mobile devices. In this project, I tried to implement certain promising algorithms and explore the possibilities of rich augmented reality application. ESM algorithm is chosen for tracking the clue of the scene together with another detection method. In the off line test, the system runs well. However, the mobile application still needs some improvements.
+
+
+1. Introduction
+  Augmented reality has been studied for a long time and has been used in different areas.  Traditionally, since most of the augmented reality algorithm have to consider the real-time performance, its study is con- strained by the device performance. However, with the emerge of the smartphone platform such as iOS and Android, the cell phone performance developing is on a track similar to that of personal computers and the mobile devices are gaining computing power in the ratio similar to Moore's Law. Some research such as [9] has proven that the mobile devices have got the computing power to run some sophisticated computer vision algorithm. Considering that the popularity of smart phones among the customers and sets of the in- tegrated sensors such as accelerometer, compass and gyrometer that can help collect more useful data for processing images captured, it is a perfect media to bring the computer vision application to the customers.
+
+1.1. Project Description
+  In this subsection, I would like to describe what I want to in my project.
+  
+There is a basic assumption about scene. There is some hint in the scene that can help infer the pose of the camera relative to the scene. The hint could be a marker like a checkerboard or a image template. In the future, I could substitute the hint with some fast object recognition algorithm. And then I project some interesting or plausible 3D models back to the scene based on the 3D information got from the hint.
+
+1.2. Motivation
+  To get the 3D information and re-render the images has great applications in people's life. In gen- eral, it can put very useful virtual information into the real scene. For example, in an empty house, the de- sign group could store the decoration design on the server or on the owner's cellphone. Then the owner could view the design by the augmented house to get a real feeling how the design looks. Also, in a mu- seum and some places of interest, there is too much information can't be shown physically. However, with the augmented reality technique, people could choose what information to get based on what he is looking at. Also, in the game area, we can use our own yards as arena to play the augmented game.
+  This work is also helpful for the computer vision research. The goal of computer vision is to help people or machine to see more and understand better. However, most of our algorithms are experimented on the powerful server. An easy-to-use real-time framework can help the researchers get a general feeling that how fast a real time algorithm should be and show their work easily.
+
+1.3. Framework and Project Tasks
+  There are three main parts in the project, which con- struct the pipeline of the system. First, images and its related information such as device rotation and dis-
+
+placement are captured by the mobile device. And then in the second part, the data is sent to the kernel algorithm to calculate the pose of the mobile device. In the last step, based on the pose information, the 3D object is augmented in the scene.
+  For the first part, the mobile platform is very critical because different mobile platforms provide different features and development environments, which may facilitate the development. Also, different platform has different performance in terms of operating system running and graphics rendering, which are both rele- vant the performance of the real-time system built on top of it. However, there are several mobile platforms available on the market, such as iOS [7], Android [4], Symbian [3], BMP [8] and so on. Therefore, in the first step of the project, I will explore the development environment of some of the promising platforms and also test the performance of the available devices with different platforms.
+  For the second part, as a lot of research has been conducted in augmented reality, a lot of methods has been proposed. To find a promising way to do angu- mented reality, research of the related literature is one the task in this project. I will present my research into the methods in this area in the later and finally I will implement one or two algorithm to build the system.
+  For the third part, a 3D rendering engine is needed to render the augmented scene. I need to constructed a 3D rendering engine to connect everything together on the selected mobile platform.
+
+2. Related Work
+2.1. Previous Work
+  Various approaches for monocular augmented real- ity have been explored in the computer vision com- munity. There are three main approaches, which are marker based, model based and structure from motion based approaches. A taxonomy of the methods are shown in Figure 2
+
+2.1.1 Marker Based Method
+The marker based method have been studied for a long time. Some work [15, 18] on this got very good re- sult. Due to the binary nature of the marker, it is rel- atively easy to detect the marker in the image.  Gen-
+
+erally, there are several steps. First the image is binarized. Then the binary is processed to connect the po- tentially connected components. Last, the information of the binary marker is fitted to the processed image to detect the marker and find the homography between the marker and the actual image. Due to the simplicity and robustness of this method, it is used extensively in all kinds of augmented reality application. ARToolkit is an implementation of the augmented reality frame- work primarily based on marker. Also, Figure 2.1.1 shows the use of marker detection and recognition in the MAGIC robotics competition.
+  After conquering the marker based tracking, the computer vision research community shift their atten- tion to the more general case augmented reality, which are model based tracking and even the structure from motion based tracking.
+
+
+
+Figure 1. Picture of a robot of UM MAGIC team
+
+
+
+2.1.2 Model Based Method
+
+The model based approaches require a priori knowl- edge about the real scene, like the 3D model or the image template that will appear in the scene. The model based technique can be classified in three cate- gories. The first category consists in methods that take only the objects' edges into consideration while doing tracking. The second one relies on the optical flow of the image sequence, while the third one comprises the use of objects' texture information to perform track- ing.
+
+
+
+
+Figure 2. Online monocular MAR taxonomy
+
+
+  Edge Based: In this category, camera pose is esti- mated by matching a wire frame 3D model of an ob- ject with the real world image edge information. This matching is achieved by projecting the model onto the image and minimizing the dispalcement between the projected model and the imaged object. In order to ac- complish this task, a good initial hint about the object pose is needed. Sometimes, the initialization process is done manually, like in [14]. Some automatically initialization process using search has been proposed, like in [13]. Once the first pose is estimated, is is used to project the model onto the next frame. Assuming that camera displacement between consecutive frame is relatively small, using the previous pose estimation to predict the next pose will not harm the matching process.
+  Edge based technique were the first approaches to real-time 3D object tracking.  Due to their low com- plexity, they are easy to implement and have a good performance.  Because they only use edge informa- tion, edge based approaches are able to track specu- lar objects affected by environment lighting. However, edge based methods usually do not support fast camera movements, since the projected model will be too far from its correct location.  Another problem is related to matching errors, which may be caused by elements such as cluttered background or shadows in the image. Optical Flow Based: Differently from edge based methods, which rely on spatial information obtained by image-model matching, optical flow based tracking exploits temporal information. This is extracted from the relative movement of the object projectiong onto
+
+the image. After initialization, which is often manual, the optical flow between the frames captured at time t and t+1 is calculated. Then, the algorithm determines which points from the model projected onto the image at time t are still present in the image at t+1. The dis- placement of these points over time is calculated using an algorithm such as the Kanade-lucas (KL), described in [10]. This is used to estimate camera movement.
+  Due to its integration over time, 3D tracking based on optical flow presents smoother changes between consecutive poses. Another advantage is the moderate processing load needed. However, optical flow tech- niques tend to accumulate errors produced by sequen- tial pose estimations, lead to a deviation from the cor- rect camera calibration. Optical flow algorithms are also not robust against lighting changes and large cam- era displacements, originating errors in object tracking and requiring re-initialization.
+  Texture Based: This category of techniques takes into account texture information presented in images. Naturally, there are two subcategories in this section, which are template matching and interest point match- ing.
+  The template matching approach is based on global information, unlike feature based techniques. The strength of this subcategory lies in its ability to treat complex patterns waht would be difficult to model by local features. These techniques are also called sum- of-square-difference, as they consist in minimizing the difference between a region of the image and a refer- ence template. Such technique search for the parame- ters of a function that warps a template into the target image, so that tracking can be done. According to [10], this is the general goal of the KL algorithm. In [5], the author shows an approach based on the Jacobian of the warping function used in the KL algorithm to do 2D tracking. However, there are some problems with variations in illumination and partial occlusions.
+  The subcategory of interest point based techniques takes into account localized featurs, instead of a global search used by template matching technique. As a re- sult, this subcategory is less computer-intensive than former ones. Another advantage is the fact that illu- mination changes are easily achievable. In [12], the author mentions that as no inter-frame assumption is make, it allows a wider baseline than optical flow.
+There is also an interest point technique based on
+
+tracking planes, instead of full 3D models. The main idea here is to explore the homography formed by the plane in two consecutive views. This computation is performed using the RANSAC algorithm, and recur- sively determines which homography is correct.
+
+2.1.3 SFM Based Method
+Instead of relying on previously obtained information about the scene to be tracked, some techniques es- timate the camera displacement without an a priori knowledge about the environment. SFM based tech- niques are mainly online, since they do not require any previous offline learning phase. Due to this, it is pos- sible to reconstruct a totally unknown environment on the fly. As a drawback, SFM approaches are often very complex. They also have some constraints related to their real-time nature.
+  In particular, MonoSLAM was created based on the probabilistic SLAM methodology using a single freely moving wide-angle camera as the only sensor and with a real-time constraint [2]. To initialize the system, a know picture is necessary to be present in the initial frame at an approximated certain distance. Then the features from this frame are used to initialize the en- vironment. When subsequent images come into the system, more features are obtained. The features are inserted in a probabilistic feature based map that is maintained during all the lifetime of the operation and is updated by the Extended Kalman Filter. The map grows as new features are added.
+
+2.2. Purposed Method
+  Since the goal of my project is to understand the environment on the mobile phone in real time, I have to use some robust and efficient methods in my appli- cation. In terms of robustness, marker based method should be used. However, it is not quite interesting to put a marker in the scene and the interaction be- tween the user and the scene is harmed. On the other hand, to run the SFM based method on mobile phone, to get the intended performance, the accuracy is com- promised. Therefore, I tried to use the image template based method. However, the image template based tracking requires a good initialization and sometimes it needs manually correction when failed. Therefore, I purpose to use the image template detection to help
+
+the tracking. Figure 2.2 shows the idea. First, the detection algorithm finds the image template, such as the Lenna picture and calculate an initial homography. Then, the homography is used by the tracking algorithm. When the tracking algorithm finds that the im- age template is lost by checking the tracking error, the detection is used again to do the correction.
+
+
+
+Figure 3. Framework of my application
+
+
+3. Framework Details
+  For the detection part, some basic methods are con- sidered since this part is not emphasized in this project. The algorithm first extracts features from both the tem- plate image and the current image using methods like SURF [1], FAST [17, 16] . Then the features from both set are tried to be matched based on a threshold. The threshold is set such that the matching is distinct enough. Then based the matching, RANSAC is used to calculate the homography between the template im- age and the final image.
+  For the tracking part, Newton method [16] is proved to have a high convergence rate, which is quadratic. However, since we need to minimize the first order derivative of the cost function, Hessian matrix is needed to do the minimization,  which is both computationally expensive and unstable. Several first-order approximation were purposed, like Gradi- ent descent, Gauss-Newton and Levenberg-Marquardt method, which tried to get around with the Hessian matrix. But since they approximate in first-order, the feature of high convergent rate is lost.
+  In this work, another approximation method called Efficient Second-order Minimization (ESM) tech- niques [11] is explored to solve the tracking problem. In this method, only the Jacobian matrix is needed and therefore it is faster than the Newton method and more stable. Due to the successful implementing stories of this algorithm, it has been commercialized. Therefore,
+
+
+
+the algorithm and use it in the application.
+
+4. Platform
+  I first test Android platform by writing a augmented reality prototype in Java. However, it runs very slow. It may be because the runtime of Java is not very ef- ficient, since Java code is run on the virtual machine. Java virtual machine does very bad on the loop of large trunk of data, which is unfortunately needed by the im- age processing application.
+
+
+  Then I compile the OpenCV on Android. However, although most of the code is in C++, the running time is still not promising and the scheme for augmented images is the same with my prototype.
+  Furthermore, I test Qualcomm AR SDK on An- droid. Although the running time is much better, I cannot get much useful things from this SDK, because it seems build its own framework and the code is not available.
+  To conclude, Java virtual machine and the Android framework consume a lot of computing resource in the augmented application that make it is hard to build cer- tain real-time system based on the current power of mobile devices. The possible way is to build the aug- mented reality framework in C++ from scratch, which will take a lot of engineering efforts. Also, it is still hard to debug C/C++ code on the Android devices.
+
+0	500    1000   1500   2000   2500   3000   3500   4000   4500
+Number of fragment shaders in thousand
+
+
+Figure 4. The GPU performance between Android phones and iPhone 4. For Android, we choose the phones with the latest chipset from Qualcomm inc., which was actually re- leased later than iPhone 4
+
+5. Mathematical Framework
+  I would like to introduce mathematical frameworks for ESM and Matrix Exponentiation here.
+
+5.1. ESM
+  Let I* be an image containing the reference tem- plate of an object we aim to track , and let I be the current image of the observed scene. Let p* be the set of coordinates of the projections in the reference im-
+*
+
+Then I looked at iOS and Table 1 and Figure 4
+
+age I
+
+of a set of 3D points lying on the object of in-
+
+compare the two platforms. As we can see, iOS can support C/C++ natively, which means it can run code more efficiently. Also, iPhone has a much better graphics processing unit, which is very important in the augmented reality application.
+  Therefore, I select iOS as my primary platform and build my rendering engine on it.
+
+terest. Tracking the reference template means finding
+the projective space automorphism w that minimize:
+X(I(w(p*)) - I*(p*))2
+i
+  In this project, we only consider a planar object and w will be based on a homography G parametrized over a vector x. In this project, the parametrization of G is done by matrix exponentiation of x.
+
+
+
+
+
+
+
+
+Table 1. The comparison between iOS and Android
+  
+During tracking, an approximation G?of the true au-
+tomorphism G?is availabe, and the problem can be re- defined as finding an incremental transformation G(x) such that the composition of G?and G(x) gives the true automorphism G? Then, the problem consists in find- ing the optimal parameters x?that minimize:
+1
+
+||y(x)||2
+2
+
+where y(x) is the vector made of the image difference
+yi(x) = I(w(GˆG(x))(p*)) - I*(p*)
+      
+/ (k * (2 * q - k +1)); X = A * X;
+
+i	i	E = E + c * X; if (k & 1)
+
+. In ESM, we use the second-order approximation:
+y(x) = y(0) + J (0)x + 1 M (0, x)x + O(||x||3)
+2
+where J (x) is the Jacobian matrix of vector y(x) with respect to the motion  parameters x,  M (x1, x2)  =
+?x1 (J (x1)x2) is based on the Hessian matrices, and
+O(||x||i) is a remainder of order i. The cost function
+is minimized iteratively by estimating x?
+x?= J †y(0)
+5.2. Matrix Exponentiation
+  As mentioned in the previous subsection, the ho- mography G is parameterized by a vector x using the exponential map of a matrix. The projective transfor- mation matrix G(x) is in the group SL(3) which is Lie group.
+  Let A1, A2, . . . , A8 be a basis of the Lie algebra. A matrix can be written as
+8
+A(x) = X xiAi
+
+D = D - c * X;
+else
+D = D + c * X;
+}
+
+6. Experiments
+  Figure 6 examines the number of loops I should use in the matrix exponentiation calculation by showing the residue when adding the loop number. The entries in the matrix is a random number between 0 and 1. As you can see, after 6 loops, the machine error is re- searched. Therefore, in my implementation, 6 loops are used to calculate the matrix exponentiation.
+
+
+10-1
+10-2
+10-3
+10-4
+10-5
+10-6
+10-7
+10-8
+10-9
+-10
+
+i=1
+
+10
+10-11
+-12
+
+  A projective transformation G(x) in the neighbor-
+hood of I can be parameterized as follows:
+8
+G(x) = exp(A(x)) = X 1 (A(x))i
+i=0 i!
+
+10
+10-13
+10-14
+10-15
+
+
+
+
+
+2	3	4	5	6	7	8	9	10
+Number of iterations in Pade approximation
+
+
+  To calculate the exact value of the matrix exponen- tiation, Pade approximation and the scaling and squar- ing method [6] are used together to get a relatively ac- curate value with fast convergence.
+The code for the algorithm is like:
+
+Mat X = A.clone(); double c = 1.0 / 2; Mat E = I + c * p; Mat D = I - c * p; int q = 6;
+
+for (int k = 2; k <= q; k++) { c = (double)c * (q - k + 1)
+
+Figure 5. The convergence of the Pade approximation
+
+  Currently, SURF features are extracted and matched. The result for the object detection is shown in Figure 6. As you can see, although there are some outliers, the homography found is accurate.
+  For the tracking part, when there is a good initial homography and the image is not blurred too much, the tracking is normally successfully, as shown in Fig- ure 6. However, sometimes, it doesn't track the image template very well, as shown in Figure 8, in which case the detection will correct the homography.
+  Finally, Table 6 shows the performance comparison of the detection and tracking algorithm, which is why I want to use the tracking algorithm as much as possible.
+
+
+
+
+      Figure 6. The feature matching using SURF
+
+
+
+
+Figure 7. A successful case of ESM tracking algorithm
+
+
+
+The experiment is done on the server with 2.67Hz CPU
+
+
+
+
+
+
+Table 2. The performance comparison between the detec- tion and tracking algorithm
+
+
+
+
+Figure 8. A failing case of ESM tracking algorithm
+
+
+7. Conclusion and Future Work
+  In the offline mode, the detection with tracking work flow works quite well. However, on the mobile device, the detection is very slow, which directly af- fects accuracy of the tracking algorithm.
+  Therefore, in the further improvement, a faster de- tection scheme shall be sued. SURF is not suitable for the mobile platform and may be replaced by FAST.
+  From the homography of the image, we can get more information about the environment and some graph can be rendered in the images in real time to increase the interaction.

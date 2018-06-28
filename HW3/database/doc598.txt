@@ -1,0 +1,27 @@
+HTC and NVIDIA Give Major Boost to High-End VR
+
+For VR to be an immersive experience, your visual, auditory and tactile senses need to convince your brain that it¡¯s in a believable environment. The new HTC VIVE Pro VR headset, powered by NVIDIA GPUs, makes a persuasive argument.
+
+The device, announced at CES, improves display resolution by nearly 80 percent compared with its predecessor (2880 x 1600 resolution vs. 2160 x 1200).
+
+It¡¯s a major leap forward for commercial VR, where the demands of customers, developers and VR enthusiasts require the best visual clarity, the best audio and the highest degree of comfort.
+
+How Does Increased Resolution Improve the VR Experience?
+
+The VIVE Pro¡¯s increased display resolution, while keeping a similar screen size, leads to a dramatic increase in pixel density, which is measured in pixels per inch (ppi). The VIVE Pro features 615 ppi - 37 percent more than the original VIVE.
+
+The increased pixel density results in a clearer VR headset image. Lines appear sharper, objects are more distinct and individual pixels are less apparent. And this fidelity improvement helps convince the brain that the user is in a virtual world.
+
+Higher VR Resolution Demands a Powerful GPU
+
+VR headsets require powerful GPUs to refresh at the 90 frames per second needed for a smooth, comfortable experience. With 78 percent more pixels, VIVE Pro raises the GPU performance workload to the next level - and NVIDIA GPUs deliver.
+
+For an optimal experience with the VIVE Pro, NVIDIA recommends NVIDIA Quadro P5000 or higher professional GPUs, and the GeForce GTX 1070 or above for VR enthusiasts.
+
+These GPUs also feature hardware support for NVIDIA VRWorks technologies, which enable the highest level of VR fidelity.
+
+VIVE Pro and NVIDIA Holodeck at GTC
+
+The latest in VR technology is on display at GPU Technology Conference, taking place through March 29 in San Jose. To see where VR is headed, GTC attendees can experience VIVE and Vive Pro across the show floor powering VR for education, hardware, design, medical, military and gaming.
+
+In the VR Village at GTC, attendees also can experience a virtual tour of Ready Player One featuring NVIDIA Holodeck and VIVE Pro*.  Based on never before seen 3D assets from Steven Spielberg¡¯s Ready Player One movie, set for release on March 29, up to three players are transported into Aech¡¯s basement for an escape room-like experience with an amazing level of immersion and visual fidelity

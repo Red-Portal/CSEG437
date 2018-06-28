@@ -1,0 +1,20 @@
+Samsung shows off 2Gbytes mobile memory
+First to bring new LPDDR3 standard, with 12.8Gbps data transfer rate, to market, promising advanced HD for tablets
+By CAROLINE GABRIEL
+
+Published: 19 September, 2012
+
+READ MORE: Samsung | Memory | Tablet
+
+
+ 
+Mobile DRAM memory in its current form soon will prove inadequate for the data intensive needs of smartphones and tablets, but emerging options await in the wings and Samsung is determined to solidify its market lead by staying in the vanguard. It has started mass production of 2Gbyte DRAM chips based on the new LPDDR3 specification, which delivers radical increases in performance.
+
+The standard was published in May but commercial chips are coming to market 6-12 months earlier than expected as the pressure on mobile memory ramps up. It is only a year since the new technology's predecessor, LPDDR2 (low power, double data rate 2) really became mainstream, overtaking LPDDR1 to win about two-thirds of the market by the last months of 2011. That standard boasts data transfer rate of 8.5Gbps but the speed is already looking inadequate. Mike Howard, principal analyst at IHS iSuppli, predicted last year: "If the devices of tomorrow perform 10 times as many data transfers - well within conceivable attainment soon - LPDDR2 would come up woefully short."
+
+
+That has focused memory makers' roadmaps on LPDDR3 and other high performance alternatives - mobile XDR from Rambus; SPMT (Serial Port Memory Technology), a royalty-free memory interface from the SPMT Consortium; Wide I/O, which will connect DRAM cores at the silicon level; and DDR4.
+
+Samsung's market weight will now put LPDDR3 in pole position. The design supports data rates of 12.8Gbps and allows for applications such as playing real time HD video on large mobile screens. The firm says it is working towards support for 4k resolution displays (the current high end for full-sized HDTVs) to appear in tablets in 2014, as well as bringing the current HDTV standard resolution to smartphones. 4k has about four times the resolution of conventional HD.
+
+Samsung's innovations are geared to extending its lead in the memory sector, and shifting its balance of business away from low margin chips. Its designs will often benefit the group's handset arm too, providing advanced capabilities for future Galaxy models, and will make it harder for Apple to move away from the Korean firm for its own memory requirements.

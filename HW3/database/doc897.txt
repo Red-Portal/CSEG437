@@ -1,0 +1,20 @@
+FINGERPRINT AND FACIAL RECOGNITION ON MOBILE PHONES
+By Pavelas
+
+Many businesses, markets and projects can¡¯t imagine their success without facial recognition. This functionality is a part of mobile phones market too. World¡¯s first face recognition technology for mobile devices with camera has been presented at the ¡°Security show Japan¡± in 2005. The technology named ¡°OKAO Vision Face Recognition Sensor¡± was created by OMRON corporation. More than a decade this type of biometric recognition system was used on mobile devices but it never has been so popular since 2017, November 3rd ? the date when iPhone X was released.
+
+REVOLUTION IN MOBILE PHONES FACIAL RECOGNITION
+Why iPhone X face recognition technology is so different from others? First of all, the new model¡¯s iPhone TrueDepth camera system consists of multiple innovative technologies:
+Infrared camera ? reads the dot pattern, captures an infrared image, then sends the data to the Secure Enclave in the A11 Bionic chip to confirm a match;
+Dot projector ? More than 30,000 invisible dots are projected onto your face to build your unique facial map;
+Flood illuminator ? Invisible infrared light helps identify your face even when it¡¯s dark.
+
+These technologies raises iPhone X to the next level. Many tests were made comparing iPhone X and Android mobile phones. As a result Face ID technology is the most secure and reliable in the market at the moment. Face ID is tolerant for appearance changes like facial hair or cosmetic make ups, scarves, hats, glasses, contact lenses and many sunglasses and it works even in total darkness. Moreover, Face ID meets international safety standards, so it is possible to authorize purchases from the iTunes Store, App Store, iBooks Store, and payments with Apple Pay.
+
+FROM FINGERPRINT TO FACIAL RECOGNITION
+iPhone 5s ? the first model with Touch ID (fingerprint recognition) launched in 2013. Two years later Apple introduced a faster second generation Touch ID which was implemented in iPhone 6s, then iPhone SE, iPhone 7, 7s and iPhone 8, 8s. Apple claims that possibility the random person could unlock your iPhone X using Face ID is approximately 1 in 1,000,000 when with Touch ID is 1 in 50,000. That¡¯s why Touch ID was removed on iPhone X.
+
+FINGERPRINT AND FACIAL RECOGNITION ON ANDROID PHONES
+Mobile phones like Huawei Honor 7x, One Plus 5T, Samsung Galaxy Note 8, LG V30 etc., also have fingerprint recognition besides facial recognition. It lets to choose more acceptable biometric authentication. But Android¡¯s face recognition is less safe than Face ID. It doesn¡¯t work in poor lighting conditions and it is possible to unlock a phone with a picture. So, it¡¯s more a convenience feature than a security. Less security means that requirements aren¡¯t so stringent and that makes some android phones face recognition much faster. One Plus 5T¡¯s Face Unlock works incredibly fast, it¡¯s even faster than iPhone X¡¯s Face ID.
+
+iPhone X for now has the most secure and reliable face recognition technology. It is tolerant for appearance changes and works in total darkness. Despite of the fact, that Android phones have less secure face recognition technology, the advantage is ? choice from couple biometric recognition technologies.

@@ -1,0 +1,14 @@
+Lumberyard
+
+Amazon¡¯s Lumberyard is a free AAA game engine which can be used for Android, iOS, PC, Xbox One and PlayStation 4. 
+It is based on CryEngine, a game development kit developed by Crytek. 
+With cross-platform functionality, Lumberyard provides a lot of tools to create AAA quality games. 
+Some of its best features include full C++ source code, networking, Audiokinetic¡¯s feature-rich sound engine, seamless integration with AWS Cloud and Twitch API. 
+Its graphics are accelerated with a range of terrain, character, rendering and authoring tools which help to create photo-quality 3D environments at scale.
+Amazon also acquired Twitch, a live-streaming and chatting social video platform with a user base of over 100 million users per month. 
+The platform being primarily focused on video game streaming has become a critical platform for mobile and video game marketing. 
+With a native integration developers can include social gaming features using Twitch ChatPlay, Twitch Metastream and TwitchJoinIn.
+Pricing is another major competitive advantage of Lumberyard. 
+There are no royalties or licensing fees attached to the game usage. 
+The only cost associated with the tool is the necessary usage of AWS Cloud for online multiplayer games. 
+But that comes with an advantage of faster development and deployment thus, proving worth the cost.

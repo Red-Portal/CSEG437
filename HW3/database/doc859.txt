@@ -1,0 +1,14 @@
+Mirroring your Android device's display on your TV can be useful when you're showing off photos from a recent trip, playing 
+a game or giving a demonstration. With this guide, you'll be able to duplicate your Android phone's screen on any TV. 
+Here's how. You'll need a phone or tablet running Android 4.4.2 and above, as well as a Chromecast or another 
+Chromecast-compatible device. Alternatively, you can mirror your Android device using a Roku by following these instructions.
+Typically, you can check the version of Android running on your device by going to Settings About Phone and look for Android version. 
+Google notes on its support page any device running Android 4.4.2 and above is capable of casting its screen to a TV, 
+but some devices are better suited for such a task. The company goes so far as to offer a list of optimized devices, 
+which you can see here, though it doesn't have devices from the last few years. I've tested devices not listed and didn't 
+see a drastic difference in performance, but as always, your results may vary. So how does one go about casting the screen 
+of an Android device to a TV? It's quite simple, actually.Another method present on some devices is found in the quick 
+settings pane, found by swiping down from the top of your device's screen. If a Cast or Cast Screen button is present, 
+you can select it, followed by the device you'd like to cast your screen to. If the Cast option isn't available, most device makers allow you to rearrange or edit tiles on in quick settings pane. Look for a settings icon or an edit icon to add the Cast icon.
+Once you begin casting -- or mirroring -- your screen, an alert will appear in your notification shade, making it possible 
+to stop mirroring with a tap.

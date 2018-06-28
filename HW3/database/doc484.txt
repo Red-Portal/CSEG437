@@ -1,0 +1,39 @@
+Your chance to ¡®scream in space¡¯ using smartphone technology 
+
+Cambridge students will be loading human screams onto a smartphone that will be blasted into outer space later this year. The public are invited to submit their screams, which will be emitted while in orbit at the same time as the phone records - to test if it¡¯s possible to capture the sound of screaming in space. 
+
+It was Ridley Scott¡¯s film Alien that gave us the now legendary tagline: In space no one can hear you scream. Now, a Cambridge student society will use the technology in your pocket to find out if this is really the case.  
+
+Cambridge University Spaceflight (CUSF) will be uploading videos of people screaming into a specially developed smartphone app, housed on a Google Android phone that will be shot into space as part of a satellite payload in early December. Once in orbit, the phone will play the screams at full volume, while at the same time recording audio.
+ 
+The phone will then relay back to Earth pictures of each ¡®scream¡¯ video playing against the spectacular view from the phone¡¯s inbuilt camera, along with a sound file that may or may not contain the scream captured in the vacuum of space, although the members of CUSF are not holding their collective breath.
+ 
+¡°Obviously, we¡¯re not expecting to get much back, there may be some buzzing, but this is more about getting young people interested in satellites and acoustics, perhaps encouraging them to consider future study in science or engineering¡± said Edward Cunningham, a physics undergraduate at Churchill College and one of the members of CUSF.
+ 
+With this in mind, the team are asking members of the public to submit their own screams for galactic transmission ? by uploading a short ¡®scream¡¯ video to YouTube, and submitting their entry to www.screaminspace.com.
+ 
+Each video must be at most ten seconds long, and there will be ten winning screams which can be voted for by the public on the project¡¯s website. Screams must be entered before midnight on Sunday 4th November, after which the winning videos will be announced and loaded onto the phone in readiness for a launch before the end of this year.
+ 
+The ¡®scream in space¡¯ app is one of four phone apps that will be on board STRaND-1 ? a smartphone nanosatellite ? built by a team from Surrey Satellite Technology Ltd and the University of Surrey¡¯s Space Centre. During the summer of 2011, the STRaND (Surrey Training Research and Nanosatellite Demonstration) team ran a Facebook competition to find apps to go into orbit ? and CUSF¡¯s screaming app was one of the winners.
+ 
+¡°We came across the competition and wanted to enter, which got us thinking about what smartphones have that a standard satellite doesn¡¯t,¡± said Cunningham. ¡°Smartphones have got a speaker and a microphone, so we wanted to do something engaging with these functions.¡±
+ 
+
+Members of the University¡¯s Communications Office 
+have submitted a scream
+ 
+The STRaND-1 project will be testing the capabilities of a smartphone to control a satellite in space. The phone will run on Android¡¯s open-source operating system.  A computer, built at the Surrey Space Centre, will test the vital statistics of the phone once in space. When all the tests are complete, the plan is to switch off the micro-computer and the smartphone will be used to operate parts of the satellite. At its lowest, the phone will orbit 400km above the Earth, roughly the same as the International Space Station.
+ 
+¡°Modern smartphones are pretty amazing,¡± said Shaun Kenyon, the project manager at Surrey Satellite Technology. ¡°We want to see if the phone works up there, and if it does, we want to see if the phone can control a satellite.¡±
+ 
+Using smartphone technology to control space hardware is something that CUSF themselves continue to explore. The student society has already sent several Android smartphones into the stratosphere as flight computers for high altitude balloon launches, building custom apps to navigate.
+ 
+¡°This project reflects the gradual shift of the space sector out of the exclusive domain of governments with multi-billion budgets, and into the hands of smaller ventures,¡± said Cunningham. ¡°With the Android phone, you benefit from the extensive development carried out in the consumer context, and for almost no money at all. It¡¯s no coincidence that NASA has a PhoneSat project of their own.¡±
+ 
+CUSF have previously shown that an Android phone works successfully as a standalone flight computer at a similar altitude to the one Felix Baumgartner recently performed his skydive from, but the opportunity to produce an app to run on the first smartphone in orbit is one CUSF members are thrilled about:
+ 
+¡°The principle of using a low-cost consumer device to do something high tech and new on a shoestring budget is something we really endorse. We often use readily available materials in our own projects,¡± said Cunningham.
+ 
+¡°STRaND-1 is doing something that has never been done before and something you definitely can¡¯t do every day. We see the project as a great opportunity to promote interest in space and also have some fun!¡±
+ 
+For more information, contact Fred Lewsey (fred.lewsey@admin.cam.ac.uk) at the University of Cambridge Office of External Affairs and Communications.

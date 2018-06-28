@@ -1,0 +1,13 @@
+Mobile Game
+
+
+A mobile game is a video game played on a mobile phone, smartphone, PDA, handheld computer or portable media player. This does not include games played on handheld video game systems such as PlayStation Portable or Nintendo DS.
+
+The first game that was pre-installed onto a mobile phone was Snake on selected Nokia models in 1997.[1] Snake and its variants have since become the most-played video game on the planet, with over a billion people having played the game.[citation needed]
+
+Mobile games are played using the technologies present on the device itself. For networked games, there are various technologies in common use. Examples include text message (SMS), multimedia message (MMS) or GPRS location identification.
+
+However, there are non networked applications, that simply use the device platform to run the game software. The games may be installed over the air, they may be side loaded onto the handset with a cable, or they may be embedded on the handheld devices by the OEM or by the mobile operator.
+
+Mobile games are usually downloaded via the mobile operator's radio network, but in some cases are also loaded into the mobile handsets when purchased, via infrared connection, Bluetooth, or memory card.
+

@@ -1,0 +1,22 @@
+Mobile Phones: Birth of the Third Generation
+
+Verizon kicked the US mobile phone market into the third generation at CES this year, lighting up 32 cities with high-speed data services and announcing three handsets. And that's just the tip of the EVDO (Evolution-Data Only) iceberg; every manufacturer we saw, from Samsung to Motorola to oddball Chinese firms like Amoi, was showing off a high-speed data phone front and center. 
+
+So what? 
+
+Verizon thinks consumers will flock to their new VCAST high-speed consumer EVDO service to watch video clips on the run. They also mumbled something about gaming, but when it comes down to it, music videos, sports scores and spinoffs of "24" are the Big New Thing that's supposed to drag millions of Americans over to the next generation network. 
+
+We're skeptical. Phone menus are still too complicated to use many handsets' data functions ? though voice-recognition firm VoiceSignal is working on solving that problem with products like Samsung's innovative dictation-phone. Americans drive too much, and we don't want to see a rash of head-on collisions caused by people looking at phone screens. And video clips haven't caused the nations of Europe and Asia to go wild for 3G yet. 
+
+
+In his Thursday keynote, Motorola exec Ron Garriques said new digital mobile services should grow out of, well, analog analogs. Note passing becomes text messaging. Talking becomes calling. Standing around with your friends trying to figure out what movie to go to becomes wireless Internet-based movie listings. In that paradigm, we're not sure where video clips fit in. 
+
+But if Verizon were to start selling audiobooks onto EVDO phones for use in the car, or full-length songs onto phones like Motorola's iTunes phone, or for that matter entire Disney movies to pacify crazed toddlers while Mom tries to drive ? then we'd be talking. EVDO makes all that possible. Maybe VCAST paves the way. 
+
+EVDO also helps you send pictures from multimegapixel cameraphones. We saw two 2-megapixel models coming in 2005, and even a 5-megapixel unit that's more camera than phone. Shots taken with these phones will be too big to send easily over second-generation networks. With megapixels rising, the focus on cameraphones now changes to things like lens quality ? maybe Varioptics' liquid-filled lenses will improve cameraphones' awful images. 
+
+As folks who like to get work done, we're most thrilled right now by what nationwide EVDO means for business users. Along with their high-speed handsets, everyone had an innovative PDA or text-phone this year ? from LG's messaging-focused F9100 to Samsung's superpowerful i730 and Benq's P50 "Treo-killer." We've been using an Audiovox XV-6600 PDA/phone during the show, and the "seamless mobility" that Garriques spoke about in his keynote is here, thanks to EVDO. With these new PDA/phones on the new high-speed networks, we genuinely can get the whole Internet anywhere, any time. 
+
+Verizon's EVDO isn't the nation's only high-speed play. Sprint Nextel will start turning their own EVDO on later this year. Cingular's been hyping their EDGE network, which is good for roaming business travelers (as it's national right now) but it's too slow to truly change the way we use mobile devices; their real news is the UMTS/HSDPA network they have in the works for 2006. And it looks like T-Mobile may head totally towards left field and use new technologies like SyChip's WiFi/GSM chipsets to leverage their heavy investment in 802.11b hotspots. (In English, that means WiFi cell phones; they already have them in Japan.) 
+
+The next-generation mobile phone network is just a baby. But keep an eye out as all the carriers light up more high-speed cities in 2005. By this time next year, if competition spurs innovation and fresh thinking, phones may really be about much more than talking and texting.

@@ -1,0 +1,27 @@
+Intel Shows Off OpenGL ES 3.1 Android Games on Bay Trail
+Intel gets serious with mobile gaming and embraces OpenGL ES 3.1 support -- and more -- on Bay Trail.
+
+Android-based Intel Bay Trail tablets have yet to hit the market, but Intel is showing off early hardware running that demonstrates the graphical prowess of its own solution.
+
+Intel is the only vendor at GDC showing off hardware running a real OpenGL ES 3.1 game. The first title that we got to go hands-on with is Codemasters' F1 Race Stars, which takes advantage of OpenGL ES 3 features such as HDR lighting, glows, bloom effects. OpenGL ES 3.1 extends feature set to enable more efficient rendering, and brings the API very close to what's possible with DirectX 11. Bay Trail's performance has also allowed Codemasters to pile on 10 times the number of particles.
+
+EA Montreal's SSX is the other real game running on Intel's Bay Trail Android tablet. It's essentially a port of SSX on the PS3 but now to Android ? a pretty impressive feat when you consider that the console experience is now being shrunken into a portable one. EA Montreal had to optimize its content for mobile, which involved moving from deferred to immediate rendering, porting shaders to GLSL, updating memory management, among others.
+
+Kishonti Benchmark
+
+One other OpenGL ES 3.1 demo wasn¡¯t a game, but rather Kishonti's GFXBench benchmark software. (Read our in-depth look at GFXBench 3.0 here.) The next version of Kishonti's benchmark was on for preview, and showed a tessellation demo running live. Tessellation itself isn't a part of the OpenGL ES 3.1 spec, but it's already available extension packs from Intel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,89 @@
+PlayStation 3 system software
+
+The PlayStation 3 system software is the updatable firmware and operating system of the PlayStation 3.
+The process of updating is almost identical to that of the PlayStation Portable, PlayStation Vita, and PlayStation 4.
+The software may be updated by downloading the update directly on the PlayStation 3, downloading it from the user's local Official PlayStation website to a PC and using a USB storage device to transfer it to the PlayStation 3, or installing the update from game discs containing update data.
+
+The initial slim PS3s SKU shipped with a unique firmware with new features, also seen in software 3.00.[4]
+
+The native operating system of the PlayStation 3 is CellOS, which is believed to be a fork of FreeBSD[5]; TCP/IP stack fingerprinting identifies a PlayStation 3 as running FreeBSD,[6] and the PlayStation 3 is known to contain code from FreeBSD and NetBSD.[1]
+The 3D computer graphics API software used in the PlayStation 3 is LibGCM and PSGL, based on OpenGL ES and Nvidia's Cg.[7] LibGCM is a low level API, and PSGL is a higher level API, but most developers preferred to use libGCM due to higher levels of performance. This is similar to the later PlayStation 4 console which also has two APIs, the low level GNM and the higher level GNMX.
+Unlike the Software Development Kit (SDK) for mobile apps, Sony's PlayStation 3 SDK is only available to registered game development companies and contains software tools and an integrated hardware component. Due to the fact that it requires a licensing agreement with Sony (which is considered expensive), a number of open source and homebrew PS3 SDKs are available in addition to a number of leaked PS3 SDKs.
+
+Graphical shell
+The PlayStation 3 uses the XrossMediaBar (XMB) as its graphical user interface, which is also used in the PlayStation Portable (PSP) handheld console, a variety of Sony BRAVIA HDTVs, Blu-ray disc players and many more Sony products. XMB displays icons horizontally across the screen that be seen as categories. Users can navigate through them using the left and right buttons of the D-pad, which move the icons forward or back across the screen, highlighting just one at a time, as opposed to using any kind of pointer to select an option.
+When one category is selected, there are usually more specific options then available to select that are spread vertically above and below the selected icon. Users may navigate among these options by using the up and down buttons of the D-pad.
+The basic features offered by XMB implementations varies based on device and software version. Apart from those appearing in the PSP console such as category icons for Photos, Music and Games, the PS3 added Users, TV and Friends to the XMB.
+Also, XMB offers a degree of multitasking. In-game XMB features were added to the PS3 properly with firmware version 2.41 after causing early implementation problems. While XMB proved to be a successful user interface for Sony products such as PSP and PS3, the next generation Sony video game consoles such as the PlayStation 4 and the PlayStation Vita no longer use this user interface.[9]
+
+Cooperation with handheld consoles
+The PlayStation 3 supports Remote Play with Sony's handheld game consoles, the PlayStation Portable and the PlayStation Vita. However, unlike Remote Play between the PlayStation 4 and the PlayStation Vita, the problem with PS3 was that it only supported a "select" few titles and results were often laggy. However, it is clear that Remote Play with the PS3 was the testing bed for its much better integration with the PS4.[10]
+Also, for users having both the PlayStation 3 and the PlayStation Vita, it is possible to share media files videos, music and images between them by transferring multimedia files directly from the PlayStation 3 to the PlayStation Vita, or vice versa.[11]
+Furthermore, they can use a service called Cross-Buy which allows them to buy certain games that support this feature one time, and play them in both Sony platforms. Not only that, but in the case of most such games, their saved games actually transfer back and forth between devices, allowing players to pick up from the moment they left off.[12]
+There is also a feature called Cross-Play (or Cross-Platform Play[13]) covering any PlayStation Vita software title that can interact with a PlayStation 3 software title. Different software titles use Cross-Play in different ways. For example, Ultimate Marvel vs. Capcom 3 is a title supporting the Cross-Play feature, and the PS3 version of the game can be controlled using the PS Vita system. In addition, some PS3 games can be played on the PS Vita using the PlayStation Now streaming service.
+
+Similar to many other consoles, the PlayStation 3 is capable of photo, audio, and video playback in a variety of formats. It also includes various photo slideshow options and several music visualizations. Furthermore, the PlayStation 3 is able to play Blu-ray and DVD movies as well as audio CDs out of the box, and also capable of adopting streaming media services such as Netflix.[14]
+For a web browser, the PS3 uses the NetFront browser,[15] although unlike its successor PS4 which uses the same modern Webkit core as Safari from Apple, the PS3 web browser receives a low score in HTML5 compliance testing.[16] However, unlike the PS4, the PS3 is able to play Adobe Flash, including full-screen flash.[17]
+Early versions of the PlayStation 3 system software also provided a feature called OtherOS that was available on the PS3 systems prior to the slimmer models launched in September 2009. This feature enabled users to install an operating system such as Linux, but due to security concerns, Sony later removed this functionality through the 3.21 system software update. According to Sony Computer Entertainment (SCE), disabling this feature will help ensure that PS3 owners will continue to have access to the broad range of gaming and entertainment content from SCE and its content partners on a more secure system.[18] Sony was successfully sued in a class action over the removal of this feature. The settlement was approved in September 2016. Sony agreed to pay up to $55 to as many as 10 million PS3 owners but denied wrongdoing.[19][20]
+
+Furthermore, the PlayStation 3 provides printing support. It can for example print images and web pages when a supported printer is connected via a USB cable or a local network. However, only a selection of printers from Canon, Epson, and Hewlett-Packard are compatible with the PS3.
+
+All PlayStation 3 consoles are able to play original PlayStation games (PSone discs and downloadable classics). However, not all PlayStation 3 models are backwards compatible with the PlayStation 2 games. In summary, early PS3 consoles such as the 60GB and 20GB launch PS3 consoles were backwards compatible with PS2 games because they had PS2 chips in them. Some later models, most notably the 80GB Metal Gear Solid PS3 consoles are also backwards compatible, through partial software emulation in this case since they no longer had the PS2 CPU in them, although they do have the PS2 GPU in them, allowing for reduced backward compatibility through hardware-assisted software emulation. All other later models, such as the PS3 Slim are not PS2 backwards compatible, though users can still enjoy PS3 and PSone games on them.[21] According to Sony, when they removed backwards compatibility from the PS3 they had already been at a point where they were three years into its lifecycle; by that time the vast majority of consumers that were purchasing the PS3 cite PS3 games as a primary reason, meaning that the PS2 compatibility was no longer necessary.[22] Nevertheless, PS2 Classics which are playable on the PS3 have officially been introduced to the PlayStation Network for purchase afterwards,[23] although they are only a selection of PS2 games republished in digital format and unlike PS3 games they lack of Trophy support.[24] Later when the PlayStation 4 console was released, it was not backward compatible with either PlayStation 3 or PlayStation 2 games, although limited PS2 backward compatibility was later introduced, and PS4 owners might play a selected group of PS3 games by streaming them over the Internet using the PlayStation Now cloud-based gaming service.[25]
+The PlayStation 3 LV0 keys are a set of cryptographic keys which form the core of the PlayStation 3's security system. According to a news story on Polygon:
+
+Under normal circumstances, PlayStation 3 consoles are locked so that they can only run software and operating systems approved by Sony. When a PlayStation 3 is successfully hacked, users can perform actions that would otherwise not be possible or allowed on the console, such as play pirated games and run unauthorized operating systems.[26]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

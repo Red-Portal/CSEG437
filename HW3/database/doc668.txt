@@ -1,0 +1,13 @@
+KEY INNOVATIONS
+NVIDIA¢ç GPU with up to 72 custom cores - Enjoy unique mobile device innovations in photography, media, gaming, and web?including High Dynamic Range (HDR) imaging, WebGL, and HTML5.
+Quad-Core ARM Processor - NVIDIA Tegra 4 processor harnesses ARM's most advanced CPU cores ever, plus a second-generation battery-saver core, to deliver record levels of performance and battery life. 
+The ARM Cortex-A15 CPU is the engine behind Tegra 4, while Tegra 4i is powered by the new ARM Cortex-A9 r4 CPU?which was defined by ARM with help from NVIDIA ? and the most efficient CPU core in its class.
+ 
+Variable SMP - NVIDIA Variable SMP architecture enables four performance cores to be used for max burst, when needed, with each core independently and automatically enabled and disabled based on workload. 
+The single battery-saver core handles low-power tasks like active standby, music, and video playback, and is fully transparent to the OS and applications.
+Computational Photography Camera - Never miss that "once in a lifetime" shot while you turn on features like HDR, then try to hold still enough to properly capture the scene. 
+The innovative new computational photography mobile architecture fuses together the processing power of the CPU, GPU, and ISP to dramatically enhance mobile imaging. 
+This enables the first Always-on HDR camera with features like live HDR preview, instant HDR photos, HDR video, HDR burst, HDR Flash, and HDR Panorama, as well as the first phone-based Tap-to-Track feature.
+NVIDIA i500 LTE Modem - The i500 is a full LTE modem and supports any Tegra powered device as a separate but complementary chipset. 
+Tegra 4i is a single-chip processor that delivers a full application processor, and integrates an optimized version of the i500 modem.
+For more information on i500, see here.

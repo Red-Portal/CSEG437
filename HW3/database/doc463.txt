@@ -1,0 +1,45 @@
+Where Intel is heading in the smartphone space
+
+Intel is now a presence in the smartphone market, but rather than enter with a boom the globally recognised chipset manufacturer has arrived quietly and without fanfare.
+ 
+At present, the company°Øs hardware only sits in a handful of smartphone devices and only a small selection of those are available in the UK: the Orange San Diego, ZTE Grand X IN and, most notably, Motorola°Øs Razr i.
+ 
+We spoke to Intel spokesperson Anna Cheng, who explained how single core could outperform multicore and what makes the tech behind Motorola°Øs Razr i tick:
+ 
+°ÆKeep in mind that not all cores are created equal. A great smartphone and tablet is not defined by the number of cores on the SoC. It°Øs defined by a great experience, and the underlying architecture, battery life/performance delivered with the cores, and the software optimization of the platform will play a critical role. Our initial introduction of the Medfield SoC in phones and Clover Trail SoC in tablets, provide highly competitive performance, battery life and experiences.°Ø
+ 
+Cheng also outlined that Android is currently the company°Øs focus: °ÆIntel°Øs first step with regard to smartphones is the Android platform. We will support other OSs when the market demands it,°Ø she said.
+ 
+But there°Øs good reason for the softly, softly approach, according to CSS Insight analyst Ben Wood.
+ 
+°ÆThese are baby steps,°Ø he says, °ÆIt°Øs early days but securing a place in the mobile market long-term will be crucial to Intel°Øs success.°Ø He describes Android as a good choice because Google has °Ælevelled the playing field.°Ø
+ 
+°ÆWe are just getting started and entered the market segment earlier this year with a competitive offering in a number of key high-growth markets,°Ø adds Cheng, °ÆWe have a strong roadmap for the future and will build on this foundation.°Ø
+ 
+Wood explains that the mobile space is currently experiencing a °Æcollision°Ø of the traditional computing and communications industries.
+ 
+This factor, he argues, is causing different companies involved to take different approaches depending on their respective backgrounds.
+ 
+ARM, Intel°Øs chief rival in the space, is currently the de facto choice for many device manufacturers, but Wood describes the company as coming from a °Æsimple phone background,°Ø that is, feature phones with just talk and text functions.
+ 
+ARM has had to evolve as the smartphone concept has emerged and is now °Æscaling up°Ø to devices which are essentially small computers.
+ 
+Meanwhile Intel, a company synonymous with computing, has to scale down.
+ 
+Wood asserts that one of the big obstacles for Intel currently is that the company is used to operating with machines constantly plugged into a power source at the wall. It°Øs not used to the concept of having a small, limited use battery pack and is encountering what Wood describes as the °Æpower-performance conundrum°Ø.
+ 
+Intel seems to think it°Øs doing a good job at the moment in this regard, but has plans to improve the situation further:
+ 
+°ÆOur single core Intel Atom processor Z2460, outperforms many of the leading dual-core solutions in the market today on some of well known industry benchmarks,°Ø said Cheng, °ÆWe will also increase performance over the current generation with our upcoming platform (Atom¢‚Z2580) for 2013. We like our competitive position.°Ø
+ 
+°ÆOur 32nm SoCs sip on power and subsequently deliver competitive battery life ? on par with the very best ARM based solutions in the market today.°Ø
+ 
+But despite doing a good job of matching the competition ARM is still ubiquitous while Intel brings up the rear.
+ 
+Wood describes the °Æsocket on a phone°Ø, that is, the place where a processor chip sits, as a highly prized and contested element of the smartphone space, with Intel and ARM vying for position.
+ 
+Intel, he argues, needs to give manufacturers a good reason to want to swap current ARM chips for Intel ones, an area where he says there is °Æsignificant engineering work required°Ø.
+ 
+°ÆThere is evidence,°Ø says Wood,°Ø that Intel is moving towards a highly competitive solution.°Ø
+ 
+One key advantage the company has over its rivals, is that it°Øs the only chip maker with its own manufacturing, design and fabrication capabilities. Other chip makers simply design the hardware from component manufacturer parts and outsource the assembly.

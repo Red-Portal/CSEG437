@@ -1,0 +1,28 @@
+			FLASH MP3 PLAYER 3.1
+
+The Flash MP3 Player is the easiest way to add live music or podcasts to your website. It supports playback of a single MP3 file or an RSS/XSPF playlist, a wide range of flashvars (settings) for tweaking both behavior and appearance and an extensive, documented javascript/actionscript API. The example above shows a feed with free music from the popular Project Opus music portal and the small example below plays a song by Peter Jones:
+
+ 
+LICENSING
+This script is licensed under a Creative Commons License. It allows you to use and modify the script for noncommercial purposes. For commercial use, I distribute licenses of the script for 15 euros. For more info and instant ordering, please advance to my online order page!
+
+DOWNLOAD
+You can download the Flash MP3 Player here. It includes the source files (Flash8) and a readme with tips regarding the installation and use of this script. please read it carefully!
+
+PLUGINS
+Since the player is quite new, there are few plugins for inserting it into a much-used CMS yet. If you have written one, please report so in my forum, so I can list it here:
+
+The MP3-o-Matic Wordpress Plugin (by DarkGiank) 
+HISTORY
+3.1: Various Bugfixes. [download] 
+3.0: Complete rewrite of the mp3player. Added large cover support and a documented (javascript) API. 
+2.3: Latest version 2 mp3player. Added RSS/XSPF playlists, color customization and scrollbar. [download] 
+1.1: latest installment of the first mp3player. [download] 
+SUPPORT
+If you encounter too fast or too slow playback of MP3 files or if your progressbar is messed up, your MP3 files contain variable bitrate encoding. Flash isn't very good at handling these, it's best to stick to constant bitrate encoding.
+
+This player will run quite OK inside the Flash Player 7. However, the following features are not supported: display of GIF/PNG images, smoothing of scaled images, javascript control and the digits in the controlbar.
+
+For tips, tricks, additional info and bug reports, you can always have a look at my forum's Flash MP3 Player threads.
+
+For more info about the embedding of Flash in HTML, have a look at my Embedding Flash article.

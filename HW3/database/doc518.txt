@@ -1,0 +1,22 @@
+Mobile operating system milestones mirror the development of mobile phones and smartphones:
+1979?1992 Mobile phones have embedded systems to control operation.
+1993 The first smartphone, the IBM Simon, had a touchscreen, email, and PDA features.
+1996 Palm Pilot 1000 personal digital assistant is introduced with the Palm OS mobile operating system.
+1996 First Windows CE Handheld PC devices are introduced.
+1999 Nokia S40 OS was officially introduced with the launch of the Nokia 7110
+2000 Symbian became the first modern mobile OS on a smartphone with the launch of the Ericsson R380.
+2001 The Kyocera 6035 is the first smartphone with Palm OS.
+2002 Microsoft's first Windows CE (Pocket PC) smartphones are introduced.
+2002 BlackBerry releases its first smartphone.
+2005 Nokia introduced Maemo OS on the first internet tablet N770.
+2007 Apple iPhone with iOS introduced as an iPhone, "mobile phone" and "internet communicator."[1]
+2007 Open Handset Alliance (OHA) formed by Google, HTC, Sony, Dell, Intel, Motorola, Samsung, LG, etc.[2]
+2008 OHA releases Android 1.0 with the HTC Dream (T-Mobile G1) as the first Android phone.
+2009 Palm introduced webOS with the Palm Pre. By 2012 webOS devices were no longer sold.
+2009 Samsung announces the Bada OS with the introduction of the Samsung S8500.
+2010 Windows Phone OS phones are released but are not compatible with the previous Windows Mobile OS.
+2011 The MeeGo the first mobile Linux, combined Maemo and Moblin, was introduced with Nokia N9 in effect of cooperation of Nokia, Intel and Linux Foundation
+In September 2011 Samsung, Intel and the Linux Foundation announced that their efforts will shift from Bada, MeeGo to Tizen during 2011 and 2012.
+In October 2011 the Mer project was announced, centered around an ultra-portable Linux + HTML5/QML/JS Core for building products with, derived from the MeeGo codebase.
+2012 The Lenovo K800 will be the first Intel powered smartphone (Android OS).[3]
+[edit]

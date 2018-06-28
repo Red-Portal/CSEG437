@@ -1,0 +1,36 @@
+How To Download & Play PSP Games on Android ? Free Emulator
+
+
+PPSSPP, which is one of most popular functional PSP emulator of Android, can be easily Downloaded from the Google play store. 
+
+If you read our recent blog post, you will find that you can also run and play Java app and games on your rooted android device.
+
+What is PSP emulator for Android? PSP stands for ¡®play station portable,¡¯ is a game console developed by Sony that helps you to run PSP games with exrta features without root privilege.
+
+It primarily competed with the Nintendo DS, as part of the seventh generation of video games. 
+
+If we discuss its features, then we will find that it can play high definition resolution games either on Android phone or tablet. 
+
+You can even save and restore game state anytime, anywhere in less time.
+
+Minimum Requirement to play PSP games on Android
+
+Android device or tablet (2.2 or higher recommended). You can even play PSP games on your low power Android device, but it may hang your device.
+
+PPSSPP Emulator PSP Games (In CSO or ISO file format) Instructions to install PSP games on Android (step-by-step guide)
+
+First of all, navigate to Google play store and install. PPSSPP Emulator Play PSP Games on Android
+
+Now, download ISOs or CSOs PSP games. Navigate to here to download ISOs or CSOs image.
+
+Note: These PSP games can easily be downloaded from various torrent sites.
+
+Always download files from torrent sites using an anonymous proxy server.
+
+Now create a folder on your phone¡¯s SD card, i.e., PSP games folder.
+
+4. And, place the downloaded ISOs or CSOs image into the PSP games folder.
+
+5. Then launch the PPSSPP emulator (step 1). And go to the ¡®Games¡® and find the location where you saved the ISOs or CSOs games files (i.e., PSP games folder)
+
+6. Then open the ISOs or CSOs games, and that¡¯s it.

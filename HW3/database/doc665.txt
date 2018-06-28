@@ -1,0 +1,13 @@
+Imagine driving to a job interview and realizing that you're lost. Your first impulse would probably be to call the business that's interviewing you and ask for directions. But if you're not sure where you are, getting directions can be tricky.
+But suppose you use your phone for another purpose -- to figure out exactly where you are and to get turn-by-turn directions to where you're going. New phones that include global positioning system (GPS) receivers can do exactly that. With the right software or service package, they can pinpoint your location, give directions to your destination and provide information about nearby businesses.
+
+
+
+In this article, we'll review the basics of how cell phones and GPS receivers work. Then, we'll explore how phones combine these technologies.
+Cell Phone Basics
+A cell phone is basically a sophisticated two-way radio. Towers and base stations, arranged into a network of cells, send and receive radio signals. Cell phones contain low-power transmitters that let them communicate with the nearest tower.
+As you travel, you move from one cell to another, and the base stations monitor the strength of your phone's signal. As you move toward the edge of one cell, your signal strength diminishes. At the same time, the base station in the cell you are approaching notices the strength of your signal increasing. As you move from cell to cell, the towers transfer your signal from one to the next.
+In remote locations, towers may be so far apart that they can't provide a consistent signal. Even when towers are plentiful, mountains and tall buildings can interrupt their signals. Sometimes people have a hard time getting clear signals inside buildings, especially in elevators.
+­ Even without a GPS receiver, your cell phone can provide information about your location. A computer can determine your location based on measurements of your signal, such as: Its angle of approach to the cell towers, How long it takes the signal to travel to multiple towers, The strength of your signal when it reaches the towers.
+Since obstacles like trees and buildings can affect how long it takes your signal to travel to a tower, this method is often less accurate than a GPS measurement.­­
+ 

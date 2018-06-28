@@ -1,0 +1,130 @@
+Scope and challenges of Internet of Things :An Emerging	Technological Innovation
+
+
+
+    Jyotiranjan Hota1 Associate Professor(Systems) KIIT School of Management
+KIIT University
+Krishna    Campus,Patia,Bhubaneswar,Odisha,India jyotiranjan_h@yahoo.com
+
+
+Pritish Kumar Sinha2
+First Year MBA Student KIIT School of Management KIIT University
+Krishna    Campus,Patia,Bhubaneswar,Odisha,India pritishsinha02@hotmail.com
+
+
+
+Abstract - Internet of Things is  creating an environment of convergence in the society. This technology environment  brings a paradigm shift in our professional and personal life. As a connected environment, IoT adds customer value and  loyalty. Today, IoT is being  implemented everywhere which is of human concern like smart city, smart environment, security, smart business process, smart agriculture, home automation and healthcare. This article discusses the evolution, advantages, Architectural design choices, Internet and Mobile Applications of Internet of Things(IoT). It is quite interesting and challenging to develop and implement web applications using open sourcing hardware and software. Authors discuss issues like invasion of privacy, governance, security, regulatory issues, migration to IPv6 and standardization Issues as barriers to adoption of IoTs. Authors also highlighted future research directions of Internet of things.
+
+Keywords- IoT, Architectural Design Choices, Internet and Mobile Applications, IPv6, Standardization Issues, Invasion of Privacy, Regulatory Issues, Standardization Issues
+
+I. INTRODUCTION
+
+IoT is a concept where an object is assigned to an IP address and through that IP address we make that device identifiable on internet. A Team of International Telecommunications Union defined IoT as a global infrastructure for the information society, enabling advanced services by interconnecting (physical and virtual) things based on existing and evolving interoperable information and communication technologies. The network can be a combination of people-things, things-things and people-people. It happens only because of the conjugation of various technologies such as wireless communication, Micro Electromechanical System that includes wireless sensor, networks and control system. The most important elite presence of cloud space on Internet is shaping the architecture of IoT in a feasible and rational form. Certainly, what IoT can do is beyond imagination. It connects plethora of heterogeneous object .
+
+978-1-4799-8433-6/15/$/31.00(c)2015 IEEE
+II. 
+EVOLUTION
+
+Adoption of Internet as a technological innovation has brought a revolution in our society. It was the time in late 1950s[1], USSR launched sputnik which is the first effort of human civilization to step into outer space. Subsequently, Advanced Research Project Agency(ARPA) was born in US for carrying out missile and space research to complete with USSR. Then National Aeronautics and Space Administration was also established in USA. Activities of NASA reoriented the focus of ARPA for computer science research and information processing research in USA. ARPA connected few Universities of USA through ARPANET which is  a multiple-site computer network. This ARPANET subsequently developed as internet.
+
+Internet can be classified as The Internet of Documents, The Internet of Commerce, The Internet of Applications, The Internet of People and The Internet of Things. Internet of documents comprises e-libraries and document of webpages.The Internet of Commerce deals with e-commerce- banking and online tradings.Interent of Applications confine to web 2.x and Internet of Things is associated with connected devices and machines[2].
+
+ It was the year 1991[3], Mark Weiser of PARC published an article on future of ubiquitous computing in Scientific American. He explained through his article on the importance of interconnection of wires, infra red and radio waves. Further, the entire world was amazed when Bob Metcalfe's article appeared in Communications Week. Quentin Stafford- Fraser and Paul Jardetzky at the University of Cambridge used a camera in Trojan Room lab and wrote a server program to capture images of the pot every few seconds to monitor the coffee level so that researchers would know when coffee was available. Subsequently[3], Siemens developed a GSM data module "M1" for machine to machine industry application. During January,1999, founder of Sun Microsystems described in a presentation at world economic forum "device-device communications" as one the six webs that he envisions. However, Kelvin Ashton, Co Founder of Auto-ID centre at
+
+MIT, informed for the first time to the World Community "Internet of Things" by referring to the link between RFID technology in supply chain of P&G and Internet. During the last year of twentieth century, LG announced the introduction of first internet connected refrigerator. Duing 2002, Chana R. Schoenberger described in Forbes magazine as " Stores have eyes. Now they're getting brains. Soon tiny wireless chips stuck on shampoo bottles and jeans will track all that you wear and buy". Same year, a product "Ambient Orb" was introduced which started displaying Dow Jones, personal finance and weather information based on Internet data and changes its color based on the dynamic parameters. Subsequently, U.S. company BigBelly Solar made smart trash cans that gets their power from the sun and communicate their status over the Internet. Subsequently, G Lawton explained through his article that M2M is based on the idea that a machine has more value when it is networked and that the network becomes more valuable as more machines are connected[3].
+
+During 2005,Wi-Fi enabled rabbit " Nabaztag" was created that collects information from the Internet and alerts the user verbally about important messages and news. Same year , UN's International Telecommunication Union also published a report on Internet of Things. A global collaborative forum IPSO Alliance was founded during 2008 which promoted the use of IP in connected devices.Subequently during 2010, ZigBee Alliance and IPv6 Forum form strategic partnership with IPSO with an objective to increase the rate of adoption of IP Networked smart objects. During 2011, Nest Labs introduced a Nest Learning Thermostat which could use sensor algorithms, machine learning and cloud computing to understand the home owner's behaviours and preferences and adjusts the temperature up or down accordingly. IPv6 and Google glass were launched during 2012. IPv6 provides virtually unlimited IP addresses for devices to connect to the Internet. Google Glass is a pair of glasses with an optical head-mounted display that displays information collected wirelessly according to  the  user's specification. During 2013,AllSeen Alliance was formed by Qualcomm along with other technology firms. Objective of the Alliance was to develop an open framework to enable  the Internet of Things[3]. Many technical news sites termed year 2013 as the Year of "Big Data". Similarly, year 2014 is termed as year of "Internet of Things" and year 2015 will be termed as "Internet of Things That Matter". During 2014, Google Glass goes on sale to the general public for 1500 Dollars. During same year, Chip maker Intel and other high tech firms established "Open Interconnect Consortium". This consortium is a competing group to AllSeen Alliance.
+III. 
+ARCHITECTURAL DESIGN CHOICES
+
+A. IoT-A
+
+ IOT-A project proposed an Architectural Reference Model(ARM) that support design choices with a common understanding. The project is popularly termed as European Lighthouse Integrated Project which supports interoperability. ARM also defines guidelines for designing protocols, algorithms and interfaces.
+
+B. Wireless Sensor Network
+
+IP and non IP based technology solutions are used for Wireless Sensor Networks.Zigbee,Z-wave,Insteon and Wavevenis are non IP Based solution. IPv6 and 6LoWPAN are IP based solutions of WSN. However[6], presence of many proprietary and non proprietary Wireless network, it is difficult for a cohesive integration of WSN with fast growing Internet Technologies. In the current context, world is moving towards IP based solutions which are based on open standard like IPv6 and 6LoWPAN.
+
+C. Sensei
+
+European Union project of SENSEI is an initiative during 2010 on IoT architecture and initiatives. The  primary objective of this project is to design a network of the future by integrating the physical and digital world. This project deploy and interconnect sensors, network nodes and actuators everywhere. SENSEI does not differentiate physical object and virtual object.
+
+IV. INTERNET AND MOBILE APPLICATIONS IN IoT
+
+Internet and web application in IoTs are generally facilitated by open sourcing hardware and software. It is quite interesting and challenging to develop and implement applications for IoTs.One can easily develop applications using Python, html5, C and Node.js. As communication in IoT is both ways, a browser can establish communication with JavaScript API to real time web through TCP/IP. IoT enabled applications can control light,sensors and other electrical and electronics appliances.Customers provide their feedback and input before Mobile application development. Usually,a prototype is prepared and tested in real time for IoT enabled mobile applications. In the current context, competition is happening between Android and iOS mobiles. Evothing Studio is a popular tool for developping IOT enabled mobile application development.This studio consists of a client,a workbench, example applications and native plugins.This platform  is freely avaliable in Internet and open source based.
+
+V. SCOPE AND BENEFITS OF IoT
+
+It's the technology of today which is touching and transforming the every aspect of our real life. IOT has given a concept of Machine to-Machine (M2M) communication. Companies like Microsoft and SAP are implementing strategy to capitalize on the Internet of Things so that you can just stop your business and start making it thrive. IOT is going to have huge impact on home automation and building automation system where every convenience will be taken care of by the interconnected devices on IOT. It is also deployed on large scale for example in Songdo , South Africa , the first of its own kind fully equipped and wired smart city is near to completion ( known as Ubiquitous City). With the personal electronics good connected to Internet will enable us to "author" our lives. In medical science field, IOT has given a privilege to devices and system to sense for coming disease and to prevent it ,for eg: It can make a person healthier with wearables that can predict heart attack and cardiovascular strokes. As per a report of Thesunsdaily, consumers will start initiating the usage of IoT in a better way during 2015 and onwards compared to past usage. It is expected that IoT products with interoperable capability will dominate the market. Awareness of IoT products is also vital for market penetration along with security features. Even very few Americans are aware of the usage of these products. As per a study of Consumer Electronics Association and Parks Associates found only 10% of the household in USA fully understood the usage of these products. Many interesting IoT products like automatic door locks, Wi-Fi connected ceiling fans, light swirches,LED bulbs, smart watches,3-D printers and smart clothes will be popular among consumers.MyBrain Technology in France has developed "Melomind". This EEG Headset can measure a human's brain waves and adjust music in a Smartphone app as they change. This product can be used as a digital meditation aid. A smart baby pacifier can measure the temperature of a baby and transmit the same to the Smartphone of parents.
+
+IoT[4] is  proved to be an emerging technological innovation. In the current context, it is now possible that an helmet of a two wheeler can interact with a car for avoiding collision. Connected toothbrush can now monitor and make one's experience pleasurable .A three dimensional senor of the electric brush can connect with Smartphone apps and provide real time feedback to the person .
+
+Many scopes  will be created for technology companies to release offerings as per the behaviour of consumers. It may so happen that Netflix can know when a person is sad and alone by monitoring the smart watch, smart thermostat and in-home camera. Subsequently, Netflix may offer a movie to change the mood[12]. In a consumer electronics show in Los Vegas, Samsung informed that the company would invest 100 million dollar for progress of IoT. The company will also promote an open technology ecosystem for facilitating the usage of IoT.
+VI. 
+ISSUES AND CHALLENGES
+
+IoT	is	not	free	from	challenges.	Issues	of Goverance,security,Interoperability,privacy,regulations, providing power to billions  of sensors and standardization issues can slow down the progress of Internet of Things. Due to absence of a generic governance, there are many confusions and  inconsistencies.  Absence  of  a	universal  numbering system is a bane for providing a true IoT environment. In the current context, systems like EPC Global and ubiquitous ID systems are used to address  the issue of  global ID systems. There  is  a  challenge  of  implementing  common  security protocols. So, interoperability is an issue while interacting among IoT objects developed by different manufacturers.
+
+Lack of Support of the regulatory bodies, Government agencies and ubiquitous connectivity are barriers to device integration. Even quality and cost of receiving data from multiple sources are still with issues. Companies[13] like IBM,Cisco, GE and Amazon have decided to add Swarm and fog layers. This effort reduces the difficulty of connecting IoT devices and also the cost of integrating these devices. Though[9], Applications like home monitoring systems, wearable devices along with consumer oriented products are the centre of attention of Internet of Things domain, Entreprise IT professionals are still with issues to apply these concepts from the context of generating business values.
+
+IoT Consortium[5] conducted a research on the adoption of IoT during 2015.As per the study, there is a concern for security and privacy. Though IoT is moving towards mass adoption, the manufacturers should provide cost effective, intuitive and simple  solutions for connected Home. Major attack on IoT may also be possible on IoT devices which were not connected before. IoTs [8] will derive  optimum satisfaction from the customers once the firm's policies to capture and usage of personal data is quite clear and accountability is there in case of violation of policies. At the same time, customers should be provided with user friendly data management tools for easy management and viewing of personal data.
+
+A real change can happen if we can develop a system to evaluate the massive data generated in IoT Environment and acts on these data in real time.IoT is now in early stage of adoption. Primary obstacles to adoption are awareness of IoTs among consumers, features and benefits of these products[7].
+
+ETSI has formed an internal M2M taskforce for M2M systems and sensor networks. Objective of this taskforce is to develop and maintain end-to-end archiecture, integration of sensor network, enhancement of security, quality of service and to strengthen interface of hardware devices. Similarly, IPv6, 6LoWPANs and ROLL networks are evolved for standardization.    CASAGARAS    model    is    evolved    for
+
+standards, regulations, and global coding systems of Radio Frequency Identification. The group is also putting effort in development of ubiquitous computing, Networks and usage of RFID network in socio economic components. This model is quite open and  facilitates  RFID to  interface  with physical world  with  ease.  W3C  model  is  facilitating  coordination among  machines,  solves  security  and  privacy  issues  and resolves   different   addressing   schemes   in   Peer   to   Peer Networks.  The  network  technologies  like  WiFi,  WiMAX, Bluetooth,  ZigBee,  Cellular  Packet  Radios  are  evolving rapidly. W3C is trying to mix these technologies for adding network effect. ANEC and BUEC models are concerned for Openness, Interoperability, Trust, Security, safety, reliability, protection of fundamental rights and  respect for  European values. ANEC and BUEC are European consumer groups. Once a generic standard is developed, it will be quite easy to locate and trace IoT Objects .The standardization will also facilitate interoperability among IoT objects[10].
+
+VII. CONCLUSION AND FUTURE RESEARCH DIRECTION
+
+The ongoing research in the field of IoT and its implementation in full or partial manner will definitely improve the quality of life of human civilization .Today IOT is being implemented everywhere which is  of  human concern like Smart city, smart environment, security and emergencies, smart business process, smart agriculture, domestic and home automation and healthcare. Search engine giant Google has already taken initiatives to mark its presence in the field of IoT. It is trying to transform the IoT by putting their enthral concept of making the physical URL as future of IoT instead of  apps which we commonly use. In this process, the browser will display a beacon style broadcast in which the nearby object will appear which will be present in the near proximity and can be communicated directly with the help of URL's according to the preference of users and signal strength of the smart  object. On the other  hand IBM and Libelium has launched 6LoWPAN development platform for IoT which will enable every single sensor  and  devices  to connect directly to the Internet using the new IPv6 protocols. China and many European countries are investing high amount of their GDP in making smart architectural infrastructure for e.g. Smart Roads and Bridges for the safety of people. In this smart bridges if corrosion or if any malfunction happens it will communicate directly so that repair work can be done at the proper time. Smart agriculture is also in research, Waspmote has taken this initiative for optimum productivity using the sensor networks to maintain monitoring capacity of crop cultivation throughout the production cycle. For example, depending on soil humidity Waspmote can send a message (through the ZigBee network or by SMS) to automatically switch off watering or to change water supply, thus contributing towards efficient water management.
+
+Over 50 million sensors and smart watches, smart meters and smart phones, washing machines, fridges, wearable devices and many more things will be connected over internet by 2020. The Internet of  Things, Industrial Internet and Internet of Everything in 2015 will morph into the Internet of Anything[11].IoA will input all data in an unified way with a common software "ecosystem". Though many IT companies are now busy in addressing interoperability issues and the challenge of controlling hardware devices through software, the world community is now moving towards creating opportunity to live in a  "connected life" environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View publication stats

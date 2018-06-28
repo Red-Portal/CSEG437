@@ -1,0 +1,52 @@
+﻿Surprising Skills
+
+SHOPPERS trolling the electronics aisle as the annual holiday gift scrum heats up may find more than they expected this year. With little fanfare, many everyday gadgets have become multitaskers, with abilities going beyond their original functions into surprising territory.
+
+Whether you know it or not, there is a good chance that the cellphone from Verizon or Sprint that you are considering for your child or somebody else on your list has become a G.P.S. receiver as well. The packaging might not even mention navigation on the phone’s crowded list of features. But a G.P.S.-enabled phone, equipped with software like TeleNav or VZ Navigator, can provide turn-by-turn directions just like more expensive, dedicated in-car devices do. 
+
+The fact is, many electronic devices we carry around can do more than they used to. Cameras with Wi-Fi can connect wirelessly to the Internet so you can manage your photos without turning on the computer. Some pocket media players allow you to send and receive e-mail while recording TV shows. 
+
+And more of these multitaskers are hidden among your electronic devices at home. 
+
+Video-game consoles and the set-top boxes provided by cable and satellite companies are increasingly endowed with extras that you may not have known or cared about when you brought them home. The box that you use to play the game Call of Duty or to watch “The Office” in high definition may also stream music from the Internet, a home PC or a connected iPod. The chance that a set-top box will deliver video on demand is rapidly approaching 100 percent.
+
+This jack-of-all-trades approach to product design was called “convergence,” but most converged devices suffered a master-of-none stigma. Shoppers focused on one-trick ponies: a phone for making calls, an MP3 player for music, a camera for taking pictures and a game machine for eliminating enemy snipers, period. 
+
+But in the last two years or so, phones, set-top boxes and game consoles have been transformed from specialized appliances into open-platform computers, with fast and direct connections to the Internet. As costs for both hardware and software have fallen, manufacturers have begun loading products with new features. 
+
+Though the word has fallen out of use, the spirit of convergence is alive and thriving.
+
+Take a look at the three game consoles competing for video gamers. All three connect to the Internet, and each will have online retailing of games. Both the Nintendo Wii and the Sony PlayStation 3 have Web browsers and photo viewers. The PS3 plays DVDs and Blu-ray high-definition movies and can copy CD tracks to its hard drive. 
+
+Microsoft’s Xbox 360 comes with ready-to-stream audio, video and photos from Windows XP and Windows Vista computers. Not only can you watch TV shows you recorded with a Media Center PC (sold separately, of course), but you can also download movies and TV shows, some in high definition, directly over the Internet to the Xbox’s hard drive. If you have any time left over, the three consoles also let you take care of those pesky enemy snipers.
+
+Michael Greeson, founder of the Dallas-based Diffusion Group, says that phones and household devices have become flexible to the desires of the manufacturer, the service provider and the customer. In the home, he says, product categories are becoming meaningless. From now on, all the devices sitting next to your TV will be competing with one another for their very existence.
+
+As far as DVRs, game consoles and even media PCs are concerned, Mr. Greeson said: “Things generally categorized as home media servers are interesting because they can do just about anything, and there’s no physical format requirement for the device. It’s a question of how it’s going to be used. 
+
+“A digital video recorder,” he added, “can easily be your entire digital home entertainment center. It’s capable of storing music and video files. It’s capable of organizing your library of content through an on-screen guide. It has multiple interfaces so that not only can you run a simple RCA jack to your stereo to create a home theater, you can also connect it to a home network and send entertainment to any other networked device in the home, such as a PC.”
+
+Cellphones offer perhaps the clearest picture of the changes that have taken place.
+
+“Today’s average ‘feature’ phone handset probably offers the computing power of a mid-1990s PC,” said Ken Hyers, senior analyst for mobile content at ABI Research. Most users still buy cellphones mainly for voice service, though text messaging is increasingly important. Shoppers are now looking for other things as well, like a camera and music playback. Hundreds of phones sold in the United States can now play MP3 files, and most have cameras. 
+
+Underneath it all, most phones use Java or Brew platforms to run applications of increasing richness, developed and published by third parties. In most cities, phones by Sprint, Verizon and Cingular can access high-speed data networks. Not only are phones more powerful than mid-1990s computers, their invisible Internet connections deliver DSL-like performance, with download speeds up to 700 kilobits per second.
+
+Walk into a Cingular store and you will quickly spot the Samsung Sync phone. Its features include a 2-megapixel camera with video, instant messaging, mobile e-mail and Cingular’s music and video services. Its most unusual trait is that it connects to subscription all-you-can-eat music services like Rhapsody and Napster, carrying as many songs as you can load onto an optional MicroSD memory card. Technical wonder that it may be, Cingular is selling the Samsung Sync (SGH-a707) for $50 with rebates and a two-year contract.
+
+Despite the BlackBerry mobile e-mail craze, and in spite of high demand from customers, e-mail has been one of the last unconquered territories for the phone. “People may buy phones for e-mail, then end up giving up in disgust,” said Mr. Hyers. “It’s too frustrating or too expensive.”
+
+Cingular’s biggest achievement with Sync was the development of a simple e-mail application: you enter the e-mail address and password, and the software will retrieve and let you manage messages from multiple accounts like Hotmail or AIM.
+
+Jim Ryan, vice president of consumer data services at Cingular Wireless, said that e-mail had been a challenge. The Sync’s e-mail program was “the first time I was really proud of the e-mail experience, the first time it delivered on the vision,” he said, adding, “Going forward, that’s going on a vast majority of our phones.”
+
+Many digital set-top boxes are increasingly capable of delivering on-demand entertainment coupled with photo and music management. TiVo, which has long allowed you to play music and browse photos, has just introduced services to help a user search for content online and in the broadcast cable schedule simultaneously, and will let you share home videos across the Internet using the One True Media service.
+
+One of the best examples of the set-top box of the future is already on the market — if you live in one of 12 states where AT&T offers the HomeZone entertainment package. 
+
+Odds are, you would order HomeZone service because you want satellite TV. AT&T bundles Dish Network service in the box, along with a DVR for recording shows. But the box, connected to the Internet by way of AT&T’s broadband DSL service, comes ready with MovieLink pay-per-view video on demand. Soon it will also offer Akimbo, a subscription video-on-demand service. It contains both the MusicChoice radio found in most cable service offerings, and Sirius channels streamed over the Internet. If you want to manage your photographs, you can connect a camera and dump photos directly onto the box’s 250-gigabyte hard drive, import photos from your computer via the home network, or visit the AT&T Yahoo photo service online to browse albums you may have uploaded there.
+
+At the final frontier, your wireless, home theater and desktop computer experiences will converge in a seamless experience. Use your phone to tell your DVR to record a show. If you cannot make it home, watch the show on your phone or your laptop instead. 
+
+There is not much chance you will confuse a DVR for a telephone, but as every device develops new talents, it is certain that one day they will pose a threat to each other.
+

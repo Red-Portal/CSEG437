@@ -1,0 +1,62 @@
+PC Gaming: More Than 1 Billion Players … and Counting
+
+As the world’s most important consumer trade show plays out this week in Las Vegas, don’t overlook the world’s most important form of consumer entertainment.
+
+PC gaming.
+
+We’re bringing plenty of news to CES, of course. We’re announcing a new breed of Big Format Gaming Displays for a giant-screen PC gaming experience; extending our GeForce NOW beta to PC users to bring AAA gaming to a billion more PCs; and rolling out new GeForce Experience features that let you customize your gameplay.
+
+The $33 billion PC gaming market is huge and growing. Let’s look at the numbers.
+
+To start, there are now more than 1 billion PC gamers worldwide, a figure that is expected to grow to 1.4 billion by 2020.
+
+That figure explains why esports has emerged as the world’s newest spectator sport, on track to amass close to 600 million fans by 2020, up almost 2x from 2016.
+
+It also reveals why watching people game has become the world’s newest mass medium, with more than 650 million people watching on outlets like YouTube and Twitch.tv.
+
+Take PlayerUnknown’s Battlegrounds. The meteoric rise of this frenetic free for all of a game (by little known developer Blue Hole) could only happen on the PC. Within a few short months, millions of gamers jumped into PUBG globally, and the viewing audience followed.
+
+As of today 200 million have watched it, 10 times the size of the audience for Sunday Night Football. It outpaces the 25 million gamers who play — 90 percent of whom are playing on GeForce.
+
+In-game photography has even become an art form of its own with millions of fans, thanks to social media and software like our Ansel in-game photography tool.
+
+The story behind these numbers: a virtuous cycle unlike any other.
+
+Since the PC platform is open, it’s always growing more technologically advanced. As those advancements bring more capabilities to the PC, PC gaming attracts more developers. Those developers create more engaging content, in turn, drawing bigger crowds.
+
+It’s a cycle we’ve consistently driven forward.
+
+Whether you’re talking about technologies such as transform and lighting, programmable vertex and pixel shaders, or the invention of the GPU, the majority of 3D graphics innovations for the PC have been introduced by NVIDIA.
+
+And we continue to advance PC gaming.
+
+Our flagship GeForce GTX 1080 Ti GPU muscles gaming onto a new generation of ultra-high-definition displays, supports a new generation of immersive virtual reality experiences, and gives game developers a rich pipeline of new visual effects to play with.
+
+We’re also feeding the appetite to share gameplay — and watch what others are doing. GeForce Experience has already helped gamers capture more than 1 billion images and videos.
+
+More’s coming. At CES this week, we introduced NVIDIA Freestyle, a new GeForce Experience feature that lets players customize the look of their games, and an updated user interface for NVIDIA Ansel, which has already revolutionized in-game photography.
+
+A Billion Down, Billions More to Come
+In 2018, we’ll continue to expand gaming.
+
+The latest success: Nintendo’s portable Switch, which has sold more than 10 million units since its launch last year — rivaling the PS4 as the fastest-selling console ever globally and crowned the fastest selling in the U.S. and Japan.
+
+The Switch is powered by an NVIDIA processor with a GPU based on the same architecture as our GeForce gaming graphics cards.
+
+We’re also upsizing the displays themselves, introducing at CES a new generation of 65-inch 4K HDR gaming displays we call big format gaming displays — or BFGDs.
+
+And thanks to our award-winning Max-Q designs, the thin and light laptop gaming category has exploded. Both 3x faster and 3x thinner than previous-generation gaming laptops, Max-Q has been adopted by all major laptop manufacturers. So gamers can now take their favorite PC games everywhere they go.
+
+Transforming a Billion PCs into Gaming Beasts
+With GeForce NOW, we’re continuing our effort to bring great gaming to more PCs.
+
+Right now most of the world’s more than 1 billion PC gamers don’t have systems ready to play the latest games. GeForce NOW takes advantage of our gaming supercomputer in the cloud to give lower-spec PCs the capability to play the most demanding games.
+
+It’s an effort that recently got underway with Mac, where GeForce NOW has given Mac owners the ability to play hits such as PUBG and Dota 2.
+
+And we’re continuing to bring more games to the big screen, both through our SHIELD TV — just named IGN’s best streaming box — and through BFGDs, which have all of SHIELD’s streaming and gaming abilities built in.
+
+More Gamers, and More Glorious Games, Are Coming
+The marvelous mayhem that is PC gaming continues, and we will stay right in the middle.
+
+And, if you’re a gamer, the promise remains the same: more sleepless nights of gaming glory await.

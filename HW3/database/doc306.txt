@@ -1,0 +1,12 @@
+samsung mobile devices use ipad and iphone chips, analyst claims
+
+After the WWDC keynote, the mobile industry plot thickens on reports this morning claiming samsung is fielding exactly the same arm-based processor as apple does inside its new crop of mobile devices. 
+We learned last week that samsung is making a tablet based on the same processor as used within the iphone, but we hadn't been told it was an exact copy of the processor.
+The samsung tablet is a larger version of the samsung galaxy smartphone, and is going to run the android os. It will be called the galaxy tab.
+
+apple has spent ample time discussing the benefits of the 1GHz A4 processor used in its new ios devices.It even gets a nod in the latest Apple iphone 4 video (below). Indeed, Apple has invested widely in processor technology as it builds out its range of ios-powered devices.
+
+In April, iFixit took a close look at the ipad's A4 processor. It claimed the A4's system on chip (soc) has three different dies with two of those layers containing samsung memory for a total 256mb memory. 
+
+The arm reference design used was identified as the arm Cortex A8. For future iphone 4 owners, of course, the ability of this chip to push out 720p video playback is just part of the reason the iphone 4 has such fantastic video features, and a spectacular screen to match.
+

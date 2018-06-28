@@ -1,0 +1,24 @@
+Windows Phone 7
+
+
+Windows Phone 7 is a mobile operating system developed by Microsoft, and is the successor to their Windows Mobile platform.[2] It launched in Europe, Singapore and Australasia on October 21, 2010, and is due to launch in the US & Canada on November 8, 2010, with Asia to follow in 2011.[3] With Windows Phone 7, Microsoft offers a new Metro user interface, integrates the operating system with Microsoft's other services, and plans to strictly control the hardware it runs on.[4] Microsoft unveiled Windows Phone 7 on February 15, 2010, at Mobile World Congress 2010 in Barcelona[5] and revealed additional details at MIX 2010 on March 15. Windows Phone 7 was released to manufacturing on September 1, 2010,[6] and the final SDK was made available on September 16, 2010
+
+Operating system development
+Work on a major Windows Mobile update may have begun as early as 2004 under the codename "Photon", but work moved slowly and the project was ultimately cancelled.[8]. In 2008, Microsoft reorganized the Windows Mobile group and started work on a new mobile operating system.[9] The product was to be released in 2009 as Windows Phone, but several delays prompted Microsoft to develop Windows Mobile 6.5 as an interim release.[10]
+
+WP7 was developed quickly. One result was that Windows Mobile applications do not run on it. Larry Lieberman, senior product manager for Microsoft¡¯s Mobile Developer Experience, told eWeek: "If we¡¯d had more time and resources, we may have been able to do something in terms of backward compatibility."[11] Lieberman said that Microsoft was attempting to look at the mobile phone market in a new way, with the end user in mind as well as the enterprise network.[11] Terry Myerson, corporate VP of Windows Phone engineering, said, "With the move to capacitive touch screens, away from the stylus, and the moves to some of the hardware choices we made for the Windows Phone 7 experience, we had to break application compatibility with Windows Mobile 6.5."[12]
+
+Naming
+Microsoft announced the new platform as "Windows Phone 7 Series", which was criticized for being wordy and difficult to say casually. On April 2, 2010, Microsoft announced that it would drop the word "Series", and the operating system would be called "Windows Phone 7".[13][14]
+
+Launch
+Deutsche Bank estimated Microsoft's marketing budget for the Windows Phone 7 launch to be at least $500 million.[15] In February 2010, a Microsoft press release listed the companies that would help make and operate Windows Phone 7. Hardware (OEM) makers were listed as Dell, Garmin-Asus, HTC, HP , LG, Samsung, Sony Ericsson, Toshiba and Qualcomm; mobile network operators included AT&T, Deutsche Telekom, Orange, SFR, Sprint, Telecom Italia, Telefonica, Telstra, T-Mobile USA, Verizon Wireless, Vodafone and SingTel.
+
+HP later decided not to build devices for Windows Phone 7, citing that they wanted to focus on devices for their newly purchased webOS.[16]
+
+At launch, Windows Phone 7 will support five languages: English, French, Italian, German and Spanish. Windows Phone Marketplace will allow buying and selling applications in 17 countries and regions: Australia, Austria, Belgium, Canada, France, Germany, Hong Kong, India, Ireland, Italy, Mexico, New Zealand, Singapore, Spain, Switzerland, United Kingdom, and United States. [17]
+
+Windows Phone 7 was released in Europe in October and is schedule to release in the USA in November 2010. A release in Asian countries will follow in 2011.[18][19]
+
+On 11 October 2010, Microsoft's Steve Ballmer announced 10 devices operating Windows Phone 7, made by HTC, Dell, Samsung, and LG, with sales beginning on 21 October in Europe and Australia and 8 November in the United States. The devices were to be available on 60 carriers in 30 countries, with additional devices to be launched in 2011.[20]
+

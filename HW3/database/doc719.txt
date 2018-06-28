@@ -1,0 +1,37 @@
+Orthogonal Illumination Maps
+
+How many times have you rendered your terrain database at full geometric resolution and been stunned by the picture, but dismayed that it took 20 seconds per frame?  It has happened to me a lot. :-)  There are a number of excellent techniques for mesh simplification that seek to reduce the number of triangles we have to render, but this typically has a direct and immediate impact on the quality of the lighting in OpenGL.  Even small variations in height can produce wonderful visual cues when illuminated (ala bump-mapping), but these small variations are typically the first to go in mesh simplification.
+
+Since OpenGL lighting is performed per-vertex, we have a real problem reducing the geometry without negative impact on the lighting.
+
+Assuming you chose the third option above,  you'll want to know how to go about implementing it.  
+
+I guess we might as well get to some of the bad news at this point.  
+
+This technique (as I have implemented it) requires 1 pass for ambient, 6 passes for diffuse, and 1 pass to blend in a color texture.  Don't panic!  Even with 8 passes, it's still a LOT faster than rendering all the geometry.  In this new world order of multitexturing,  many of these passes can be collapsed into a single pass.  With the worst news safely behind us, let's see the technique.  
+
+First with a simple picture equation, then in prose.
+
+So the basic idea is to perform diffuse illumination (L dot N) just like you would do per-vertex using OpenGL lighting, but instead, do it per pixel.   
+
+The components of L are premultiplied with the light color and the material properties and specified as the current color, while the components of N are each turned into textures. 
+
+The dot product is performed by using a TexEnv of MODULATE for the multiplicative operations and blending for the (signed) additive operations.  
+
+This has the desired effect of moving the whole dot product calculation into the fragment processing portion of the OpenGL machine.
+
+All the illustrations here were generated using the NVIDIA drivers for linux on a Riva TNT. 
+
+The demonstration code is GLUT and has been verified to work under Irix and Win32 as well. 
+
+Because the Riva TNT does not support subtractive blend, all of the examples here were created using the hack mentioned earlier. 
+
+If you do the math, you will discover that this hack causes the darker areas to be a little lighter than they would otherwise be. 
+
+I have also verified this visually on SGI machines (which support subtractive blend) and by toggling the demo program between OpenGL lighting and orthogonal illumination mapping.
+
+The demo program uses etopo5 (earth topography database, 5 minute resolution). 
+
+The textures are generated at full resolution while the geometry is subsampled by 16 in both I and J. 
+
+Obviously a more sophisticated mesh simplifier would produce better results, but the naive mesh simplification is still valid (and very easy to implement).

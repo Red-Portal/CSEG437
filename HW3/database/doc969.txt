@@ -1,0 +1,30 @@
+Apple: Honor Steve Jobs and make FaceTime open source
+Commentary: We haven't forgotten.
+
+I hate Skype. And though I've had better luck with Google Hangouts, I mostly hate it too. In 2018, it's still a big freaking chore to meet people face-to-face over the internet, particularly for business meetings -- even if your company uses something fancier like BlueJeans or WebEx or what have you.
+
+Which is why I was excited to hear that Apple's FaceTime will soon support 32 people at once. FaceTime is easy. FaceTime mostly just works. 
+
+But I was only excited for three seconds. That's how long it took me to remember that I own a Windows laptop and an Android phone, not an iPhone or MacBook. What's the point of holding video calls with FaceTime, if people who don't own Apple products can't join them?
+
+Wouldn't it be great if they could, though? Wouldn't it be wonderful if, say, Apple FaceTime were, say, an open industry standard that Apple's competitors could use too?
+
+But here's the thing: Steve Jobs himself promised FaceTime would be an open standard when he introduced it on June 7, 2010, almost exactly eight years ago.
+
+CNET was there. We live-blogged it. But you don't have to take our word: There's video proof. You can watch Steve Jobs say it right here, around 1 hour and 36 minutes into his WWDC 2010 keynote address.
+
+Here's the full quote:
+
+"Now, FaceTime is based on a lot of open standards -- H.264 video, AAC audio, and a bunch of alphabet soup acronyms -- and we're going to take it all the way. We're going to the standards bodies starting tomorrow, and we're going to make FaceTime an open industry standard."
+
+But it didn't happen. And since there are good reasons for Apple to keep it that way, it probably never will. 
+
+Like iMessage, FaceTime is one of those services you miss when you switch away from Apple products, making it a great reason to keep buying them. (You might have heard the phrase "lock-in" thrown around from time to time.)
+
+There's also an ongoing lawsuit to consider -- as Ars Technica documented in 2013, Apple was forced to majorly change how FaceTime works to avoid infringing on the patents of a company called VirnetX. Instead of letting phones communicate directly with each other, Apple added "relay servers" to help the phones connect. 
+
+Presumably, someone would have to pay for those servers, and/or figure out a way for them to talk to Google or Microsoft or other third-party servers if FaceTime were going to be truly open. 
+
+But that doesn't make a broken promise less frustrating. Particularly now that Apple could potentially fix annoying business video calls as well. A Skype-killing video chat service that worked on Mac, iOS *and* Windows, Android and the open web? That's something I bet companies would be happy to pay for, too.
+
+Apple didn't respond to a request for comment.

@@ -1,0 +1,96 @@
+Getting Started in Android Game Development
+Posted by Robert Green on Wed, 11/05/2008 - 16:26
+How-To Android cellphone games java
+
+ 
+If you're interested in developing a game for the Android platform, there is a lot you need to know.  I'm the developer of Light Racer, Light Racer 3D, Antigen, Deadly Chambers and Wixel, which are currently available on the Android Market.  I've developed games before but the original Light Racer was my first Android application and I learned quite a bit about writing Android games that I'd like to share with everyone.  I even wrote an online book detailing the development of Light Racer 3D, which is full of how-tos and useful code snippets. If you have previous experience with game development, moving over to the mobile platform won't be all that difficult.  You will mostly just need to learn the architecture and API.  If you're new to game development, I have assembled a list of must-knows for getting started.  They apply to many different types of games, including action, strategy, simulation and puzzle. 
+
+Android is a Java-based environment.  This is nice for new developers as Java is widely accepted as a much easier language to get started in than C++, which is the norm for mobile development.  Google has also done an excellent job with documenting the API and providing examples to use.  There is an example to show functionality for almost 100% of the API, called API Demos.  If you're familiar with Java and have already used Eclipse, getting your first app working should be fairly simple.  If you've never coded anything in your life before, you will have a lot to absorb as you move forward, but don't get discouraged.  
+
+Get the SDK
+
+The first step in getting started with the Android platform is to get the Android SDK (Software Development Kit).  The SDK has the core libraries, an emulator, tools and sample code.  I highly recommend using Eclipse and the android eclipse plugin.  Eclipse IDE for Java Developers is fine if you are just doing Android.  If this is your first Java development project, you will want to download the full Java SE Development Kit (JDK) as it contains tools you will need for signing and deploying your application.
+
+Learn the application architecture
+
+As tempting as it may seem to just dive right in, it's very important to understand the android application architecture.  If you don't learn it, you may design things in such a way that will make it very difficult to fix problems with your game down the line.  You will want to understand Applications, Activities, Intents and how they are all related to each other.  Google has provided good information on the architecture here.  The really important thing is to understand why your game may need to consist of more than one Activity and what that means to designing a game with good user experience.  This is where things tie in to the Activity lifecycle.
+
+Learn the activity lifecycle
+
+The activity lifecycle is managed by the Android OS.  Your activity will be created, resumed, paused and destroyed as the OS dictates.  Handling these events correctly is very important to having an application that behaves well and does what the user perceives as correct.  It's very good to know how all of this works before you start designing your game because you will save yourself debugging time and costly redesign time later on.  For most applications, the default settings will work but for games, you may want to consider turning the SingleInstance flag on.  When set as default, android will create new instances of the activity as it sees fit.  For a game, you may only want to have 1 instance of the game activity.  This has some implications for how you need to manage the state of things but for me it solved some resource management issues and it should be considered.
+
+The main loop
+
+Depending on what type of game you are writing, you may or may not have a main loop.  If your game is not time-dependent or if it only responds to what the user does and will wait forever for user input without making any kind of visual changes, you may not need a main loop.  If you are writing an action game or a game that has animations, timers or any kind of automation, you should seriously consider using a main loop.
+
+The main loop of a game is the part that "ticks" sub systems in a specific order and usually as many times per second as possible.  Your main loop will need to run on its own thread.  The reason for this is that Android has a main UI thread and if you don't run your own thread, the UI thread will be blocked by your game which will cause the Android OS to not be able to handle any of its normal update tasks. The order of execution is usually as follows:  State, Input, AI, Physics, Animation, Sound and Video.  
+
+Updating State means to manage state transitions, such as a game over, character select or next level.  Often times you will want to wait a few seconds on a state and the State management is the part that should handle this delay and setting the next state after the time has passed.
+
+Input is any key, scroll or touch from the user.  It's important to handle this before processing Physics because often times input will affect the physics so processing input first will make the game more responsive.  In Android, the input events come in from the main UI thread and so you must code to buffer the input so that your main loop can pick it up when the time comes.  This is not a difficult task.  Defining a field for the next user input and having the onKeyPressed or onTouchEvent set the next user action into that field is all that will be required.  All the Input update needs to do at that point is determine if it is valid input given the state of the game and let the Physics side handle responding to it.  
+
+The AI update is analagous to a user deciding what they are going to "press" next.  Learning how to write AI is out of the scope of this article but the general idea is that the AI will press buttons just like the user does.  This will also be picked up and responded to by the Physics update.
+
+The Physics update may or may not be actual physics.  For action games, the point of it is to take into account the last time it was updated, the current time it is being updated at, the user input and the AI input and determine where everything needs to be and whether any collisions have occured.  For a game where you visually grab pieces and slide them around, it will be the part that is sliding the piece or letting it drop into place.  For a trivia game, it would be the part deciding if the answer is right or wrong.  You may name yours something else, but every game has a part that is the red meat of the game engine and for this article, I'm referring to it as Physics.
+
+Animations aren't as simple as just putting an animated gif into your game.  You will need to have the game draw each frame at the right time.  It's not as difficult as it sounds.  Keeping state fields like isDancing, danceFrame and lastDanceFrameTime allows for the Animation update to determine if its time to switch to the next frame.  That's all the animation update really does.  Actually displaying the change of animation is handled by the video update.
+ 
+The Sound update handles triggering sounds, stopping sounds, changing volumes and changing the pitch of sounds.  Normally when writing a game, the sound update would actually produce a stream of bytes to be delivered to the sound buffer but Android manages its own sounds so your options for games are to use SoundPool or MediaPlayer.  They are both a little sensitive but know that because of some low level implementation details, small, low bitrate OGGs will yield the best performance results and the best stability.
+
+The Video update takes into account the state of the game, the positions of players, scores, statuses, etc and draws everything to screen.  If using a main loop, you will want to use the SurfaceView and do a "push" draw.  With other views, the view itself will call the draw operation and the main loop won't have to do it.  SurfaceView gives the highest frames per second and is the most appropriate for games with animation or moving parts on screen.  All the video update should do is take the state of the game and draw it for this instance in time.  Any other automation is better handled by a different update task.
+
+What's this code look like?  Here's an example.
+
+public void run() {
+    while (isRunning) {
+        while (isPaused && isRunning) {
+            sleep(100);
+        }
+        update();
+    }
+}
+
+private void update() {
+    updateState();
+    updateInput();
+    updateAI();
+    updatePhysics();
+    updateAnimations();
+    updateSound();
+    updateVideo();
+}
+
+
+3D or 2D?
+
+Before you start on your game, you need to decide if you're going to go 3D or 2D.  2D games have a much lower learning curve and generally are easier to get good performance on.  3D games require much more in-depth math skills and may have performance issues if you are not very careful.  They also require the ability to use modeling tools like 3D Studio and Maya if you intend to have shapes more complex than Boxes and Circles.  Android supports OpenGL for 3D programming and there are many good tutorials on OpenGL that one can find to learn it. 
+
+Build simple, high quality methods
+
+When getting started, make sure that you avoid writing one big long monolithic method that is "the game."  If you follow the main loop pattern that I described above, this should be fairly easy.  Each method you write should accomplish one very specific task and it should do so error-free.  For example, if you need to shuffle a deck of cards, you should have a method called "shuffleCards" and that should be all it does.  
+
+This is a coding practice that applies to all software development but it's particularly important in game development.  Debugging can get very difficult in a stateful, real-time system.  Keep your methods small and the general rule of thumb is that each method should have 1 and only 1 purpose.  If you're going to programatically draw a background for a scene, you may want a method called "drawBackground."  Things like that will make it so that you develop your game in terms of building blocks and you will continue to be able to add what you need without making it too complex to understand.
+ 
+It's all about efficiency!
+
+Performance is a major issue for any game.  The goal is to make the game as responsive as possible and to also look as smooth as possible.  Certain methods like Canvas.drawLine are going to be slow.  Also drawing an entire screen-sized bitmap onto the main canvas every frame will also be costly.  Balancing things like that is necessary to achieve the best performance.  Make sure to manage your resources well and use tricks to use the least amount of CPU to achieve your task.  Even the best game will not be very fun if it can't perform well.  People in general have little tolerance for choppiness or poor response. 
+
+Tips and Tricks
+
+Take a look at the example for LunarLander in the SDK.  It uses a SurfaceView and that would be the appropriate view to use for a game that needs the highest number of frames per second possible.  If you're going 3D, take a look at GLSurfaceView. It takes care of the OpenGL device initialization and provides a mechanism for rendering.  For LightRacer, I had to optimize the way I have everything drawn or else the framerate would be drastically lower.  I drew the background to a Bitmap only once which was when the view is initialized.  The light trails are in their own bitmap which gets updated as the racers move.  Those two bitmaps are drawn to the main canvas every frame with the racers drawn on top and then finally an explosion.  This technique made the game run at a playable rate.
+
+It's also a good practice to have your bitmaps be the exact size you intend to draw them on screen, if applicable.  This makes it so that no scaling is needed and will save some CPU.
+
+Use a consistent Bitmap Configuration (like RGBA8888) throughout the game.  This will save the graphics library CPU in having to translate the different formats.
+
+If you're determined to develop a 3D game but have no 3D knowledge, you will want to pick up a book or two on 3D game programming and study up on linear algebra.  At a bare minimum, you must understand dot products, cross products, vectors, unit vectors, normals, matrixes and translation.  The best book I have come across for this math is called Mathematics for 3D Game Programming and Computer Graphics.
+
+Keep the sound small and at a low bitrate.  The less there is to load, the faster loading times will be and the less memory the game will use. 
+
+Use OGGs for sound, PNGs for graphics. 
+
+Make sure to release all media players and null out all of your resources when the activity is destroyed.  This will ensure that the garbage collector gets to everything and that you don't have any memory leaks between launches of the game.
+
+Join the Android Google group and find community support.  There will be people that can help you along the way.
+
+Above all, spend time testing and retesting and making sure that every little thing works exactly the way you would expect it to.  Polishing the game up is the longest and hardest part of development.  If you rush it out to market, you will probably have a disappointed crowd and you may feel that all your hard work is wasted.  It's not possible to have 100% of people love what you write but you should at least try to put out the highest quality work that you can.

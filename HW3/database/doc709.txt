@@ -1,0 +1,60 @@
+Next-Generation 7nm Chips Headed for Fall iPhones: Report
+
+Apple has ramped up production of its new 7-nanometer processor for its upcoming crop of iPhones.
+
+The new processor will be smaller, faster and more efficient than the 10nm processor in Apple's current iPhone line, Bloomberg reported Tuesday, citing people familiar with matter.
+
+Taiwan Semiconductor Manufacturing Company, one of Apple's partners, has begun mass production of the chip, which is expected to be called the "A12," according to the report.
+
+TSMC earlier this year announced that it had begun producing 7nm chips, but it didn't reveal at that time for whom it was producing the silicon, Bloomberg noted.
+
+It is very likely that Apple has began mass producing 7nm chips, said Charles King, principal analyst at Pund-IT.
+
+"The move to 7nm silicon was one of the reasons Apple shifted an increasing amount of business to TSMC and away from Samsung," he told TechNewsWorld.
+
+"Assuming that chip yields can support Apple's manufacturing needs, I expect we'll see iPhones with the new chips later this year," King added.
+
+Leg Up on Competitors
+If Apple should put the chips in the iPhones it's expected to release this fall, it would be one of the first phone makers to use them in a consumer device.
+
+The move could give Apple a leg up on competitors Samsung and Qualcomm, who aren't ready to mass produce the chips yet.
+
+Samsung Electronics plans to start mass producing 7nm chips next year, it announced Tuesday.
+
+It's believed that Qualcomm, the world's largest producer of chips for mobile phones, is close to finalizing its designs incorporating the technology.
+
+That means Apple could bring 7nm technology to consumers months before its rivals can do it.
+
+"It's hard to judge right now, because Qualcomm hasn't announced anything yet, but I'd expect Apple's lead to be less than six months," Kevin Krewell, principal analyst at Tirias Research, told TechNewsWorld.
+
+"Everyone is going to have these chips eventually," remarked Bob O'Donnell, chief analyst at Technalysis Research.
+
+"Apple may have a slight timing advantage, but it will be very slight," he told TechNewsWorld.
+
+Better Battery Life and Performance
+Where 7nm technology will have the most impact will be at the high-end of the mobile market, Pund-IT's King noted.
+
+"Few other vendors are likely to be much interested," he said.
+
+Being early to market with the technology has another benefit for Apple: It can crow about the technical superiority of its iPhones.
+
+"That's important to a sizable number of the company's customers," King maintained.
+
+Consumers ought to see phones with longer battery life and better performance with the new chips. The chips also are smaller, so would be possible to make the phones smaller, although it's likely the additional space will be used for more hardware.
+
+"The benefits consumers will see aren't likely to be earthshaking, but the new handsets should be incrementally better than previous-gen iPhones," King said.
+
+Apple reportedly plans to launch at least three new phones in the fall: a larger version of the iPhone X; an update of the current iPhone X; and a smaller iPhone with some of the X's features but with a conventional LCD display.
+
+Shrinking Atoms
+Shrinking a processor's size has been the industry's answer to improving performance, but that's becoming more and more difficult to do.
+
+"The problem we're facing now is that the size reductions we're getting are very modest," Technalysis' O'Donnell noted.
+
+"We used to make big jumps in physical size," he continued. "Now the jumps are much, much smaller. You're down to changes that are a few atoms wide."
+
+While Apple takes pride in the advances it makes in processor technology, consumers don't stand in line to buy a phone because it has the latest processor technology.
+
+"I don't see the new chips driving significant numbers of new users and customers to Apple," said Pund-IT's King.
+
+"Phones are about a lot more than just chips," O'Donnell said. "Chips are important -- but just a piece of the overall puzzle."

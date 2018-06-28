@@ -1,0 +1,16 @@
+Nvidia RTX Promises Real-Time Cinematic Rendering in Video Games
+
+Graphics card manufacturer Nvidia didn't have any new hardware to show off at the Game Developers Conference in San Francisco today, but it did unveil RTX, a ray-tracing technology that offers real-time, cinematic quality rendering to game developers and other content creators.
+
+RELATED
+ 
+Magic Leap Previews Creator Portal, SDK at GDC
+The secretive startup is opening up to a wider audience
+
+Ray tracing is the technique modern movies use to generate or enhance special effects, Nvidia says. It works by simulating how light illuminates 3D objects in the real world, where photons bounce from one object to another before reaching the viewer's eyes. 
+
+Nvidia partnered with Microsoft to enable full RTX support on the Windows OS. It says it's also adding a ray tracing denoiser module to the GameWorks SDK. It will include ray-traced area shadows and ray-traced glossy reflections.
+
+"All of this will give game developers, and others, the ability to bring ray-tracing techniques to their work to create more realistic reflections, shadows and refractions. As a result, the games you enjoy at home will get more of the cinematic qualities of a Hollywood blockbuster," Nvidia says.
+
+Anyone who wants to see the technology in action can catch a demo of it at GDC this week from studios like 4A Games, Epic, and Remedy Entertainment.

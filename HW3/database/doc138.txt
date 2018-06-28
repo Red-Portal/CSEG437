@@ -1,0 +1,215 @@
+MP3
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+For other uses, see MP3 (disambiguation).
+MPEG-1 Audio Layer 3, more commonly referred to as MP3, is a popular digital audio encoding and lossy 
+compression format, designed to greatly reduce the amount of data required to represent audio, yet 
+still sound like a faithful reproduction of the original uncompressed audio to most listeners. It
+ was invented by a team of German engineers who worked in the framework of the EUREKA 147 DAB digital 
+radio research program, and it became an ISO/IEC standard in 1991.
+
+[edit] Overview
+MP3 is an audio-specific compression format. It provides a representation of pulse-code modulation-encoded 
+audio in much less space than straightforward methods, by using psychoacoustic models to discard components
+ less audible to human hearing, and recording the remaining information in an efficient manner. Similar 
+principles are used by JPEG, a lossy image compression format.
+
+The MP3 format uses a hybrid transformation to transform a time domain signal into a frequency domain signal:
+
+32-band polyphase quadrature filter. 
+36 or 12 tap MDCT; size can be selected independently for sub-bands 0...1 and 2...31. 
+Aliasing reduction postprocessing. 
+MP3 audio can be compressed with several different bit rates, providing a range of tradeoffs between data 
+size and sound quality.
+
+The MPEG specifications support Advanced audio coding (AAC) from MPEG-4 as MP3's successor, although 
+other new audio formats have also achieved similar usage levels. However, MP3's extreme popularity 
+makes it secure in its dominant position for the near future, with support from a huge range of software 
+and hardware, including portable MP3 players and even some DVD and CD players. The large MP3 collections
+ that many individuals have amassed will also ensure its longevity, in the same way as with any physical 
+medium.
+
+[edit] Development
+MPEG-1 Audio Layer 2 encoding began as the Digital Audio Broadcast (DAB) project managed by Egon Meier-Engelen o
+f the Deutsche Forschungs- und Versuchsanstalt fur Luft- und Raumfahrt (later on called Deutsches Zentrum fur 
+Luft- und Raumfahrt, German Aerospace Center) in Germany. This project was financed by the European Union as
+ a part of the EUREKA research program where it was commonly known as EU-147. EU-147 ran from 1987 to 1994.
+
+In 1991, there were two proposals available: Musicam (known as Layer 2), and ASPEC (Adaptive Spectral 
+Perceptual Entropy Coding). The Musicam technique, as proposed by Philips (The Netherlands), CCETT 
+(France) and Institut fur Rundfunktechnik (Germany) was chosen due to its simplicity and error robustness,
+ as well as its low computational power associated to the encoding of high quality compressed audio. 
+The Musicam format, based on sub-band encoding, was a key to settle the basis of the MPEG Audio compression
+ format (sampling rates, structure of frames, headers, number of samples per frame). Its technology and 
+ideas were fully incorporated into the definition of ISO MPEG Audio Layer I and Layer II and further on of 
+the Layer III (MP3) format. Under the chairmanship of Professor Mussmann (University of Hannover) the editing 
+of the standard was made under the responsibilities of Leon van de Kerkhof (Layer I) and Gerhard Stoll (Layer II).
+
+A working group consisting of Leon Van de Kerkhof (The Netherlands), Gerhard Stoll (Germany), Leonardo
+ Chiariglione (Italy), Yves-Francois Dehery (France), Karlheinz Brandenburg (Germany) took ideas from
+ Musicam and ASPEC, added some of their own ideas and created MP3, which was designed to achieve the same 
+quality at 128 kbit/s as MP2 at 192 kbit/s.
+
+All algorithms were approved in 1991, finalized in 1992 as part of MPEG-1, the first standard suite by
+MPEG, which resulted in the international standard ISO/IEC 11172-3, published in 1993. Further work on 
+MPEG audio was finalized in 1994 as part of the second suite of MPEG standards, MPEG-2, more formally 
+known as international standard ISO/IEC 13818-3, originally published in 1995.
+
+Compression efficiency of encoders is typically defined by the bit rate because compression rate depends 
+on the bit depth and sampling rate of the input signal. Nevertheless, there are often published compression
+ rates that use the CD parameters as references (44.1 kHz, 2 channels at 16 bits per channel or 2x16 bit).
+ Sometimes the Digital Audio Tape (DAT) SP parameters are used (48 kHz, 2x16 bit). Compression ratios with
+ this reference are higher, which demonstrates the problem of the term compression ratio for lossy encoders.
+
+Karlheinz Brandenburg used a CD recording of Suzanne Vega's song "Tom's Diner" to assess the MP3 compression
+ algorithm. This song was chosen because of its softness and simplicity, making it easier to hear 
+imperfections in the compression format during playbacks. Some have taken to jokingly refer to Suzanne
+ Vega as "The mother of MP3". Some more serious and critical audio excerpts (glockenspiel, triangle, 
+accordion, ...) were taken from the EBU V3/SQAM reference compact disc and have been used by professional 
+sound engineers to assess the subjective quality of the MPEG Audio formats.
+
+
+[edit] Going public
+A reference simulation software implementation, written in the C language and known as ISO 11172-5, was 
+developed by the members of the ISO MPEG Audio committee in order to produce bit compliant MPEG Audio files
+ (Layer 1, Layer 2, Layer 3). Working in non real time on a number of operating systems, it was able to 
+demonstrate the first real time hardware decoding (DSP based) of compressed audio. Some other real time 
+implementation of MPEG Audio encoders were available for the purpose of digital broadcasting (radio DAB, 
+television DVB) towards consumer receivers and set top boxes.
+
+Later, on July 7, 1994 the Fraunhofer Society released the first software MP3 encoder called l3enc. The 
+filename extension .mp3 was chosen by the Fraunhofer team on July 14, 1995 (previously, the files had been 
+named .bit). With the first real-time software MP3 player Winplay3 (released September 9, 1995) many 
+people were able to encode and playback MP3 files on their PCs. Because of the relatively small hard drives
+ back in that time (c.500 MB) the technology was essential to store non-instrument based (see: tracker 
+and midi) music for listening pleasure on a computer.
+
+
+[edit] MP2
+In October 1993, MP2 (MPEG-1 Audio Layer 2) files appeared on the Internet and were often played back 
+using the Xing MPEG Audio Player, and later in a program for Unix by Tobias Bading called MAPlay, which
+ was initially released on February 22, 1994 (MAPlay was also ported to Microsoft Windows).
+
+Initially the only encoder available for MP2 production was the Xing Encoder, accompanied by the program 
+CDDA2WAV, a CD processor that transforms CD audio tracks to Waveform Audio Files.
+
+The Internet Underground Music Archive (IUMA) is generally recognized as the start of the on-line music 
+revolution. IUMA was the Internet's first high-fidelity music web site, hosting thousands of authorized
+ MP2 recordings before MP3 or the web was popularized.
+
+
+[edit] Internet
+In the first half of 1995 through the late 1990s, MP3 files began flourishing on the Internet. MP3 popularity
+ was mostly due to, and interchangeable with, the successes of companies and software packages like 
+Nullsoft's Winamp (released in 1997), mpg123, and Napster (released in 1999). Those programs made it 
+very easy for the average user to playback, create, share, and collect MP3s.
+
+Controversies regarding peer-to-peer file sharing of MP3 files have spread widely in recent years ? 
+largely because high compression enables sharing of files that would otherwise be too large and cumbersome
+ to easily share. Some major record companies reacted by filing a lawsuit against Napster, due to the 
+vastly increased spread of MP3s through the Internet, to protect their copyrights (see also intellectual
+ property).
+
+Commercial online music distribution services (like the iTunes Music Store) usually prefer other/proprietary
+ music file formats that support Digital Rights Management (DRM) to control and restrict the use of 
+digital music. The use of formats that support DRM is in an attempt to prevent copyright infringement 
+of copyright protected materials, but methods exist to defeat most protection schemes, although such 
+methods are considered illegal in many countries.
+
+
+[edit] Encoding audio
+The MPEG-1 standard does not include a precise specification for an MP3 encoder. The decoding algorithm and
+ file format, as a contrast, are well defined. Implementers of the standard were supposed to devise thei
+ own algorithms suitable for removing parts of the information in the raw audio (or rather its MDCT 
+representation in the frequency domain). During encoding 576 time domain samples are taken and are 
+transformed to 576 frequency domain samples. If there is a transient 192 samples are taken instead of 
+576. This is done to limit the temporal spread of quantization noise accompanying the transient.
+
+This is the domain of psychoacoustics: the study of subjective human perception of sounds.
+
+As a result, there are many different MP3 encoders available, each producing files of differing quality.
+ Comparisons are widely available, so it is easy for a prospective user of an encoder to research the best 
+choice. It must be kept in mind that an encoder that is proficient at encoding at higher bitrates (such as 
+LAME, which is in widespread use for encoding at higher bitrates) is not necessarily as good at other, 
+lower bitrates.
+
+
+[edit] Decoding audio
+Decoding, on the other hand, is carefully defined in the standard. Most decoders are "bitstream compliant",
+ meaning that the decompressed output they produce from a given MP3 file will be the same (within a specified 
+degree of rounding tolerance) as the output specified mathematically in the ISO/IEC standard document. 
+The MP3 file has a standard format which is a frame consisting of 384, 576, or 1152 samples (depends on MPEG 
+version and layer) and all the frames have associated header information (32 bits) and side information 
+(9, 17, or 32 bytes, depending on MPEG version and stereo/mono). The header and side information help the 
+decoder to decode the associated Huffman encoded data correctly.
+
+Therefore, for the most part, comparison of decoders is almost exclusively based on how computationally 
+efficient they are (i.e., how much memory or CPU time they use in the decoding process).
+
+
+[edit] Bit rate
+The bit rate is variable for MP3 files. The general rule is that more information is included from the 
+original sound file when a higher bit rate is used, and thus the higher the quality during playback. In
+ the early days of MP3 encoding, a fixed bit rate was used for the entire file.
+
+Bit rates available in MPEG-1 Layer 3 are 32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256 and 
+320 kbit/s, and the available sampling frequencies are 32, 44.1 and 48 kHz. 44.1 kHz is almost always 
+used (coincides with the sampling rate of compact discs), and 128 kbit/s has become the de facto "good 
+enough" standard, although 192 kbit/s is becoming increasingly popular over peer-to-peer file sharing 
+networks. MPEG-2 and the (unofficial) MPEG-2.5 include some additional bit rates: 8, 16, 24, 32, 40, 48,
+ 56, 64, 80, 96, 112, 128, 144, 160 kbit/s; while providing lower sampling frequencies (8, 11.025, 12, 
+16, 22.05 and 24 kHz).
+
+Variable bit rates (VBR) are also possible. Audio in MP3 files is divided into frames, each of which has 
+its own bitrate, so it is possible to change the bit rate dynamically as the file is encoded. This technique
+ makes it possible to use more bits for parts of the sound with higher dynamics (more sound movement) and
+ fewer bits for parts with lower dynamics, further increasing quality and decreasing storage space. For 
+example, a portion composed of pure tones could be encoded at 48 kbit/s, taking up less space without any 
+noticeable difference, while a portion played by a full symphony orchestra is encoded at 224 kbit/s to 
+express it with greater fidelity. Although not originally implemented, many encoders now use this technique 
+to greater or lesser extent.
+
+Non-standard bitrates up to 640 kbit/s can be achieved with the LAME encoder and the --freeformat option,
+ but few MP3 players can play those files. Gabriel Bouvigne, a principal developer of the LAME project, 
+offered the following information about freeformat streams: [1]
+
+"freeformat IS COMPLIANT with the mp3 standard. Decoders are required to be able to decode it up to 320kbps
+, but decoding higher bitrate freeformat streams is not mandatory.
+
+Practically, it means that higher than 320kbps, only a few decoders support it."
+
+
+[edit] Audio quality
+Because MP3 is a lossy format, it is able to provide a number of different options for its "bit rate" ? 
+that is, the number of bits of encoded data that are used to represent each second of audio. Typically,
+ rates chosen are between 128 and 320 kilobit per second. By contrast, uncompressed audio as stored on 
+a compact disc has a bit rate of 1411.2 kbit/s (16 bits/sample ¡¿ 44100 samples/second ¡¿ 2 channels).
+
+MP3 files encoded with a lower bit rate will generally play back at a lower quality. With too low a bit 
+rate, "compression artifacts" (i.e., sounds that were not present in the original recording) may appear
+ in the reproduction. A good demonstration of compression artifacts is provided by the sound of applause:
+ it is hard to compress because of its randomness and sharp attacks. Therefore compression artifacts are 
+audible as ringing or pre-echo.
+
+As well as the bit rate of the encoded file, the quality of MP3 files depends on the quality of the encoder 
+and the difficulty of the signal being encoded. As the MP3 standard allows quite a bit of freedom with
+ encoding algorithms, different encoders may feature quite different quality, even when targeting similar 
+bitrates. As an example, in a public collective test[2] (07/2003) featuring two different MP3 encoders at 
+about 128kbps, one scored 3.66 on a 1-5 scale, while the other scored only 2.22.
+
+Quality is heavily dependent on the choice of encoder and encoding parameters. While quality around 128kbps
+ was somewhere between annoying and acceptable with older encoders, modern MP3 encoders can provide very 
+good quality at those bitrates [3] (01/2006), not statistically different from quality provided by AAC, 
+the technical successor of MP3. However, in 1998, MP3 at 128kbps was only providing quality equivalent 
+to AAC-LC at 96kbps and MP2 at 192kbps [4].
+
+The transparency threshold of MP3 can be estimated to be at about 128k with good encoders on typical music 
+as evidenced by it's strong performance in the above test, however some particularly difficult material 
+can require 192k or higher. As with all lossy formats, some samples can not be encoded perfectly transparent 
+to all users. Thus many users opt for 192k as a good trade off.
+
+At lower bitrates, the quality of MP3 quickly degrades, and is far behind AAC quality at 32kbps, as 
+demonstrated by a collective listening test (06/2004)[5].
+
+It is also important to note that perceived quality can be influenced by listening environment (ambient 
+noise), listener attention, and listener train

@@ -1,0 +1,45 @@
+One of the more remarkable aspects of Nvidia's (NVDA - Get Report) 2016 sales boom is that 
+it was fueled in large part by soaring PC GPUs sales at a time when global PC shipments 
+were declining meaningfully. Though an upgrade cycle was clearly a factor -- Nvidia's Pascal-architecture GPUs, 
+which delivered big performance gains relative to GPUs based on the older Maxwell architecture, launched last spring
+- so was a burgeoning market for high-end PC gaming hardware, as gamers old and new splurged on expensive 
+cards that let them play the latest titles at high resolutions and frame rates.
+
+Nvidia's latest flagship GPU launch, which arrives just a month after the company rolled out a 
+cheaper Pascal product that had taken the market's performance crown, is a reflection of how much hardcore 
+gamers remain willing to pay top dollar for extra horsepower. Meanwhile, the specs just revealed for Microsoft's 
+(MSFT - Get Report) revamped Xbox One reveal how much -- to AMD's (AMD - Get Report) benefit -- 
+the console industry has had to change its hardware strategy to counter a high-end PC gaming boom.
+
+On Thursday morning, Nvidia unveiled the Titan Xp, a GPU delivering a massive 12 teraflops (Tflops) of performance. 
+That outpaces the 10.6 Tflops provided by Nvidia's recently-launched GTX 1080 Ti, which has seen good reviews, 
+and the 10.2 Tflops offered by the Titan X, which arrived last August. The GTX 1080, Nvidia's original Pascal-based 
+flagship GPU, offers a "mere" 8.2 Tflops.
+
+Though relying on the same GP102 chip Nvidia used for the 1080 Ti and Titan X, the Titan XP makes use of all 
+30 of the chip's streaming multiprocessors (SMs), whereas its peers use only 28 of them. 
+It also runs more parallel-processing CUDA cores, and has more memory bandwidth. Like all other Pascal GPUs, 
+it's made using Taiwan Semiconductor's (TSM - Get Report) 16-nanometer manufacturing process.
+
+Titan Xp graphics cards will cost a whopping $1,200. That easily surpasses the $700 charged for 1080 Ti cards, 
+and the $500 charged (following a March price cut) for the standard 1080.
+
+The Titan Xp and 1080 Ti put Nvidia on much better footing to deal with the pending launch of AMD's 
+Vega-architecture GPUs, which (just as AMD's Ryzen CPUs are doing for the PC CPU market) could provide 
+a level of high-end GPU competition that the market hasn't seen in years. 
+And amid recent fears that desktop GPU demand is set to slow, they could help Nvidia's gaming GPU business,
+which grew 66% annually in the January quarter to $1.35 billion (62% of Nvidia's total revenue), 
+maintain solid, if relatively slower, growth.
+
+Though IDC believes global PC shipments fell 5.7% in 2016, Jon Peddie Research thinks the PC gaming 
+hardware market grew 23% last year to $30.3 billion. Forty-three percent of those sales involved high-end hardware,
+and 35% mid-range gear. With sales of 4K-resolution display growing and newer games such as Gears of War 4 
+and Resident Evil 7: Biohazard heavily taxing all but the most powerful GPUs when run at 4K and high-quality presets, 
+the conditions for healthy industry growth remain in place. Most big PC makers exhibiting at CES in January 
+made sure to show off shiny new gaming desktops and/or notebooks.
+
+None of this is lost on Microsoft and Sony, who have realized that they need to break with the 
+console industry's tradition of launching new systems every seven to ten years if they don't 
+want to see 4K-loving gamers ditch consoles for PCs. Sony launched its 4K gaming-capable 
+PlayStation 4 Pro last fall, just three years after the original PS4 launched. And Microsoft has now shared 
+technical details about a 4K-capable Xbox One, codenamed Scorpio, that will be available this holiday season.

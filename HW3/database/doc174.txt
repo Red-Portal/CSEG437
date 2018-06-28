@@ -1,0 +1,87 @@
+<Wearable computer>
+From Wikipedia, the free encyclopedia
+
+Wearable computers are computers that are worn on the body. They have been applied to areas such as behavioral modeling, health monitoring systems, 
+information technologies and media development. Government organizations, military, and health professionals have all incorporated wearable computers 
+into their daily operations. Wearable computers are especially useful for applications that require computational support while the user's hands, 
+voice, eyes or attention are actively engaged with the physical environment.
+
+ One of the main features of a wearable computer is consistency. There is a constant interaction between the computer and user, ie. 
+there is no need to turn the device on or off. Another feature is the ability to multi-task. It is not necessary to stop what you are doing 
+to use the device; it is augmented into all other actions. These devices can be incorporated by the user to act like a prosthetic. 
+It can therefore be an extension of the user¡¯s mind and/or body.
+
+Such devices look far different from the traditional cyborg image of wearable computers, but in fact these devices are becoming more powerful 
+and more wearable all the time. The most extensive military program in the wearables arena is the US Army's Land Warrior system, 
+which will eventually be merged into the Future Force Warrior system.
+
+
+
+
+History
+
+Depending on how broadly one defines both wearable and computer, the first wearable computer could be as early as the 1500s with the invention 
+of the pocket watch or even the 1200s with the invention of eyeglasses. The first device that would fit the modern-day image of a wearable computer 
+was constructed in 1961 by the mathematician Edward O. Thorp, better known as the inventor of the theory of card-counting for blackjack, 
+and Claude E. Shannon, who is best known as "the father of information theory." The system was a concealed cigarette-pack sized analog computer 
+designed to predict roulette wheels. A data-taker would use microswitches hidden in his shoes to indicate the speed of the roulette wheel, 
+and the computer would indicate an octant to bet on by sending musical tones via radio to a miniature speaker hidden in a collaborators ear canal. 
+The system was successfully tested in Las Vegas in June 1961, but hardware issues with the speaker wires prevented them from using it beyond their 
+test runs. Their wearable was kept secret until it was first mentioned in Thorp's book Beat the Dealer (revised ed.) in 1966 and later published 
+in detail in 1969. The 1970s saw rise to similar roulette-prediction wearable computers using next-generation technology, in particular a group 
+known as Eudaemonic Enterprises that used a CMOS 6502 microprocessor with 5K RAM to create a shoe-computer with inductive radio communications 
+between a data-taker and better (Bass 1985).
+
+In 1967, Hubert Upton developed an analogue wearable computer that included an eyeglass-mounted display to aid lip reading. 
+Using high and low-pass filters, the system would determine if a spoken phoneme was a fricative, stop consonant, voiced-fricative, 
+voiced stop consonant, or simply voiced. An LED mounted on ordinary eyeglasses illuminated to indicate the phoneme type. The 1980s saw the rise 
+of more general-purpose wearable computers. In 1981 Steve Mann designed and built a backpack-mounted 6502-based computer to control flash-bulbs, 
+cameras and other photographic systems. Mann went on to be an early and active researcher in the wearables field, especially known for his 
+1994 creation of the Wearable Wireless Webcam (Mann 1997). In 1989 Reflection Technology marketed the Private Eye head-mounted display, 
+which scanned a vertical array of LEDs across the visual field using a vibrating mirror. 1993 also saw Columbia University's augmented-reality 
+system known as KARMA: Knowledge-based Augmented Reality for Maintenance Assistance. Users would wear a Private Eye display over one eye, giving 
+an overlay effect when the real world was viewed with both eyes open. KARMA would overlay wireframe schematics and maintenance instructions 
+on top of whatever was being repaired. For example, graphical wireframes on top of a laser printer would explain how to change the paper tray. 
+The system used sensors attached to objects in the physical world to determine their locations, and the entire system ran tethered from a 
+desktop computer (Feiner 1993).
+
+
+
+
+Commercial Viability
+
+The commercialization of general-purpose wearable computers, as led by companies such as Xybernaut, CDI and ViA Inc, has thus far met with limited success. 
+Publicly-traded Xybernaut tried forging alliances with companies such as IBM and Sony in order to make wearable computing widely available, 
+but in 2005 their stock was delisted and the company filed for Chapter 11 bankruptcy protection amid financial scandal and federal investigation. 
+In 1998 Seiko marketed the Ruputer, a computer in a (fairly large) wristwatch, to mediocre returns. In 2001 IBM developed and publicly 
+displayed two prototypes for a wristwatch computer running Linux, but the product never came to market. In 2002 Fossil, 
+Inc. announced the Fossil Wrist PDA, which ran the Palm OS. Its release date was set for summer of 2003, but was delayed several times 
+and was finally made available on January 5, 2005.
+
+Evidence of the allure of the wearable computer and the weak market acceptance is evident with market leading Panasonic Computer Solutions 
+Company's failed product in this market. Panasonic has specialized in mobile computing with their Toughbook line for over 10 years and has 
+extensive market research into the field of portable, wearable computing products [1]. In 2002, Panasonic introduced a wearable brick computer 
+coupled with a handheld or armworn touchscreen. The brick would communicate wirelessly to the screen, and concurrently the brick would 
+communicate wirelessly out to the internet or other networks. The products were named the Toughbook 07 and the MDWD. According to a spokesmen 
+at Panasonic US Distributer USAT Corp., the Toughbook 07 brick computer never gained market traction as it was hampered by a relatively 
+slow ultra-low voltage processor. The wearable brick was quietly pulled from the market in 2005, while the screen evolved to a thin client 
+touchscreen used with a handstrap. This product, the Toughbook 08 is larger and less likely to be worn on the body, and provides only for 
+mechanical data entry (touchscreen, barcode, or card swipe). This thin-client approach does suggest a commercially viable solution to the 
+combined problems of size, processing power and battery life for wearable computers.
+
+
+
+
+Issues
+
+Wearable computers have led to an increase in micro-management. That is, a society characterized by total surveillance and a greater influence of 
+media and technologies. Surveillance has impacted more personal aspects of our daily lives and has been used to punish civilians for seemingly petty crimes. 
+There is a concern that this increased used of cameras has affected more personal and private moments in our lives as a form of social control.
+
+
+
+
+
+
+
+

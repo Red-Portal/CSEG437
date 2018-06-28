@@ -1,0 +1,45 @@
+Google unveils Android P features, Google Assistant updates and more
+
+Google showed off on Tuesday a first look at its next mobile software.
+
+Users of Android P, which will debut later this year, will get access to gesture-based navigation, battery saving features and an impressive new text selection tool that works on photos and the real world.
+
+In addition to Android P, the company previewed at its annual Google I/O developer conference a number of new products, including an overhauled News app, features that help you use your phone less, and new Google Assistant voice option including one with singer John Legend's voice.
+Android P packs new powers
+
+Google is known for naming its mobile software after candy -- in alphabetical order -- and we're now up to "P." Although we don't know its proper name yet, the company announced a beta version now available for some phones.
+
+Several Android P features address the problems with liking your Android phone too much. A new dashboard gives insight into how you spend time on your device. Flip the phone over and it turns on Do Not Disturb mode.
+
+Meanwhile, a new app timer serves as a parental control for adults. It notifies you and grays out the screen when you've been staring at Twitter for too long.
+
+To help you sleep, a new mode called Wind Down turns your screen black and white at a set time. Google CEO Sundar Pichai said the focus on "digital wellbeing" is an ongoing effort across Google Products.
+
+There is also a new way to switch between opened apps called Overview -- an addition reminiscent of the iPhone X's app-switching feature.
+
+Android P tries to stretch out battery life by prioritizing certain apps and adjusting brightness, too.
+New News apps add broader view
+
+Google News has been around for 14 years, but it just got its biggest overhaul to date. Google unveiled a new News app and web version that collects top news, opinion articles and fact checks national and local stories.
+
+The company said it will use artificial intelligence to analyze each story and make judgment calls about quality and its type. A new view will show the same top stories to everyone, but it will get more personalized based on your location, favorite sources and topic preferences.
+
+Related: Google wants artificial intelligence to choose your news
+
+Google Assistant gets more voices
+
+It's the only voice assistant without a human name, but Google Assistant is finally serving up more personality. Starting now, Google's voice assistant has six new voices and one from John Legend coming later this year. Legend's voice will gladly sing you "Happy Birthday," in addition to regular Google Assistant responses.
+
+The coolest new Google Assistant feature will launch later this summer. It will place phone calls for you and accomplish simple tasks, such as making an appointment. In theory, the assistant will interact as naturally as a real human, and the hair salon or dentist will have no idea they're not talking to a real person.
+
+Smart speakers such as Amazon Echo and Google Home are popular with kids, but some experts and parents have expressed concern about how they interact with its voice characters. An optional Google Assistant feature will reward polite kids with replies, such as "Thanks for saying please," "What a nice way to ask me," and "You're very polite." Amazon recently added a similar feature.
+
+Related: Google: Profit and sales surge as tax rate falls
+
+Smartphone cameras get smarter
+
+Google Lens, which uses real-time image recognition technology, has a new home within the camera app. It uses uses image recognition technology to look up images you see through the camera in real-time.
+
+For example, if you take a photo of text -- like a restaurant menu 00 Google Lens will let you copy and paste the text from that image. It can also provide context about the words, such as linking to a Spotify artist when you photograph a concert poster. It can match the style of a piece of clothing from a picture, too, so you can find it for sale online.
+
+In the Maps app, Google Lens will help you navigate by detecting what's in front of you and overlaying directions on the street you see. A new, cute animal cartoon will help show you the way. Google says the camera is reading landmarks to help determine your exact position and orientation, something it calls a visual positioning system.

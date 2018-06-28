@@ -1,0 +1,60 @@
+Apple Is Set to Unveil AR Upgrade, Software to Manage iPhone Use
+
+In recent months, Apple Inc. has been criticized for the addictive nature of its devices. Next week, the company plans to unveil software to help cure people of their iPhone habit.
+
+On Monday, Apple will hold its annual Worldwide Developers Conference in San Jose, where it will lay out its software strategy for the next year and tease future hardware ambitions. Typically when the company upgrades the operating systems that power the iPhone and iPad, Mac, Apple Watch, and Apple TV, it touts enhancements that tie people ever closer to their devices and keep them engrossed in the latest apps and games.
+
+This year, Apple will highlight the opposite: using gadgets less.
+
+Apple engineers have been working on an initiative dubbed Digital Health, a series of tools to help users monitor how much time they spend on their devices and inside of certain applications. These details will be bundled into a menu inside of the Settings app in iOS 12, the likely name of Apple’s refreshed mobile operating system, according to people familiar with the plans.
+
+“We need to have tools and data to allow us to understand how we consume digital media,” Tony Fadell, a former senior Apple executive who worked on the original iPhone and iPod, said in a recent interview. “We need to get finer-grain language and start to understand that an iPhone is just a refrigerator, it’s not the addiction.”
+
+Earlier this year, Apple investors Jana Partners LLC and the California State Teachers’ Retirement System criticized the addictive nature of Apple’s devices. The Cupertino, California-based technology giant responded by saying it would add more "robust" parental controls to monitor the use of its products.
+
+Rising concern about smartphone addiction is less of a threat to Apple than other big tech companies. Apple makes most of its money selling hardware, and the Digital Health software upgrades will likely give users another reason to keep buying the company’s new devices.
+
+At its own developer conference in May, Google emphasized similar tools. The company has a new Dashboard for Android phones that lets users monitor how long they’re using other apps and reminds people to take a break.
+
+iOS Software & Augmented Reality
+Most of this year’s WWDC will still be devoted to making users want to pick up Apple gadgets. The company plans to show off its prowess in augmented reality by upgrading relatively new tools for iPhones and iPads. AR imposes 3-D digital images on people’s view of the real world. Chief Executive Officer Tim Cook sees the technology as potentially revolutionary as the smartphone.
+
+As part of new software called "ARKit 2.0" internally, the company has been planning a new mode that would let users play AR games against each other in the same virtual environment. Another mode allows objects to be dropped into an area and virtually remain in place. The features will be a prelude of what’s to come from an Apple AR headset planned for as early as 2020.
+
+Bigger Changes Later
+Otherwise, upgrades to this year’s software will be more muted. There’ll be minor new features for snoozing notifications, tracking the stock market, making video calls, and sending Animojis -- the virtual cartoons introduced with the iPhone X. Earlier this year, Apple executives decided to postpone iPhone and iPad software changes -- including a redesigned Home Screen for launching apps and presenting snippets of information, an artificial intelligence upgrade to the Photos app, and new file-management tools for iPads -- until next year to improve the quality and responsiveness of this year’s upgrade.
+
+Mac Software
+
+The iPhone and iPad are the top mobile platforms for developers to make money from apps. In the first quarter of this year, consumers spent 85 percent more on iOS apps than Android programs, according to mobile data-analytics firm App Annie. But Apple’s other platforms -- the Mac, Apple Watch, and Apple TV -- have become less attractive to developers, and Apple has the opportunity to turn that around.
+
+In recent years, Mac software has taken a back seat to new features for iPhones and iPads, which makes sense given that those iOS devices generate about two-thirds of Apple revenue. But the Mac is still an important product for developers and users, and Apple will update the software again this year.
+
+The focus this year will be on integrating more deeply with iOS. The company has been working on a project that would let iOS apps run on Macs, which executives could discuss as early as this year. This would address developer apathy toward the Mac App Store, which hasn’t been redesigned in several years.
+
+Hardware Products
+Mac hardware upgrades have been a key talking point at past WWDCs. At last year’s conference, for example, Apple upgraded nearly its entire Mac line, previewed the iMac Pro, launched new iPad Pros, and showed off the HomePod smart speaker. But this year, a suite of new gadgets is unlikely.
+
+
+MacBook Pro laptopsPhotographer: Mark Kauzlarich/Bloomberg
+The company is working on refreshes to the MacBook Pro and 12-inch MacBook with new Intel Corp. chips, and is planning a new low-cost laptop to succeed MacBook Air. But those won’t be ready until later this year, according to people familiar with the plans. Apple is also working on a redesigned iPad Pro line with Face ID, but that’s also expected later.
+
+Watch & TV
+Since launching in 2015, the Apple Watch operating system, called watchOS, hasn’t caught on as a major platform for developers, with big names like Instagram, Google Maps, Twitter, Amazon and eBay discontinuing their watch apps.
+
+
+Apple watch series 3Photographer: David Paul Morris/Bloomberg
+Apple will need to show developers why they should keep building apps for a gadget that hasn’t yet shown the same early promise as the iPhone. That’s especially important as Apple is preparing another big push for the wearable hardware later this year.
+
+The company is working on a pair of new Apple Watches that keep the overall size of the current models, but include slightly larger, edge-to-edge screens, according to a person familiar with the product’s development. These changes will be the most notable external enhancements since the Watch launched about three years ago, but the new models will still support watch bands from earlier models, another person said.
+
+The iPhone maker has released minor updates to its Apple TV software, branded as tvOS, annually at its developers conference since revamping the device in 2015. The app selection on the product remains limited, but it’s important for Apple to keep working on new features for a device that’s the centerpiece of its living-room strategy so far.
+
+Apple eventually hopes to make the Apple TV the main viewing hub for its upcoming war chest of original video, so the company will need to maintain interest in the device.
+
+HomePod & Siri
+Earlier this week, Apple updated the HomePod with stereo and multi-room music listening modes and the ability to add calendar appointments. It could choose to keep updating the speaker’s software alongside new iPhone software releases, like it does with the Apple Watch.
+
+
+Apple HomePodPhotographer: Mark Kauzlarich/Bloomberg
+To catch up to Amazon and Google’s digital speakers, Apple will have to improve Siri. On its phones, it plans to add more predictive Siri features this year, Bloomberg reported earlier this year. More significant changes will take time. Apple recently poached top Google AI executive John Giannandrea, after criticism about slow feature development compared to the competition.

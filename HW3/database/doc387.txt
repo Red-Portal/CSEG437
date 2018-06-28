@@ -1,0 +1,39 @@
+How to Design iphone Games
+
+
+
+If you want to make games on the iphone system it's no simple task. Designing and developing a game, or any applications for that matter, is no simple task; having some background knowledge in a programming language such as C will prove especially helpful -in this case, more specifically Obective-C. Along with the complexities of learning coding; algebra skills are also a necessity -even some of the most simple, basic games often require implementation of heavy math and physics. So, lets get to looking at what you need to do to make some iphone games.
+
+
+Instructions.
+
+
+1.1
+First, you need to go to the apple website (there is a link below) to check to make sure your computer and operating system are compatible with the development software. Read through the site and understand how the apple developer program works. While the tools can be downloaded for free; in order to distribute your games, free or commercially, you will have to enroll in either Standard Program or Enterprise Program both of which currently require a fee to join but provide the necessary development recources for distribution.
+
+2.2
+Next, you need to sign up to become a registered iPhone developer in order to proceed to download the tools.
+
+3.3
+Next you need to download the software. Apple provides the iPhone SDK (Software Development Kit) with Xcode IDE. The apple site also has downloads available for the interface builder, compilers, the shark analysis tool as well as frameworks and samples.
+
+4.4
+You will also need to download the iPhone simulator (OpenGL ES support). The iphone simulator software will allow you to test the program you are building on a virtual iphone interface on your computer -it is a useful tool in testing the program as you are building and fine tuning your creation.
+
+5.5
+Now, begin familiarizing yourself with objective-c programming language. Prepare to do a lot of reading. While doing so, experiment with your development tools along the way to get a more comprehensive understanding for the way things work.
+
+6.6
+As you further develop -take extra care in debugging and error-proofing your software. Try to break your programs when you test them. Perform unusual gameplay and use. Touch screen gameplay, while principally similar to standard mouse gameplay, opens up more possibilities for innovation as well as critical errors. Not only is careful programming necessary; but looking for problems and conflicts will help train you mentally to think ahead and become a more efficent programmer. This facet of forward thinking will save you a lot of time down the road.
+
+7.7
+Finally, join forums and learn from your fellow developers. If your stuck on a problem; seek the help of the iphone programming community. Staying active in the forums can open you to possibilities that you may not have previously considered. Keep at it and don't give up! Persevere! Thanks for reading! Good Luck!
+
+
+Tips & Warnings
+
+
+
+?If your math skills are rusty; refresh your memory and reteach yourself until you are at least comfortable with general algebra equations and expressions; the use of variables in conjunction with constant values is a very big part of the core of programming.
+
+?Play other people's creations. When doing so, try to imagine how their application actually works. Things almost always appear simple on the surface of a game, but underneath the user interface is a whole lot of unseen function. Try to imagine ways to build the game in your mind while playing the games to further learn and possibly find some new inspirations along the way.

@@ -1,0 +1,21 @@
+A wealth of tools support for Windows Phone 8
+
+Over 30 organisations on board for new mobile platform
+Microsoft has unveiled a bounty of tools support for Windows Phone 8 from major gaming tools providers, such as Unity, Autodesk and Havok.
+Over 30 commercial and open source offerings are supporting the new mobile OS, which went on sale earlier this week.
+Gaming tools providers Unity Technologies, Autodesk and Havok have their engines running on Windows Phone 8, as well as Marmalade SDK. Frequently used audio library FMOD is on board, as is audio pipeline solution Wwise. See a select list of the tools providers below.
+Another significant feature of the Windows Phone 8 is its support for native C++ programming, which opens up opportunities for game engines, physics, animation, audio libraries and other developments.
+In addition to native gaming tools, Windows Phone 8 tools are also available for cross-platform frameworks, HTML5, libraries and UI support. Web API, backend and cloud services have also been announced, and are necessary to give developers the ability to expand their development capabilities, with monetisation, analyse usage and tracking.See the full list of Microsoft¡¯s tools partners in this developer blog.
+The following organisations have tools supporting Windows Phone 8:
+?    Unity Technology, the Unity tools and engine for Windows Phone 8
+?    Havok, Vision Engine
+?    Marmalade, Marmalade SDK
+?    Cocos2d gaming framework
+?    SharpDX, an open-source C#/Managed DirectX API for.NET
+?    Ogre, the popular open source 3D graphics rendering engine
+?    FMOD Ex, the audio library
+?    Autodesk Scaleform
+?    Audiokinetic Wwise audio pipeline solution
+?    Adobe PhoneGap framework (aka Apache Cordova)
+?    AppMobi
+?    YoYo GameMaker: Studio, an HTML5-based game development tool, opening its beta program for Windows Phone 8 soon

@@ -1,0 +1,69 @@
+How much RAM does a smartphone actually need? We asked the experts
+Buying a smartphone today can be confusing. Long specification sheets are crammed with numbers, and their relationship with real-world performance is not always clear. One of the most misunderstood of all those specs is RAM, or Random Access Memory.
+
+If you’re wondering how much RAM your smartphone needs, then you’re not alone. This question has popped up again and again since the dawn of the smartphone. We decided to ask some experts about how much RAM the average person really needs, what it does, and how it works.
+
+What does RAM do?
+“Smartphones have come a long way in the last few years and do more for us now than ever,” Vishal Kara, Head of Product at Piriform (the makers of CCleaner for Android) told Digital Trends. “As we perform more and more tasks using our smartphones, more RAM is necessary for them to continue functioning efficiently.”
+
+We install apps and games into internal storage, our CPU (Central Processing Unit) and GPU (Graphics Processing Unit) deal with processing, so what does RAM do?
+
+“Smartphones require instant access memory for multitasking ? which is what RAM delivers,” Kara said. “Essentially, RAM keeps all your operations running at once.”
+
+When you run an app or game on your phone, it’s loaded into RAM. As long as an app is still in RAM, you can jump back into it where you left off without loading it afresh. This is why RAM is important for multitasking. The loaded apps stay there until your RAM fills up and needs to flush something to make room for something else.
+
+In theory, more RAM means that you can have more processes and therefore more apps running at once.
+
+“There is no right or wrong to how much RAM a smartphone requires, although RAM plays a big part in how fluid and seamless our smartphone experience is,” explains Kara. “Unlike PCs, where a few seconds delay in an app loading is acceptable, we expect apps to load instantly on our smartphones even when we’re on the go.”
+
+RAM also enables processes to run in the background. Some of these background processes, such as your phone checking for email, are really useful. Others, like a piece of carrier bloatware or an app that you never use, are not.
+
+The rise of RAM
+The first Android smartphone, the T-Mobile G1 or HTC Dream, had just 192MB of RAM and the original iPhone got by with 128MB of RAM. Those numbers have climbed steadily over the last decade or so, with an occasional leap prompting a new round of discussion. OnePlus most recently reignited the debate with the OnePlus 5, which boasts 8GB of RAM.
+
+“With 8GB of RAM, the OnePlus 5 can run more apps in the background allowing for faster multitasking, and, with the unrelenting development of innovative applications and technologies, the demand for more power and memory in smartphones is ever-increasing,” Laura Watts, European communications manager for OnePlus, told Digital Trends in an email. “With 8GB of RAM, the OnePlus 5 allows all users to easily run the most powerful applications and eliminates all doubt in its ability to do so in the future.”
+
+Since most of the rest of the flagship smartphone pack is around the 4GB RAM mark right now, the jump to 8GB seems dramatic.
+
+“Generally speaking, more RAM is better, and performance isn’t hampered by having more RAM,” John Poole of Primate Labs (makers of benchmarking software Geekbench 4 for iOS and Android) explained to Digital Trends. “But is it really necessary?”
+
+The amount of RAM we need is certainly growing. The average smartphone user launches 9 apps per day and uses around 30 different apps in a month, according to App Annie. Digging into the memory tab in the settings of my HTC U11, which has 4GB of RAM, reveals that average memory use over the last day was 2.3GB and that 47 apps used memory during that period.
+
+We also have more storage than ever. The OnePlus 5 with 8GB of RAM has 128GB of storage. That’s enough space for a lot of apps.
+
+Poole also points to the fact that software is growing bigger and more complicated, cameras are shooting larger images in RAW format and performing more image processing, and screens are getting bigger, but he’s still skeptical about the need for 8GB.
+
+“For smartphones, 4GB is plenty right now,” Poole said. “My feeling is that some vendors will engage in a specifications war where they’ll overprovision the amount of RAM simply because it’s a selling point ? they can say ‘look at how much more RAM our phone has than our competitors’ phone, clearly our phone is better’.”
+
+Why having more RAM isn’t always better
+If RAM offers potential performance improvements and greater convenience, then you may be wondering: what’s wrong with having more of it?
+“The more RAM you put into a phone, the more power that will draw and the shorter your battery life will be,” Poole said. “RAMtakes up the same amount of power regardless of what’s in it ? if it’s an application or it’s just free, you’re still paying for it in terms of power.”
+
+In other words, if you aren’t using the RAM, then it may be an unnecessary drain on your battery. Those background processes that we mentioned earlier also have an associated cost, as anyone who has used the Facebook app on Android will know.
+
+“Even if they’re not doing much, they can cause the processor to spin up to service any work that they have to do and that can contribute to energy drain,” Poole said.
+The iPhone in the room
+Android phones have jumped from 2GB to 4GB RAM as standard, and we’re now seeing phones with 6GB and 8GB of RAM ? Apple’s iPhone has always gotten by with less.
+
+Apple executives have traditionally remained tight-lipped about how much RAM is in the iPhone ? it’s not a spec they talk about. But we know from teardowns that the iPhone 7 has 2GB of RAM, and even the current top-of-the-range iPhone 7 Plus manages with 3GB of RAM.
+
+Apple achieves comparable performance with less RAM because of fundamental differences in how the iOS and Android platforms handle memory management. Android relies upon something called garbage collection, while iOS takes a reference counting approach. A brief web search will reveal that the debate on which is better rages on, but it seems to be generally accepted that garbage collection requires more memory to avoid performance problems.
+
+They may be different, but both platforms have a system of memory management that dictates what the RAM does. Because of this, you may not actually see any performance boost by simply adding more RAM ? you would have to also tweak the memory management rules to take advantage of it. To what degree manufacturers are actually doing this is unclear.
+
+Apple and Huawei did not respond to requests for comment. LG and HTC did not wish to participate in this article.
+
+ree the RAM
+“Users have been conditioned to believe that free RAM is an indicator of good performance from the days of PCs with limited memory, where this was a reasonable belief,” Kara said. “Nowadays, with more memory available, the perception that free RAM is an indicator of performance is a misconception. In fact, for a smartphone it’s the opposite.”
+
+This misconception that having free RAM is a positive thing persists. Also, if you’re in the habit of clearing away your open apps, you should probably stop doing it because it isn’t helping. It won’t save battery life or make your phone run any faster, in fact, it can have the opposite effect.
+
+“The operation of loading an app from storage into memory requires a lot of processing power, which results in higher power consumption,” Kara said.
+
+Most manufacturers still provide utilities that allow you to review RAM and sometimes to free it up and close processes. Third-party task killer apps were also big for a while, but Poole describes them as “snake oil.”
+
+“People want to see their RAM free, viewing it as headroom to work in,” says Poole. “But it’s better if your RAM is being used.”
+
+Ultimately, how much RAM your smartphone needs depends on how you use your smartphone, but it’s no longer the problem it once was. Maybe a few power users will be able to feel the benefit of 6GB, and you might argue that 8GB is future-proofing. But anything over 4GB is probably overkill for the vast majority of people today.
+
+

@@ -1,0 +1,27 @@
+GOOGLE'S MOBILE OPERATING SYSTEM Android will allow USB tethering and the ability to create ad-hoc WiFi networks with its upcoming 2.2 system update.
+
+Google is gearing up to launch the update later this month, amid reports that sales of devices running the firm's mobile operating system have finally overtaken the Iphone.
+
+With features such as USB tethering out of the box, it is likely to please users but annoy mobile operators who take any opportunity to squeeze more money out of their customers.
+
+USB tethering allows users to hook up their mobile phones and use them as modems, essentially bringing mobile data connectivity to a wide range of devices. Mobile operators 
+
+such as O2 charge a minimum of ¡Ì10 per month for the service which includes a pathetic 3GB of bandwidth.
+
+However, a spokesperson for O2 told The INQUIRER that its Iphone data tariff has no limits and given that Iphone users can take their sim-card and stick it into a device running Android,
+
+ presumably they will be able to get a whole lot more than 3GB of data transfer without having to fork over a tenner.
+
+Tethering is unlikely to bother the mobile operators as much as Google's decision to allow users to create ad-hoc wireless networks that use a device's wireless data connection. 
+
+This opens up the possibility that voice over IP (VOIP) applications, such as Skype and Fring, which typically need a WiFi connection to make calls, will work through other subscribers
+
+' hotspots, thus reducing the need for the mobile operator's voice service.
+
+In all likelihood, network operators who flog devices with Android 2.2 loaded are likely to disable the feature, which isn't going to be particularly hard as the operating system is open source.
+
+The only question remaining is how long will it take for devices to get upgraded. With some handset manufacturers, such as Sony, taking a pedestrian attitude to upgrading their devices, 
+
+the most likely candidate to receive the update first is the Nexus One.
+
+Google, in its interest to create a feature rich mobile operating system, might begin to annoy some of the mobile network operators that are vital to Android's continuing success.

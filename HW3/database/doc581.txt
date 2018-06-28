@@ -1,0 +1,51 @@
+﻿Artificial intelligence a natural fit for smartphones?
+
+As US tech giant Apple officially starts selling its new and expensive iPhone X, customers are meant to love its AI-ready features. But the firm's rivals are already in the starting blocks or even ahead of the curve.
+
+Tech analysts the world over are in agreement that Apple's latest generation of iPhones with its Bionic system-on-chip (SoC) technology is a milestone on the way toward genuine artificial intelligence.
+
+It is the company's new AI neural engine that is bound to be a huge driver in the native adoption of artificial intelligence in smartphones generally. SoCs replace the standard CPU unit and potentially contain everything from a graphics processor, USB controller, wireless components and a lot more — all on one chip.
+
+The iPhone X has it, but the phone comes at a price, with the latest Apple flagship device costing around $1,000 (860 euros) for the basic 64GB edition.
+
+While this may be hard on a buyer's bank balance, it won't stop the technology from spreading like wildfire, says Peter Richardson from Counterpoint Research, a global industry analysis firm based in Asia. He told DW AI capability would "come to smartphones whether consumers want it or not."
+
+"It's highly likely that all future iPhone models will also include a neural processing unit (NPU), so if you buy an iPhone in future it will have AI capability natively."
+
+Apple's iPhone X features face recognition technology, and with it AI capability
+
+Heavily contested segment
+
+But Apple's rivals are not resting on their laurels either. Take China's Huawei. The company boasts a new chipset called Kirin 970 and is billing its upcoming Mate 10 Pro as a real AI phone which will get its smartness and intelligence not from the cloud, but from its own integrated chip. The phone is expected to hit the German market toward the end of this month with a price tag of around 800 euros.
+
+And then there are the chipmakers themselves. "Qualcomm is the world's largest supplier of smartphone chipsets," Richardson added in making his case that AI capability in phones cannot be stopped. "It has not formally launched an AI chipset yet, but we understand it has the capability and will likely launch a chip that supports AI within a few months."
+
+The race is truly on. According to a fresh study by Counterpoint, one in three smartphones shipped in 2020 — roughly more than half a billion — will come with chipset-level integration of machine learning capability.While the initial driver in this development has been the use of Apple's new facial recognition technology (Face ID), AI-capable chips will be able to do a lot more in the future.
+
+In an initial stage, these chipsets — because of their much higher computing power — will help us get things we do done much faster and in a more efficient way. But it won't stop there. Business and technology consultant Thomas Coughlin says it'll be all about deep learning, a branch of AI "that recognizes sensory patterns as they happen." And he calls that the reason why image recognition, speech transcription and translation will become a lot more accurate.
+
+Huawei's Kirin chip family is out to eclipse its rivals by a wide margin in terms of processing speed
+
+Neural processing units can handle massive data sets based on phone users' habits, daily patterns and past behaviors and make predictions about what they'll do next. This may sound alarming to many of us, but Coughlin argues it may also mean "personal assistance never seen before."
+
+"Soon your phone will be able to detect precursors for illnesses, it will also be able to declutter your calendar and schedule your conference calls." In other words, AI-ready devices will be able to make decisions on their own and perform tasks that will "drastically reduce interaction time between the user and the device," Counterpoint agrees.
+
+China to lead the way?
+
+Interestingly enough, AI market research company TechEmergence believes that Asia, and China in particular, will develop smartphone AI capacities much faster than the US and the rest of the world.
+
+It says this is because many Chinese have never used a desktop, meaning that "all the tasks that Western consumers might want to do when they get home to their desktop must be done mobile with many Asian users."
+
+Adding that Chinese characters are challenging to type on a smartphone keyboard, concluding that speech recognition and other gesture commands requiring AI capability are in much higher demand there.
+
+Making a computer chipset work like a human brain turns out to be a huge challenge
+
+The ultimate goal, we are told, is for smartphones' AI capability to imitate the human brain. We're not quite there yet. In fact, while it may be a good marketing ploy to flaunt the latest phones' artificial intelligence feats, we're actually talking about machine learning. It's not unrelated, but a long way from doing exactly what our brains do.
+
+For the time being, smartphones-turned-intelligent can do things more efficiently than before and can process a lot more data and make decisions based on the results.
+
+But learning new skills is tricky in that the human brain is capable of memorizing previous lessons and creating new knowledge incrementally. Right now, if you want an artificial neural network to perform a new skill, you essentially have to start from scratch, says tech news platform Engadget, referring to "a process called catastrophic forgetting."
+
+But it's a fast-moving sector, and what we should not forget is that mass introduction of machine learning capability in smartphones will accelerate future advances — and bring down the price for such devices.
+
+"One thing to keep in mind is that many of the capabilities on today's $1,000 phone will be available on much less expensive phones in about five years' time," Coughlin said. "Of course, in the future, the expensive phones will be capable of doing even more things."

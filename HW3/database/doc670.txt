@@ -1,0 +1,48 @@
+Due to rapid development of virtual and augmented reality technologies, due to improvements of
+performance parameters and increase of technologies availability, it is important to discover new innovative
+approaches of technologies usage in different branches. Architecture and urban planning has an essential role in
+our lives and fundamental contribution can be delivered to this field of specialization by modern technologies
+like augmented reality (AR). It is important to provide wider use of qualitative AR technologies solutions, to
+come out of narrow scope of usages, mostly based on two dimensional data depiction or marker based systems.
+
+Depiction of three dimensional (3D) data is crucial for urban planning stages and using AR technologies it is
+possible to achieve more precise evaluation of new constructions and objects look and visual influence on
+environmental surrounding.
+There are already available solutions for city visualization in virtual reality, but to achieve better results and
+improve immersion level of planning process, AR technologies are a key, providing endless possibilities,
+however not all ideas can be reached immediately, and still lot of work and research should be done for AR
+logical and physical structure. Although Furht [1] bring forward four types of applications that are most often
+used for AR research and these applications are advertising and commercial, entertainment and education,
+medical, and mobile applications for smartphones. For all that Furht [1] also encourage new directions, because
+there are many possibilities for using AR in an innovative way and also new challenges AR is facing to go from
+the laboratories to the industry. In this paper the innovation is based on development of application City 3D-AR
+for urban planning, allowing to merge real city with virtual three dimensional (3D) buildings (Fig. 1).
+Fig. 1. Bus station augmented with new building for urban
+planning and public discussions
+ To enhance the immersion level of urban planning solution, main task is to find a way how to use
+augmented reality to allow urban planning experts move around the city streets and project virtual 3D
+buildings, allowing to see real city and virtual buildings at the same time. Beneficiaries are architecture centres,
+local authorities, companies of architects, art institutions, municipal archives, museums, and market parties. But
+not only, as Allen et al. [2] proved, such interactive solutions are great way to increase public participation in
+urban planning processes, only functionality of the system should be limited, so the users be able to view the
+available 3D models and vote for the models according to personal preference. The idea is to keep the
+functionality to a minimum in order to limit any confounding factors in the user experience of the system. As
+such, the graphical user interface (GUI) had to accommodate these functions in the most direct, user friendly
+way possible. Additionally, the physical structure and immersion level also plays a role, professionals could
+have expensive head mounted displays (HMD) with AR support and wearable computer, common users can use
+tablets for more reasonable prices (Fig. 1.), however latest achievements in HMD development from Vuzix [3]
+offer light way and high performances HMD sets, which have tendency to decrease price year by year. And Arnis Cirulis and Kristaps Brigis Brigmanis / Procedia Computer Science 25 ( 2013 ) 71 ? 79 73
+good evolution direction, is that HMDs with AR functionality for mobile devices appears, meaning comfortable
+replacement for wearable notebook solutions.
+The main challenges of this paper and the project City 3D-AR are depiction of bulky three dimensional
+objects in outdoor environment, buildings position detection that depends on participant's distance and viewing
+angle. Traditional approach with fiducial markers cannot be used; it is suitable for indoor solutions in short
+distances.
+Project Work Executed at Sociotechnical Systems Engineering Institute of the Vidzeme University of
+Applied Sciences, Virtual and Augmented Reality Laboratory. Two basic sets of hardware and software were
+used. The first set consists of tablet PC (Asus Transformer Pad TF300TG) with Android operating system,
+integrated position sensors, and visualization software libraries (more detailed in last section). The second set
+contains notebook (Asus G71Vseries), head mounted display with functionality of augmented reality (Vuzix
+Wrap 920AR), USB positions sensors (OceanServer evalution kit OS5000, Phidgets GPS and Spatial 3/3/3),
+gyroscopic mouse (Logitech MX Air Mouse) and VR/AR authoring platform (3DVIA Virtools) with building
+blocks for AR support. 

@@ -1,0 +1,13 @@
+Samsung and Apple have a new smartphone battleground: Emojis
+By Arjun Kharpal
+
+Major smartphone makers grappling with a slowing market are running out of features to entice users to buy their latest gadgets.
+Now they're turning to emojis to show off the augmented reality (AR) capabilities of their handsets.
+Apple was the first to bring out an AR emoji feature, called Animoji, on the iPhone X last year. The device's 3-D sensor on the front picked up a person's facial movement and mimicked it on an animated emoji.
+Samsung followed with its own answer, called AR Emoji, when it released the flagship Galaxy S9 smartphone Sunday. It allows people to snap a selfie and the phone's software makes it into a custom avatar that mimics the movement of a person's face.
+Sony launched a smartphone Monday at Mobile World Congress in Barcelona, Spain, called the Xperia XZ2, with a feature that lets people scan their face and create a 3-D avatar.
+These custom emojis and avatars are an example of a use case for augmented reality, a feature many smartphone manufacturers have talked up. Apple CEO Tim Cook told CNBC in 2017 that AR would make the iPhone "even more essential." Last year, Apple released a suite of tools for developers to create AR applications, as did Google.
+AR may still be a misunderstood technology, and analysts say starting with emojis is a way to educate people about how it can be used.
+"Emojis are the easiest and quickest way manufacturers can bring something to end users around AR capabilities that consumers get straight away," Francisco Jeronimo, research director for European mobile devices at IDC, told CNBC by phone.
+The new features, and renewed focus on the capabilities of the camera for smartphone makers, come as they try to push users to upgrade to the latest, higher-priced phones, amid a slowing market.
+Global sales of smartphones recorded their first ever decline in the fourth quarter of 2017, with Samsung and Apple both seeing a fall, according to data from Gartner.

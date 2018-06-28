@@ -1,0 +1,72 @@
+Portable media player
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+This article or section does not cite its references or sources.
+You can help Wikipedia by introducing appropriate citations. This article has been tagged since July 2006.
+A portable multimedia player, or PMP is a hard disk or flash memory based electronic device, 
+such as an "MP3 player", which is capable of storing and playing files in one or more media formats.
+
+Contents [hide]
+1 Capabilities of portable media players 
+2 Types of portable media players 
+3 Downsides of portable media players 
+4 See also 
+ 
+[edit] Capabilities of portable media players
+The main attractant of portable media players is often their versatility: being able to load 
+and play different formats of video (including MPEG, DivX, and XviD), audio (including MP3, 
+WAV, and Ogg Vorbis), digital images, (including BMP, JPEG, and GIF), and interactive media 
+(Adobe Flash and Flash LITE). Some even count some Handheld game consoles like sony's PSP and 
+GamePark Holdings' GP2X as being a PMP for their media playing capabilities.
+
+Portable media players capable of displaying video and/or images typically feature a color LCD 
+or OLED screen. Other capabilities seen on various portable media players include the ability to 
+record video and audio, and include card readers (SD, MMC, etc.) which makes it convenient to 
+store audio, video, and photos on the road.
+
+
+[edit] Types of portable media players
+A portable video player is a type of portable media player which focuses on the playback of 
+digital video. Some portable media players can store and display digital images. In this instance
+ the Apple 5th-generation iPod could be considered a portable media player- as it is capable of 
+playing back audio as well as displaying digital pictures and video. Also the Creative Zen Vision:
+M is another player that can play both audio and video, picks up FM Radio and records voice as well
+ as the larger screened (2.5" to 4" respectively) Zen Vision. The Sony HMP-A1, released only in 
+Japan and Europe, had these same capabilities as well as longer battery life. The Samsung Yepp
+ YP-T8 also provided these capabilities, as well as voice, FM radio, and line recording. It also 
+included a USB host capability for link up to other portable devices without the use of a PC. Some 
+other examples of portable media players with these capabilities include the Archos Gmini series, 
+aigo E-858, X2 MegaView series, the Neuros 442, the iriver series of media players, the Olympus 
+m:robe, the acclaimed iStation v43, MP4 Star by Intechip Corp. and the Cowon A2. MSI developed and
+ showcased the first solar powered player, the MSI MEGA 540, at CeBIT in Hannover, Germany [1]. 
+Other portable media players combine a focus on recording capability with playback features, 
+for example the Neuros Recorder 2 records as well as plays back several audio and video formats.
+
+A new type of portable media player has emerged as a result of satellite radio companies' push 
+into popular markets in the North America (XM Radio [2] and Sirius). These devices [3] are linked 
+to the paid subscriber's account in that the players record a certain number of programs, a la 
+Tivo, and allows the user to listen to pre-recorded programs, often popular songs or talk shows, 
+while on the run. This has caused the music industry to be concerned about the high-fidelity music 
+becoming pirated secondary to the ease of recording. One such a recording device that conveniently 
+records all the music, once hooked up a desktop computer, was successfully forced to stop being 
+sold through the satellite radio companies' portals by the music industry.
+
+
+[edit] Downsides of portable media players
+Often downsides of portable media players are their size, cost, and battery life. Some may be the
+ size and thickness of a large paperback, enormous compared to other miniaturized players. In addition, 
+the cost of these players can be prohibitive, often in the 400-800 dollar price range. There are 
+also PMPs such as the Sandisk Sansa e200 series, where the 8GB model costs about $250, but the screen 
+is much smaller than most.
+
+Now, however, companies such as Apple and Creative are pushing the price mark lower, with their 
+additions and the newly added Zune by Microsoft. (Apple iPod 5G 30GB- $249.00 Microsoft Zune 30 GB- 
+$249.99 and Creative Zen Vision:M 30GB- $229.99).
+
+Digital Rights Management (DRM) issues also plague a typical user in that music purchased on iTunes 
+can only be played on iPods because of proprietary Apple technology that prohibits transfer of music 
+secondary to DRM issues. Similarly, music purchased from other companies (e.g., Real) cannot be played
+ on Apple products because of Microsoft DRM technologies. From the outset, a typical user must "choose"
+ which device she or he would use dominantly in order to buy and use the music. This can stifle the 
+user's experience of enjoying his or her music legally purchased online.
+

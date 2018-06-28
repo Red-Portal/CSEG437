@@ -1,0 +1,9 @@
+For the users who pay much attention to a phone¡¯s performance, you can directly judge a phone by the phone CPU ranking list. Today, MyFixGuide brings the latest smartphone processor ranking list for your reference, and we will regularly update the ranking list. If you have any doubt towards the ranking, please leave a message to us in the comment box. We will try our best to help you.
+
+The phone processor mainly depends on the framework. The power consumption depends on the process that the smartphone processor is built on. Performance to a large extent depends on CPU¡¯s main frequency and core number. Image performance (game performance) depends on GPU. Besides, network mode depends on the baseband. In a word, the processor is the most important and one of the most expensive hardware for a phone.
+
+At present, the Apple A11, the Qualcomm Snapdragon 845, the Huawei Kirin 970, the MediaTek Helio X30 and the Samsung Exynos 9810 belong to the best smartphone processors. These five top processors are built on currently most advancing 10nm manufacturing process and have good control in power consumption.
+
+The iPhone 8 the iPhone 8 Plus and the iPhone X launched last September are Apple¡¯s three flagship smartphone which is first powered by Apple¡¯s own processor ? the Apple A11. At present, the Apple A11 is the best phone processor. The A11 gets over 20,000 points on Antutu, which is higher than the score that the Qualcomm Snapdragon 835 and Huawei Kirin 970 get. The Snapdragon 835 gets 180,000 points while the Kirin 970 gets 170,000 points on Antutu.
+
+As far as the Android phone is concerned, the Qualcomm Snapdragon 845 and the Huawei Kirin 970 are the best phone processors. Although the Snapdragon 835 has gotten higher scores than the Kirin 970 does the Kirin 970 has added artificial intelligence and NPU. Therefore, the Kirin 970 has as good comprehensive performance as the Snapdragon 835 has.

@@ -1,0 +1,23 @@
+The HTC Exodus will be a super-secure smartphone based on blockchain
+
+Schematics for the HTC Exodus(Credit: HTC)
+
+We're expecting a more conventional flagship phone launch from HTC in the next few weeks, but in the meantime it has announced a blockchain-based handset called Exodus. The company says the focus of the phone will be security, encryption, and cryptocurrency support.
+
+Blockchain is one of the hottest terms in tech right now, though you'd be forgiven for getting confused about exactly what it means. In simple terms, it's a log of transactions ? the transactions are the blocks, and the ledger is the chain. It can be public (available to the world at large) or private (available to a select group).
+
+The idea is that security and transparency are increased by having a blockchain, so it's harder to commit fraud: Changing one block immediately brings up errors in the adjoining blocks, for example. Importantly, the system is also decentralized, so it's not located in any one specific place or owned by one entity.
+
+The technology was created to underpin Bitcoin, but has since been put to all kinds of uses, from social networks to board games. The fact that it's available to everyone on a particular network doesn't mean all those people can see what you've been spending your Bitcoin on, but it does mean there's a record of money changing (virtual) hands.
+
+So, how does all this apply to phones? Blockchain technology can be applied anywhere security and decentralization are important, from online shopping to private communications, and HTC is hoping to tap into that.
+
+Each Exodus phone will act as an encrypted node on a blockchain network, making the phone and data stored on it as difficult to break into as it is to tamper with a Bitcoin block (very difficult, in other words).
+
+The phone will also run what HTC is calling "DApps", decentralized applications also based on blockchain technology, with their own public ledgers. Information from these apps will be verified by users on the network, with cryptocurrency rewards in Bitcoin and Ethereum available (both cryptocurrencies will be tightly integrated into Exodus phones).
+
+"Our vision is to expand the blockchain ecosystem by creating the world's first phone dedicated to decentralized applications and security," says HTC. "With the release of the HTC Exodus we can now make this a reality."
+
+All we know so far is that the phone will run Android, have a touchscreen and a single rear camera, and support a SIM and a microSD card. As yet there's no news on when the phone will actually appear or how much it will cost, though you will be able to buy one with your cryptocurrency stash when the time comes.
+
+Blockchain (and Bitcoin) are very much nascent technologies right now, full of promise and potential but still some way from mainstream adoption. Only time will tell if the HTC Exodus ends up being another step towards blockchain reaching the masses.

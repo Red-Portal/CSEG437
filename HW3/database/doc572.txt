@@ -1,0 +1,252 @@
+Executive Summary
+
+After 38 years of rapid progress, conventional microprocessor technology is
+beginning to see diminishing returns. The pace of improvement in clock speeds and
+architectural sophistication is slowing, and while single-threaded performance
+continues to improve, the focus has shifted to multicore designs.
+
+These too are reaching practical limits for personal computing; a quad-core CPU
+isn¡¯t worth twice the price of a dual-core, and chips with even higher core counts
+aren¡¯t likely to be a major driver of value in future PCs.
+
+CPUs will never go away, but GPUs are assuming a more prominent role in PC
+system architecture. GPUs deliver more cost-effective and energy-efficient
+performance for applications that need it.
+
+The rapidly growing popularity of GPUs also makes them a natural choice for
+high-performance computing (HPC). Gaming and other consumer applications
+create a demand for millions of high-end GPUs each year, and these high sales
+volumes make it possible for companies like NVIDIA to provide the HPC market with
+fast, affordable GPU computing products.
+
+NVIDIA¡¯s next-generation CUDA architecture (code named Fermi), is the latest
+and greatest expression of this trend. With many times the performance of any
+conventional CPU on parallel software, and new features to make it easier for
+software developers to realize the full potential of the hardware, Fermi-based GPUs
+will bring supercomputer performance to more users than ever before.
+
+Fermi is the first architecture of any kind to deliver all of the features required
+for the most demanding HPC applications: unmatched double-precision floating-
+point performance, IEEE 754-2008 compliance including fused multiply-add
+operations, ECC protection from the registers to DRAM, a straightforward linear
+addressing model with caching at all levels, and support for languages including C,
+C++, FORTRAN, Java, Matlab, and Python.
+
+With these features, plus many other performance and usability enhancements,
+Fermi is the first complete architecture for GPU computing.
+
+3
+
+CPU Computing?the Great Tradition
+
+The history of the microprocessor over the last 38 years describes the greatest
+period of sustained technical progress the world has ever seen. Moore¡¯s Law, which
+describes the rate of this progress, has no equivalent in transportation, agriculture,
+or mechanical engineering. Think how different the Industrial Revolution would
+have been 300 years ago if, for example, the strength of structural materials had
+doubled every 18 months from 1771 to 1809. Never mind steam; the 19th century
+could have been powered by pea-sized internal-combustion engines compressing
+hydrogen to produce nuclear fusion.
+
+CPU performance is the product of many related advances:
+
+Increased transistor density
+Increased transistor performance
+Wider data paths
+Pipelining
+Superscalar execution
+Speculative execution
+Caching
+Chip- and system-level integration
+
+?
+?
+?
+?
+?
+?
+?
+?
+
+The first thirty years of the microprocessor focused almost exclusively on serial
+workloads: compilers, managing serial communication links, user-interface code,
+and so on. More recently, CPUs have evolved to meet the needs of parallel workloads
+in markets from financial transaction processing to computational fluid dynamics.
+
+CPUs are great things. They¡¯re easy to program, because compilers evolved right
+along with the hardware they run on. Software developers can ignore most of the
+complexity in modern CPUs; microarchitecture is almost invisible, and compiler
+magic hides the rest. Multicore chips have the same software architecture as older
+multiprocessor systems: a simple coherent memory model and a sea of identical
+computing engines.
+
+But CPU cores continue to be optimized for single-threaded performance at the
+expense of parallel execution. This fact is most apparent when one considers that
+integer and floating-point execution units occupy only a tiny fraction of the die area
+in a modern CPU.
+
+Figure 1 shows the portion of the die area used by ALUs in the Core i7 processor
+(the chip code-named Bloomfield) based on Intel¡¯s Nehalem microarchitecture.
+
+4
+
+Figure 1. Intel¡¯s Core i7 processor (the chip code-named Bloomfield, based on the
+Nehalem microarchitecture) includes four CPU cores with simultaneous multithreading, 8MB
+of L3 cache, and on-chip DRAM controllers. Made with 45nm process technology, each chip has
+731 million transistors and consumes up to 130W of thermal design power. Red outlines
+highlight the portion of each core occupied by execution units. (Source: Intel Corporation
+except red highlighting)
+
+With such a small part of the chip devoted to performing direct calculations, it¡¯s
+no surprise that CPUs are relatively inefficient for high-performance computing
+applications. Most of the circuitry on a CPU, and therefore most of the heat it
+generates, is devoted to invisible complexity: those caches, instruction decoders,
+branch predictors, and other features that are not architecturally visible but which
+enhance single-threaded performance.
+
+Speculation
+
+At the heart of this focus on single-threaded performance is a concept known as
+speculation. At a high level, speculation encompasses not only speculative execution
+(in which instructions begin executing even before it is possible to know their
+results will be needed), but many other elements of CPU design.
+
+5
+
+Caches, for example, are fundamentally speculative: storing data in a cache
+represents a bet that the data will be needed again soon. Caches consume die area
+and power that could otherwise be used to implement and operate more execution
+units. Whether the bet pays off depends on the nature of each workload.
+
+Similarly, multiple execution units, out of order processing, and branch
+prediction also represent speculative optimizations. All of these choices tend to pay
+off for code with high data locality (where the same data items, or those nearby in
+memory, are frequently accessed), a mix of different operations, and a high
+percentage of conditional branches.
+
+But when executing code consisting of many sequential operations of the same
+type?like scientific workloads?these speculative elements can sit unused,
+consuming die area and power.
+
+The effect of process technology
+
+The need for CPU designers to maximize single-threaded performance is also
+behind the use of aggressive process technology to achieve the highest possible
+clock rates. But this decision also comes with significant costs. Faster transistors run
+hotter, leak more power even when they aren¡¯t switching, and cost more to
+manufacture.
+
+Companies that make high-end CPUs spend staggering amounts of money on
+process technology just to improve single-threaded performance. Between them,
+IBM and Intel have invested tens of billions of dollars on R&D for process technology
+and transistor design. The results are impressive when measured in gigahertz, but
+less so from the perspective of GFLOPS per dollar or per watt.
+
+Processor microarchitecture also contributes to performance. Within the PC
+and server markets, the extremes of microarchitectural optimization are
+represented by two classes of CPU design: relatively simple dual-issue cores and
+more complex multi-issue cores.
+
+Dual-issue CPUs
+
+The simplest CPU microarchitecture used in the PC market today is the dual-
+issue superscalar core. Such designs can execute up to two operations in each clock
+cycle, sometimes with special ¡°pairing rules¡± that define which instructions can be
+executed together. For example, some early dual-issue CPUs could issue two simple
+
+6
+
+integer operations at the same time, or one integer and one floating-point operation,
+but not two floating-point operations.
+
+Dual-issue cores generally process instructions in program order. They deliver
+improved performance by exploiting the natural instruction-level parallelism (ILP)
+in most programs. The amount of available ILP varies from one program to another,
+but there¡¯s almost always enough to take advantage of a second pipeline.
+
+Intel¡¯s Atom processor is a good example of a fully evolved dual-issue processor.
+Like other advanced x86 chips, Atom translates x86 instructions into internal
+¡°micro-ops¡± that are more like the instructions in old RISC (reduced instruction set
+computing) processors. In Atom, each micro-op can typically perform one ALU
+operation plus one or more supporting operation such as a memory load or store.
+
+Dual-issue processors like Atom usually occupy the low end of the market
+where cost-efficiency is paramount. For this reason, Atom has fewer performance-
+oriented optimizations than more expensive Intel chips. Atom executes in order,
+with no speculative execution. Much of the new engineering work in Atom went into
+improving its power efficiency when not operating at full speed.
+
+Atom has six execution pipelines (two for floating point operations, two for
+integer operations, and two for address calculations; the latter are common in the
+x86 architecture because instruction operands can specify memory locations). Only
+two instructions, however, can be issued to these pipelines in a single clock period.
+This low utilization means that some execution units will always go unused in each
+cycle.
+
+Like any x86 processor, a large part of Atom is dedicated to instruction caching,
+decoding (in this case, translating to micro-ops), and a microcode store to
+implement the more complex x86 instructions. It also supports Atom¡¯s two-way
+simultaneous multithreading (SMT) feature. This circuitry, which Intel calls the
+¡°front end cluster,¡± occupies more die area than the chip¡¯s floating-point unit.
+
+SMT is basically a way to work around cases that further limit utilization of the
+execution units. Sometimes a single thread is stalled waiting for data from the cache,
+or has multiple instructions pending for a single pipeline. In these cases, the second
+thread may be able to issue an instruction or two. The net performance benefit is
+usually low, only 10%?20% on some applications, but SMT adds only a few percent
+to the size of the chip.
+
+7
+
+As a result, the Atom core is suitable for low-end consumer systems, but
+provides very low net performance, well below what is available from other Intel
+processors.
+
+Intel¡¯s Larrabee
+
+Larrabee is Intel¡¯s code name for a future graphics processing architecture
+based on the x86 architecture. The first Larrabee chip is said to use dual-issue cores
+derived from the original Pentium design, but modified to include support for 64-bit
+x86 operations and a new 512-bit vector-processing unit.
+
+Apart from the vector unit, the Larrabee core is simpler than Atom¡¯s. It doesn¡¯t
+support Intel¡¯s MMX or SSE extensions, instead relying solely on the new vector unit,
+which has its own new instructions. The vector unit is wide enough to perform 16
+single-precision FP operations per clock, and also provides double-precision FP
+support at a lower rate.
+
+Several features in Larrabee¡¯s vector unit are new to the x86 architecture,
+including scatter-gather loads and stores (forming a vector from 16 different
+locations in memory?a convenient feature, though one that must be used
+judiciously), fused multiply-add, predicated execution, and three-operand floating-
+point instructions.
+
+Larrabee also supports four-way multithreading, but not in the same way as
+Atom. Where Atom can simultaneously execute instructions from two threads
+(hence the SMT name), Larrabee simply maintains the state of multiple threads to
+speed the process of switching to a new thread when the current thread stalls.
+
+Larrabee¡¯s x86 compatibility reduces its performance and efficiency without
+delivering much benefit for graphics. As with Atom, a significant (if not huge) part of
+the Larrabee die area and power budget will be consumed by instruction decoders.
+As a graphics chip, Larrabee will be impaired by its lack of optimized fixed-function
+logic for rasterization, interpolating, and alpha blending. Lacking cost-effective
+performance for 3D games, it will be difficult for Larrabee to achieve the kind of
+sales volumes and profit margins Intel expects of its major product lines.
+
+Larrabee will be Intel¡¯s second attempt to enter the PC graphics-chip market,
+after the i740 program of 1998, which was commercially unsuccessful but laid the
+foundation for Intel¡¯s later integrated-graphics chipsets. (Intel made an even earlier
+run at the video controller business with the i750, and before that, the company¡¯s
+i860 RISC processor was used as a graphics accelerator in some workstations.)
+
+8
+
+Intel¡¯s Nehalem microarchitecture
+
+Nehalem is the most sophisticated microarchitecture in any x86 processor. Its
+features are like a laundry list of high-performance CPU design: four-wide
+superscalar, out of order, speculative execution, simultaneous multithreading,
+multiple branch predictors, on-die power gating, on-die memory controllers, large
+caches, and multiple interprocessor interconnects. Figure 2 shows the Nehalem
+microarchitecture.

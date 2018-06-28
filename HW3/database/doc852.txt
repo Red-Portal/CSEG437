@@ -1,0 +1,16 @@
+Apple has just officially unveiled iOS 12 at its annual WWDC conference.
+This is the software that will define the experience of 2018's new iPhones, and also update current iPhones and iPads when it comes out to devices in late 2018 (likely September). 
+Developers will be able to get the preview software today.
+Rumors prepped us that Apple would save a major iOS overhaul -- a redesigned look, 
+rebuilt Siri and reworked Photos app -- for a later version of the software, focusing on stability 
+and digital balance with a few flashy additions here and there. The most shocking one for me is Memoji, which is an Animoji 
+(animated emoji) that you can create of yourself. Samsung beat Apple to the punch with AR emoji in its Galaxy S9 phones, 
+but they were shockingly bad. Apple has a chance to once again popularize a fringe feature that a rival could not.
+Apple's first hint that we should temper our iOS 12 expectations was this:"With iOS 12, we're doubling down on performance,
+" Apple's Senior VP of Software Engineering Craig Federighi said on stage at the keynote. iOS 12 will come to all the same devices as iOS 11.
+Apple says it's focusing its efforts on the oldest devices, like the iPhone 6 Plus
+For example, apps will launch up to 40 percent faster, and you can slide to take a photo at up to 70 percent faster 
+than with iOS 11.But that doesn't mean this will be a ho-hum release, and remember -- Apple loves saving iOS surprises 
+for its developer preview and for the iPhone release. Expect to see a few more exciting iOS 12 features come to 2018 iPhones. 
+Memoji: Taking on the Galaxy S9's AR emoji, iOS 12 will let you make an Animoji of yourself using the front-facing 3D camera. 
+To make your Memoji feel like you, there are customization options for skin tone, hairstyles, facial features (like freckles) and accessories like sunglasses.

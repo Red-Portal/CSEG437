@@ -1,0 +1,8 @@
+Early systems
+Main article: Analog high-definition television systems
+The term "high definition" was used to describe the electronic television systems of the late 1930s and 1940s beginning with the former British 405-line black-and-white system, introduced in 1936; however, this and the subsequent 525-line U.S. NTSC system, established in 1941, were high definition only in comparison with previous mechanical and electronic television systems, and NTSC, along with the later European 625-line PAL and SECAMs, is described as standard definition today.
+
+On the other hand, the 819-line French black-and-white television system introduced after World War II arguably was high definition in the modern sense, as it had a line count and theoretical maximum resolution considerably higher than those of the 625-line systems introduced across most of postwar Europe. However, it required far more bandwidth than other systems, and was switched off in 1986, a year after the final British 405-line broadcasts.
+
+Japan was the only country where commercial analog HDTV was launched and had some success. In other places, such as Europe, analog (HD-MAC) HDTV failed. Finally, although the United States experimented with analog HDTV (there were about 10 proposed formats), it soon moved towards a digital approach.
+

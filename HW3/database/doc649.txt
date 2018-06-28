@@ -1,0 +1,59 @@
+﻿Google Opens Maps APIs and World Becomes Dev Playground
+
+Google this week announced that it will open its Maps APIs to video game developers, which could result in far more realistic settings in augmented reality games. With access to real-time map updates and rich location data, developers will have many choices of settings for their games.
+
+The APIs will provide devs with what Google has described as a "living model of the world" to use as a foundation for game worlds. Developers will have access to more than 100 million 3D buildings, roads, landmarks and parks from more than 200 countries around the globe.
+
+Google has released a new software development kit for the popular cross-platform game engine, Unity. Developers who use the Unity SDK won't need previous experience with Google Maps. The Unity integration will allow real-world buildings, roads and other structures to be transformed into objects that can be modified and tweaked as required for the game.
+
+Google will demonstrate this technology at next week's 2018 Game Developers Conference, which will kick off on Monday at the Moscone Center in San Francisco.
+
+Location, Location, Location
+The first three games that will utilize Google Maps APIs -- Jurassic World Alive, The Walking Dead: Our World and Ghostbusters World -- will combine augmented reality and location-based gameplay. Each will offer an experience not unlike that of the hit Pokémon Go, which lets players collect virtual characters that can be seen only on their smartphone screens.
+
+The gameplay likely will be similar -- but may involve capturing dinosaurs, shooting zombies and catching ghosts that turn up in a player's location.
+
+"How could you do these sorts of location-based games without the mapping data?" pondered Simon Solotko, senior analyst at Tirias Research.
+
+"Google was smart to acquire the firms that were creating this technology," he told LinuxInsider. "While this could have been something created by independent game developers, we are seeing that Google is leading the efforts now."
+
+Whole New Worlds
+AR gaming is just the latest use of Google's technology.
+
+"Google Maps is already working with companies, cultural institutions and groups to expand imagery and collections available to users through the Maps API," noted Josh Crandall, principal analyst at Netpop Research.
+
+"Google is now enabling developers to unleash their imaginations into the world in which we live," he told LinuxInsider.
+
+The Maps API could also inspire a new generation of creative geo-based games that were unachievable before now, due to the mapping costs involved, while the Street View imagery and 3D models could support even more realistic settings.
+
+"Game developers won't be hamstrung by the need to develop mapping tech and will be able to leverage the massive geo database that Google's built, at a nominal cost," Crandall said.
+
+Mapping "is a necessity for compelling AR gaming, whether it is collection quests and other mild social gaming like RPGs, [or] first-person shooters," suggested game industry veteran Richard Boyd, CEO of Tanjo.
+
+"Think about the assassin games we used to play on campus in the 1980s amplified with this," he told LinuxInsider.
+
+Game Changer
+The use of the mapping technology also could allow small game studios to do much more with fewer people on staff.
+
+"The new tools will make it easier for small and mid-size developers to create compelling games that involve real-world locations," said Carter Rogers, senior analyst at SuperData Research.
+
+"Mapping technology is really the key utility in these location-based games," commented Tirias' Solotko.
+
+"Pokémon Go was just the first that proved these sorts of games have the potential to be a lot of fun," he added.
+
+However, "as the market for location-based games becomes more crowded, it will be difficult for games to compete if they do not feature well-known brands or do not have a sizable marketing budget," suggested SuperData's Rogers.
+
+"Games that use real-world locations in an objectionable way are likely to run afoul of existing rules that Apple and Google have in place for their storefronts," he noted. "Thanks to the popularity of Pokémon Go, everyone -- from developers to governments -- already knows to watch out for some of the potential issues with location-based games, [such as] players inadvertently trespassing or overcrowding in some real locations."
+
+SLAM Dance
+The Google Maps API may offer just one piece of the various technologies that will change the course of game development, but it could be the impetus for an AR disruption.
+
+"If you put together 5G mobile networks, great mapping data and cloud compute -- and use this with the revolution in AR/VR display technology -- the result will be experiences that no one has created before," said Tirias' Solotko.
+
+"This is a really big deal, even if people are still grappling with how AR is coming together," he added.
+
+However, mapping technology may be the laggard in this technology convergence.
+
+"Right now a lot of location data isn't accurate enough to know if I'm a few blocks away, and this technology needs to be closer," explained Solotko.
+
+"We need to get from meters to inches, and that is only going to happen with SLAM -- simultaneous localization and mapping," he suggested. "Once that is resolved, this will get much more complex, and that is the next frontier in game development from where we are now."

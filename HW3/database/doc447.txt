@@ -1,0 +1,86 @@
+On tap at Microsoft: A 3D display without glasses and multiple programs at once
+Imagine you and your friends could play multiplayer "Halo" without the screen split into quarters. Or that you could watch the World Cup while your kids watch "Dora the Explorer" -- on the same television screen. And all in 3D.
+
+That's what a small team at Microsoft's Applied Sciences Lab is doing. Their new "wedge" optical technology makes it possible for screens to display different images to different people at the same time, show three-dimensional images without the need for 3D glasses, detect things that are placed on the screen, and respond to touch and proximity.
+
+
+Framegrab
+The "wedge" flat lens makes it all possible.
+This is difficult to explain in type, so bear with me.
+
+The wedge is just the basis. It's a half-inch slab of specially engineered plastic that acts as a flat lens: You can shine an LED at the bottom edge of the wedge, and the light will bend around and exit from the wedge's face.
+
+But the magic comes when you use multiple light sources.
+
+Envision a typical, round lens. When you shine light through a certain lens, the lens focuses it from a cone to a column. Move the light to the left behind the lens, and the light column points to the right. Move it to the right, and the column points leftward.
+
+Now envision multiple light sources behind the lens -- a line of, say, 10 LEDs. The rightmost LEDs will shine leftward through the lens, and vice versa, resulting in different light columns being projected in different directions.
+
+The Microsoft team used the flat wedge instead of a typical lens, and they set up a series of computer-controlled LEDs along the bottom edge. These can turn on and off, projecting multiple light columns in different directions.
+
+
+Courtesy of Microsoft
+This slide from an Applied Sciences PowerPoint presentation (PPTX -- 2MB) shows how a lens can direct light from an LED to a specific location.
+They connected the LED bar to a 3D sensor and camera (they were using the Xbox Kinect hardware), which can detect where a person is standing in front of it. Actually, the sensor can detect multiple people, and track them as they move around or switch positions.
+
+"This is the first time we've ever been able to steer light in space," Stevie Bathiche, research director for the Applied Sciences Group, told me as he showed off his workshop in the basement of Microsoft's Studio B building in Redmond.
+
+Through custom software, the team was able to coordinate the LEDs so that they shine light through the wedge directly to a person. By lighting up different LEDs, the system can project different light columns to the different people it detects in front of it. Images can follow people as they move around because the LEDs flip on and off in sequence -- like theater marquee lights.
+
+"Because we're controlling where the image goes, we don't need a very powerful LED," Bathiche said, noting that such displays -- whenever they become available -- wouldn't be huge energy sucks.
+
+This is all the backlighting for a liquid crystal display. Slap on a few liquid crystal films and you've got yourself an LCD that can display several different images in several different directions at the same time. World Cup in one direction, "Dora the Explorer" in another ... maybe a cooking show in yet another.
+
+
+Stevie Bathiche (long hair) and Moshe Lutz (no hair) demonstrate the system's detection and tracking abilities. (There is no audio.)
+But what about 3D? That's where it gets even more interesting.
+
+Add in face-recognition software, and the system can pinpoint a viewer's individual eyes. Then, in addition to projecting different images to different people, the display can project a different image to each of a person's two eyes. Which is precisely how depth perception works in the real world. No 3D glasses required.
+
+And it works. It all works. I tried it.
+
+
+Courtesy of Microsoft
+Download a PowerPoint presentation about the technology (PPTX -- 2MB)
+"What we're trying to do here is turn (display technology) on its head," researcher Tim Large said, "so what you're seeing is a virtual world."
+
+Let's back up for a second. 3D is becoming more popular, especially after the release of "Avatar" in December. What summer blockbusters aren't being released in 3D this year? And now companies such as Sony, Samsung and Panasonic are selling 3D televisions that require glasses.
+
+Two weeks ago, at the Electronic Entertainment Expo in Los Angeles, Nintendo unveiled its upcoming 3DS hand-held gaming system. Its small screen can display 3D images without the need for 3D glasses.
+
+The difference between the Nintendo 3DS and the Applied Sciences display is that the 3DS, via a special plastic film, projects two images in predetermined directions. When looking at the screen, the user must make sure his or her head is positioned within a small area where the light columns meet and the 3D effect works.
+
+The Steerable Auto 3D Stereo Display, as Bathiche and his team are calling it right now, eliminates that small working window. Well, technically, the system moves that window around the room by tracking the viewer and adjusting which LEDs are illuminated when.
+
+
+Stevie Bathiche demonstrates how the system projects 3D images. (There is no audio.)
+Still with me?
+
+Because it uses optics, not only is the wedge able to display images, it is able to receive light. Add in a small camera at the wedge's edge, and the system can detect objects that are close to or touching the surface.
+
+Microsoft uses similar technology in its Surface table. Using cameras, sensors and sophisticated software, Surface can detect and recognized objects such as fingers, shapes and specially tagged items that are placed on the table.
+
+
+Bathiche
+Bathiche and his team are improving the range of that technology so their wedge displays can more accurately detect objects and people that are close to, but not touching, the screens. The displays, therefore, both show images and "see" images.
+
+"We're actually blurring the line here between input and output," Bathiche said.
+
+Don't hold your breath, or put off buying that 3D TV you were eying -- the Applied Sciences team had no estimate of when this technology might be available for consumers. It's a ways off, but not too far; all the prototypes I saw were working.
+
+Their challenge now is to improve the image quality (it was kinda rough) and shave down the thickness of the optical wedge. The high-quality plastic is heavy, and large screens now would weigh at least 100 pounds.
+
+
+Courtesy of Nintendo
+The Nintendo 3DS.
+And today's high-definition displays are so sharp and bright, Microsoft would not be able to get away with releasing a sub-par wedge display -- no matter how fancy it might seem.
+
+"The bar is very high. And we can get there," Bathiche said. "But in order to get there we have to do a lot of thinking."
+
+Microsoft inherited the minds and the technology when it acquired CamFPD, a Cambridge University spin-off, in 2007. The wedge was the brainchild of Adrian Travis, who is now a senior researcher with the Applied Sciences Group. The team brought on Moshe Lutz this year to do the software work.
+
+Bathiche said the team also works with hardware manufacturers to push display technology to higher and higher levels. After all, the technology exists -- it just needs to get better.
+
+"We're working hard to make it real," he said. "We don't know when, but we're working hard to making it real."
+
+"Real-er," Lutz said.

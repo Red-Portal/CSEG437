@@ -1,0 +1,11 @@
+Cocos2D-x
+
+As the name suggests Cocos2D-x is a 2D game development kit for Android, iOS, Linux, OS X and Blackberry mobile phones. 
+Being an open-source tool, it comes with loads of detailed documentation and community support. 
+It is highly resource efficient in the sense that you can create games of a size as low as 1.5 MB. 
+It uses OpenGL to render optimized 2D graphics.
+This platform has evolved dramatically over the past few years and has become a preferred choice many developers around the world. 
+Some of the popular games developed using Cocos2D-x include Badland, Clash of Kings, Hardest Game Ever 2, Contra: Evolution etc. 
+It free pricing and library of existing resources make it a good competitor for 2D game development. 
+Though it is a very effective tool it has limited capabilities in 3D game development. 
+Apart from this, it is a superb game development SDK for a small to mid-size project.

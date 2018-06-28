@@ -1,0 +1,42 @@
+Review - Cingular 3125 An Ultra Slim Windows Smartphone
+
+Business customers who are tired of the bulk of most Windows smartphones will find plenty to like in the Cingular 3125, a remarkably compact and elegantly designed flip phone that puts the power of Windows Mobile 5.0 Smartphone Edition into a device not much bigger than the Motorola RAZR.
+ 
+Getting a standard cell phone at this size would be a pleasure, but the fact that the 3125 is a smartphone comes across as a miracle of modern technology. It handles calling, e-mailing, and reading documents with ease, and is surprisingly attractive for a business phone. It also has a built-in camera and music playing controls that are accessible when the phone is closed. If you thought the BlackBerry Pearl and the Motorola Q were compact, wait till you see this one. 
+
+Design
+
+"Cingular 3125" is just one of this phone's names, and you might see it called the HTC Star Trek, Qtek 8500, or i-Mate Smartflip. The "Star Trek" appellation made our geeky heart flutter, but, sadly, it's only a codename and the phone has no connection with the Star Trek franchise. It's not modeled on a Star Trek communicator and it doesn't make phaser sounds. Too bad; now that would have been cool. 
+
+But even without Star Trek sounds the 3125 is incredibly impressive. 
+
+It measures a mere 3.9 x 2.0 x 0.6 inches and weighs only 3.5 ounces. You can easily carry it in a pants or shirt pocket and barely know it's there. The 3125 is a flip phone that doesn't look like a smartphone, which is a good thing, and most of its black exterior is covered by a horizontally-lined textured surface that gives it some style and makes it easier to grip. If you're tired of candy bar-shaped phones that don't reach anywhere near your mouth when held to your ear, you'll appreciate that the unfolded 3125 has no trouble spanning that distance even with a tall man. 
+
+When closed, the phone's external display (128 by 128 pixels) glows with the time, date, and battery information. This display quickly shuts off, though, to conserve power. We wish there was an option to keep it lit all the time, so that we didn't have to open the phone to check the time, but there's no setting for that. 
+
+We also didn't like that there was no alert light letting you know if you have new voice mail or e-mail when the phone is closed. Other flip phones have notification systems, but the 3125 doesn't. You'll need to open the phone up to check, which is an unnecessary step. 
+
+The phone's front also holds the lens for the 1.3 megapixel camera and the music playback controls, so that you can enjoy songs without opening the 3125. You can use the external display to take self-portraits or pictures of your contacts. The camera, like most phone shooters, snaps acceptable, but not great, pics in good lighting. You can quickly call up the camera with a button on the right side of the main display. The camera can also record video. 
+
+Open the 3125 and you're greeted by a 240 x 320 pixel, 65,536 color LCD, and, beneath that, a conventional cell phone number pad layout, which offers a directional pad, call start and end buttons, two soft buttons, and also Home and Back buttons. For a phone that does so much, the controls are nicely simple. 
+
+You won't need to glance through the manual to figure out what things mean. The number pad glows when the phone is opened, and it has a cool brushed metal look which seems designed to match that of the RAZR. It would be easy to accuse the 3125 of aping the RAZR, if not for the fact that it does so much more. We've seen pre-release photographs online that showed the phone having a slightly different keyboard, so there might be minor variations among the differently branded models. 
+
+Performance
+If you're wondering how well a smartphone performs with only a number pad, the answer is surprisingly well. The compact shape allows for one-handed use, which is freeing, and the navigation is simple. You won't want to tap out long e-mails with the number pad, but it works fine for short replies. Using it to write e-mails is like writing text messages on a standard cell phone. Once you're proficient at it, you may find it nearly as fast as a thumb keyboard. 
+
+The 3125 is a quad-band (850/900/1800/1900)GSM world phone with EDGE data support for 70 to 135 kbps data transfers. EDGE is approximately as fast as a dial-up connection, and not nearly as fast as EV-DO or UMTS 3.G connections. 
+
+We got a pre-announcement model of the phone and ran it off a T-Mobile SIM card, so we can't comment on Cingular call quality - although the phone performed just fine during testing - or the speed of EDGE downloads specifically for 3125. But having used EDGE before, we know that it's fine for standard e-mail use and occasional Web look-ups, but you won't want to spend a lot of time surfing the Net with it. 
+
+Cingular loading Microsoft's Messaging and Security Feature Pack to provide users with push e-mail and data access (including calendar, tasks and contacts) and more for Exchange server out-of-the-box. Additional mobile e-mail options supported by the smartphone include Good Mobile Messaging from Good Technology and SEVEN-run Cingular Xpress Mail, which is compatible with many popular Internet Service Provider services. 
+
+The phone offers 64MB of storage, which you can expand with the microSD card slot. Our test model didn't come with an external card. You don't need to remove the battery to load a memory card, which is a plus. 
+
+Its battery is rated for 5 hours of talk time and 150 hours of standby. We were happy with it in testing, as it ran for several days of normal use in between chargings. The Cingular 3125's high-capacity 1100 mAh lithium-ion battery is more powerful than the 750 mAh type that ships with Star Treks available in other parts of the world. You'll also get Bluetooth 1.2 support, so you can hook up a headset, but don't look for Wi-Fi in a phone this small. Our model included a wired stereo headset, a USB cord, and a charger, but no protective case. 
+
+The Cingular 3125 is the smallest smartphone on these shores, and it does a great job of offering both style and convenience to business users. If you'd like to check your e-mail on something sleeker than a Treo or BlackBerry, give the 3125 a try. 
+
+Cingular lists the 3125 for $300, but it drops to $150 after a mail-in rebate with a two-year contract. Monthly unlimited Cingular Smartphone Connect plans start at $19.99 with Xpress Mail, $29.99 with Microsoft Direct Push and $39.99 with Good Mobile Messaging with a voice plan of $39.99 or more. 
+
+

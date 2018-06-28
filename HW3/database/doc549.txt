@@ -1,0 +1,26 @@
+Faster NVIDIA GeForce Drivers Arrive in Time for Call of Duty: Black Ops II
+
+Gamers have enjoyed some great new PC titles this fall, such as Borderlands 2, Guild Wars 2, and World of Warcraft: Mists of Pandaria. Now, two more huge gaming franchises, Call of Duty and Assassin's Creed, are about to unleash blockbuster PC titles.
+
+Both titles take advantage of some of the new technology built into the Kepler-based GPUs we released this year. And just in time, NVIDIA has a new GeForce driver ready to deliver up to 26 percent faster performance than your current driver.
+
+On Tuesday, gamers will be able to jump back into the action in the latest installment of the Call of Duty franchise ¡®Call of Duty: Black Ops II.' NVIDIA worked closely with developer Treyarch on their new DX11 renderer, and helped enable NVIDIA-exclusive TXAA.
+
+TXAA - a technology built into all the new Kepler GPUs - uses techniques similar to those used to create computer-generated effects in movies. Call of Duty is famous for its cinematic feel, so TXAA was a perfect fit.
+
+Our technology is also woven into the fifth major installment of Ubisoft's Assassin's Creed franchise, ¡®Assassin's Creed III,' which will be released next week. NVIDIA worked closed with Ubisoft Montreal on their new game engine to add TXAA and make it truly a next-gen gaming experience.
+
+As you prepare your gaming rig for these titles, make sure to take advantage of the new performance of the GeForce 310.54 beta drivers, released today.
+
+Download the new GeForce 310.54 beta drivers from GeForce.com.
+
+Highlights:
+
+Delivers up to 26 percent faster performance in Call of Duty: Black Ops 2 and up to 18% faster performance in Assassin's Creed III.1
+Provides smooth, shimmer-free graphics with NVIDIA TXAA antialiasing in Call of Duty: Black Ops 2 and Assassin's Creed III.
+Improves performance by up to 16% in other top games likes Battlefield 3, The Elder Scrolls V: Skyrim, and StarCraft II.1
+For more details, refer to the release highlights on the driver download pages and read the GeForce R310 article on GeForce.com.
+
+NVIDIA strives to continually give gamers better performance and features with each driver release.  Enjoy the new GeForce drivers and let us know what you think.
+
+1Measured on GeForce GTX 680 vs. GeForce 310.33 beta drivers

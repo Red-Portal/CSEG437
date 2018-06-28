@@ -1,0 +1,95 @@
+Galaxy S9 vs. Pixel 2: Which camera is best?
+Super-slow motion, dual aperture, HDR, portrait mode, 4K video and low-light photos: We explore and compare them all on two of the best Android phones.
+
+It's a cloudy Tuesday afternoon in San Francisco and I'm outside dodging raindrops to frame a picture of the Ferry Building clock tower. I snap a photo with a Google Pixel 2 and then -- a few wet moments later -- one with the Samsung Galaxy S9.
+
+A quick peek at the Pixel 2's photo shows the detail, contrast and excellent dynamic range I've come to expect from that phone. When I view the Galaxy S9 picture, it's crisp, bright and has less image noise in the shadows and clouds. And man, oh man does that Galaxy S9 screen really make the photo pop.
+
+This rainy-day scenario was symbolic of my overall camera experience with the Pixel 2 and Galaxy S9. Both single-rear camera phones create fantastic photos. The Pixel 2 leans heavily on AI and HDR to do so, while the Galaxy S9 uses processing and its one-of-a-kind dual aperture.
+
+There's no TKO winner in this camera comparison. Instead, I come away with an appreciation of the different approaches each phone takes. It's a bit like comparing a two-seat convertible sports car with a fully optioned SUV. Both are fun to drive but designed to accomplish different things
+
+In everyday situations under good bright lighting both cameras excel. But each phone has a different goal. The Galaxy S9 is all about brightness. When I view Galaxy S9 pictures on its gorgeous display, photos look well-exposed; however, off of the phone -- like on my computer -- those same pictures look overexposed. In reality, if you have a Galaxy S9, you'll mostly likely view your photos on the phone.
+
+On the other hand, Google is all about pushing the dynamic range and contrast of its Pixel 2 photos. In most situations, this is welcome. But sometimes it really underexposes a photo in order to protect highlights from blowing out.
+
+Take a look at the pictures below that I took off some carrots at the farmers market.
+
+The image from the Pixel 2 looks darker but keeps the highlights on the carrots under control. The Galaxy S9 photo looks brighter.
+
+The Pixel 2's white balance skews pictures toward a green/blue tint (great for landscapes) while pictures from the Galaxy S9 are warmer with a slight magenta tint (great for skin tones). In the pictures of the Transamerica Pyramid above, the Pixel 2 nails the building's colors, while the Galaxy S9 makes them look artificially warm.
+
+Variable aperture thrives in low light
+The Pixel 2, like nearly every other phone, has a fixed aperture so it controls exposure by adjusting the camera sensor's light sensitivity (ISO) and by changing the shutter speed (how long the sensor is exposed to light). The Galaxy S9 has a third way to control exposure: Aperture.
+
+It can change between two apertures: f/2.4 and f/1.5. Check out this story for a more in-depth explanation on how Samsung's variable aperture works.
+
+While there's been a lot of hubbub about variable aperture, something that is overlooked is that at f/1.5, the Galaxy S9 has the widest aperture ever seen on a phone. It has the ability to gather a ridiculous amount of light, which in turn means less noise (those blurry grainy bits) and less reliance on noise reduction -- some phones' noise reduction can make your photos look like a courtroom sketch.
+
+By default, the Galaxy S9's aperture is f/2.4, which ensures sharp images with less lens distortion around the edges. A lens' sharpest spot is the middle, while the edges tend to be the softest. At a narrower aperture like f/2.4, the aperture blades form a ring blocking the outer edge of the lens.
+
+When it's dark, the Galaxy S9 opens automatically to the wider aperture f/1.5 to let in more light. Dual aperture on a phone is kind of like having your cake and eating it, too.
+
+The Pixel 2's f/1.8 fixed aperture can't adapt to different situations.
+
+Above are pictures of a building in Nob Hill before sunrise. The photo from the Pixel 2 has a bunch of noise in the clouds and in the texture of the building. The Galaxy S9 shot, is free of noise. It's remarkable seeing a photo this clean taken with a phone camera.
+
+Does this mean the Galaxy S9 is the low-light king? Yes. And no. While its images no doubt look brighter and have less noise than any phone I've tested, the Pixel 2 handled high-contrast low-light situations better.
+
+Take a look at the pictures above taken inside the Zeitgeist bar in the Mission. You can't see any noise in the Galaxy S9, but the highlights are blown on the menu board and there's motion blur from people moving. This shot had a long shutter speed, which is odd because the aperture is so wide.
+
+In the Pixel 2 photo you can actually read what's on the menu because of the way the phone stacks multiple photos to improve dynamic range.
+
+In medium-light situations like indoors, the Galaxy S9 yielded better results, while the Pixel 2 tended to underexpose photos.
+
+Above are two photos of a cappuccino I took inside Four Barrel Coffee. The Galaxy S9 nails the exposure. Look at all the textures it captured from the woodgrain of the table to the tiny bubbles in the cappuccino foam. In case you're wondering, the Galaxy S9 kept the aperture at f/2.4 instead of opening the lens wide open.
+
+The Pixel 2 protected the highlights in the foam but underexposed the photo to do so.
+
+Both phones offer portrait mode, which separates a person in the foreground while artistically blurring the background. It's reminiscent of the photos taken with a DSLR and a fast lens.
+
+The mode on the Galaxy S9 is called "Selective Focus" and different from the "Live Focus" version found on the Galaxy S9 Plus and Galaxy Note 8. Live Focus uses the dual rear cameras to take portrait photos. Selective Focus uses the single rear camera.
+
+The Pixel 2 produced portrait mode photos that were absolute stunners. The Galaxy S9 took portrait shots that were slightly more natural-looking and softer on details. Many times, these shots had inconsistent blurring. For example, the right shoulder was blurred, but the left one was in focus.
+
+When I showed portrait mode shots to people who were the subjects, they preferred the ones from the Pixel 2 noting the better detail and sharpness captured in the face.
+
+Both the Pixel 2 and the Galaxy S9 are single rear camera phones and rely entirely on digital zoom to get closer to your subject. The Galaxy S9 Plus has a second telephoto camera which gives you the option of 2x optical zoom.
+
+Above are photos of Coit Tower that I took with each phone zoomed in all the way. Neither photo looks that amazing, but the Pixel 2 shot looks better to my eyes. It definitely straddles the line between looking like a photo and looking like a painting. The Galaxy S9 picture is ridiculously oversharpened.
+
+The Pixel 2 received a software update in February that uses Google AI to improve digitally zoomed photos.
+
+When it comes to video, image quality from the Pixel 2 is good, but I really like the punchy saturated look the Galaxy S9 captures. There's just a bit more color and details don't get lost in the shadows like they do on the Pixel 2.
+
+Be sure to take a look at the attached video to see a bunch of comparisons including slow motion, super-slow mo, stabilization and selfie videos.
+
+The Galaxy S9 has digital image stabilization for video and it's pretty good. The Pixel 2 uses "fusion stabilization" -- a combination of both optical and digital -- and it is still the best found on any phone. Footage filmed with the Pixel 2 looks like it's on a gimbal.
+
+I should note that the variable aperture on the Galaxy S9 works for videos, too. You can even use Pro mode to change the aperture to f/1.5 for a slightly shallower depth of field.
+
+Super Slow-Mo on the Galaxy S9 is bonkers beautiful -- especially when viewed on the S9's display. It films 960 frames per second (fps) at 720p resolution. In other words, it's not sharp,  but is way more dramatic than "normal" slow mo. The Pixel 2 doesn't offer anything like this.
+
+Super Slow-Mo mode works great for actions that are ridiculously fast like: Striking a match, a balloon popping or someone jumping into a pool. When you press record in Super Slow-Mo mode, it records at 30 fps and picks moments to record at 960 fps. It might sound involved, but after you try it a few times, it will absolutely make sense.
+
+The Galaxy S9 has a nifty auto capture trigger to determine when to record those 0.2-second moments. I got great results with the auto trigger, but I should note that our reviewer did not and recommends manually triggering Super Slow-Mo capture.
+
+As cool as Super Slow-Mo is, the real slow-mo lead is buried. The Galaxy S9 offers a "regular" Slow Motion mode that records footage in 1,080p at 240 fps. This is a first for any Samsung phone and better suited for capturing longer clips. The higher resolution makes footage look absolutely great. Slow Motion can be enabled in the settings of the Galaxy S9 camera app.
+
+Pixel 2 can film slow-motion videos at 240 fps in 720p or 120 fps in 1,080p resolution. When it comes to slow-motion video, you want a high frame rate and high resolution. And that's why at the Galaxy S9's 240 fps in 1,080p slow-motion video looks better than the Pixel 2. You get both dramatic movement and a sharper image.
+
+Check out the "Wes Anderson-inspired" slow-motion clip I posted to Twitter below. It was shot with the Galaxy S9 at 240 fps in 1,080p.
+
+Both phones take portrait mode selfies. I posted photos I took with each phone unlabeled to Instagram and asked people to pick the shot they preferred.
+
+Overwhelmingly, the Pixel 2 portrait selfie was the winner. Friends cited the photo's clarity and sharpness as the main reason for their choice. Friends who liked the Galaxy S9 selfie portrait said that the softer look was more flattering.
+
+I have to agree. I absolutely love portrait mode selfies from the Pixel 2.
+
+The biggest differences between the phones are the camera app's user interface. The Pixel 2's camera app is simple. Features like Portrait Mode and Slow Motion are accessed via a menu; however, the phone foregoes a native time lapse mode. I realize, I can download an app that accomplishes this, but I'd love to see how the Pixel 2 renders a time-lapse made from its gorgeous detailed photos.
+
+The Galaxy S9's camera app has so many modes that it could be featured on an episode of Hoarders. Luckily, you can manage which ones are active via the settings.
+
+The most powerful mode on the S9 is Pro mode, which lets you save pictures as RAW files and gives you fast access to numerous controls: focus, aperture, shutter speed, ISO, white balance and light metering -- the last being the most useful. When the Galaxy S9 is in Auto mode it uses only the center of the frame to determine exposure. In pro mode, I can switch to matrix metering, which uses several parts of the frame to get the correct exposure so you don't end up with a photo that's too bright or too dark.
+
+So which one is the best camera? Honestly, this is a horrible question. I'd be happy to have either phone in my pocket. But more often than not, I grabbed the Pixel 2 over the Galaxy S9 to take a quick photo. I am enamored with the dynamic range that the Pixel 2 offers and its simple interface minimizes fumbling to get the settings I need. If only the Pixel 2 had that Galaxy S9 display!

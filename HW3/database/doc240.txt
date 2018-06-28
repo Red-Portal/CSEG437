@@ -1,0 +1,84 @@
+Making Sense of Smartphone Processors: The Mobile CPU/GPU Guide
+
+
+Smartphone manufacturers these days boast of their phones¡¯ computer-like capabilities, from desktop-like internet browsing to HD video playback.  They toss around spec sheets filled with processor names like ARM11, Cortex A8, Snapdragon, Tegra, OMAP, Armada, and more.  What do these all mean, and how do the various chips compare?  That¡¯s what we¡¯re going to take a look at today.
+
+Introduction
+
+Over the last few months, the smartphone industry has seen an unpredecented focus on processing hardware. For example, Apple¡¯s June 8, 2009 launch of the iPhone 3GS focused primarily on new hardware features, and that too, mostly on its processors, rather than major sensor upgrades (a 3.2 MP AF camera and digital compass aside). The 3GS was touted as consistently offering more than twice the performance of the first- and second-generation iPhones, yet offering the same or better battery life.
+
+
+Much of the buzz around HTC's HD2 was due to its 1 GHz Qualcomm Snapdragon processor
+
+Similarly, Toshiba¡¯s TG01, HTC¡¯s HD2, and HTC¡¯s Google Nexus One were launched with much fanfare, with their key feature being a 1 GHz Qualcomm Snapdragon processor that was also claimed to provide a major performance boost. Separately, Windows Mobile giant HTC found itself in the midst of a great controversy over missing drivers for hardware graphics acceleration, along with slow general performance, in the platform it uses in much its lineup today, the Qualcomm MSM72xx series.
+
+Much speculation and excitement surrounds new smartphones featuring processors like Qualcomm¡¯s Snapdragon, Nvidia Tegra/Tegra 2, TI OMAP 3/4, and various other implementations of ARM Cortex A8/A9. Most people who have heard of these mobile platforms or have seen various demo videos simply know that they are faster than what¡¯s found in smartphones today. But what exactly is Tegra, and how does it compare to Snapdragon or to today¡¯s mobile processors?
+
+We¡¯ll first go through each of the major processor families around in phones today, and then we¡¯ll analyze them. To keep it readable, we we¡¯ll go over differences in the processor architectures without drowning in excessive technical detail.
+
+Inside the Smartphone
+
+
+Overview of a typical desktop computer
+
+Our story starts with the desktop PC, because smartphones are essentially pocket-sized computers that have a few extra radios and operate in extremely confined conditions vis-a-vis power consumption, heat output, etc.  A PC consists primarily of a motherboard chipset (typically split into a ¡°Northbridge¡± that connects to the processor and memory (Intel¡¯s P45, for example), and a ¡°Southbridge¡± that connects to various peripheral buses, like PCI-Express, USB, etc. (Intel¡¯s ICH10R, for example)), a central processing unit (CPU? Intel¡¯s Core 2 Duo, for example), application memory (RAM), permanent storage (hard drive or solid-state disk), a graphics processing unit (GPU? ATI¡¯s Radeon HD5890, for example), a power supply, and several peripherals connected to the PCI or PCI-Express buses (a built-in sound chipset or an add-on Wi-Fi card, for example).
+
+
+Inside the Apple iPhone 3GS - the Samsung applications processor (in black) encompasses the CPU, GPU, sound chipset, and more; the baseband processor (also in black) handles cellular communication.
+
+Smartphones also have all of these components, except with much more integration ? a few main chips can often encompass the CPU, GPU, other specialized coprocessors, motherboard buses, memory controller, LCD controller, sound chipset, CMOS camera interface, on-board memory, and several peripheral devices (such as Cell, Wifi, and Bluetooth radios).  The ¡°applications processor¡± is the chip responsible for general processing (something like a CPU + motherboard chipset) and may have several other functions built into it.  The ¡°baseband processor¡± is responsible for cellular wireless communications.
+
+Where¡¯s my quad-core iPhone with water cooling?
+
+So if smartphones are so similar to PCs, then why don¡¯t we see, say, an x86 CPU like Core 2 Duo in a smartphone today? The answer is that Core 2 Duo simply consumes far too much power and produces far too much heat than is acceptable in a phone. A typical desktop Core 2 Duo CPU can consume up to 65W and requires an active cooling system to keep it from overheating. Even Intel¡¯s Atom chip consumes 4W (peak TDP), while entire cellphones must often fit in sub-1W power budgets.
+
+Enter ARM, a mobile processor architecture that dominates high-end mobile phones and embedded devices like network routers. In its lowest power state, an Atom processor can consume about 100 mW, compared to 1 mW for some ARM chips. Intel is working on smaller, cooler-running, and more power-efficient versions of Atom (see Intel codename Penwell) that may finally bring x86 (and thus compatibility with desktop OSes and applications) to mobile phones in a few years, but for now, ARM is king on mobile, and all of the processors we¡¯ll be looking at below are based on ARM instruction sets.
+
+The World of ARM
+
+If all smartphones today use ARM chips, why are some much faster and more expensive than others?  ARM operates quite differently from Intel, it turns out.  Whereas Intel designs and builds all of its own processors, ARM instead creates instruction sets ? any CPU following them will be able to run ARM-compatible code.  It also creates reference designs for processors that fit their instruction sets, which allows companies to easily produce their own chipsets around ARM¡¯s core designs.
+
+Some companies, like Nvidia, Samsung, and Texas Instruments simply license and adopt the ARM CPU reference design, whereas others, like Qualcomm and Marvell, license only the instruction set and create their own processors to fit them.
+
+ARM¡¯s most recent instruction set is version 7, and the first ARMv7 reference design was Cortex A8, whose architecture is found in today¡¯s high-end smartphones.  Lower-end smartphones today tend to use ARM11 chips, which implement the ARMv6 instruction set.
+
+Nvidia Tegra
+
+
+Nvidia's Tegra APX2500 Chipset, found in Microsoft's ZuneHD
+
+Smartphone chipsets use different approaches to integration.  One of the key selling points of Nvidia¡¯s Tegra chipset, for instance, is that its applications processor has several small, specialized processors built into it, each meant for particular tasks.  Many chipsets are made this way, but Tegra has more dedicated co-processors than most.  While Nvidia has used a somewhat deceptive marketing technique of calling Tegra a 7-core processor (it only has one general-purpose ARM11 processor), this approach does give two advantages.  First, since dedicated processors are handling a number of tasks, the general-purpose core is freed up to handle user tasks.  More importantly, Nvidia has designed Tegra to aggressively cut power consumption by turning off parts of the processor that aren¡¯t being used.  For instance, if a Zune HD is playing music with its screen off, why power anything but the audio processor and whatever¡¯s needed to get the song file from storage?
+
+
+Tegra II solves most of the first-generation chip's issues, such as relatively weak general processing power (due to the first model's aging ARM11 CPU core)
+
+Performance-wise, the first-generation Tegra is a bit of a mixed bag.  As we¡¯ll see below, its graphics performance is top-notch, exceeding that of any smartphone on the market.  Yet its general performance is held back by the aging, single ARM11 CPU at 600 MHz.  While Tegra¡¯s specialized hardware and ability to aggressively manage power consumption by cutting power to coprocessors means that it¡¯s well-suited to a media player like Microsoft¡¯s Zune HD, it¡¯s not great for smartphones, which tend to need general processing power more than multimedia capabilities.  Nvidia did show faster versions of Tegra, intended for devices larger than smartphones, but the APX2500 chip in the Zune HD is the only one that actually ever shipped.
+
+Tegra 2 solves most of the first-gen chip¡¯s problems.  Equipped with a dual-core ARM Cortex A9 CPU, it¡¯s at least four times faster than Tegra 1 for general processing.  GPU performance is said to be about twice as fast too, while power consumption remains similar.  Nvidia has a solid all-around platform this time, but questions remain as to whether it¡¯ll be able to produce enough chips to feed smartphone makers.  Also, Tegra still does not integrate a radio chipset, which could put it at a competitive disadvantage for smartphones as compared to, say, Qualcomm¡¯s Snapdragon chips, which have the radio basebands built-in.
+
+Mobile CPU Overview
+
+We¡¯ve compiled an overview of most of the major mobile processor families on the market today (chips that have not yet shipped in production are italicized):
+
+
+
+ARM vs. Intel
+
+
+
+Laptops began to outsell desktop PCs some time ago, and mobile phones are among the most ubiquitous devices around.  Smartphones are now pushing outwards in two directions: on one hand, they¡¯re trickling downwards in price, replacing high-end featurephones near the $100 mark, and on the other, they¡¯re pushing upward into the territory of Intel Atom-powered netbooks or mobile internet devices (MIDs).  After all, if people use netbooks primarily for browsing the internet, checking email, and watching online videos, then what separates netbooks from high-end smartphones besides screen size?
+
+It should be interesting to watch Intel compete with the whole array of ARM licensees in the coming years.  Over 2 billion ARM chips are shipped every year? orders of magnitude greater than Intel¡¯s Atom shipments.  Intel¡¯s betting that a shrunken Atom will give it power consumption comparable to ARM¡¯s offerings yet greater processing power and most significantly, the x86 architecture (meaning compatibility with existing desktop applications and PC OSes like Windows XP/7).
+
+Halo in Your Pocket?  3D Hits Mobile
+
+Next, we¡¯ll take a look at mobile graphics processing units (GPUs).  The role of a GPU is primarily to provide hardware acceleration for 3D graphics applications like games, CAD, etc., but in recent years, it has also become responsible for drawing the main user interface in desktop OSes (more on that later). First up, a comparison of current and upcoming mobile GPUs, with some non-mobile chips tossed in for reference:
+
+
+
+
+Why is the GPU relevant if I¡¯m not playing games on my phone?
+
+On most modern smartphone platforms (iPhone OS, Android, Palm WebOS, with Windows Mobile as a notable exception), the OS¡¯ user interface itself is composited, meaning it is rendered by the GPU.  This makes the interface feel a lot smoother than doing UI display calculations on the already resource-constrained CPU.
+
+On the desktop, Mac OS X introduced many consumers to a GPU-composited desktop, and on the PC side, Windows Vista/7¡¯s Aero interface provides similar functionality.  Windows XP, even on a very fast desktop rig, generally never feels quite as smooth while, say, moving around windows, as Windows 7 or Vista running Aero.  For the same reason, Windows Mobile 6.x, which uses a similar rendering mode (GDI) as XP and lacks a GPU-composited desktop, is going to feel laggy or rough compared to GPU-composited UIs.

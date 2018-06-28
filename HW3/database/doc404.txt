@@ -1,0 +1,23 @@
+Will phones and 3D Web boost new OpenGL?
+Khronos Group, the industry consortium that develops OpenGL, announced a new version of the graphics interface on Monday that it hopes will compete better with Microsoft's DirectX--and that could get a boost from 3D Web technology. 
+OpenGL 4.1, released just a few months after OpenGL 4.0, is an interface that programs can use to tap directly into a variety of graphics hardware. 
+
+It's the 3D interface of choice for Mac OS X, Linux, and many 3D design applications, but when it comes to the biggest consumer market, games, DirectX rules the roost. 
+OpenGL 4.1 adds a couple handy features, according to Neil Trevett, president of Khronos. 
+One is the ability to store compiled graphics programs called shaders onto the hard drive so the graphics chip can reload them as needed rather than recreate them, 
+for example when a new level of a game is loading. Another is a feature DirectX programmers already enjoy, the ability to separate two components called vertex shaders and fragment shaders that previously had to be linked together. That can ease some programming chores, Trevett said. 
+But OpenGL has two allies, both increasingly powerful: mobile phones and the Web. 
+
+On the mobile side, is Apple's iOS, used on the iPhone, iPad, and iPod Touch, which can use a pared-down version of OpenGL called OpenGL ES. 
+Newer versions of Android, Google's mobile phone operating system, also can. 
+And on the Web side, top browser vendors except Microsoft are backing a 3D Web graphics technology called WebGL that's a variation of OpenGL ES. 
+The three major graphics chipmakers, Intel, AMD, and Nvidia, all include OpenGL drivers with Windows, but WebGL will mean changes, Trevett said. 
+"WebGL will force it a lot higher in terms of quality," he said. "Everybody wants to accelerate 3D in the browser." 
+
+Google is working to tackle some of OpenGL's competitive weaknesses on Windows through a project called ANGLE that converts OpenGL commands into Direct3D commands that are part of DirectX. 
+"Translating that to Direct3D, you'll lose something," Trevett said. 
+"Over time, making the transition to WebGL is going to get harder and harder," and supporting the technology directly through OpenGL will win out, he said. 
+WebGL currently is in draft form, but a final version is expected before the end of the year, said Barthold Lichtenbelt, chair of the OpenGL Architecture Review Board. 
+"The group is working on making sure WebGL doens't open up any security issues," he said. 
+"GPU [graphics processing unit] vendors in the past haven't had to be took concerned about exploits," he added. 
+But because WebGL compiles and runs graphics programs called shaders that run on the graphics chip, it could "could open serious hole" if not done right. 

@@ -1,0 +1,4 @@
+With the rise of artificial intelligence claiming column inches everywhere, one has to ask how important it is to the world of mobile. And it turns out quite a lot.
+We’ve written numerous times about the increasingly prominent position the voice user interface is taking in the connected era, but the success of this breakthrough is underpinned by the work done in AI. Whether it is machine perception to hear your voice, or NLP to process it into readable information for the computer, or machine learning to adapt the experience for the user, all are fundamental technologies in achieving the greater ambition.
+Check out the infographic below for a few statistics which demonstrate not only how important NLP is going to be in the future, but also how important it is to us today!
+As always, if you have some interesting or surprising statistics which you think would make a useful infographic, feel free to email them to jamie.davies@informa.com.

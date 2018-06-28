@@ -1,0 +1,24 @@
+The Future of Mobile Game Graphics, As Demonstrated by Epic Games
+
+This week at Samsung's Galaxy Unpacked 2016 event, during which the company announced the Galaxy S7 and more, Epic Games showcased what mobile games might look like in the future. This was done by way of a video for ProtoStar, a real-time 3D "experience" built using the Unreal Engine 4. It's one of the first publicly demonstrated applications using the new Vulkan API, which has a number of gaming-specific features.
+
+First, check out the video below.
+
+"The new industry-standard Vulkan API brings key elements of high-end console graphics technology to mobile devices, and Samsung is leading the way with the amazing new Galaxy S7," Epic Games CEO Tim Sweeney said in a statement. "As the first engine supporting Vulkan, Unreal Engine 4 provides a solid foundation for developers joining in the mobile graphics revolution."
+
+According to Epic, Unreal Engine 4's use of the Vulkan API is capable of delivering a number of improvements, including more dynamic onscreen objects and faster performance overall.
+
+Here's a list of some of the technologies used in the ProtoStar video and available with Vulkan in Unreal Engine 4.
+
+Dynamic planar reflections (high-quality reflections for dynamic objects)
+Full GPU particle support on mobile, including vector fields
+Temporal anti-aliasing (TAA)
+High-quality ASTC texture compression
+Full scene dynamic cascaded shadows
+Chromatic aberration
+Mobile dynamic light refraction
+Filmic tonemapping curve
+Improved mobile static reflections
+High-quality mobile depth of field
+Vulkan API support with thousands of dynamic objects onscreen
+The new Samsung Galaxy S7 (and the S7 Edge model) comes with a water-cooling system, a "No Alerts" setting, and the ability to record and broadcast gameplay footage. Check out this post for more on the phone's gaming features. Preorders for the new device (pricing has not been announced) open on February 23 and come with a free Gear VR headset.

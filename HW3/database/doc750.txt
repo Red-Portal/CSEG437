@@ -1,0 +1,13 @@
+Leaked patent gives more evidence that Samsung is working on in-display fingerprint sensors
+
+There have been rumours circling for a while suggesting Samsung would be putting an in-display fingerprint sensor into its flagship phones. We thought the Galaxy S8, Galaxy S9 and Galaxy Note 8 would all get it, but to no avail.
+
+Samsung Galaxy Note 9 specs, release date, news and rumours: What's the story so far?
+Samsung Galaxy S10 report says in-display fingerprint sensor will make an appearance
+Rumours are now pointing to the Galaxy Note 9 or 2019's Galaxy S10 duo to be the phones that eventually introduce the technology. To give more weight to that suggestion, a new patent has appeared online, detailing how Samsung's sensor would work.
+
+The patent shows the sensor being placed at the bottom of the screen, something we'd expect considering physical sensors used to be at the bottom of devices. The patent goes on to say the sensor will read the users' biometric information (fingerprint) by adjusting the brightness of the area of the AMOLED display around the finger.
+
+This is similar to how the Synaptics Clear ID sensor works, and it can already be found in the Vivo X21 UD smartphone. It's not clear if Samsung plans on using the same Synaptics sensor, or is developing one of its own.
+
+This isn't the first patent from Samsung we've seen regarding an in-display fingerprint sensor, so we're still a little sceptical as to when we will eventually see the technology appear in the company's phones. The Galaxy Note 9 is the next obvious phone in line to receive the upgrade if the technology is ready, otherwise we'll be holding out hope for the Galaxy S10 series, which should introduce some design changes to celebrate 10 years of the Galaxy S series.

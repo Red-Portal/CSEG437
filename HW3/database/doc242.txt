@@ -1,0 +1,50 @@
+Android faces critical security study
+By Joseph Menn in San Francisco
+Published: October 31 2010 18:29 | Last updated: October 31 2010 18:29
+
+A study by analysis group Coverity turned up programming errors in a critical part of the system that ships with HTC Droid Incredible phones
+An analysis of the most critical part of the Android smartphone operating system has turned up programming errors, some of which could allow hackers or malicious applications to access users¡¯ e-mail or other sensitive information.
+
+The study examined the publicly disclosed version of the Android kernel ? heart of Google¡¯s open-source software for phones ? that shipped inside the HTC Droid Incredible phones.
+
+But the study says it is likely other Android phones have the same programming flaws.
+
+Android software could be updated wirelessly, so Google would be able to issue the fixes if it confirmed they were needed, a spokesman said.
+
+The study by Coverity, the code analysis group, serves as a reminder that smartphones are vulnerable to attacks even as the phones are welcomed more extensively in big companies.
+
+Research in Motion, maker of the BlackBerry, and Apple, maker of the iPhone, have also fixed critical security issues in their software through updates.
+
+Companies are increasingly allowing employees smartphones for mixed business and personal use, and are granting more access to internal functions from the phones.
+
+Some groups that previously accepted only BlackBerry, which has a strong reputation on security, are allowing iPhones, Androids or both.
+
+¡°We¡¯re running in a risky situation before people can get a handle on how to make them more secure,¡± Chris Wysopal, chief technology officer of Veracode, which analyses smartphone applications for programming flaws, said.
+
+¡°Any problems at the kernel are definitely worth worrying about.¡±
+
+The Financial Times received an advance copy of Coverity¡¯s summary, which will be published on Tuesday.
+
+The company has given details of the flaws to Google and handset maker HTC, which are assessing the findings.
+
+Andy Chou, Coverity¡¯s co-founder, said he planned to make the details of the errors public in about two months.
+
+HTC had no immediate comment.
+
+¡°We want them to fix the problems. We are trying to follow the model for responsible disclosure,¡± Mr Chou said.
+
+While the number of Android kernel flaws Coverity turned up per thousand lines of code is lower than the average for open-source projects, 88 of the Android problems are ¡°high-risk defects¡±.
+
+They include improper memory access and memory corruption, and have ¡°significant potential to cause security vulnerabilities, data loss, or quality problems such as system crashes¡±.
+
+Most malicious software found on smartphones thus far has been aimed at a quick score. Some phones have been made to send expensive text messages, for example.
+
+Mr Wysopal and others said gambits were likely to include more data-stealing programs known as spyware, which bedevil technology managers by getting inside personal computers and networks at companies.
+
+Big corporate vendors, such as Juniper Networks and Cisco Systems, have started selling secure virtual private networks for smartphones and antivirus and other defensive measures for gadgets.
+
+Such worries pale beside concerns about smartphones being lost or stolen, John Pescatore, lead internet security analyst at Gartner, said.
+
+¡°The information loss [through loss or theft] is so much more of a risk than a worm or virus. Yes, they exist. And sharks eat people, but that doesn¡¯t make the top 10 of my list either.¡±
+
+Copyright The Financial Times Limited 2010. You may share using our article tools. Please don't cut articles from FT.com and redistribute by email or post to the web.

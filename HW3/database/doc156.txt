@@ -1,0 +1,33 @@
+Codesigning for Windows Mobile-based Smartphones and Pocket PCs
+
+Mobile2Market codesigning balances application security concerns with our open developer platform
+- Codesigning provides security through identity by connecting an application to a responsible author. It is not virus   checking or malware screening. 
+- With codesigning, malicious applications can be removed and responsible ISVs can be identified. The tiered Mobile2Market   certificate structure allows easy access to normal APIs, but requires greater scrutiny for access to privileged APIs 
+- The result is that almost all Windows Mobile-powered devices remain open sockets for developers. Generally, application    deployment will not require individual permissions from Mobile Operators or OEMs. Developers are granted access to almost   all devices with a single signing process. 
+
+Mobile2Market Certificate Architecture
+
+- There are three levels of authentication: Privileged, Normal, and Unsigned 
+- An app properly signed with a M2M certificate will run on every Windows Mobile 5.0 device EXCEPT: 
+   + Devices shipped by Orange do not include the Mobile2Market Privileged certificate, but do include the Normal M2M      certificate 
+   + Devices shipped by South Korea Telecom, (SKT) do not include either the Privileged or Normal Mobile2Market      certificates
+Most Windows Mobile Smartphones are configured with a two tier access model*: 
+ - Applications must be signed with the Privileged M2M cert to call Privileged APIs 
+ - Applications signed with the Normal M2M cert can call normal APIs without user permission 
+ - Unsigned applications can make calls to Normal APIs with user permission (prompt) 
+
+Windows Mobile Pocket PC devices running Windows Mobile 5.0 and later are configured with a one tier access model : 
+ - Drivers and pre-boot applications require Privileged mode signing 
+ - Applications signed with the Normal M2M cert can call all APIs without user permission 
+ - Most PPC devices allow unsigned applications to call all APIs with users permission (prompt), however mobile operators    could decide to ship future devices in a mode that requires signing for execution 
+
+Mobile2Market codesigning Process
+Mobile2Market codesigning requires five steps as illustrated below 
+ 1. Establish a publisher account with one of the Mobile2Market Certificate Authorities: Geotrust or Verisign 
+ 2. If needed, request privileged-mode execution permission from M2M@microsoft.com 
+ 3. Sign your application with a publisher certificate provided to you by a Mobile2Market Certificate Authority 
+ 4. Upload your publisher-signed application to the Certificate Authority 
+ 5. Certificate Authority signs your app with a Mobile2Market certificates and returns it to you 
+ 6. Distribute your M2M signed application 
+
+

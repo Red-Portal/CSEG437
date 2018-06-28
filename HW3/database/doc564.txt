@@ -1,0 +1,63 @@
+Microsoft's Great Wall of SmartGlass Connects Xbox to Everything
+ 
+
+By Peter Suciu
+TechNewsWorld
+10/23/12 12:05 PM PT
+ 
+Microsoft is ratcheting up its ecosystem-building efforts with the launch of SmartGlass, an app that will connect mobile devices to whatever Xbox is displaying on TV. What's particularly interesting about SmartGlass, though, is that it departs from the "walled garden" approach. The free app is available for iOS and Android, as well as Windows 8, Windows RT and Windows Phone 8.
+ 
+
+Microsoft has officially acknowledged that its new Xbox SmartGlass companion app will be available with the launch of the Windows 8 operating system later this week. The application will be a new addition to the Games section of Windows 8, and will also be supported on devices running Windows RT.
+ 
+The free-to-download app is designed not only for Windows 8 and RT tablets and PCs, but also for Windows Phone 8, as well as iOS and Android devices. It is Microsoft's new attempt to tie multiple devices together, transforming handsets and tablets into remote controls, while providing additional content to a second screen.
+ 
+
+
+Xbox SmartGlass allows your mobile devices and TV to talk to each other to enhance your favorite TV shows, movies, music, sports and games.
+ 
+
+"Basically, it means another screen which will likely include tablets once Windows 8 launches and, depending on the content being viewed on the Xbox, it will be a remote control, a way to get stats or background information, or a different view -- like overhead -- without taking up TV screen real estate," said Rob Enderle, principal analyst at the Enderle Group.
+ 
+"You can also move some games to the phone in progress so kids can continue playing even if they have to leave the house," he noted.
+ 
+A Microsoft spokesperson was not immediately available to comment for this story.
+ 
+
+
+
+Second Take 
+
+If some of this connectivity sounds familiar, especially on the gaming front, it is because Microsoft had looked to provide greater connectivity with PCs and the Xbox 360 when Windows Vista was launched. That promise of connectivity was probably too little and too soon.
+ 
+"The first attempt was something that they were obviously not prepared for, and they didn't think it through," said Billy Pidgeon, senior analyst at Inside Network. "This time they did pull it together and clearly thought it through."
+ 
+Microsoft is not alone, as the industry has been moving toward multiscreen digital use. Many apps are already available for people to complement the TV viewing experience via a smartphone and tablet, and Microsoft is clearly building on that, Pidgeon told TechNewsWorld.
+ 
+"People are already using multiple screens at the same time, since when they're watching TV, they're using another device to tweet, chat and read about what they're watching," Pidgeon added. "Now the technology is catching up. What is interesting with this is that Microsoft is now making it part of the Windows 8 strategy to link the operating system across multiple devices."
+ 
+Game Time 
+
+Microsoft is going to face some competition in this multiple screen approach on the core platform, as Nintendo looks to roll out its next-generation video game console, the Wii U, next month. That device will incorporate a controller that is essentially a mini-tablet that works as a gamepad, game sensor and even portable game machine.
+ 
+As that system is still weeks away from release, it is too early to see if the gaming masses will take to it, but it could suffer from being too limited in that it is just a gaming control, whereas Microsoft appears to be looking at a broader strategy.
+ 
+"Honestly, I don't really understand the Wii U yet," said Enderle.
+ 
+By contrast, the SmartGlass app appears to be more than a controller or second gaming screen, as it can provide additional information when players aren't just playing a game. But is this going to be enough to get a leg up?
+ 
+"It certainly allows them to build this into the Xbox, but this wasn't the drive," said Pidgeon. "It is going to be a multitasking device. Gamers are more into the social experience now, and while there is a bit of the command-and-control element, this is a way to stay connected as well."
+ 
+Greater Connectivity and Community 
+
+It could allow gamers, as well as those who are accustomed to communication via other means than just the phone, to have another way to connect -- through Skype, for example.
+ 
+"People are doing this stuff already," said Pidgeon. "This just makes it easier to integrate all of it more tightly with your operating system, but on other devices."
+ 
+On the one hand, Microsoft clearly wants to be the one who is taking command and control via Windows 8.
+ 
+"It basically begins showcasing Microsoft products as more of a family of offerings that work better together," said Enderle. "We are just seeing the tip of this iceberg, which could eventually turn Windows phones and tablets into very different kinds of game accessories and players over time, as this new ecosystem is built out."
+ 
+On the other end of the spectrum, the fact that this isn't being directed as a closed system available only to Windows 8 certainly won't hurt matters either.
+ 
+"This isn't going to be limited to Microsoft devices," said Pidgeon. "A lot of companies will be looking into this, especially Apple, but in this case, it really only requires that you have one Microsoft device -- and one might be all it takes." 

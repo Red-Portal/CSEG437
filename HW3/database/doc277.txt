@@ -1,0 +1,1 @@
+Tethering is the use of a mobile device with Internet access such as 3G cellular service to serve as an Internet gateway or access point for other devices. Other devices may connect to the gateway via Bluetooth, Wi-Fi or by Universal Serial Bus (USB) cabling.

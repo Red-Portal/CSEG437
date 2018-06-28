@@ -1,0 +1,38 @@
+Traffic growth due to mass proliferation of smart mobile
+devices and 4G and beyond wireless technologies is motivating
+a 5-10-fold increase in wireless cell sites to support small cell
+deployments as well as future-proof fiber-optic backhaul of the
+bandwidth-demanding mobile front-haul traffic. The global
+trend to provide multi-gigabit wireless access speed is to
+efficiently use the combination of WiFi networks and smallcell
+deployment. Due to the conflict between drastic growth of
+mobile data traffic and the limited wireless spectral resources
+at conventional RF bands for both cellular and WiFi networks,
+more aggressive spectral reuse (through small-cell deployment)
+and new spectral exploration (at higher RF bands) are the two
+main directions for the next-generation high-speed wireless
+access networks. By reducing the cell size, limited spectral
+resources can be reused among small cells more frequently,
+thus enhancing the total system capacity. On the other hand, by
+exploiting higher radio frequencies, e.g., millimeter-wave
+bands, much more spectra are available that can easily support
+multi-gigabit wireless transmission without requiring timeconsuming
+and complicated modulation and coding schemes.
+Due to the limited transmission range at higher RF bands, the
+combination of small-cell architecture and higher RF provides
+a promising solution to drastically increase the cellular system
+capacity through frequency exploitation and reuse. The similar
+trend observed for next-generation WiFi networks, where highRF
+band has been considered in the 802.11ad standard. To
+support small cells and next-generation WiFi netowrks, optical
+fibers rather than copper cables are considered as ideal
+backhaul media to provide sufficient bandwidth as well as
+future-proof capacity upgrade. Therefore, optical-wireless
+integrated technologies for the next-generation WiFi and 5G
+small-cell wireless communications become an important topic
+and require strong interdisciplinary research efforts. In this
+paper, we will introduce several key enabling technologies for
+next-generation WiFi and 5G small-cell systems. A cloud radio
+access network architecture based on microwave-photonics
+techniques is described for next-generation high-speed wireless
+access systems.

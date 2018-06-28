@@ -1,0 +1,9 @@
+Qualcomm announced its first AR and VR-centric chip but not for smartphones
+
+Even though Qualcomm chips have been widely used for VR and AR devices over the past couple of years, none of its hardware is exclusively designed for augmented and virtual reality headsets. With their latest XR1 chipset, the company is looking to diversify and explore an opportunity in the niche.
+
+But the XR1 chip itself isn't as impressive as it might sound. In fact, the company says that the XR1 chip aims to deliver good AR and VR experience to low-cost devices while the Snapdragon 845 is still the best possible choice for VR and AR.
+
+The XR1 is still capable of driving 4K displays at 60 fps and comes with support for voice activation and simple controllers. This means no hand tracking, no room scale tracking - the chip is mostly suitable for 360-degree viewing and "lean back" experience.
+
+It seems like Qualcomm is just dipping its toe into the water with the XR1 and if the venture turns out to be successful, it's not too far-fetched to see Qualcomm-powered high-end VR headsets in the near future. For now, the XR1 will be the only VR/AR exclusive chip and will be used in devices later this year and in early 2019.

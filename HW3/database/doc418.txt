@@ -1,0 +1,33 @@
+Intel Spotlights New Extreme Edition Processor, Software Developer Resources at Game Conference 
+
+Seoul (Korea Newswire) March 11, 2010 -- Intel Corporation today previewed platforms featuring the latest Intel¢ç Core¢â i7 Extreme Edition processor and announced the latest release of Intel¢ç Graphics Performance Analyzers (Intel¢ç GPA) that will aid developers in optimizing game performance. In addition, Intel introduced a number of initiatives designed to spur innovation in the PC game developer community, and in support of the company's Visual Adrenaline and Intel¢ç Atom¢â Developer programs. 
+
+Intel¢ç Core¢â i7 980X Processor Extreme Edition Preview 
+
+Intel is previewing its latest PC platform the Intel¢ç Core¢â i7-980X Extreme Edition processor, codenamed ¡°Gulftown,¡± the first 32nm, six-core processor with 12 computing threads. In addition, Game Developers Conference (GDC) attendees can see and experience applications enhanced for this new platform ? including newly released Sega* Napoleon Total War, the soon-to-be-released Ubisoft* RUSE, Geomerics* Enlighten and Cakewalk* Sonar ? all by visiting the Intel booth (South Hall, Booth 1212) and Intel lounge area during the event. 
+
+Intel¢ç GPA v3.0 
+
+Intel¢ç GPA helps PC game developers analyze and optimize game performance on Intel¢ç Architecture-based platforms. Intel GPA provides in-depth application analysis and customization that allows developers to easily pinpoint performance bottlenecks and optimize games for desktop PCs and laptops using Intel processors, chipsets and Intel¢ç HD Graphics. 
+
+With Intel GPA v3.0, developers can ensure their titles run on the full spectrum of Intel¢ç Core¢â processors (e.g., Intel¢ç Core¢â i3, Intel¢ç CoreTM i5 with Intel¢ç HD Graphics, Intel¢ç CoreTM i7, and Intel¢ç Core¢â i7 Extreme Edition) and chipsets with a new platform-focused toolset. The platform view for task-based multi-core optimizations and a simplified automated game launch workflow help developers save valuable time. The updated toolkit now includes support for DirectX 10.1 and 64-bit game executables. 
+
+Attendees can see and experience games enhanced using Intel¢ç GPA and running on Intel¢ç HD Graphics, including such titles as Atari* Star Trek Online, Electronic Arts* Tiger Woods Golf, and more in the Intel booth (South Hall, Booth 1212) at GDC. Developers can download the new Intel GPA suite of software tools at www.intel.com/software/gpa. 
+
+Game Developer Contests and Initiatives 
+
+Level Up 2010 
+
+In its fifth year, the Level Up 2010 game demo contest is a worldwide competition focusing on the major areas of game development with prizes worth thousands of dollars. As part of the competition, developers have access to development resources that take advantage of Intel processing power and a chance to gain recognition in the industry. 
+
+All game entries will be judged in one of three categories: ¡°Best Game for a Desktop,¡± ¡°Best Game for a Laptop,¡± and ¡°Best Game for a Netbook.¡± Finalists are also eligible to win prizes for ¡°Best Sound Design,¡± ¡°Best Art Design,¡± ¡°Best Character Design¡± and ¡°Best Graphics Performance.¡± Participants will have access to development kits and software tools to help them along the way. Judges for this year's contest include industry notables Rick Raymo, Vic Davis, American McGee and Ralph Koster. Entries for the contest will be accepted through June 15, and developers can enter to win at www.intel.com/software/levelup2010. 
+
+Intel¢ç Atom¢â Developer Challenge Winners, Next Round Announced 
+
+Launched at the Consumer Electronics Show in January, Intel AppUp Center beta, an application storefront for netbooks, has been met with excitement by developers. More than 5,000 developers have already joined the Intel¢ç Atom¢â Developer Program. Intel AppUp Center offers game developers access to the growing market opportunity for innovation on mobile devices, which has sparked the trend of ¡°light gaming.¡± In line with this trend, about half of the applications submitted to Intel AppUp Center are games. The Intel Atom Developer Challenge was created to further engage with and recognize developers who submit the most innovative and elegant apps. 
+
+The first Intel Atom Developer Challenge has come to a close, and the grand prize winners have been named. Music app GURU won ¡°Most Innovative App¡± and puzzle game SMILES took ¡°Most Elegant Application Design.¡± Application developers Angus Hewlett and Michael Kasprzak each were awarded an all-expense-paid VIP trip to GDC 2010. The next round of the Intel Atom Developer Challenge has more categories with such prizes as tens of thousands of dollars, a 2011 Chevy* Volt* and a complete application marketing campaign. To participate, developers can download the Intel Atom Developer Program software development kit at appdeveloper.intel.com and enter the contest at appdeveloper.intel.com/challenge through Aug. 16, 2010. 
+
+StarCraft* II Open Game Play 
+
+Intel will showcase Blizzard* Entertainment's StarCraft II: Wings of Liberty* at its booth (South Hall, Booth 1212), giving conference attendees a chance to play the game on a wide variety of Intel-based systems, from high-end Intel¢ç Core¢â i7 to mainstream Intel¢ç Core¢â i5 platforms, before it launches later this year.  

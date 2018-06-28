@@ -1,0 +1,49 @@
+Google's Android operating system is an open-source platform that's currently available on a wide variety of smartphones. Android has its advantages --
+ it's highly customizable, for one -- but it's also somewhat geeky software that can seem intimidating to smartphone newbies.
+
+Android is available on a variety of handsets, including Google's Nexus One (which is manufactured by HTC) and Verizon's Motorola Droid. 
+The open nature of the Android platform allows handset manufacturers to customize the software for use on their handsets. As a result, the Android software can look and feel very different on different handsets.
+
+Customizable Interface
+
+All Android smartphones are touch-screen devices; some -- but not all -- have hardware keyboards, too. All come with a desktop that is made up of a certain number of screens
+ (some Android phones have 3, others have 5, while still others have 7) that you can customize to your liking. You can populate screens with shortcuts to apps or widgets that display
+ news headlines, search boxes, or more. The customization is certainly a bonus; no other smartphone platform offers as much flexibility in setting up your desktop screens to your liking. 
+
+In addition to using shortcuts on your various screens for accessing apps and files, Android also offers a comprehensive menu. You access the menu in different ways on different phones,
+ but none of them make it difficult to find. From the menu, you can click on the small but neatly organized icons to access apps and features like the Android Market. 
+
+The Android interface will vary slightly from phone to phone, but, in general, the software itself has become more polished looking over time. 
+The first version, which I reviewed on the T-Mobile G1 more than a year ago, was somewhat rough around the edges, appearance wise. The latest version, 2.1,
+ which I tested on the new Nexus One, is far sleeker looking. 
+
+But even in its latest version, the Android interface lacks some of the polish and pizzazz found in two of its key rivals: Apple's iPhone OS and Palm's webOS. 
+Both of these platforms look more elegant than Android. The iPhone OS, in particular, is a bit more intuitive to use; getting comfortable with Android can take more time and practice.
+
+Available Apps
+
+The advanced camera settings available on version 2.0 of the Android OS.
+Google AndroidAndroid's open nature means that almost anyone can create an application to run on it. And you will find a growing selection of titles available in the Android Market, 
+the platform's answer to Apple's App Store. Android supports multi-tasking, too, so you can run multiple apps at once. This means you can open a Web page, for example, and as it loads, 
+check for incoming e-mail. It's handy. 
+
+Android also has the benefit of being closely tied to Google; the company offers lots of excellent mobile apps. Some, like Google Maps, are available on different mobile platforms, but others, 
+like the excellent Google Maps Navigation (beta), are only available on Android phones. 
+
+Cause for Confusion
+
+But not all applications run on all versions of Android -- and there are plenty of versions of the software out there, which can cause some confusion. 
+The Motorola Droid, for example, was the first Android phone to feature version 2.0 of the OS. At the time of its launch, the Droid was the only phone that could run Google Maps Navigation (beta).
+ Now, the Nexus One features the most recent version of Android (2.1, at the time of this writing), and is the only phone that can run the new Google Earth app for Android. 
+And newer phones don't always run the newest versions of Android; some new handsets end up shipping with older versions. 
+
+Adding to the confusion is the fact that the different versions of Android offer different features, and that manufacturers can decide whether or not to enable certain features. For example, multi-touch
+ -- which allows a phone's touch screen to register more than one touch at a time so you can do things like pinch and spread a screen to zoom in and out -- is available on some Android phones
+but not others.
+
+Bottom Line
+
+The Android OS lacks the elegance of its chief rivals, Apple's iPhone OS and Palm's webOS, and the fact that it's available in so many versions can be very confusing. 
+But it has the benefit of being available on a variety of handsets, and offers customization its rivals can't touch. If you're willing to put in the time to learn all about Android and how to use it,
+ you're likely to find that this mobile platform is powerful. 
+

@@ -1,0 +1,9 @@
+Smartphone manufacturers have been trying to reduce the size of their devices since they first hit the market. Indeed, some have speculated Apple's "courageous" decision to remove the headphone jack from their phones was partially a result of this trend.
+
+Now, chip designer ARM may have found a way to push the envelope even further. According to The Verge, the company has designed a new component called an "iSIM" that aims to pack SIM cards into the same chip as the processor. The component reportedly takes up a mere "fraction of a millimeter squared" compared to current SIM cards which tend to be about 12.3mm x 8.8mm in overall size.
+
+Naturally, as devices have gotten smaller over time, packing increasingly powerful hardware inside them has become a pretty difficult task. As such, innovations such as this could prove to be nearly essential for the future health of the industry.
+
+The space the iSIM would free up could allow for larger batteries, even thinner phones, additional RAM capacity or simply more powerful mobile hardware overall down the line. Furthermore, card manufacturers could save quite a bit of money. Instead of shelling out "tens of cents" per card, they could reportedly be paying "single-digit cents" for iSIM hardware.
+
+With all of that said, it's worth noting the mere existence of the iSIM doesn't really mean much. It's only going to be making its way to smaller "Internet of Things" devices to begin with and ARM will still need major smartphone industry players to jump onboard for iSIMs to launch with upcoming mobile devices.

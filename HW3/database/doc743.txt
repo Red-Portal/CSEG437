@@ -1,0 +1,16 @@
+unity
+
+Unity is an intuitive game development engine that offers a vast array of features for both 2D and 3D game development. 
+It is one of the best engines for cross-platform mobile game development. 
+You can quickly and easily port games onto Android, iOS, Windows Phone 8, and BlackBerry platforms. 
+Unity supports assets from major 3D applications like 3ds Max, Maya, Softimage, CINEMA 4D, Blender etc. 
+With the recent release of Unity 4.3, native 2D capabilities, supporting sprites and 2D physics are also added to its design capabilities.  
+Though Unity integrates with all major 3D applications, there are many limitations to its editing capabilities inside the engine editor. 
+Apart from some primitive shapes, everything has to be created using a third-party 3D application.
+ Alternatively, you can always purchase assets from the asset library (pricing is determined by the asset author). 
+Also, with the new 64-bit support and WebGL, Unity 5 is evidently a strong contender among the mobile game development engines.
+The Unity engine comes with many pricing options. 
+The Pro version of Unity, which is $1,500 or $75/monthly per seat and per platform. 
+There is also a Unity 5 Personal Edition which includes many common features like Profiler, Physically-based shading, Reflection Probes etc.
+ However, there are many qualifying criteria to get that license. 
+For more details, you can visit the Unity pricing page. 

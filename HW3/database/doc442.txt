@@ -1,0 +1,59 @@
+The Xbox Live Marketplace (XBLM) is a virtual market designed for Microsoft's Xbox 360 console that allows Xbox Live members to download purchased or promotional content. The service offers movie and game trailers, Video Store, game demos, Xbox Live Arcade games, Xbox Live Indie Games (Previously Community Games), Games on Demand (Xbox 360 and Xbox Originals), downloadable content such as map packs, gamer pictures, and Xbox 360 Dashboard themes.
+The 11th August 2009 update added Xbox 360 games for download, Avatar Marketplace and renamed Community Games to Indie Games.
+The Spring 2007 update to the Xbox 360 Dashboard relocated the Marketplace to its own "blade" in order to bring more attention to the service and make it more accessible to users. Although this has been obsoleted by the NXE update, the section has been implemented into three separate sections in the Dashboard: the Game Marketplace, Video & Music Marketplace and Avatar Marketplace.
+Downloaded content requires enough space on either the Xbox 360's hard drive, or an Xbox 360 Memory Unit. Selected downloads are placed in a queue and are downloaded whilst the console is powered on and is connected to Xbox Live. Users can choose to send certain downloads to the front of the queue to be downloaded first. Downloads are temporarily halted during certains times where games make use of Xbox Live's features (eg. online multiplayer).
+Contents [hide]
+1 Microsoft Points
+2 Xbox Live Arcade
+3 Xbox Live Games on Demand
+4 Video Store
+5 Xbox Live Indie Games
+6 On the web
+7 Criticism
+7.1 Problems with replacement consoles
+7.2 Pricing
+7.3 Content Region Controls
+8 See also
+9 References
+10 External links
+[edit]Microsoft Points
+
+
+Main article: Microsoft Points
+Microsoft Points are used as currency in the Xbox Live Marketplace, which includes the Xbox Live Arcade. These points may be purchased with a credit card through the Xbox Live Marketplace, or redeemed from gift cards purchased at retail locations. Microsoft Points are sold in each country in the local currency.
+[edit]Xbox Live Arcade
+
+Main article: Xbox Live Arcade
+The Xbox Live Arcade service was re-launched beginning with the release of the Xbox 360 on November 22, 2005. The Arcade service is integrated with the Dashboard user interface, allowing for distribution through the Microsoft Points. Arcade titles on the Xbox 360 support accurate and up-to-date leaderboards, with high scores linked to a player's Gamertag. Players can see where they stand in the Xbox Live community, take a look at the records set by the world's top-ranked players, or see how they match up against individuals on their friends list. The vast majority of titles can also contribute to a player's Xbox Live Gamerscore. Every title on Xbox Live Arcade features a free trial version, which can be unlocked by spending Microsoft Points. The current top downloaded and top rated game is Castle Crashers.
+[edit]Xbox Live Games on Demand
+
+The 11th August 2009 update included the Games on Demand section of the Marketplace which comprises the already available Xbox Originals and the newly added previously released Xbox 360 games for download.
+[edit]Video Store
+
+The Video Store (originally Video Marketplace) is an online service operated by Microsoft that is used to distribute television shows and movies to Xbox 360 owners. The service was launched in USA on November 22, 2006 via Xbox Live. Initial content partners include Paramount Pictures, CBS, TBS, MTV Networks, UFC, NBC, and Warner Bros. Home Entertainment. Other movie studios have since supported the service including Lionsgate Films and Walt Disney Pictures as announced at E3 2007.[1] At CES 2008, MGM, ABC, the Disney Channel and Toon Disney announced their support for the service.[2] At the present time, the service is available to users in the United States, UK Germany France Spain, Japan only. no TV shows in UK and Europe. the service is coming to Ireland Australia New Zealand and other markets in 2010.
+Various films and TV shows are available for purchase in the Video Store, including both past and present series, such as Star Trek and CSI: Crime Scene Investigation.[3] TV shows will be saved permanently while movies are only "rentals"; they will become unwatchable 24 hours after initial viewing or 14 days after purchase.
+At launch, the Video Store encountered widespread problems such as lengthy download times, duplicate billing for the same content, and downloads that could not complete, or for which users would have had to repay to complete.[4]
+On March 6, 2007, the South Park episode "Good Times with Weapons" was available for free download; however, this episode was free only for the HDTV version until April 3, 2007. Starting on March 13, 2007, all episodes from South Park's 11th season were offered uncensored. Also, starting on July 26, 2007, the pilot episode of Jericho was available for download free of charge for both the Standard and HD versions.
+As of September 15, 2009, the video service of Xbox live was taken over by the Zune Marketplace.
+[edit]Xbox Live Indie Games
+
+Main article: Xbox Live Indie Games
+As part of the New Xbox Experience launched on November 19, 2008, Microsoft launched Xbox Live Community Games (XBLCG), and later renamed to "Xbox Live Indie Games", a service similar to Xbox Live Arcade (XBLA), with smaller and less expensive games created by independent developers and small studios.[5] Such games are added to the service after successfully passing through a peer review system that prevents inappropriate content from appearing in games and ensures that games meet certain technical standards and do not misrepresent their content.
+[edit]On the web
+
+Xbox Live Pipeline was a Flash-based website launched on October 12, 2006 that allowed users to view content available for download on Xbox Live from their PC.[6] As of the beginning of 2007, the Xbox Live Pipeline website redirects to the standard Xbox site, which now contains most of the functionality of Pipeline.
+The Marketplace Ticker is a replacement for the now-defunct Xbox Live Pipeline. The Xbox Live Marketplace Ticker allows users to view the latest demos, trailers, "gamer pics", themes, games, TV shows and movies. The ticker displays the availability, price, and information of items that can be downloaded from the Marketplace.[7]
+Larry Hryb (Xbox Live's "Major Nelson") frequently posts alerts of downloadable content on his blog.[8]
+[edit]Criticism
+
+Most complaints and criticisms leveled at the Xbox Live service concern the Xbox Live Marketplace. Specific areas include the following:
+[edit]Problems with replacement consoles
+Per Marketplace design, the digital rights management license for downloaded content is tied to both a specific user and to a specific console. This means that to access the content, the user either needs to be signed on to Xbox Live using their Gamertag, or be playing on the original console the content was purchased on.[9]
+As a result, users with replacement consoles cannot use previously downloaded content without being connected to Xbox Live. This has the effect of restricting usage of purchased content when no Internet connection is available. An additional wrinkle is added when there are multiple accounts on one console. In this case, all accounts can normally share content when it was downloaded on that system. However, if the system is replaced, then only the actual Xbox Live account to which the content is tied can make use of it (a workaround exists whereby the non-purchasing gamertag can use the content, but only if the original purchasing gamertag is signed into Xbox Live as a secondary profile).
+Microsoft's original attempts to resolve these issues were limited to transferring licenses to consoles replaced under warranty. This required contacting Microsoft support, and the console must have been replaced through Microsoft itself or a warranty from the retailer where it was originally purchased. License transfers could not be performed in the case of a voluntary upgrade (e.g., if the user purchased an Xbox 360 Elite to replace their old console). Microsoft support states the license transfer process takes 20?30 days.
+As of June 2008, Microsoft has released an online tool that allows users to transfer licenses from the console where they were originally purchased to another. This is done in a two-step process, where all licenses are first migrated on the server side, and then downloaded onto the new console. To prevent abuse, this process can only be performed once a year. Licenses remain bound to the Gamertag regardless, so users who store their profiles on portable memory units can continue to use purchased content on any console when signed into the service.
+[edit]Pricing
+Price consistency and whether some content should be available free of charge has also been a source of criticism related to the Xbox Live Marketplace. A notable incident was Microsoft charging for a Gears of War map pack that developer Epic desired to provide at no cost (although it was made free four months later in September 2007).[10] Exacerbating the controversy, Game Informer made claims that Microsoft forced companies to charge for content the company itself wanted to distribute free.[11] In this case, Microsoft Publishing was responsible for setting the price, with this not actually being a policy of the Xbox team or Xbox Live Marketplace as was implied. Free content is indeed possible, but much of the free content is promotional in nature, such as the titles Yaris and Dash of Destruction.
+[edit]Content Region Controls
+After the Spring 2007 dashboard update, Microsoft increased the security on the regional content restrictions.[12] This made obtaining entertainment content for international markets impossible, while the US market has a substantial offering in comparison. Even some free content, such as downloadable extras for retail games, is impossible to obtain in certain regions, despite there being no legal or censorship problems (an example of this would be the second Gears of War map pack; while the first pack was initially available free worldwide, the Spring 2007 update made both unavailable to many Xbox 360 owners).
+In the case of New Zealand, all child accounts were banned from downloading any marketplace content in Mid-June. As of October 15, 2010 these are still locked from downloading anything apart from software updates and user-created content, no matter what the rating.

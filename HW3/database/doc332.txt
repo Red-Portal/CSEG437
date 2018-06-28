@@ -1,0 +1,45 @@
+GPS-equpped ARM processor hits the road
+
+CSR plc announced an ARM11-based SoC (system on chip) for automotive use. The SiRFprimaAuto includes a GPS/Galileo navigation engine, hardware-accelerated 2D/4D graphics, ¡°rich multimedia ¡¦ and peripheral support,¡± plus SiRFDRive dead reckoning software, the company says. 
+
+CSR¡¯s SiRFprimaAuto is touted as the company¡¯s ¡°first auto-qualified SoC,¡± meeting stringent AEC-Q100 standards. The device is said to be pre-integrated with CSR¡¯s wireless connectivity solutions as well as SiRFDRive dead reckoning software, the latter allowing highly accurate positioning information to be maintained ¡°even in dense urban canyons, tunnels, and parking lots.¡± 
+
+Few details of the SiRFprimaAuto hardware were released, but from its model number (TT4421-A) the new SoC would appear to be a modified version of the previously offered SiRFprima, a.k.a. the TT4421. According to CSR, the SiRFprimaAuto is notable for ¡°stricter manufacturing, assembly, and testing procedures to meet the tighter automotive quality and reliability standards.¡± 
+
+
+
+
+A block diagram of CSR¡¯s SiRFprima
+
+(Click to enlarge)
+
+Other characteristics mentioned all match up with those of the SiRFprima, diagrams of which appear above and later in this story. First released in 2008, this SoC includes an ARM11 core with an unspecified clock speed, plus a digital signal processor (DSP) and satellite tracking circuitry. The ¡°hardware scalable location engine¡± features 64 channels with -161 dBm sensitivity, and more than 1,000,000 correlators, according to SiRF. 
+
+Later followed up by the lower-cost SiRFatlasIV, the SiRFprima was said to be one of the first products that is capable of working with both American GPS and European Galileo satellite networks. The SoC also dedicates some of its hardware to accelerating CSR¡¯s InstantFixII technology, which has been touted as decreasing GPS startup times by modeling satellite behavior, then predicting their positions in the sky for up to three days in the future.
+
+The SiRFprima¡¯s hardware-accelerated graphics, almost certainly carried over to the SiRFprimaAuto, are based on Imagination Technologies¡¯ PowerVR MBX core, which supports Direct3D, Open GL ES 1.1, and OpenVG 1.0. The PowerVR MBX supports key 3D features, and has a Vertex Geometry Processor that offloads complex 3D transformation and lighting (T&L) tasks. It provides fill rates in excess of 300 million pixels/sec., according to Imagination Technologies. 
+
+The SiRFprima additionally offers video and multimedia acceleration via MVED1, claimed by Imagination Technologies to accelerate the decoding or encoding of H.264, MPEG-4, H.263, MPEG-2 and VC-1 (WMV9) video streams, with over a 90 percent reduction in CPU load. Finally, according to CSR, the SiRFprima has a ¡°full complement¡± of peripheral and external interfaces for connecting to touch screens, mass storage devices, video cameras, and other equipment. 
+
+
+
+
+The SiRFprima
+
+(Click to enlarge)
+
+According to CSR, the SiRFprimaAuto is designed to work with its BlueCore6-ROM, a Bluetooth radio, and its GRF3i+ front-end radio, the latter depicted in the SiRFprima diagram above. The GRF3i+ includes a dual-range IF band filter with default 2MHz bandwidth, easing integration into electrically noisy vehicle environments, the company says. 
+
+CSR says the SiRFprimaAuto will be available with Windows CE, Android, and Linux BSPs (board support packages). The SoC supports all Bluetooth automotive profiles ? including A2DP, HFP, PBAP, SPP, AVRCP, DUN, MAP, and HID ? and offers other advanced features such as acoustic echo cancellation, noise reduction, voice recognition, and text to speech, the company adds. 
+
+It¡¯s said the SiRFprimaAuto also includes an updated version of CSR¡¯s SIRFDRive dead reckoning software. The technology combines data from the GPS receiver with odometer speed pulses, accelerometers, and gyroscopic sensors, keeping track of vehicle position even when a satellite fix is not available, according to CSR. 
+
+Lars Boeryd, director of automotive marketing for CSR, stated, ¡°Integrating automotive-quality, highly interoperable wireless connectivity has always been a challenge for system integrators, in terms of both the time required for integration and also the additional costs associated with developing the upper-level software that drives these technologies. CSR simplifies this process with unique pre-integrated connectivity components that have been rigorously tested in the automotive space over many years.¡± 
+
+Notable for the wide adoption of its GPS platforms by PND (personal navigation device) and smartphone manufacturers, SiRF was acquired by CSR plc ? formerly known as Cambridge Silicon Radio ? in 2009. 
+
+Availability 
+
+According to CSR, the SiRFprimaAuto comes in a 0.65mm BGA (ball grid array) package and is available now in production quantities. Pricing was not detailed. 
+
+CSR does not yet appear to have a product page for the SiRFprimaAuto, but more information on the related SiRFprima may be found on the company¡¯s website, here.  

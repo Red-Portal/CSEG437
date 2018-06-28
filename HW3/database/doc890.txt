@@ -1,0 +1,29 @@
+Inside AMD's Ryzen Revamp: Second Generation Chip Is Faster and Cheaper
+
+When Advanced Micro Devices debuted the first of its new Ryzen PC processor chips last February, the company touted the product line as considerably faster than Intel chips at the same price. That was true for most applications, but video game performance lagged somewhat. As one reviewer headlined it, the new Ryzen chips were “Good For Games, Better For Everything Else.”
+
+The gaming gap was problematic, as AMD was aiming the Ryzen line at the type of gaming enthusiast customers who buy or build desktop PCs with high-performance chips. So as AMD tweaked the chips for this year’s second generation update, which hits stores today, gaming performance was high on the list of desired improvements. AMD was also able to move manufacturing of the chip at partner GlobalFoundries from a 14-nanometer scale to a 12-nanometer scale, allowing for higher clock speeds and better energy consumption.
+
+“We’ve spent a lot of time optimizing the performance, especially around gaming scenarios,” Kevin Lensing, head of AMD’s client business, tells Fortune. “Frankly it was an area that we got feedback that we needed to improve on from the first generation. So we put as lot of energy into that. Now head-to-head at any price point, we’re now seeing that our gaming experience is roughly equivalent to Intel’s.”
+
+Get Data Sheet, Fortune’s technology newsletter.
+
+The release comes at a key time for AMD, which released an array of Ryzen chips over the past year for PCs and laptops, a new server chip line called Epyc, and a series of graphics chips dubbed Vega. All three products are the result of CEO Lisa Su’s multi-year strategy to overhaul AMD’s line up with higher-performance chip designs. Investors were initially impressed, driving AMD’s stock price over $15 last summer. But since then, concerns about the competitive response from Intel and Nvidia along with uncertainty about continued demand from cryptocurrency miners has dragged the price down. Intel and AMD have also been dealing with the fallout from the Spectre and Meltdown security attacks.
+
+AMD (AMD, +2.65%) shares closed on Wednesday at $10.36, virtually unchanged in 2018, while Intel (INTC, +0.38%) has gained 17% so far this year and Nvidia (NVDA, -0.08%) rose 22%.
+
+The new AMD chips run from $200 to $330, well below last year’s top price of $500. AMD says its Ryzen Threadripper line, introduced last July, now covers the $500 and up price point now. Overall, the second generation chips are about 10% faster in benchmarks than last year’s line, even with the lower prices.
+
+Analysts say the new line up should help AMD grab more market share. “What I appreciate is that the company improved areas where it may not have been the best or where they received customer feedback,” Patrick Moorhead, president of Moor Insights, said after he was allowed to test the new chips for about a week. “It’s a much better chip overall, and I believe AMD will improve market share with it.”
+
+One of the key improvements for gaming was figuring out a way to let the Ryzen chips speed up even when an app was using multiple processing cores.
+
+Typically, a chip slows its clock speed to avoid overheating as apps call on more processor cores. A chip’s top speed, for example 4.3 GHz in the case of the new 8-core Ryzen 7 2700X, is usually only reached when an app is just using a single core. Otherwise the chip might overheat. Last year’s high-end chip, the Ryzen 7 1800X, for example ran at a clock speed of 4 GHz using one core, but then automatically downshifted to 3.7 GHz if apps started using more cores. So AMD designed an algorithm that measures the actual energy usage and temperature within the chip and instead of automatically downshifting, maintains the speed as high as possible. That allows the chip to keep its speed high if an app is using multiple cores but not so intensely that the chip could overheat—a common situation with video game apps.
+
+The improvements appear to have worked. In AMD’s internal tests, the new top-end $330 Ryzen 7 2700X chip was 1% slower than a comparable Intel Core i7 8700K chip, which costs $370, in a benchmark of 12 video games. And on a benchmark of apps commonly used in creative industries the AMD chip was 21% faster than the Intel chip.
+
+Outside reviewers have largely corroborated the AMD tests and the company appears to have closed the gaming gap.
+
+“For a lot of tests, especially gaming, there is either a neck-and-neck result or AMD pulls a lead in multi-threaded scenarios,” the web site Anandtech concluded. “For anything that is hard on a single-threaded, such as our FCAT test or Cinebench 1T, Intel wins hands down.”
+
+(Update: This story was updated on April 19 with a summary of outside reviews.)

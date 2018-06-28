@@ -1,0 +1,610 @@
+﻿An application of games-based learning within
+software engineering
+Thomas M. Connolly, Mark Stansfield and Thomas Hainey
+Thomas Connolly is a professor in the School of Computing at the University of Paisley and chair of the
+ICT in Education interdisciplinary Research Group. His specialisms are online learning, online gamesbased
+learning and database systems. Dr Mark Stansfield is a senior lecturer in the School of Computing
+at the University of Paisley. Thomas Hainey is in the second year of his doctoral studies in games-based
+learning. Address for correspondence: School of Computing, University of Paisley, High Street, Paisley,
+PA1 2BE. Email: conn-ci0@wpmail.paisley.ac.uk
+Abstract
+For some time now, computer games have played an important role in both
+children and adults’ leisure activities. While there has been much written on
+the negative aspects of computer games, it has also been recognised that they
+have potential advantages and benefits. There is no doubt that computer games
+are highly engaging and incorporate features that are extremely compelling.
+It is these highly engaging features of computer games that have attracted
+the interests of educationalists. The use of games-based learning has been
+growing for many years now; however, within software engineering, there is
+still a dearth of empirical evidence to support this approach. In this paper, we
+examine the literature on the use of computer games to teach software engineering
+concepts and describe a computer game we have been developing to
+teach these concepts.
+Introduction
+It is generally accepted that computer games are an extremely motivating and engaging
+medium and represent a new form of popular culture. In addition, there is a growing
+recognition of the potential benefits that can be gained in using computer games within
+teaching and learning, although there are still many critics of this approach.We have
+been attempting to use a games-based learning approach to support the teaching of
+requirements collection and analysis within a software engineering course in higher
+education for some years now (Connolly, McLellan, Stansfield, Ramsay & Sutherland,
+2004). Recently we have teamed up with a Scottish games-based learning company to
+develop an expanded version of the game for both the academic and training communities.
+In this paper, we examine the literature on the use of games-based learning
+British Journal of Educational Technology Vol 38 No 3 2007 416–428
+doi:10.1111/j.1467-8535.2007.00706.x
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency. Published by
+Blackwell Publishing, 9600 Garsington Road, Oxford OX4 2DQ, UK and 350 Main Street, Malden, MA 02148, USA.
+within software engineering and, in particular, attempt to identify what empirical evidence
+exists within this literature to support this approach. We also examine some of
+the issues underlying the teaching of the abstract and complex domain of requirements
+collection and analysis and, more generally, software engineering.We then discuss the
+high-level requirements for our game and provide an overview of the gameplay and an
+outline subsystem design.
+Previous research
+Literature search
+There is a significant amount of research in the application of computer games to
+teaching and learning. As our primary focus was the application of games-based learning
+to software engineering in tertiary education, and aswewere particularly interested
+to identify the existence of empirical evidence to support its usage in this discipline, we
+undertook an extensive literature search during the first half of 2006. As technology,
+and specifically computer games, have changed significantly in the last decade, we
+decided to look for evidence from 1996 onwards. The literature review was carried out
+using various electronic databases: ACM, ScienceDirect, EBSCO (consisting of Psychology
+and Behavioural Science, PsycINFO, SocINDEX, Library, Information Science and
+Technology Abstracts, CINAHL), ERIC, IngentaConnect, Infotrac (Expanded Academic
+ASAP) and Emerald. The following search terms were used:
+(‘computer games’ OR ‘video games’ OR ‘serious games’ OR ‘simulation games’ OR
+‘games-based learning’ OR MMOG OR MMORPG OR MUD OR ‘online games’)
+AND (education OR learning)
+As we were specifically interested in the use of computer games for teaching and
+learning, we excluded approaches to teaching software engineering using simulations
+such as SESAM (Drappa & Ludewig, 2000).We identified a number of papers in which
+studentswere given the task of developing simple computer games or inwhich students
+were given a computer game-style interface to engage and motivate (for example,
+Bayliss & Strout, 2006; Chamillard, 2006); however, these were excluded from consideration
+as the computer game was not the main pedagogical instrument of teaching
+and learning. We also excluded papers that discussed the development of units or
+complete courses in computer games (for example, Sweedyk, deLaet, Slattery & Kuffner,
+2005). Finally, we also excluded noncomputer-based games such as card games (for
+example, Hamey, 2003). Table 1 shows the papers that we found from the literature
+search, the application area and an indication of whether or not the paper contained an
+evaluation. The search highlighted four reasonably mature games:
+• KM QUEST in the area of knowledge management (Leemkuil & de Hoog, 2005;
+Leemkuil, de Jong, de Hoog & Christoph, 2003);
+• Open Software Solutions (Sharp & Hall, 2000);
+• The Incredible Manager (Dantas, Barros & Werner, 2004, 2005);
+• SimSE (Oh Navarro and Van der Hoek, 2004, 2005a, 2005b; Oh Navarro et al,
+2003).
+Games-based learning within software engineering 417
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+Table 1: Games-based learning in computing science/software engineering/information systems
+Authors Area Evaluation
+Connolly and Stansfield
+(in press)
+Requirements analysis No evaluation
+Shaw and Dermoudy (2005) Project management of
+software development
+process
+Small quantitative evaluation
+(n = not specified).
+Wang (2005) ‘Cyber War’—a multi-step
+cyber attack or cyber
+defense protection
+No evaluation
+Chua (2005) Knowledge management Pre-posttest (n = 32); small
+increase in knowledge,
+skills and attitude.
+Veronese, Barros and Werner
+(2005)
+Framework to support the
+development of
+educational games based
+on simulation models
+No evaluation
+Waraich (2004) Binary arithmetic and logic
+gates
+Quantitative; pre/posttesting
+(n = 15); showed improved
+performance using games
+approach
+Ford and Minsker (2003) Tree traversal techniques and
+iterative and recursive
+traversal algorithms
+No evaluation
+Sharp and Hall (2000) Interactive multimedia
+simulation of a software
+house Open Software
+Solutions
+First run: MUMMS usability
+analysis (n = 31); second
+run: questionnaire
+(n = 354; 36% response);
+only 7% thought software
+useful
+Martin (2000) Information systems
+development
+No evaluation
+KM QUEST
+Leemkuil, de Jong, de Hoog
+and Christoph (2003)
+Knowledge management Evaluated usability, behaviour
+of players/models and
+acceptability (n = 41:
+18 managers and 23
+students); however, no
+statistics provided
+Leemkuil and de Hoog (2005) Investigation of effectiveness
+of several learning support
+tools in gaming
+environment
+Pre-posttest analysis (n = 29);
+tested importance of advice
+rather than any increase in
+learning brought about by
+game
+The incredible manager
+Dantas, Barros and Werner
+(2005)
+Software project management Small qualitative evaluation
+(n = 24)
+Dantas, Barros and Werner
+(2004)
+Software project management Small (five questions) survey
+(n = 15)
+418 British Journal of Educational Technology Vol 38 No 3 2007
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+However, it can be seen that the evaluation of the impact of the games-based learning
+approach is severely limited and in many cases non-existent. Moreover, there are no
+longitudinal studies. Given that games-based learning is not a new approach to teaching
+and learning, this is a very worrying situation and is a clear indication that more
+research needs to be carried out to evaluate the use of this approach and, in particular,
+longitudinal studies are required. While we were not looking in detail outside our
+discipline, we did not see much evidence of longitudinal studies in games-based learning
+within higher education.
+Requirements collection and analysis and software engineering
+Software engineering has been described as a ‘wicked problem’ characterised by incomplete,
+contradictory and changing requirements, and solutions that are often difficult to
+recognise as such because of complex interdependencies (DeGrace & Hulet Stahl,
+1998). According to (Armarego, 2002), there is an educational dilemma in teaching
+such problems in software engineering because:
+• Complexity is added rather than reduced with an increased understanding of the
+problem.
+• Metacognitive strategies are fundamental to the process.
+• A rich background of knowledge and intuition is needed for effective problem solving.
+• A breadth of experience is necessary so that similarities and differences with past
+strategies are used to deal with new situations.
+Table 1: Continued
+Authors Area Evaluation
+SimSE
+Birkhölzer, Oh Navarro and
+Van der Hoek (2005)
+Proposal for students to build
+a new software process
+simulation model using
+SimSE
+No evaluation
+Oh Navarro and Van der
+Hoek (2005a)
+SimSE process model No evaluation
+Oh Navarro and Van der
+Hoek (2005b)
+Small (eight questions)
+questionnaire (n = 29)
+Oh Navarro and Van der
+Hoek (2004)
+Software engineering
+simulation
+No evaluation
+Oh Navarro, Baker and Van
+der Hoek (2003)
+No evaluation of SimSE
+Oh and Van der Hoek
+(2001a)
+Economic cost model for
+software engineering
+No evaluation
+Oh and Van der Hoek
+(2001b)
+Proposal to develop SimSE No evaluation
+Oh (2001) Proposal to develop SimSE No evaluation
+Games-based learning within software engineering 419
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+Oh and Van der Hoek (2001b) identify a number of other issues that complicate the
+teaching of the software process:
+• Software development is non-linear: activities, tasks and phases are repeated, and multiple
+events happen at the same time. Managing two similar projects in the same way
+may not produce the same outcome because of the presence of several (possibly
+unexpected) factors (eg, technical advances, client behaviours or expectations).
+• Software development involves several intermediate steps and continuous choices between
+multiple, viable alternatives: even with careful planning, not all events that can occur
+can be anticipated at the start of a project. Difficult decisions must be made, tradeoffs
+must be considered and conflicts must be handled.
+• Software development may exhibit dramatic effects with nonobvious causes: while software
+development has several cause-and-effect relationships (eg, it is more cost-effective to
+identify flaws in the earlier phases of development than to identify them in the later
+phases), there are other situations that may arise in which the cause is not so apparent.
+For example, Brook’s Lawstates that adding people to a project that is already late
+typically makes that project later.
+• Software engineering involvesmultiple stakeholders: clients and nondevelopment personnel
+in an organisation all make decisions that impact development.
+• Software engineering often has multiple, conflicting goals: software development includes
+tradeoffs between such things as quality versus cost, timeliness versus thoroughness,
+or reliability versus performance.
+Two further issues that arise with teaching software development thatwe are interested
+in taking into consideration in any learning environment we develop are:
+• Communication: software engineers must be able to communicate, both verbally and
+in writing, with staff internal to the project (project manager, team leaders, analysts,
+designers, developers, testers, quality assurance) as well as external stakeholders.
+• Pedagogical praxis: Shaffer (2004a) proposes a theory of ‘pedagogical praxis’, which
+links learning and doing within an extended framework of communities of practice
+(Lave, 1991; Lave & Wenger, 1991). Pedagogical praxis is based on the concept that
+different professions (for example, lawyers, doctors, software engineers) have different
+epistemologies (epistemic frames)—different ways of knowing, of deciding what
+is worth knowing and of adding to the collective body of knowledge and understanding.
+For a particular community, the epistemic frames define ‘knowing where
+to begin looking and asking questions, knowing what constitutes appropriate evidence
+to consider or information to assess, knowing how to go about gathering that
+evidence, and knowing when to draw a conclusion and/or move on to a different
+issue’ (Shaffer, 2004b, p. 4). The implementation of pedagogical praxis requires a
+faithful recreation of the professional community, one that is ‘thickly authentic’;
+that is, one where: (1) learning is personally meaningful for the learner; (2) learning
+relates to the real world outside the classroom; (3) learning provides an opportunity
+to think in the modes of a particular profession; and (4) learning where
+the means of assessment reflect the learning process (Shaffer & Resnick, 1999).
+420 British Journal of Educational Technology Vol 38 No 3 2007
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+Connolly and Begg (2006) have suggested that the term thickly authentic be
+extended to incorporate: (5) learning using the tools and practices of the modernday
+professional.
+According to Schön (1983, 1987), the following are some of the key problems in
+teaching an abstract subject of this nature:
+• It is learnable but not didactically or discursively teachable: it can be learned only in
+and through practical operations.
+• It is a holistic skill and parts cannot be learned in isolation but by experiencing it in
+action.
+• It depends upon the ability to recognise desirable and undesirable qualities of the
+discovered world. However, this recognition is not something that can be described to
+learners; instead, it must be learned by doing.
+• It is a creative process in which a designer comes to see and do things in new ways.
+Therefore, no prior description of it can take the place of learning by doing.
+Students often have a considerable difficulty comprehending implementationindependent
+issues and analysing problems where there is no single, simple, wellknown,
+or correct solution (Connolly & Begg, 2006). They have difficulty handling
+ambiguity and vagueness and they can also display an inability to translate tutorial
+examples to other domains with analogous scenarios, betraying a lack of transferable
+analytical and problem-solving skills (Connolly & Stansfield, in press). Kriz (2003)
+highlights the point that the majority of students are not competent enough to put their
+knowledge into practice and they are unable to cope successfully with the everyday
+tasks associated with the practice of their chosen field. These problems can lead to
+confusion, a lack of self-confidence and a lack of motivation to continue.
+Many of the previously discussed characteristics make teaching requirements collection
+and analysis and, more generally, the software development process, problematic
+using didactic approaches to teaching and learning, and the practical experience provided
+falls far short of what a student can expect ‘in the realworld’. Instead, these issues
+suggest that students can only learn about software engineering by doing software
+engineering and relying less on overt lecturing and traditional teaching. This approach
+requires a shift in the roles of both students and teachers, with the student becoming an
+apprentice, exploring and learning about the problem in the presence of peers (who
+may know more or less about the topic at hand) and the teacher moving from being the
+‘knowledgeable other’ towards becoming a facilitator who manages the context and
+setting and assists students in developing an understanding of the material at hand
+(Koehler & Mishra, 2005).
+We advocate an alternative teaching paradigm for software engineering based on constructivism.
+Cognitive constructivism views learning as an active process in which
+learners construct new ideas or concepts based upon their current/past knowledge. The
+learner selects and transforms information, constructs hypotheses and makes decisions,
+relying on a cognitive structure to do so (Piaget, 1968). Social constructivism,
+Games-based learning within software engineering 421
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+seen as a variant of cognitive constructivism, emphasises that human intelligence
+originates in our culture. Individual cognitive gain occurs first in interaction with other
+people and in the next phase within the individual (Forman & McPhail, 1993). These
+two models are not mutually exclusive but merely focus upon different aspects of the
+learning process. In fact, Illeris (2003) believes that all learning includes three dimensions,
+namely the cognitive dimension of knowledge and skills, the emotional dimension
+of feelings and motivation, and the social dimension of communication and
+cooperation—‘all of which are embedded in a societally situated context’.
+SDSim game
+The development of the SDSim game is being underpinned by Participatory Design
+principles, with users and other stakeholders playing a prominent role in all the stages
+relating to design, development and evaluation.The benefits of Participatory Design are
+that it can provide better project control, better communication, more satisfied users
+and participants, lessens the need for a costly corrective action post implementation,
+and can provide more innovative and creative solutions than might have otherwise
+been possible (Cherry & Macredie, 1999; Kensing & Blomberg, 1998). To support the
+design, development and evaluation of the game, it was decided to establish a steering
+committee comprising senior representatives from industry and commerce, a number
+of academic representatives, the project managers and the developers of the game. By
+drawing upon the expertise and views of senior managers from industry and commerce,
+it is hoped that the game will have a greater degree of relevance and significance
+to a wider audience other than students in higher education. In addition, it is hoped
+that the SDSim game will utilise and develop a wider range of skills and knowledge that
+might be transferable across a wider section of industry and commerce.We nowdiscuss
+the high-level objectives of the game, the game play and then provide an outline design
+of the game itself.
+High-level objectives
+The games-based learning environment should provide a rich learning experience
+through the creation of a range of project scenarios that will:
+• promote an engineering ethos that emphasises fitness for purpose as the guiding
+principle in the design, development and assessment of information systems and their
+components;
+• enable the learner to take a disciplined approach to requirements collection and
+analysis, and to the high-level specification, design and implementation of information
+systems and their components;
+• enable the learner to handle complexity, vagueness and ambiguity during the project;
+• enable the learner to develop a range of project-management skills;
+• assist the learner in developing analytical and problem-solving skills and transferable
+skills;
+• assist the learner in developing the skills required for both autonomous practice and
+team working;
+• assist the learner in developing reflection and metacognitive strategies.
+422 British Journal of Educational Technology Vol 38 No 3 2007
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+In a discussion with the advisory group, the following requirements were identified:
+• The game will be targeted at both university students in a computing-related subject
+and also the professional training market.
+• The gamemust support a number of players carrying out different roles (for example,
+analyst, developer, project manager) as well as a facilitator. Communication between
+players should be supported.
+• The facilitator will be able to see what the players are doing, will be able to intervene
+in the game (for example, to modify the frequency of new projects, to modify the
+number of people assigned to a project) and will be able to call team meetings to
+discuss issues that have arisen in the team’s play.
+• Ideally, in a team-based activity, when a player is not available, the game (AI) should
+play that role.
+• The game must be scenario based to allow the players access to a range of project
+scenarios to provide practical experience.
+• The game must have a reasonably authentic underlying business model to model
+clients, projects, staff, suppliers and competitors. The model should take cognisance of
+a range of project variables such as project budget, time, staff, staff specialisations,
+staff costs and resource costs. These variables would be scenario specific.
+• The game should run in an online environment.
+• Gameplay should be recorded wherever possible to support debriefing, postgame
+analysis and evaluation.
+Gameplay
+The basic idea of the game is for the team (comprising one or more players) to manage
+and deliver a number of software development projects. Each player has a specific role,
+such as project manager, systems analyst, systems designer or team leader. A bank of
+scenarios have been created based on case studies the authors have been using for many
+years in teaching and learning; for example, the DreamHome Estate Agency (Connolly &
+Begg, 2005), the StayHome Online DVD Rentals company and the Perfect Pets Veterinary
+Clinic (Connolly & Begg, 2002), the Blackwood Library and the FairWinds Marina (Connolly
+et al, 2004). Each scenario has an underlying business model; for example, there
+will be a budget for the delivery of the project, a set timescale for the delivery of the
+project and a set of resources (for example, staff with specified technical specilisations)
+that can be used on the project. Additional resources can be brought in for a project,
+although this will have a cost and timescale (delay) associated with it. The project
+manager has the overall responsibility for the delivery of each project on budget and on
+time and is given a short brief for each project. Communication is one of the key aspects
+of the game, and the project managermust communicate relevant details of the project
+to the other players. This will be done using a message metaphor—any player can
+communicate with any other player(s) by sending a message. Players have a message
+board that indicates whether there are any unread messages or not.
+The player(s) assigned to the system analyst role has to identify the requirements for the
+project. To do this, the player must move through the game and ‘talk’ to the nonplayer
+characters (NPCs) in the game. In addition, there are objects in the game that can also
+Games-based learning within software engineering 423
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+convey relevant information when found (for example, a filing cabinet may convey
+requirements). For the prototype game,we are using written transcripts in place of NPC
+speech.We hope shortly to use lip synching within the game to have the NPCs ‘talk’ to
+the system analyst. Each NPC’s ‘speech’ will contain some general background details
+and a number of requirements (the analyst has to distinguish the requirements from
+the general details). Visiting the same NPC may generate the same speech or a new
+speech. Each speech will generate a transcript that the analyst can visit at any point in
+the game. The transcript is presented as a numbered list of requirements. During the
+play, the analyst can use the transcripts to produce an initial ‘wishlist’ of requirements,
+which can be refined until such time as the analyst believes all requirements have been
+identified, at which point the analyst can send the completed requirements to the
+project manager. The project manager now has two choices: send the requirements to
+the designer to produce an outline high-level design or consider the requirements to be
+incorrect and ask the analyst to rework the requirements (asking for rework will have a
+‘cost’ associated with it).
+During this period, the designer will be provided with some background information
+relevant to the design phase (for example, high-level components that the company
+might have developed previously, technical experience of the staff, technical resources
+the designer has access to, and software and hardware that can be bought externally).
+Upon receiving the requirements, the designer must produce a high-level design that
+addresses the clients’ requirements and must identify what will be developed ‘in-house’
+and what software/hardware will be bought in. In addition, the designer must provide
+some estimate of cost and timescale to implement the system. Again, the design will go
+back to the project manager to accept or reject (in which case the design must be
+reworked by the designer at ‘cost’).
+The implementation phase is handled by the team leader who is given a brief by the
+project manager (high-level design, available budget, available staff). The team leader is
+responsible for the delivery of the implementation phase. However, during this period,
+the team leader may have to handle a number of planned events (such as staff holidays)
+and unexpected events (such as staff becoming ill, staff leaving and some activities
+taking longer than planned). Some events the team leader may be able to handle
+autonomously within the remit provided; however, with others, the team leader may
+need to consult the project manager to seek a solution.
+The facilitator will have access to the gameplay and will be able to intervene during the
+play. One intervention is to call a (physical or virtual) team meeting because of problems
+identified with the running of the project. There are a number of other interventions
+such as changing the requirements during the design or implementation phase,
+reducing the number of staff available for the project, making staff go off sick and
+making staff leave the company.
+Game design
+The game is based on the traditional multi-client/single-server architecture. The subsystem
+design is shown in Figure 1:
+424 British Journal of Educational Technology Vol 38 No 3 2007
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+• The Scenario Builder is an offline utility to allow us to create and update the game
+scenarios. These scenarios are stored in the server-side database.
+• The Postgame Analysis is a second offline utility to allow us to provide data to the
+facilitator on how the team has performed. The utility will also provide us with data
+to evaluate the impact of the game and to eventually produce longitudinal analyses.
+• The Game Server consists of four main subsystems:
+• The Comms subsystem, which allows players to communicate with each other;
+• The Visualisation/User Interface, which handles what the players see on the screen
+and what they can do.
+• The Business Model, which implements both the general business rules and the
+business rules specific to each scenario. This will be loosely based on the SESAM
+model (Mandl-Striegnitz, 2001).
+• The Game AI, which implements ‘missing players’. At the time of writing, this
+subsystem has not been fully designed.
+The input to date from the advisory group has been extremely useful and has
+helped shape the design of the game. We are currently implementing a prototype of
+the game, and an early version of the full system is due for completion in early 2007.
+Conclusions
+In this paper, we have examined previous approaches to the application of gamesbased
+learning to software engineering and have found a significant dearth of empirical
+research to support this approach. Software engineering has been described as a
+‘wicked problem’ characterised by incomplete, contradictory, and changing requirements
+and solutions that are often difficult to recognise as such because of complex
+interdependencies. Other issues that complicate the teaching of software engineering
+are that software development is non-linear, it involves several intermediate steps and
+choices between multiple, viable alternatives, it may exhibit dramatic effects with
+nonobvious causes and it involves multiple stakeholders. Finally, we have described
+Game Server
+Scenario
+builder
+Scenario
+Game AI
+Visualisation/
+user interface
+Comms
+subsystem
+Business
+model
+Postgame
+analysis
+Players
+SDSim developers Facilitator
+Figure 1: Internal subsystems of the SDSim game
+Games-based learning within software engineering 425
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+the design of a new games-based learning application aimed at the teaching of
+requirements collection and analysis, design and project management aimed at both
+the academic and training markets. We consider evaluation to be key to the entire
+development process and have adopted a Participatory Design approach from the
+outset. In the design of the game, we have included a Postgame Analysis utility to
+support the collection of empirical evidence on the use of this game.
+References
+Armarego, J. (2002). Advanced software design: a case in problem-based learning. In Proceedings
+of the 15th Conference on Software Engineering Education and Training, February 25–27, 2002
+(pp. 44–54). Covington, KY.
+Bayliss, J. D. & Strout, S. (2006). Games as a flavour of ‘CS1’. In Proceedings of the 37th SIGCSE
+Technical Symposium on Computer Science Education SIGCSE 06. ACM Press, NY (pp. 500–
+504).
+Birkhölzer, T., Oh Navarro, E. & Van der Hoek, A. (2005). Teaching by modeling instead of by
+models. In Proceedings of the 6th International Workshop on Software Process Simulation and
+Modeling, St. Louis, MO, May 2005.
+Chamillard, A. T. (2006). Introductory game creation: no programming required. In Proceedings
+of the 37th SIGCSE Technical Symposium on Computer Science Education SIGCSE 06.
+Cherry, C. & Macredie, R. D. (1999). The importance of context within information system
+design: an assessment of participative design. Requirements Engineering, 4, 103–114.
+Chua, A.Y. K. (2005). The design and implementation of a simulation game for teaching knowledgemanagement.
+Journal of the American Society for Information Science and Technology, 56, 11,
+1207–1216.
+Connolly, T. M. & Begg, C. E. (2002). Database solutions: a step-by-step approach to building databases
+(2nd ed.). Harlow, UK: Addison Wesley Longman.
+Connolly, T. M. & Begg, C. E. (2005). Database systems: a practical approach to design, implementation,
+and management (4th ed.). Harlow, UK: Addison Wesley Longman.
+Connolly, T. M. & Begg, C. E. (2006). A constructivist-based approach to teaching database
+analysis and design. Journal of Information Systems Education, 17, 1, 43–54.
+Connolly, T. M. & Stansfield, M. H. (in press). From eLearning to games-based eLearning: using
+interactive technologies in teaching an IS course. International Journal of Information Technology
+and Management.
+Connolly, T. M., McLellan, E., Stansfield, M. H., Ramsay J. & Sutherland J. (2004). Applying
+computer games concepts to teaching database analysis and design. In Q. Mehdi & N. Gough
+(Eds), International Conference on Computer Games, AI, Design and Education, Reading, UK, 8–10
+November.
+Dantas, A. R., Barros, M. O. &Werner, C. (2004). A simulation-based game for project management
+experiential learning. In F. Maurer & G. Ruhe (Eds), Sixteenth International Conference on
+Software Engineering and Knowledge Engineering (SEKE04), Alberta, Canada, June 2004 (pp.
+19–24).
+Dantas, A. R., Barros, M. O. & Werner, C. (2005). Simulation models applied to game-based
+training for software project managers. In Process Simulation and ModelingWorkshop (ProSim),
+St. Louis, USA, May 2005 (pp. 110–116).
+DeGrace, P. & Hulet Stahl, L. (1998). Wicked problems, righteous solutions: a catalog of modern.
+engineering paradigms. Upper Saddle River, NJ: Prentice Hall.
+Drappa, A. & Ludewig, J. (2000). Simulation in software engineering training. In Proceedings of
+the 22nd international conference on software engineering (pp. 199–208). Limerick, Ireland: ACM
+Press.
+Ford, C. W. & Minsker, S. (2003). TREEZ—an educational data structures game. Journal of Computing
+Sciences in Colleges, 18, 6.
+426 British Journal of Educational Technology Vol 38 No 3 2007
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+Forman, E. & McPhail, J. (1993). Vygotskian perspectives on children’s collaborative problemsolving
+activities. In E. A. Forman, N. Minick & C. Addison Stone (Eds), Contexts for learning.
+Sociocultural dynamics in children’s development. Oxford: Oxford University Press.
+Hamey, L. G. C. (2003). Teaching secure communication protocols using a game representation.
+In Proceedings of the Fifth Australasian Conference on Computing Education.
+Illeris, K. (2003). Towards a contemporary and comprehensive theory of learning. International
+Journal of Lifelong Learning, 22, 4, 396–406.
+Kensing, F. & Blomberg, J. (1998). Participatory design: issues and concerns. Computer Supported
+CooperativeWork, 7, 167–185.
+Koehler, M. J. & Mishra, P. (2005). Teachers learning technology by design. Journal of Computing
+in Teacher Education, 21, Spring, 3.
+Kriz,W. C. (2003). Creating effective learning environments and learning organizations through
+gaming simulation design. Simulation and Gaming, 34, 4, 495–511.
+Lave, J. (1991). Situating learning in communities of practice. Washington, DC: American Psychological
+Association.
+Lave, J. & Wenger, E. (1991). Situated learning: legitimate peripheral participation. Cambridge:
+Cambridge University Press.
+Leemkuil, H. & de Hoog, R. (2005). Is support really necessary within educational games? In
+C. Conati & S. Ramachandran (Eds), Workshop on educational games as intelligent learning environments,
+12th International Conference on Artificial Intelligence in Education (AIDE 05)
+(pp. 21–31), 18–22 July 2005, Amsterdam, Netherlands.
+Leemkuil, H., de Jong, T., deHoog, R. & Christoph,N. (2003).KMQUEST: a collaborative Internetbased
+simulation game. Simulation and Gaming, 34, 1, 89–111.
+Mandl-Striegnitz, P. (2001). How to successfully use software project simulation for educating
+software project managers. In Proceedings of the 31st Frontiers in Education Conference, Nevada,
+USA.
+Martin, A. (2000). The design and evolution of a simulation/game for teaching information
+systems development. Simulation and Gaming, 31, December, 4.
+Oh, E. (2001). Teaching software engineering through simulation. In Proceedings of the 2001
+Workshop on Education and Training (WET), Santa Barbara, CA, July 2001.
+Oh, E. & Van der Hoek, A. (2001a). Challenges in using an economic cost model for software
+engineering simulation. In Proceedings of the 3rd International Workshop on Economics-Driven
+Software Engineering Research, Toronto, Canada, May 2001 (Reprinted in Projects&Profits, 4, 8,
+43–50).
+Oh, E. & Van der Hoek, A. (2001b). Adapting game technology to support individual and organizational
+learning. In Proceedings of the 13th International Conference on Software Engineering
+and Knowledge Engineering, Buenos Aires, Argentina, June 2001.
+Oh Navarro, E. & Van der Hoek, A. (2004). SimSE: an interactive simulation game for software
+engineering education. In Proceedings of the 7th IASTED International Conference on Computers
+and Advanced Technology in Education, Kauai, Hawaii, August 2004.
+OhNavarro, E.&Van der Hoek, A. (2005a). Software process modeling for an educational software
+engineering simulation game. Software Process Improvement and Practice, 10, 3, 311–325.
+Oh Navarro, E. & Van der Hoek, A. (2005b). Design and evaluation of an educational software
+process simulation environment and associated model. In Proceedings of the Eighteenth Conference
+on Software Engineering Education and Training, Ottawa, Canada, April 2005.
+Oh Navarro, E., Baker, A. & Van der Hoek, A. (2003). Teaching software engineering using
+simulation games. In Proceedings of the 2004 International Conference on Simulation in Education,
+San Diego, CA, January 2003.
+Piaget, J. (1968). Six psychological studies. New York: Vintage Books.
+Schön, D. A. (1983). The reflective practitioner: how professionals think in action. New York: Basic
+Books.
+Schön, D. A. (1987). Educating the reflective practitioner: towards a new design for teaching in the
+professions. San Francisco: Jossey-Bass Inc.
+Games-based learning within software engineering 427
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.
+Shaffer, D.W. (2004a). Pedagogical praxis: the professions as models for postindustrial education.
+The Teachers College Record, 106, 7, 1401–1421.
+Shaffer, D.W. (2004b). Epistemic frames and islands of expertise: learning from infusion experiences.
+In Proceedings International Conference of the Learning Sciences, Santa Monica, CA.
+Retrieved July 28, 2005, from http://www.education.wisc.edu/edpsych/facstaff/dws/papers/
+epistemicframesicls04.pdf
+Shaffer, D. W. & Resnick, M. (1999). Thick authenticity: new media and authentic learning.
+Journal of Interactive Learning Research, 10, 2, 195–215.
+Sharp, H. & Hall, P. (2000). An interactive multimedia software house simulation for postgraduate
+software engineers. In Proceedings of the 22nd international conference on software engineering,
+Limerick, Ireland.
+Shaw, K. & Dermoudy, J. (2005). Engendering an empathy for software engineering. In Proceedings
+of the 7th Australasian Conference on Computing Education—Volume 42 ACE 05.
+Sweedyk, E., deLaet, M., Slattery, M. C. & Kuffner, J. (2005). Computer games and CS education:
+why and how. In Proceedings of the 36th SIGCSE Technical Symposium on Computer Science
+Education SIGCSE 05.
+Veronese, G., Barros, M. & Werner, C. (2005). Model support for simulation-based training
+games: from behavioral modeling to user interactions. In J. Munch & D. Pfahl (Eds), Software
+Process Simulation and ModelingWorkshop (ProSim), St Louis, USA, May 2005 (pp. 9–15).
+Wang, A. (2005). Web-based interactive courseware for information security. In Proceedings of
+the 6th Conference on Information Technology Education SIGITE 05.
+Waraich, A. (2004). Using narrative as a motivating device to teach binary arithmetic and logic
+gates. In Proceedings of the 9th annual SIGCSE conference on innovation and technology in computer
+science education ITiCSE 04 Vol. 36 (p. 3).
+428 British Journal of Educational Technology Vol 38 No 3 2007
+© 2007 The Authors. Journal compilation © 2007 British Educational Communications and Technology Agency.

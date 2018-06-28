@@ -1,0 +1,101 @@
+Nintendo DSi & Nintendo DSi XL - Power and Battery Problems
+
+Please use the information below for problems with the Nintendo DSi or Nintendo DSi XL system's power or battery.
+
+
+- System won't turn on
+- Can't turn the power off 
+- Power shuts off during play
+- Recharge indicator light blinks 
+- Charge doesn't last very long
+- All other power or battery problem
+
+Related Topic: Battery FAQ
+
+
+--------------------------------------------------------------------------------
+
+ 
+System won't turn on
+If you are not able to turn the system on, please review the following: 
+
+- The power button was designed to be somewhat difficult to press down to help prevent accidentally shutting the system off during use. Make sure you are pressing down with enough pressure.
+- It's possible the rechargeable battery has been depleted. Try using the Nintendo DSi while the AC Adapter is plugged into the system and a working outlet (how to). 
+If you are not able to power on the system after plugging it into the AC Adapter, then it appears the system may need to be repaired. Please click here for repair information.
+ 
+
+ 
+Power shuts off during use 
+What color is the power light when the system shuts off? 
+
+Red: If the power light is red, or flashing red, when the system turns off, then the system's battery needs to be charged. Click here for instructions on charging. If the charge doesn't last as long as it used to, click here for assistance.
+
+Blue: If the power light is blue when the system turns off, then there appears to be a problem with the system and it will need to be repaired. Click here for repair options. 
+
+ 
+Recharge indicator light blinks
+If the orange recharge indicator light blinks while the system is plugged in and charging, then it is likely that the battery is not installed properly. Click here for instructions on how to properly insert a battery. 
+
+If you have ensured that the battery is installed properly but the orange light still blinks, check to make sure that the battery is a licensed by Nintendo. The only licensed Nintendo DSi battery will have the model number "TWL-003" (Nintendo DSi) or "UTL-003" (Nintendo DSi XL) and will display Nintendo's logo. 
+
+- If the battery does not have the model number TWL-003 or UTL-003 then it is likely not a licensed battery. 
+Purchase a licensed replacement: 
+- Nintendo DSi: battery model no. TWL-003 (purchase a replacement)
+- Nintendo DSi XL: battery model no. UTL-003 (purchase a replacement)
+- If you determined that the battery is a licensed version, please call 1-800-255-3700 so that we may assist you further.
+
+ 
+Charge doesn't last very long
+So that we may provide you with the best troubleshooting and/or repair options, please use the links below that best describe the situation you are experiencing: 
+
+Did the battery lose its ability to remained charged gradually or quickly? 
+- Gradually (over months)
+- Quickly (days or weeks)
+ 
+Gradually:
+The Nintendo DSi and Nintendo DSi XL rechargeable battery's capacity will decrease over time and with use. If you have been using and charging your system extensively, you may want to consider purchasing a replacement battery. (Battery life can be expected to drop after about 500 charges.) Licensed batteries are not sold at retail stores and are available only through Nintendo. Purchase a replacement: Nintendo DSi: battery model no. TWL-003 (purchase a replacement)Nintendo DSi XL: battery model no. UTL-003 (purchase a replacement)
+ 
+Quickly:
+Was your system exposed to liquids (such as a spill or left out in the rain)? YesNo
+ 
+System was exposed to liquids If liquid of any kind has been spilled in the system, remove the battery cover and battery and allow the system to dry. If a significant amount of liquid touched the battery, it must be replaced. If allowing the system to dry and replacing the battery do not solve the problem, your system will need to be repaired. 
+Please click here for repair information.
+
+ 
+Have you recently replaced the battery?
+YesNo
+ 
+Battery recently replaced Was the system having the same charging problem before the battery was replaced? YesNo
+ 
+If you are experiencing the same charging problem with one or more licensed batteries, then the problem is likely with the system itself, and it will need to be repaired. Please click here for repair options.
+
+ 
+Is the replacement battery made by Nintendo?
+The only way to get a licensed replacement battery for a Nintendo DSi or Nintendo DSi XL is to order one from Nintendo's Online Store, or from our Consumer information. If you purchased the replacement by any other means (such as a retail store) it is likely not made by Nintendo. 
+You may also open up the battery compartment and check the battery's label. The licensed Nintendo battery will have the Nintendo logo and contain the model #: "TWL-003" for Nintendo DSi or "UTL-003" for Nintendo DSi XL.
+
+The battery is made by Nintendo
+If the replacement battery is a licensed Nintendo DSi or Nintendo DSi XL battery (model no. TWL-003 or UTL-003), and is not holding its charge, then the battery will need to be replaced. Purchase a licensed replacement: Nintendo DSi: battery model no. TWL-003 (purchase a replacement)Nintendo DSi XL: battery model no. UTL-003 (purchase a replacement)
+
+The battery is not made by Nintendo
+If the replacement battery does not have the model numbers TWL 003, UTL-003, nor the Nintendo logo on it, it is likely a unlicensed battery. Nintendo only recommends the use of the licensed products with its systems (learn more by clicking here). We suggest replacing the unlicensed battery with an official licensed Nintendo DSi or Nintendo DSi XL rechargeable battery. The licensed battery is only available through Nintendo, and is not sold at retail stores. 
+Nintendo DSi: battery model no. TWL-003 (purchase a replacement)Nintendo DSi XL: battery model no. UTL-003 (purchase a replacement)
+
+ 
+At this time we cannot determine the cause of the problem you are experiencing. However, because your system is not working, we recommend that your your system be repaired. Please click here for repair information.
+
+
+ 
+Can't turn the system off
+Hold the power button for at least four (4) seconds. If the power still won't turn off, try removing, then replacing the battery (how to). 
+
+If problem persists, then your system will need to be repaired. Please click here for repair options. 
+ 
+
+ 
+All other power problems
+If the power problem you are experiencing is not described above, please try the following: 
+
+- Check our "system" troubleshooting to see if it might be listed there.
+If the information on this page or in our system troubleshooting does not resolve your issue and you feel the system may need to be repaired, please call 1-800-255-3700 so that we may assist you further. 
+

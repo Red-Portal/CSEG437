@@ -1,0 +1,166 @@
+Migration and Execution of JavaScript
+Applications between Mobile Devices and Cloud
+Xudong Wang Xuanzhe Liu Ying Zhang Gang Huang
+Key Laboratory of High Confidence Software Technologies (Peking University), Ministry of Education
+fwangxd10, liuxzh, huanggang, zhangying06g@sei.pku.edu.cn
+Abstract
+Currently, mobile devices might suffer from their own limited
+resources to support complex Web applications. We
+present a framework that can offload JavaScript applications
+to cloud. Based on dynamic analysis and profiling, our approach
+partitions the computation-intensive tasks for remote
+execution and efficiently improves performance.
+Categories and Subject Descriptors D 2.7 [Distribution,
+Maintenance, and Enhancement]: Restructuring,reverse engineering
+and reengineering
+Keywords Cloud computing, JavaScript, offloading
+1. Introduction
+Currently, the JavaScript language is capable of realizing
+complex computation logics in advanced applications.
+Meanwhile, with the advance of mobile computing, the mobile
+Web applications become very popular on various devices,
+including laptops, smartphones, and tablet computers.
+Since Web applications become more complicated, they recruit
+increasing amounts of computation, storage and communications
+from constrained supply on mobile devices.
+To alleviate the performance overhead on mobile devices,
+it is a natural idea to migrate the computation intensive
+and consuming code fragments from “weak” devices
+to powerful server with plentiful resources[3]. For example,
+recently popular Amazon Silk Browser leverages
+the cloud resources to improve end-user experiences on
+the mobile devices. However, compared with most popular
+Object-Oriented programming language like C++ and
+Java, JavaScript stakes a rather extreme position in the spectrum
+of dynamic features[1]. Everything might be modified,
+including the fields and methods of an object or its parents.
+Copyright is held by the author/owner(s).
+SPLASH’12, October 19–26, 2012, Tucson, Arizona, USA.
+ACM 978-1-4503-1563-0/12/10.
+This is a challenge for existing static analysis techniques.
+This paper proposes a JavaScript offloading framework,
+called ExtremeJS (EXtensive TRansformation and Elastic
+Migration and Execution of JavaScript) for seamlessly use
+of ambient computation to augment JavaScript Web applications
+on mobile devices, making them fast and resource
+efficient.
+2. Contributions
+The contributions of our work can be summarized as follows:
+ We present a framework for enabling the elastic migration
+and execution of JavaScript Web applications between
+mobile devices and cloud, without any modification
+of original applications.
+ We provide a partitioner for automatically identifying
+costs of computation intensive and time consuming portion
+in the application, through static and dynamic code
+analysis.
+ We experimentally validate our approach by exercising
+a prototype implementation of ExtremeJS framework
+based on series of experiments. The evaluation results
+show that ExetremJS can adapt JavaScript based application
+partitioning to different computing and communication
+environments, and can help some applications
+achieve as much as almost 10x execution speedup on the
+mobile device.
+3. Approach
+One design principle of ExtremeJS lies in the intuition that,
+as long as execution on the cloud is much faster (and more
+secure and more reliable) than that on mobile devices, paying
+the cost for sending the relevant data and code from the
+mobile device and back may be worth it. ExtremeJS performs
+partitioning at first class function level to keep flexibility
+on what to run where. Another design principle of
+ExtremeJS is that, when an application is loaded, ExtremeJS
+aims at automatically extracting the computation intensive
+83
+Figure 1. The ExtremeJS Framework
+and resource consuming parts of the JavaScript code as well
+as the corresponding runtime contexts. By defining some
+partition constraints, the behavior of JavaScript code is preserved
+in the presence of first-class functions, prototypebased
+scope chains, et al. It promises the migration of codes
+and contexts can be consistent and safe.
+In ExtremeJS, when the modified JavaScript application
+is running, the automatically chosen code fragments are migrated
+from the mobile device to a cloned context on a cloud,
+remaining the functionality of the un-migrated code on mobile
+devices. The application would suspend if it attempts to
+access the migrated state and objects that are dynamically
+modified. The migrated codes are executed in the cloned
+contexts on a cloud, possibly utilizing the features of hosting
+platform such as CPU, memory, hardware accelerators,
+enhanced software runtime, etc. Eventually, the execution
+results are returned to the client and merged with the original
+application context on mobile device. An optimizer is
+employed to optimize migration code fragment according
+to expected execution conditions. The whole architecture of
+ExtremeJS prototype is shown in Figure 1. For page limited,
+we briefly describe the main three components.
+Profiling: To identify the computation-intensive and resourceconsuming
+functions, we leverage a profiler to construct the
+cost model under execution settings. The profiler generates
+a set of executions, and for each execution a profile tree.
+With a tree-based analysis, a configuration file is generated
+to record the functions whose execution time cost exceeds
+the given time threshold.
+Code Analysis: We then decide which functions can be
+migrated, from the profiling results. Since JavaScript is a
+dynamic language, we apply pointer analysis[2] to elaborate
+the functions that might rely on browser-specific native
+APIs and objects, or violate timer constraints. Nested migration
+and eval are forbidden in current prototype. Code
+analysis also extracts the context variables for the functions
+to be migrated.
+Migrator: The migrator is responsible to send the migrated
+codes to cloud and synchronizes the application contexts. It
+rewrites the migrated codes on device, by pointing to another
+instance without modification of original running one.
+We employ a mapping table to assist bi-directional synchronization
+of functions and corresponding contexts.
+4. Current Implementation and Evaluation
+We have a prototype implementation of our framework1. The
+framework is totally written in standard JavaScript language,
+whereby it can be simply loaded into most currently popular
+mobile Web browsers (including Safari, FireFox and
+Chrome). The cloud-side JavaScript engine employs Google
+Chrome V8.We take the Nginx2 HTTP server as a proxy for
+the network connections.
+We have also made series of experiments for evaluation.
+The test suites include two Mozilla JavaScript performance
+benchmarks3: Dromaeo and V8, and a typical computationintensive
+application (the Gobang game), all of which are
+conducted over several combinations of various mobile devices
+platforms including Android smartphones/tablets and
+Apple iPhone/iPad4. The experimental analysis shows that
+our framework can achieve up to about 10x speedup on average,
+which efficiently improves the performance for mobile
+applications.
+Acknowledgments
+This work is supported by the National Natural Science
+Foundation of China under Grant No. 61003010, the High-
+Tech Research and Development Program of China (Grant
+No. 2012AA010107) and the NCET.
+References
+[1] A. Feldthaus, T. D. Millstein, A. Møller, M. Sch¨afer, and F. Tip.
+Tool-supported refactoring for javascript. In C. V. Lopes and
+K. Fisher, editors, Proceedings of the 26th Annual ACM SIGPLAN
+Conference on Object-Oriented Programming, Systems,
+Languages, and Applications, OOPSLA 2011, part of SPLASH
+2011, pages 119–138, Portland, OR, USA, 2011. ACM.
+[2] G. Richards, A. Gal, B. Eich, and J. Vitek. Automated construction
+of javascript benchmarks. In Proceedings of the 26th Annual
+ACM SIGPLAN Conference on Object-Oriented Programming,
+Systems, Languages, and Applications, OOPSLA 2011,
+part of SPLASH 2011, pages 677–694, Portland, OR, USA,
+2011. ACM.
+[3] E. Tilevich and Y. Smaragdakis. J-orchestra: Automatic java
+application partitioning. In B. Magnusson, editor, Proceedings
+of 16th European Conference on Object-Oriented Programming(
+ECOOP 2002), volume 2374 of Lecture Notes in Computer
+Science, pages 178–204. Springer, 2002.
+1 Available download at https://github.com/wangxd18/extremejs
+2 http://nginx.org
+3 http://www.dromaeo.com
+4 The experiment data analysis report can be found at
+https://github.com/wangxd18/extremejs
+84

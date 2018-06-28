@@ -1,0 +1,66 @@
+﻿Clear as a Bell One Day, Fuzzy and Garbled the Next
+
+
+MIKE WALLACE has mixed feelings about Skype.
+
+When he uses the service’s Internet-connected phone to contact friends and colleagues in Europe, he can usually hear them perfectly clearly. But Asia is another matter. 
+
+“When I call China, it’s not nearly as good,” said Mr. Wallace, a 38-year-old environmental consultant. “There’s lots of crackling and a bad connection and an echo and significant delays.”
+
+Mr. Wallace takes the quality in stride because he pays far less — pennies per minute and sometimes nothing — than he would with a traditional long-distance carrier. Skype, which is owned by eBay, also enables him to set up conference calls, send documents and messages and dial from his laptop while traveling.
+
+“About 75 percent of the time, it is spot on,” said Mr. Wallace, who lives in San Francisco and works with nonprofit groups. And the other 25 percent? “For what you are getting, it’s not a hassle” to redial.
+
+Like many new technologies, Internet phone services, or VoIP, for voice-over Internet protocol, are a work in progress and come with trade-offs. While cheaper and more adaptable than regular phone service, Internet calls, which chop calls into packets of data that are reassembled at their destination to form audible conversations, can be clear as a bell one moment and unintelligible the next. In essence, they are at the mercy of vast and often fickle global networks over which they travel.
+
+Early adopters have not been shy about voicing their concerns about call quality on dozens of Web sites, including www.voip-forum.com. 
+
+Unfortunately for frustrated customers, there are many reasons Internet calls can sound poor, and it is not easy to predict when trouble is afoot. Internet phone service providers have a hard time putting foolproof fixes in place. 
+
+Providers that do not control the network over which calls travel cannot guarantee quality. The wide variety of handsets and software incompatibilities can also affect calls.
+
+By contrast, Verizon, AT& T and other carriers that operate conventional circuit-switched public networks provide reliable service with passable voice quality.
+
+“The problems inherent in networks make it a tough act for Internet phones to follow public switched phones,” said Davy Brown, chief technology officer at Trinity Convergence, a software maker for Internet phones. “Rather than sounding better, it sounds cheaper, which it is. We’re going through a transition from circuit switch to packet switch, and there are growing pains.”
+
+Those pains can be significant. 
+
+Take an entry quoted at the blog chris.pirillo.com, a site run by a technology consultant who often comments on Internet phone service. The writer thought the poor call quality was just “network congestion.” His calls to Vonage did not seem to fix the problem. “It’s not a good sign when the cell call sounds better!” the blogger, Tris Hussey, wrote.
+
+Statistics appear to support the complaints.
+
+A recent study by Brix Networks, which designs systems that monitor Internet phone service, found that consumers rated about 20 percent of Internet calls as “unacceptable” in quality. Call quality has declined during the past 18 months as Internet traffic has surged and voice packets have had a harder time battling for space with video, music and other data that travel over the same networks, the study found.
+
+“The trend over all is going down,” said Kaynam Hedayat, chief technology officer at Brix, which maintains a Web site, TestYourVoIP.com. “Voice calls are competing more and more with other data, like video and large attachments. There is more bandwidth, but more usage as well.”
+
+The decline in Internet phone quality comes as the number of people going online to call is surging. At the end of the second quarter of 2006, some 2.9 million households, or 4.1 percent of homes with broadband or dial-up connections, subscribed to an Internet phone plan, according to Telephia, a market research firm. 
+
+More than half of these subscribers use Vonage, the country’s largest Internet phone provider. The survey, however, does not include the several million customers who buy service from cable providers, which market their products as “digital telephone.”
+
+Regardless of the provider, network congestion can cause packets of voice data to arrive late, out of order or not at all. When the packets are delayed, calls can develop echoes or take on a tinny quality. This problem can be overcome if the people on the call do not speak over each other. 
+
+Sometimes, though, packets are lost, which causes syllables, words or sentences to disappear and voices to sound garbled, as if the talkers are speaking in a fish tank. This can sometimes be corrected with software that fills in the missing words. 
+
+Then there is “jitter,” when network congestion causes packets to arrive out of order, have uneven gaps between them or get lost. Voices sound choppy or trail off. Some companies use “adaptive jitter buffers,” which compensate for these problems, but such remedies can sometimes worsen the delays.
+
+“There’s no free lunch here,” said Louis Mamakos, chief technology officer at Vonage. 
+
+Even if Internet phone packets arrive at their destination without problems, voice quality can be degraded by poor headsets or cordless phones. The codec, which is software that compresses and decompresses conversations on either end of a call, is another crucial component. Short for “COder-DECoder,” codecs vary partly based on the amount of bandwidth they require.
+
+Most residential broadband lines have enough capacity to handle more advanced codecs, though call quality might be affected if family members were streaming, say, videos over the same broadband connection.
+
+Another factor affecting voice quality is the use of different, sometimes incompatible, codecs. Internet calls between people using the same provider often sound better than ordinary phone calls. Conversely, trouble can arise when an Internet phone user calls someone using an ordinary phone, which uses a different codec.
+
+Quality can dip further when calling overseas. Some delay is created when calls travel through undersea cables. Calls can also degrade when calling developing countries, where systems are less sophisticated. 
+
+These hurdles are a far cry from the phone service that most Americans take for granted. Decades ago, AT& T, then the primary provider, decided to build phone networks that would provide reliable service with adequate audio quality. To reach most homes while keeping costs down, the company decided to transmit the midrange of most peoples’ voices, or what it called “toll quality voice.”
+
+As a result, these calls do not do justice to high-pitched voices or to music. 
+
+“It’s not rocket science,” said Andrew Odlyzko, the director of the Digital Technology Center at the University of Minnesota, and a former researcher at Bell Labs. “It’s about money and trade-offs.”
+
+Today’s Internet phone service means other trade-offs: savings and flexibility for reduced reliability and erratic audio quality. But consumers are living with the fickleness.
+
+Ellen Stoloff, who works at a software company in New York, said she was frustrated with her Internet phone line from Lingo because many calls failed to connect, and the audio was often muffled or crackling. She switched to Vonage and has had dependable service ever since.
+
+“When it worked it worked, and when it didn’t it didn’t,” she said of Lingo. “So I switched to Vonage and never had any problems. When I called my dad, he even asked if I was calling from a normal land line.”

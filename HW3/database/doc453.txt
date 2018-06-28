@@ -1,0 +1,9 @@
+Samsung TecTiles: Programmable Tags Launch Apps When You Tap Your Phone To Them
+
+Samsung is looking to make Near Field Technology (NFC) a little more accessible to everyone today with the announcement of its TecTiles, quarter-sized programmable sticker tags. NFC technology is integrated in newer Android phones, and it allows you to tap a phone to pay or send information.
+Using the NFC technology in certain Samsung phones, including the Galaxy S III and the Galaxy Nexus, users will be able to program the TecTile tags to launch a specific app or send a text message using the TecTiles app. Once they¡¯ve done that they will be able to tap their phone to the tag to do one of those tasks. No need to press any icons or buttons. You can program the tags to do a number of things, including launch a website, show an address on a map, or launch a Facebook status update.
+""With millions of NFC-enabled Samsung Galaxy smartphones currently in the market and the arrival of our flagship device Galaxy S III, Samsung saw an opportunity to expand the value of NFC beyond mobile payments," Dale Sohn, president of Samsung Telecommunications America, said in a statement.
+Currently TecTiles will only work with select Samsung phones. However, Samsung¡¯s Ryan Bidan told ABC News that ¡°there¡¯s nothing proprietary that would prevent it from working with other devices."
+It is likely that Samsung will roll out support for other NFC Android phones.
+TecTiles will be available from all of the major carriers ? AT&T, Verizon, Sprint, and T-Mobile - alongside Samsung's forthcoming Galaxy S III phone.
+A pack of five tiles will cost $14.99. The TecTiles application will be available for free in the Google Play store.

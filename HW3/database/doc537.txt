@@ -1,0 +1,22 @@
+Nintendo Wii U network 'hacked' hours after launch?
+
+
+Nintendo's Wii U network may have been breached just hours after its retail launch in the United States.
+
+Apparently, the network was cracked within hours by a regular user exploring the new network's facilities, according to a NeoGaf gaming forum post by user Trike. 
+
+The forum user claims that when attempting to add friends during setup, they stumbled across the "debug" menu on Miiverse. By hovering over the exit button and pressing "X" on the gamepad, the user came across hidden subforums, was able to view private messages from other users -- including a developer -- and access what appears to be the original Japanese prototype of Miiverse.
+
+
+The user reported:
+
+"At first it asked me to sign in, because my login information didn't match. Then I pressed a button and it sent me to a list of admins anyway. They had buttons in the same row as the names, and I could "regenerate password" or "Delete Admin" or something along those lines. I didn't do it it because I didn't want to risk getting my god damn Wii U banned on day 1."
+
+
+For Wii U fans, the interesting element of the breach is that one message the user was able to view said "there would be big games coming out (announced?) on the 10th of December." Speculation on the thread suggests that two game titles that are starred on the list, "Yoshi's Land Wii U" and "Soul Hackers" -- potentially a successor to Konami's Metal Gear series -- may be related to the developer message.
+
+The Wii U console and network will be launched on November 30 in the United Kingdom.
+
+Approximately two hours after users were made aware of the debug method, Nintendo released a fix -- and Trike reported that "a certain developer that I greatly respect PM'd me saying that I might get into some legal trouble or jailtime with Nintendo for this." 
+
+With Sony's Playstation network hack still fresh in our minds, if the claimed, accidental hack is true, then could be a blow to the new console in an already competitive mobile gaming market. 

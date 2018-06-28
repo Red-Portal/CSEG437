@@ -1,0 +1,57 @@
+
+Intel Joins SKT, NHN for Home Entertainment
+
+Intel Tuesday introduced its new multimedia PC platform Viiv, which converges computers, 
+TVs and the Internet into one digital home entertainment system. 
+The world¡¯s leading computer chip maker held a press conference in Seoul on Monday, 
+and demonstrated the Viiv PCs that will replace the existing Pentium platform. 
+
+Intel also announced partnerships with South Korean firms SK Telecom and NHN. 
+The two firms will provide music, movie and online game contents to the Viiv home entertainment system. 
+
+``People want digital entertainments like movies, music, games on big screen television, 
+and that¡¯s where they belong,¡¯¡¯ said Don MacDonald, vice president and general manager of Intel, 
+in his keynote speech at Grand Hilton Hotel in Seoul. 
+``We believe that¡¯s what we want and that¡¯s what we are trying to deliver.¡¯¡¯ 
+
+The new platform is composed of Intel¡¯s Centrino dual-core processors, 
+chipsets and network controllers. It can perform as a home entertainment hub, 
+which provides games, music, and movies and e-mail service on TV screens using a remote control. 
+
+The Viiv PCs will be made by some 30 PC manufacturers, such as Samsung, LG, TriGem and many others. 
+It will use Microsoft¡¯s Media Center Edition (MCE) as its operating system. 
+
+SK Telecom, the nation¡¯s largest mobile carrier, 
+is providing its on-demand music and music video download service Melon. 
+The company also plans to launch its famous Internet community service Cyworld for Viiv soon. 
+
+South Korea¡¯s leading Internet company NHN also joined the Intel team. 
+NHN will provide its movie and video file streaming service via Naver, 
+the largest Internet portal in South Korea, as well as its Hangame online game portal. 
+
+``Intel is not a service company. We are a chip company, or well, 
+we are a platform company that sells chips and software. That¡¯s how we get paid. 
+But the design of Viiv is intended to allow to user to continue to get more update when they want to,¡¯¡¯ 
+MacDonald told The Korea Times after the conference.
+
+Intel¡¯s plan to use TV as the home entertainment hub has already become an industry fashion recently. 
+Microsoft is pushing its high-end game machine Xbox 360 as the multimedia entertainment unit. 
+IPod manufacturer Apple also has similar features with its iMac PCs.
+
+MacDonald said that the Viiv PCs are distinguished from those market competitors for its simplicity 
+and flexibility open-structure. 
+
+``It¡¯s an open standard so you can use anybody¡¯s product. 
+So if we decide to add a new feature to Viiv platform, we can make that available to users very easily,¡¯¡¯
+MacDonald said. ``Although Apple has similar philosophy, they have a different approach. 
+They prefer to have only Apple devices connected.¡¯¡¯ 
+
+Intel also unveiled its Centrino Duo platform for laptops on the same day. 
+Previously code-named Napa, the Centrino Duo technology uses two mobile processing cores on one chip, 
+therefore providing enhanced 3-D graphics and improved multi-tasking ability. 
+
+The company also insisted that the new laptops using the new technology is 70 percent faster 
+than current models and spend 30 percent less energy, which means more battery life to users.
+
+Intel aims to sell 1 million units worldwide in only three weeks. 
+

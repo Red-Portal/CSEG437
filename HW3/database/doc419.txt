@@ -1,0 +1,7 @@
+Smooth Out Gaming Graphics with Anti-Aliasing
+
+If you play a lot of games and find that jagged edges drive you crazy despite your high resolution, anti-aliasing may help you out. Tech blog Tested has a guide to choosing the right anti-aliasing mode for your graphics card.
+
+Anti-aliasing has been around for a long time, but many newer games don't allow you to adjust its settings, and the horde of settings available to you in GPU-tweaking programs can get confusing for those uninitiated. For starters, if your game doesn't have any anti-aliasing options in its settings, you'll need to turn to ATI's Catalyst Control Panel or NVIDIA's Control Panel (both of which reside in Windows' Control Panel) and tweak the settings outside of the game.
+
+Even when you get there, though, there are many different types of anti-aliasing, and even more if you choose a third-party GPU tweaker. Generally, the easiest way to go is to use your GPU manufacturer's tool and go for the highest level you can while keeping the game playable performance-wise?the higher the number, the smoother your graphics will be. Hit up Tested's post to read more about anti-aliasing and the best route for you?remember, every PC, GPU, and game will respond a bit differently, so do some research before you jump in and start changing settings. You don't want to end up making your gameplay worse!

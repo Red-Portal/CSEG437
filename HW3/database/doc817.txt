@@ -1,0 +1,115 @@
+﻿SECTION 1.INTRODUCTION
+While streaming video was believed to be the content that would occupy the expanded bandwidth of the 3G wireless networks, the fastest-growing applications, as seen in Korea and Japan, have instead been in the arena of mobile network games. Like their Internet counterparts, mobile network games require real-time interactivity, placing a stringent demand of volume timely deliverable data on the current 3G network real-time mechanism [1], [2] Moreover, typical mobile terminals are low-powered light-weight devices with limited computing resources, making them impossible to render millions of triangles per second necessary for highquality graphics [3]. The two reasons combined to result in today mobile online games being limited in group size and interaction, and simplistic in visual quality.
+
+Given it is not foreseeable that either of these two inherent problems would be well solved until a fundamental advance in wireless network technology and a drastic speedup in mobile computing hardware take place. we instead focus on a different group of potential users who can flourish even within existing constraints ? game observers. Like the Internet counterparts such as Half-Life. as games mature highly skilled players acquire fan base who loyally follow and observe their heroes in action en masse in multicast channels. As observers instead of active game participants, the network and hardware requirements to support the observer view are drastically different. First. the hard real-time nature of interactive games can be relaxed to a streaming scenario where an initial buffering delay up to several seconds can be tolerated. Second, if streaming video is delivered instead of graphics, then the burden of rendering triangles can be pushed back to a streaming server which converts graphics into standard-compliant video and then streams the encoded bitstream to interested observers. Using streaming video instead of graphics also has the added advantage of reachability: mobile handsets are much more likely to have a built-in streaming client available and ready to go than a venderspecific game client software.
+
+Given the above observations. we have designed an architecture to support 3G mobile game viewing called COVEM2 (Game Qbserver Video. Encoding and Mobile Network Multicast). The overview of GOVEM2 is shown in Figure 1. Game player acquires permission and registers for an online game via the portal, then participates in the game in a server-client model via the game server. The game server sends updated game events to the player(s) as well as the graphics-to-video encoder. The graphics-to-video encoder. called grencoder, converts updated game events to encoded bitstream then streams to interested observers using mobile multicast support. Among the many pieces in GOVEM2, we choose to focus on the grencoder in this paper.
+
+Figure 1
+Fig. 1. Overview of GOVEM2 Architecture
+View All
+
+1.1. Graphics-to-video Encoder (Grencoder)
+Schematically, the function of a grencoder can be separated into two parts as shown in Figure 2. A graphics rendering engine first renders 3D representation of objects onto a 2D plane in the frame buffer, a process called rasterization [3]. The raw frames in the frame buffer are then inputed to a standard compliant video encoder to be encoded into bitstream. The bitstream is subsequently packetized and sent to the interested observers.
+
+Figure 2
+Fig. 2. Graphics-to-video Encoding
+View All
+
+Having the original 3D models that produce the 2D frames means the graphics rendering engine has scene composition information of the encoding source that are not typically available to a video encoder. In this paper, we exploit one particular type of composition information - depth values - to improve the visual quality of regions of interest (ROI). Depth values of objects are used so that one can discern which object is closer to the camera. and hence which objects are occluded and which are not. If we assume objects closer to camera are also objects of interest, then depth values also reveal regions of interest. In this paper. we propose to use depth values obtained during rasterization to identify regions of interest. then apply clever mode selection strategy to allocate more bits to the regions of interests to improve visual quality.
+
+The outline of the paper is as follows. First, we discuss the framework in which we perform extraction of depth values and mode selection in Section 2. Preliminary results are presented in Section 3. We then briefly discuss related work in Section 4. Finally, we conclude in Section 5.
+
+SECTION 2.GRENCODING FRAMEWORK
+The grencoding framework essentially needs to perform two tasks: i) extract depth values of objects during rasterization, ii) perform mode selection given extracted depth values during video encoding. We discuss them in order.
+
+2.1. Depth Value Extraction
+We begin with a brief discussion of the common representations of 3D graphics in the game industry. OpenGL [4], an industrial standard for graphics initiated by Silicon Graphics Inc., is a set of APls (application programming interface) that enables graphics programmers to write software that can be easily compiled and optimized on a wide variety of computing platforms, Application of OpenGL is far-ranging: from medical imaging to virtual reality and CAD. In contrast. OpenGL ES (embedded system) [5] is a subset of OpenGL APIs, selected by a special interest industrial group Khronos. that is deemed essential for mobile network gaming. Using an essential subset instead of the full-size OpenGL lightens the burden of the hardware manufacturers to support a graphics specification, while enabling them to specialize in fewer APIs.
+
+During rasterization when 3D objects are mapped to 2D plane, a depth value for each pixel mapped is calculated using Z-buffer algorithm [3] to determine object occlusion. Assuming 3D objects are expressed in OpenGL ES APIs, we write API wrappers for particular OpenGL ES APls after rasterization to first extract depth value d(j,k) for each pixel (j,k) from the frame buffer before calling the native APls. This way, our technique can be easily adopted by any mobile network game developers that support OpenGL ES, and game developers do not need to make any alterations to their game software in order to reveal depth values for grencoding.
+
+2.2. Coding Mode Selection
+The coding mode selection problem in video coding is the problem of selection coding modes for a group of N macroblocks (MBs) such that the total distortion is minimized subject to a rate constraint. It has been proposed to model the interdependencies of a row of MBs in video standard h.263 version 2 (h.263+) linearly [6], [7], so that the rate and distortion of each MBi,Ri() and Di(), depend only on mode mi of MBi and mode mi?1 of previous MBi?1. if available. As such. the mode selection problem can be formalized as the following optimization:
+minmi∈M∑i=1NDi(mi,mi?1)  s.t. ∑i=1NRi(mi,mi?1)≤Rs,(1)
+View SourceRight-click on figure for MathML and additional features.where for h.263+ the possible mode set M for a P frame is: M={INTRA,SKIP,INTER,INTER4}., and Rs is the bitrate constraint for the N MBs.
+
+Instead of solving the original constrained problem, it is common practice to solve the corresponding Lagrangian or unconstrai ned problem as follows:
+minmi∈M∑i=1NDi(mi,mi?1)+λoRi(mi,mi?1)(2)
+View SourceRight-click on figure for MathML and additional features.where λo is the Lagrange multiplier of a given value. It can be easily shown [8] that if there is a λ such that the optimal solution {moi} to (2) is such that ∑Ni=1Ri(moi)=Rs then {moi} is also the optimal solution to (1). It has been shown that given the quantization parameter Q, the appropriate λ can be found empirically [9]. Given λ, (2) is typically solved by marching through a trellis and finding the shortest path within it [6], [7].
+
+Given we have the available depth values d(j,k) of each pixel (j,k), we can compute (to be discussed) the weight wi of each MBi. reflecting the level of interest for that MB. Given wi's. we can then solve the following modified Lagrangian instead:
+minmi∈M∑i=1NDi(mi,mi?1)+λ(wi)Ri(mi,mi?1)(3)
+View SourceRight-click on figure for MathML and additional features.where the multiplier λ(wi). controlling the severity of the penalty function λ(wi)Ri(), now depends on the weight wi of MBi. Two remaining problems need to be solve then: how to map pixel depth values d(j,k)'s to MB weight wi's, and how to determine multiplier function λ(wi). We discuss them next.
+
+2.2.1. Mapping Pixel Depths to MB Weights
+Given we have the depth value of each pixel (j,k),d(j,k). we need to calculate a weight wi for each 16×16 MBi to reflect the level of interest of MBi. We first define anti-depth values as the scalar difference of pixel depth from maximum depth value. i.e. dmax?d(j,k). We have already made one observation that the surfaces of objects closer to the camera (large anti-depth values) are likely to garner more viewer interest. Hence the mean of antidepth values in a MB would be a good indicator of how close to the camera the surfaces of objects in the MB are likely to be. In fact. the square of the anti-depth value mean of pixels would be used to accentuate the importance of close-to-camera objects.
+
+A secondary consideration is that the edges of objects are often important as viewers try to discern the shape of objects. Edges of objects in a MB would often be reflected in the variance of the pixel depth values. (This is not always the casc. Consider a thin piece of paper on top of a desk.)
+
+As an example, consider in Figure 3 a cone object whose bottom is closer to the camera than the top. MB3 and MB4 would have high anti-depth value mean. while MB1 and MB2 would have high variance of pixel depth values.
+
+Figure 3
+Fig. 3. Determining the Weight of MBs
+View All
+
+Given the two above considerations. we use the formula that wi equals to the square of the anti-depth value mean in MBi plus the variance of depth values in MBi.
+
+To control the extent to which we proportionally contribute more bits to ROls at the expense of other MBs, we define γ≥1 to be the multiplicative factor such that no MB will receive more than γN share of the bit budget, We accomplish that by defining offset weights vi=wi+woff, with woff being the offset parameter. On average MBi will receive viNv? portion of the bit budget. where v?=1N∑Ni=1vi is the mean of the N MB offset weights. By definition of γ, we have:
+viNv?≤γN∀i∈{1,…,N}(4)
+View SourceRight-click on figure for MathML and additional features.We satisfy inequality (4) by defining offset parameter woff as:
+woff=defwmax?γw?γ?1(5)
+View SourceRight-click on figure for MathML and additional features.where wmax=maxi=1,…,N{wi} and w?=1N∑Ni=1wi.
+
+Notice that using this bit distribution strategy, we perfectly exhaust the budget Rs to the N MBs:
+∑i=lNviNv?Rs=RsNv?∑i=1Nwi+woff=RsNv?(Nw?+N woff)=Rs(6)
+View SourceRight-click on figure for MathML and additional features.
+
+2.2.2. Determining Multiplier Function λ(wi)
+Suppose λo is selected a priori for original Lagrangian optimization (2) such that optimal solution {moi} has operational rate Ros=∑Ni=1Ri(moi,moi?1) is the same or very close to Rs of original constrained optimization (1). The goal now is for each weigh wi of MBi, find multiplier λ(wi) that will result in usage of proportion viNv? of the bit budget Rs when performing modified Lagrangian optimization (3). This means the solution {m?i} to (3) will result in operational rate R?s=∑Ni=1Ri(m?i,m?i?1)=Ros. Having this requirement has the benefit that any previously derived formulas for λ such as [9] will have the same intended operational rate when our modified rate-distortion optimization is applied.
+
+To derive the mappings λ(wi), we first need a theoretical characterization of λ and rate R. It is analyzed in [9] that the Lagrange multiplier λ corresponds to the negative slope of the distortion-rate function:
+λ=?dDdR.(7)
+View SourceRight-click on figure for MathML and additional features.We next assume a typical high-rate approximation curve for entropyconstrained scalar quantization can be written as:
+R(D)=alog(bD),(8)
+View SourceRight-click on figure for MathML and additional features.where a and b are constants that parameterized the rate-distortion function. We can now sec tha λ is related to R exponentially:
+λ=(ba)e?Ra.(9)
+View SourceRight-click on figure for MathML and additional features.One interpretation of (9) is that to achieve operational rate Ros for N MBs, the appropriate multiplier λo is found by (9). The problem is that we know neither parameters a and b. nor the intended rate Ros. However. we do know that λo=(ba)e?Rosa results in bit consumption of 1NRos per MB on average for N MBs. To achieve target usage viNv?Ros for MBi then. we find λ(wi) that will result in operational rate viv?Ros and apply it to MBi only as done in (3), so that it will consume viNv?Ros on average.
+
+To find λ(wi) that consumes viv?Ros bits for N MBs we solve for Ros in terms of λo and substitute in (9):
+λ(wi)=(ba)1?viv?λviv?o(10)
+View SourceRight-click on figure for MathML and additional features.We know ba≥λo from observing (9). If we let ba=αλo, where α≥1. we get:
+λ(wi)=λoα1?viv?=λoα1?(wi+woffw?+woff)(11)
+View SourceRight-click on figure for MathML and additional features.
+
+SECTION 3.EXPERIMENTS
+3.1. Implementation
+To construct a testbed for grencoding, we employed Mesa release 5.1, an implementation of OpenGL version 1.4 API's on Linux, We wrote wrappers to extract RGB components from the frame buffer using the OpenGL (also OpenGL ES) API gireadFixels(), which were then converted to Berkeley YUV format as input to the h.263+ video encoder. Also using glreadPixels(), we extracted the depth value of each pixel from the frame buffer. The ca1culation in Section 2.2.1 is then performed for each MB and outputted to be used by the video encoder.
+
+3.2. Numerical Results
+We generated three J 100-frame demo sequences from Me s a package, gears and reflect. as our test sequences. We set the. frame size at QCIF (176×144) and the frame rate at :30fps. Using base mode selection algorithm [6] of (2), we encoded the sequences for given quantization parameters, resulting in bit-rate as shown in Table 1. Under the same parameter setting. we reran the video encoder using the ROI mode selection algorithm of (3), with γ and α set to 4 and 1.1. respectively. The Peak Signal-to-Noise Ratio (PSNR) performance of both mode selection a1gorithms are shown in Table 1.
+
+Table 1. PSNR Comparison of Different Mode Selection Schemes
+Table 1.
+From Table 1. we see that by using the depth values to adjust the multiplier value λ, the PSNR performance improves 0.36dB to 0.95dB, albeit a slight increase in bit-rate. One explanation can be that by investing in more bits in the near-camera objects, those objects are more likely to reoccur and not be occluded in future frames, resulting in better motion-compensation. Recall that base mode selection (2) is a frame-by-frame optimization and does not take into account this type of inter-frame dependencies.
+
+The more telling improvement, however can be seen visually as shown in Figure 4 and 5, where the 12th frame of sequence ref lect and 75th frame of sequence gloss are shown, respectively. In Figure 4, we see that on the right, the heavy bit allocation to the cone and the matt below of the ROI mode selection scheme resulted in a higher quality representation of the objects as compared to the base mode selection scheme. Similarly in Figure 5. the lid and mouth of the pot on the right is more detailed.
+
+Figure 4
+Fig. 4. Visual Comparison of Sequence ‘relect’
+View All
+
+SECTION 4.RELATED WORK
+Intelligent bit allocation in video coding according to regions of interest has been studied previously in the literature [10]. Our work differs in that we are focusing on graphics-to-video encoding., where composition information such as depth values can be easily extracted as discussed in Section 2.1.
+
+For compliance with the standardized packet streaming service (PSS) of 3GPP [1], [2], we specialize in the coding mode selection problem for video standard h.263 version 2 (h.263+) [11] Mode selection for h.263+ has been extensively studied [6], [7], [12]. We leverage on these work as our starting point in Section 2.2.
+
+One can interpret having available depth values of pixels in a frame as an improvement in source model over the basic raw video frame, and it has been shown [13] that having more informed source models does indeed improve coding efficiency. The difference in approach from [13] is that instead of using a parametric model based codec, we are constrained to have standard-compliant video as output. limiting our flexibility.
+
+Figure 5
+Fig. 5. Visual Comparison of Sequence ‘gloss’
+View All
+
+A related topic is light field coding [13], [3], outgrown from an image-based graphics rendering technique named light field rendering. To the best of the authors' knowledge, interactive game developers still use polygons in describing objects, and light field rendering is not currently supported in OpenGL specification [4].
+
+SECTION 5.CONCLUSION & FUTURE WORK
+In this paper, we have shown that using depth values available from 3D graphics rasterization, we can improve the visual Quality of close-to-camera objects. We do so by writing wrappers to OpenGL ES APIs, hence requiring minimal code change to original software written by mobile game developers. The technique is sufficient general that it can be applied to other coding standards such as h.264. However. mode selection using depth values is only one concrete example of how composition information of 3D objects can be extracted for video encoding benefits. For future work, we are investigating other forms of composition information useful for compression efficiency and/or optimized mobile streaming.

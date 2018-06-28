@@ -1,0 +1,26 @@
+Arm, the influential designer of mobile processors, wants your Android phone to run faster -- and maybe your ultralight 
+Windows laptop, too.On Thursday, the company announced a new chip generation, the Cortex-A76, that it said will be 
+35 percent faster than today's models when it arrives in 2019 phones. That's a big jump for one year, and perhaps enough 
+to help Android phones that rely on Arm processors better match Apple's iPhones. "We think we've turned a corner relative 
+to the overall performance curve," Rene Haas, president of Arm's intellectual property group, said at a press conference 
+Thursday in San Francisco. He promised "laptop-class performance" and said it should compete with Intel's high-end Core i7 
+models.Arm was actually co-founded by Apple in 1990 and designed the chips used in Apple's ill-fated Newton personal digital assistants. Apple's A series of processors, 
+like the A11 Bionic model in the iPhone X and iPhone 8, are now designed in-house at Apple, but they use the Arm language, called an instruction set. 
+The vast majority of Android phones, though, use chips from companies like Qualcomm and MediaTek that not only use Arm's instruction set but also its full-on chip designs, too.
+Those Android Arm chips don't match Apple's in performance, though. On the Geekbench speed test comparing chip performance 
+of Android devices to Apple devices, Apple is well ahead. A faster chip will help not only Android but also two other Apple 
+competitors, Microsoft's Windows and Google's Chrome OS, both of which are using Arm chips in power-efficient laptops.
+"Apple currently leads in raw CPU performance, which is impressive," said Patrick Moorhead, analyst at Moor Insights and 
+Strategy. "Arm speeding up the designs is a big deal, as it is targeting Windows 10 PCs and Chromebooks." How will Arm's 
+in-house designs compete with Apple's? "I expect we'll do well against Apple," said Mike Filippo, Arm's lead processor 
+architect. But he was clear which company Arm considers its primary rival. "Our real competition is Intel," he said. "We're 
+building for sustained performance," Filippo said. "The A76 is the biggest leap we've taken in our annual roadmap since 
+we started in 2014." The 35 percent speed boost is a minimum, Filippo said. Some mathematical tasks will get a boost of 50 
+percent to 70 percent, and high-performance software that needs fast memory access should get a 60 percent to 95 percent 
+boost for fetching that data, he added. Performance improvements vary depending on which speed test is used, he cautioned, 
+adding that Arm used SPECint for its measurement of a 35 percent performance boost. The Cortex-A76 has about the performance of today's Intel Core i5-7300, Filippo said. 
+Configured with more cache memory, it should compete with an i7 chip, he said.
+One reason the new chip design will be faster is that it can ingest more instructions in parallel -- four instead of three, 
+he said. The chip design also speeds up memory communications and improves its ability to get a jump on upcoming processing 
+instructions it'll have to handle. "This is a brand-new microarchitecture," a design four years in the works, Filippo said. 
+"We've paid maniacal focus to make sure every transistor we put into this design pays for itself in terms of performance."

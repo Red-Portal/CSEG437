@@ -1,0 +1,83 @@
+<Smartphone>
+From Wikipedia, the free encyclopedia
+
+A smartphone or sphone is any electronic handheld device that integrates the functionality of a mobile phone, personal digital assistant (PDA) 
+or other information appliance. This is often achieved by adding telephone functions to an existing PDA (PDA Phone) or putting "smart" capabilities, 
+such as PDA functions, into a mobile phone. A key feature of a smartphone is that additional native applications can be installed on the device. 
+The applications can be developed by the manufacturer of the handheld device, by the operator or by any other third-party software developer. 
+"Smart" functionality includes any additional interface including a QWERTY board, a touch screen, or even just secure access to company mail, 
+such as is provided by a BlackBerry
+
+
+
+
+Definition and history
+
+It is increasingly difficult to define exactly what qualifies as a "smartphone". Nearly all new mobile phones have some rudimentary PDA functionality 
+such as phonebooks, calendars, and task lists. Furthermore, BREW and Java ME devices allow for the installation of additional applications but are 
+still not considered smartphones. There are many BREW devices with PDA functionality, the ability to run third-party applications in native code 
+and sporting displays as large as 240x320 pixels; yet they are not considered "smartphones". The elusive definition seems loosely tied to the 
+particular operating systems listed below. A non "smart" mobile phone may be referred to as a Feature Phone, a Dumb Phone, etc..
+
+Fundamentally, these seem to be the common traits: Smartphones are voice-centric devices (voice is the primary function, data is secondary) that 
+offer PDA-like capabilities, whereas PDAs or Personal Communicators (such as most BlackBerries) may offer voice capabilities, but they are data-centric. 
+Smartphones are generally capable of one-handed operation, while PDAs generally require use of both hands. But it can be argued that this definition 
+based on the device's "focus" may fail, as devices integrate more features [1]].
+
+Smartphone features tend to include Internet access, e-mail access, scheduling software, built-in camera, contact management, GPS navigation software 
+and occasionally the ability to read business documents in a variety of formats such as PDF and Microsoft Office. In the CTIA conference held in Atlanta, 
+Georgia in March 2004, incorporation of television into the smartphone was among the topics discussed.
+
+The first smartphone was called Simon designed by IBM in 1992 and shown as a concept product that year at COMDEX, the communications industry trade 
+show held in Las Vegas, Nevada. It was released to the public in 1993 and sold by BellSouth. Besides a mobile phone, it also contained a calendar, 
+address book, world clock, calculator, note pad, e-mail, and games. Customers could also use a stylus to write directly on its screen to create 
+facsimiles and memos.
+
+As of 2004 smartphones were an increasingly large part of the mobile telephone market. According to the analysts, Canalys, smartphone shipments 
+increased more than 50 percent from the second quarter of 2005 to the second quarter of 2006 with nearly nineteen million devices shipped in the 
+latter period [2]. It is expected that in a few years most phones sold (except for disposable phones) will be considered "smart". Smartphone is 
+usually used as a term contrasting "regular phones". Various terms exist for non smart phones, including Feature phone
+
+
+
+
+Operating systems
+
+The most common operating systems (OS) used by smartphones are Symbian, Linux, Windows Mobile 
+(Which is an extension of Windows CE designed for pocket PC, and developed by Microsoft), and Palm OS (developed by PalmSource).
+
+Microsoft has release in 2005 the new version of its operating system Windows Mobile 5.0.
+
+Dual-OS handsets such as the FIC Neo1973 may run OpenMoko (or Windows Mobile).
+
+
+- 2005 OS Market Share
+
+	- Projected
+	In 2004, PC Magazine posted projected 2005 market share figures for the smartphone market [3]] by IDC, showing Symbian was continuing to 
+	dominate the smartphone market, shipping 24 million phone centric Series 60 phones, and approximately 3 million more PDA centric phones. 
+	This constituted 48.5 and 6 percent of the smartphone market respectively, for a total market share for Symbian of 54.5 percent. 
+	This was down slightly from the 56 percent market share in 2004, but it constituted a 120 percent growth in unit shipments year on year.
+
+	The next largest smartphone OS in 2005 were Linux based handhelds. 11.6 million of such devices were shipped in 2005, forming 23.5 percent 
+	of the market, and a 360 percent year on year growth in unit shipments from 2004.
+
+	Following this was the Microsoft Windows Mobile phone platform (available in two versions: the phone-centric Windows Mobile for Smartphone OS, 
+	which shipped 4.5 million devices in 2005 (9 percent market share) and the more PDA-centric Windows Mobile for Pocket PC Phone Edition, 
+	which shipped 2 million devices for a 4 percent market share). This was a 100 percent growth in unit shipments from 2004.
+
+	Last was the PalmOS operating system. This shipped 1.75 million devices in 2005 for a 3.5 percent market share. 
+	This was a 30 percent increase in unit shipments from 2004, and a 3.5 percent drop in market share from 2004.
+
+	There is a further 2.75 million devices which ship with various other OS's. They together formed 5.5 percent of the market, 
+	down from 14 percent of the market in 2004, indicating a consolidation behind the three fastest growing mobile OS's, Symbian, 
+	Linux and Windows Mobile.
+
+
+	- Actual
+	In 2005, LinuxDevices published actual sales numbers for smartphones in Q1 2005 [4] from Gartner. 
+	These ranked Symbian with 76.2% of the smartphone market, Linux with 13.7%, Palm OS with 4.6%, and Windows Mobile with 4.5% and RIM 1%.
+
+
+
+

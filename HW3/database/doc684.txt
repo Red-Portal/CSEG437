@@ -1,0 +1,14 @@
+What¡¯s the difference between GPS and GPS + Cellular?
+GPS
+Apple Watch Series 3 (GPS) lets you send and receive text messages, answer phone calls, and receive notifications when it¡¯s connected to your iPhone via Bluetooth and Wi-Fi. The built-in GPS works independently of your iPhone for distance, pace, and route mapping in workouts.
+
+GPS + Cellular
+Apple Watch Series 3 (GPS + Cellular) has all the same features, as well as built-in cellular. It gives you the freedom to send and receive text messages, answer phone calls, and receive notifications even when you don¡¯t have your iPhone with you.
+
+Cellular Carrier Support
+Connecting Apple Watch to a cellular network requires the same carrier as your iPhone, and we¡¯re adding carriers all the time. If your current carrier does not support Apple Watch, cellular functionality won¡¯t work until support is provided.
+
+
+See participating carriers and eligibility
+
+Participating carriers are subject to change. Please check with your carrier for the most current information.

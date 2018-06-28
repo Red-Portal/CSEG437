@@ -1,0 +1,35 @@
+Microsoft Buys GitHub for $7.5 Billion, Moving to Grow in Coding¡¯s New Era
+
+Microsoft, fully embracing a model it once saw as a threat, said on Monday that it was buying GitHub, an open software platform used by 28 million programmers, for $7.5 billion.
+
+The deal is a bid by Microsoft to gain ground in the internet era of software development, where applications increasingly run on remote data centers ? on so-called cloud computing.
+
+Amazon is the leader in the cloud market so far, but Microsoft has transformed itself in recent years to become a strong No. 2 as a supplier of cloud computing services. 
+
+Its vital Office productivity applications and database software are available in cloud versions.
+
+Microsoft also competes with Google, IBM, Salesforce and others in the cloud marketplace. 
+
+All of them are trying to lure software engineers to use their cloud tools and services. 
+
+The more programmers on a company¡¯s platform, the more software applications are created, attracting customers and still more developers ? a flywheel of growth and profit.
+
+GitHub, founded in 2008 and based in San Francisco, was created largely as a community for software developers to share programming tools and code. 
+
+It has been a champion of the open-source software movement, with its ethos of freely sharing code in public.
+
+Today, GitHub is used by a wide range in the tech community, from lone programmers to the nation¡¯s largest companies. 
+
+Developers can share code, make comments and buy software tools. They work in digital storage spaces, called repositories. 
+
+Some are open to all users; others are closed to members of a team. GitHub now has more than 85 million code repositories.
+
+Individuals can use GitHub for free. But there are monthly subscription charges for extra storage, development tools and private repositories. 
+
+The company does not disclose its revenue, but analysts estimate it is running at $200 million a year.
+
+The open-source model was once anathema to Microsoft, the largest commercial software company, which had favored keeping its code proprietary. 
+
+Steven A. Ballmer, Microsoft¡¯s former chief executive, once called Linux, the popular open-source operating system, a ¡°cancer¡± in the body of the technology business.
+
+But Microsoft has come to embrace open-source tools. Today, Microsoft is the most active corporation on GitHub, with more than two million contributions of code to GitHub projects.

@@ -1,0 +1,129 @@
+At Apple¡¯s WWDC 2018 ? an event some said would be boring this year with its software-only focus and lack of new MacBooks and iPads ? the company announced what may be its most important operating system update to date with the introduction of iOS 12. Through a series of Siri enhancements and features, Apple is turning its iPhone into a highly personalized device, powered by its Siri AI.
+
+This ¡°new AI iPhone¡± ? which, to be clear, is your same ol¡¯ iPhone running a new mobile OS ? will understand where you are, what you¡¯re doing and what you need to know right then and there.
+
+The question now is will users embrace the usefulness of Siri¡¯s forthcoming smarts, or will they find its sudden insights creepy and invasive?
+
+Siri Suggestions
+
+
+After the installation of iOS 12, Siri¡¯s Suggestions will be everywhere.
+
+In the same place on the iPhone Search screen where you today see those Siri suggested apps to launch, you¡¯ll begin to see other things Siri thinks you may need to know, too.
+
+For example, Siri may suggest that you:
+
+Call your grandma for her birthday.
+Tell someone you¡¯re running late to the meeting via a text.
+Start your workout playlist because you¡¯re at the gym.
+Turn your phone to Do Not Disturb at the movies.
+And so on.
+
+
+
+These will be useful in some cases, and perhaps annoying in others. (It would be great if you could swipe on the suggestions to further train the system to not show certain ones again. After all, not all your contacts deserve a birthday phone call.)
+
+Siri Suggestions will also appear on the Lock Screen when it thinks it can help you perform an action of some kind. For example, placing your morning coffee order ? something you regularly do around a particular time of day ? or launching your preferred workout app, because you¡¯ve arrived at the gym.
+
+
+
+These suggestions even show up on Apple Watch¡¯s Siri watch face screen.
+
+Apple says the relevance of its suggestions will improve over time, based on how you engage.
+
+If you don¡¯t take an action by tapping on these items, they¡¯ll move down on the watch face¡¯s list of suggestions, for instance.
+
+AI-powered workflows
+These improvements to Siri would have been enough for iOS 12, but Apple went even further.
+
+The company also showed off a new app called Siri Shortcuts.
+
+The app is based on technology Apple acquired from Workflow, a clever ? if somewhat advanced ? task automation app that allows iOS users to combine actions into routines that can be launched with just a tap. Now, thanks to the Siri Shortcuts app, those routines can be launched by voice.
+
+Onstage at the developer event, the app was demoed by Kim Beverett from the Siri Shortcuts team, who showed off a ¡°heading home¡± shortcut she had built.
+
+When she tells Siri she¡¯s ¡°heading home,¡± her iPhone simultaneously launched directions for her commute in Apple Maps, set her home thermostat to 70 degrees, turned on her fan, messaged an ETA to her roommate and launched her favorite NPR station.
+
+
+
+That¡¯s arguably very cool ? and it got a big cheer from the technically minded developer crowd ? but it¡¯s most certainly a power user feature. Launching an app to build custom workflows is not something everyday iPhone users will do right off the bat ? or in some cases, ever.
+
+Developers to push users to Siri
+But even if users hide away this new app in their Apple ¡°junk¡± folder, or toggle off all the Siri Suggestions in Settings, they won¡¯t be able to entirely escape Siri¡¯s presence in iOS 12 and going forward.
+
+That¡¯s because Apple also launched new developer tools that will allow app creators to build directly into their own apps integrations with Siri.
+
+Developers will update their apps¡¯ code so that every time a user takes a particular action ? for example, placing their coffee order, streaming a favorite podcast, starting their evening jog with a running app or anything else ? the app will let Siri know. Over time, Siri will learn users¡¯ routines ? like, on many weekday mornings, around 8 to 8:30 AM, the user places a particular coffee order through a coffee shop app¡¯s order ahead system.
+
+These will inform those Siri Suggestions that appear all over your iPhone, but developers will also be able to just directly prod the user to add this routine to Siri right in their own apps.
+
+
+
+In your favorite apps, you¡¯ll start seeing an ¡°Add to Siri¡± link or button in various places ? like when you perform a particular action ? such as looking for your keys in Tile¡¯s app, viewing travel plans in Kayak, ordering groceries with Instacart and so on.
+
+
+
+Many people will probably tap this button out of curiosity ? after all, most don¡¯t watch and rewatch the WWDC keynote like the tech crowd does.
+
+The ¡°Add to Siri¡± screen will then pop up, offering a suggestion of voice prompt that can be used as your personalized phase for talking to Siri about this task.
+
+In the coffee ordering example, you might be prompted to try the phrase ¡°coffee time.¡± In the Kayak example, it could be ¡°travel plans.¡±
+
+You record this phrase with the big, red record button at the bottom of the screen. When finished, you have a custom Siri shortcut.
+
+You don¡¯t have to use the suggested phrase the developer has written. The screen explains you can make up your own phrase instead.
+
+
+
+In addition to being able to ¡°use¡± apps via Siri voice commands, Siri can also talk back after the initial request.
+
+It can confirm your request has been acted upon ? for example, Siri may respond, ¡°OK. Ordering. Your coffee will be ready in 5 minutes,¡± after you said ¡°Coffee time¡± or whatever your trigger phrase was.
+
+Or it can tell you if something didn¡¯t work ? maybe the restaurant is out of a food item on the order you placed ? and help you figure out what to do next (like continue your order in the iOS app).
+
+It can even introduce some personality as it responds. In the demo, Tile¡¯s app jokes back that it hopes your missing keys aren¡¯t ¡°under a couch cushion.¡±
+
+
+
+There are a number of things you could do beyond these limited examples ? the App Store has more than 2 million apps whose developers can hook into Siri.
+
+And you don¡¯t have to ask Siri only on your phone ? you can talk to Siri on your Apple Watch and HomePod, too.
+
+
+
+Yes, this will all rely on developer adoption, but it seems Apple has figured out how to give developers a nudge.
+
+Siri Suggestions are the new Notifications
+You see, as Siri¡¯s smart suggestions spin up, traditional notifications will wind down.
+
+In iOS 12, Siri will take note of your behavior around notifications, and then push you to turn off those with which you don¡¯t engage, or move them into a new silent mode Apple calls ¡°Delivered Quietly.¡± This middle ground for notifications will allow apps to send their updates to the Notification Center, but not the Lock Screen. They also can¡¯t buzz your phone or wrist.
+
+
+
+At the same time, iOS 12¡¯s new set of digital well-being features will hide notifications from users at particular times ? like when you¡¯ve enabled Do Not Disturb at Bedtime, for example. This mode will not allow notifications to display when you check your phone at night or first thing upon waking.
+
+
+
+Combined, these changes will encourage more developers to adopt the Siri integrations, because they¡¯ll be losing a touchpoint with their users as their ability to grab attention through notifications fades.
+
+Machine learning in photos
+AI will further infiltrate other parts of the iPhone, too, in iOS 12.
+
+A new ¡°For You¡± tab in the Photos app will prompt users to share photos taken with other people, thanks to facial recognition and machine learning.  And those people, upon receiving your photos, will then be prompted to share their own back with you.
+
+The tab will also pull out your best photos and feature them, and prompt you to try different lighting and photo effects. A smart search feature will make suggestions and allow you to pull up photos from specific places or events.
+
+
+
+Smart or creepy?
+Overall, iOS 12¡¯s AI-powered features will make Apple¡¯s devices more personalized to you, but they could also rub some people the wrong way.
+
+Maybe people won¡¯t want their habits noticed by their iPhone, and will find Siri prompts annoying ? or, at worst, creepy, because they don¡¯t understand how Siri knows these things about them.
+
+Apple is banking hard on the fact that it¡¯s earned users¡¯ trust through its stance on data privacy over the years.
+
+And while not everyone knows that Siri is does a lot of its processing on your device, not in the cloud, many do seem to understand that Apple doesn¡¯t sell user data to advertisers to make money.
+
+That could help sell this new ¡°AI phone¡± concept to consumers, and pave the way for more advancements later on.
+
+But on the flip side, if Siri Suggestions become overbearing or get things wrong too often, it could lead users to just switch them off entirely through iOS Settings. And with that, Apple¡¯s big chance to dominate in the AI-powered device market, too.

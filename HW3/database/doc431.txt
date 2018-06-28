@@ -1,0 +1,10 @@
+NVIDIA GeForce GTX 580 will be in November 
+
+Continues to receive information about new flagship graphics card NVIDIA GeForce GTX 580, the development of which is almost beyond doubt. Previously, we published the photos, which shows how he has not yet announced video card and its cooling system, and also reported on the characteristics of this "graphic monster." 
+
+In particular, based on NVIDIA GeForce GTX 580 supposedly will be the new 40 nm chip GF110, accommodating a 512 advanced CUDA cores and 128 texture units, and the DX11 accelerator may well become the owner of 2 GB of "onboard" GDDR5 memory with 512 -bit interface and port Dual DVI and Mini HDMI. 
+
+Earlier it was expected that the official debut of GeForce GTX 580 will be held until the end of this year, probably in December. However, resource Fudzilla managed to get more accurate information according to which the new flagship of NVIDIA can see the light in November, before the release of its major competitors - the adapter on the powerful AMD chips Cayman. As for the "issue price", it is expected that it will be about $ 499, but it is very much dependent on the value and characteristics of competing products.
+
+url : http://it-chuiko.com/computers/6911-graficheskij-monstr-nvidia-geforce-gtx-580.html
+tag : nvidia geforce graphic card video 

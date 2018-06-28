@@ -1,0 +1,24 @@
+Opera Mini for the Mobile Set 
+
+Browsing the Web on an average mobile device can be a slow and frustrating process. It's a process that the newly introduced Opera Mini 3.0 browser wants to make a whole lot better. 
+Opera Mini 3.0 is a free download that, according to Opera, is not tied to any single service and can be used on a wide array of mobile devices. Nor does it lock a new user into Opera Mini, which means that users can still choose which mobile browser they wish to use. 
+
+The new Mini browser includes a number of improvements over its predecessors, including an integrated RSS feed reader, faster downloads and photo-sharing features. 
+
+With this release Opera is also making it easier for users to actually download and install the Mini. 
+
+"With earlier versions, finding the link to download Opera Mini was not obvious and the process to then download and install involved a number of steps," Opera spokeswoman Michelle Valdivia Lien told internetnews.com. 
+
+Lien said users can go to the Mini browser site from WAP or Web and receive the browser directly on their phones by text message. 
+
+Opera Mini was originally launched in January. To date, Opera claims that some 8 million unique users have installed it and connected to their servers at least once. Lien said that over the last 10 months more than 2 billion pages have been rendered for Opera Mini users. 
+
+One of the issues that mobile Web browsers have traditionally had to deal with relates to limited bandwidth. Opera Mini 3.0 helps there, too, by speeding up transfers with a proxy server at Opera. 
+
+"The servers compress data up to 80 percent," Lien explained. "It makes a largely substantial difference, ultimately enabling the handling on simple mobile phones, that otherwise couldn't, and reducing costs for users with limited data plans." 
+
+Opera's proxy servers also integrate small-screen rendering technology that reformats Web pages for small-screen scrolling. 
+
+Though Opera is not charging end users directly for the Mini, there is a revenue model. 
+
+According to Lien, Opera will monetize the Mini via integrated search and branded customized browsers that may be developed for telecom operators. 

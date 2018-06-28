@@ -1,0 +1,49 @@
+How to create, customize, and use Memoji on iOS 12
+Apple's Memoji is everything Samsung's AR Emoji wants to be
+By	Brenda Stolyar	? Posted on	June 5, 2018 - 2:11PM
+  
+At its Worldwide Developer Conference, Apple announced a ton of new feature for iOS 12. As part of its Animoji update, users now have the ability to express themselves more accurately ? with Memoji. Rather than interacting with just emojis, you can now send a customized Animoji that looks exactly like you. For now, the feature is only available on the iPhone X thanks to its TrueDepth camera but hopefully it will be available on future iOS devices soon.
+
+After downloading the iOS 12 developer beta, we decided to test out the Memoji feature by creating our own. Aside from the extremely simple process, we enjoyed all the different customization options ? from pink hair to blue skin, Memoji lets your imagination run wild. Its accuracy wasn¡¯t only apparent in the way it physically looked either, we also enjoyed how quickly and realistically it picked up on our facial expressions. In comparison to other apps that allow you to make your own custom avatar, Memoji was able to do it the right way ? by not overcomplicating it.
+
+For those who can get their hands on an iPhone X, here is how to create and use Memoji.
+
+HOW TO CREATE YOUR MEMOJI
+how to set up and use memoji skintone
+how to set up and use memoji 16
+how to set up and use memoji 11
+how to set up and use memoji 13
+how to set up and use memoji 12
+
+To create your Memoji, you have to head into iMessage and open a new or existing conversation. Once you open your App Drawer and select the Animoji icon, swipe all the way to the right until you reach ¡°New Memoji¡± and tap the plus sign icon.
+
+You will then be able to customize your Memoji based on a variety of physical features. Apple offers a variety of options to make your avatar as unique as possible ? like the ability to add freckles and choose from a wide range of skin tones and hair colors. You can also alter your head shape, eyebrows, nose, lips, ears, and more.
+
+Aside from physical traits, you can also dress up your Memoji. There are plenty of hats, headpieces, and eyewear to choose from that also customizable by color. Under the ear section, you can also choose from a variety of earrings ? whether they are hoops or studs.
+
+Once you are done creating your Memoji, all you have to do is tap ¡°Done¡± in the upper right-hand corner. It will then live in the gallery alongside the other Animojis in the drawer. If you ever want to switch the way your Memoji looks, tap on the icon with the three dots in the lower left-hand corner and choose ¡°Edit.¡± You will then be brought back to the same customization options as before to make your changes. If you want to have multiple versions of your Memoji available without having to constantly edit it, you can also choose the ¡°Duplicate¡± option.
+
+HOW TO USE YOUR MEMOJI
+how to set up and use memoji 1
+how to set up and use memoji 2
+how to set up and use memoji 3
+how to set up and use memoji 8
+how to set up and use memoji 5
+To use your Memoji, open the App Drawer while in the iMessage window, select the Animoji icon, and swipe through to find your Memoji. Since your Memoji mirrors your muscle movements, you want to make sure your face is in view of the camera. Once you¡¯re ready, tap the record button in the lower left-hand corner. As part of the new update, Apple extended the amount of time you have to record your Animoji ? rather than 10 seconds, you now have 30 seconds instead.
+
+Once you¡¯re done, you can tap on the record button again to end it ? but this will only appear if you haven¡¯t used the full 30 seconds. You will then be able to watch it playback once, and can choose to watch it again by tapping on ¡°Replay¡± above your Memoji. If you¡¯re not satisfied, you can tap on the garbage can icon to delete it and try again. To send it, simply tap the blue arrow ? the recipient will then be able to play it from their iMessage window once it¡¯s delivered, but you can choose to replay it as well by tapping on it in the message window.
+
+You can also add your Memoji into photos you take through the camera in iMessage. Once the front-facing camera is open, you can overlay your Memoji onto your own head, snap the photo, and send it. The same goes for FaceTime ? while video chatting with someone else you can apply the Memoji to live video.
+
+HOW IT STACKS UP AGAINST THE COMPETITION
+AR Emoji
+AR Emoji
+Even though Memoiji is the first of its kind for Apple, custom avatars aren¡¯t new. In March, Samsung launched AR Emoji ? available in the Galaxy S9 and S9 Plus ? which had mixed reviews. Rather than customizing it from the beginning the way you do with Memoji, AR Emoji creates the foundation for you using your selfie. You¡¯re then able to alter it based on skin tone, hair color, eye color, and outfit. We particularly felt ours looked inaccurate and didn¡¯t allow for much customization in order to help make it look more realistic. It also didn¡¯t capture our facial expressions well either ? our mouth and tongue movements seemed a bit off and awkward.
+
+Apple¡¯s new feature can also be compared to Bitmoji ? which doesn¡¯t mirror facial expressions but can be used to create an avatar that looks exactly like you. Aside from the fact that you¡¯re able to use it across all platforms and devices (rather than being restricted to the iPhone X or Samsung Galaxy S9), there are also deeper customization options. As part of its update back in February, Bitmoji Deluxe allows alter anything from different hair treatments to minor details like wrinkles on the forehead, cheeks, or eyes ? which resulted in us taking hours to create our Bitmoji.
+
+my bitmoji gives me anxiety feature 5
+my bitmoji gives me anxiety feature 8
+With Memoji, we found the feature had the right amount of customization and enjoyed creating it. The process is not only simple, but there are enough choices to make us feel content with the way it looks (without having to overthink it) and excited to actually send it out to people. We also appreciate the attention to detail in not only accurately capturing our facial expressions, but the way our hair also swayed from side to side when we moved our head even slightly.
+
+Even though the entire Animoji family consists of only talking heads, we do wish Memojis had bodies to go along with it. When using AR Emoji and Bitmoji, we¡¯re able to express a bit more through hand gestures and it makes our avatars look that much more lively and fun. Plus, it would also be nice to have the option to customize outfits in addition to facial features.

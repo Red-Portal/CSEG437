@@ -1,0 +1,853 @@
+Multi-User Cooperative Mobile Video Streaming:
+Performance Analysis and Online Mechanism
+Design
+Lin Gao, Senior Member, IEEE, Ming Tang, Haitian Pang, Student Member, IEEE, Jianwei Huang, Fellow,
+IEEE, and Lifeng Sun, Member, IEEE
+
+Abstract—Adaptive bitrate streaming enables video users to adapt their playing bitrates to the real-time network conditions, hence
+achieving the desirable quality-of-experience (QoE). In a multi-user wireless scenario, however, existing single-user based bitrate
+adaptation methods may fail to provide the desirable QoE, due to lack of consideration of multi-user interactions (such as the multi-user
+interferences and network congestion). In this work, we propose a novel user cooperation framework based on user-provided networking
+for multi-user mobile video streaming over wireless cellular networks. The framework enables nearby mobile video users to crowdsource
+their cellular links and resources for cooperative video streaming. We first analyze the social welfare performance bound of the proposed
+cooperative streaming system by introducing a virtual time-slotted system. Then, we design a low complexity Lyapunov-based online
+algorithm, which can be implemented in an online and distributed manner without the complete future and global network information.
+Numerical results show that the proposed online algorithm achieves an average 97% of the theoretical maximum social welfare. We
+further conduct experiments with real data traces, to compare our proposed online algorithm with the existing online algorithms in the
+literature. Experiment results show that our algorithm outperforms the existing algorithms in terms of both the achievable bitrate (with an
+average gain of 20% ∼ 30%) and social welfare (with an average gain of 10% ∼ 50%).
+Keywords—Mobile Video Streaming, Adaptive Bitrate, Mobile Crowdsourcing, Online Algorithm
+
+1 INTRODUCTION
+1.1 Background and Motivations
+Global mobile data traffic is growing at an unprecedented
+rate, where mobile video streaming contributes
+most of the data growth. According to Cisco [1], mobile
+video streaming traffic has accounted for 60% of the
+global mobile data traffic in 2016, and the percentage
+is expected to increase to 78% by 2021. Adaptive BitRate
+(ABR) streaming [2] is a promising technology for video
+streaming over large distributed HTTP networks (e.g.,
+Internet) and has been adopted by many popular online
+video streaming systems (e.g., HTTP dynamic streaming
+of Adobe [3], HTTP live streaming of Apple [4], and
+smooth streaming of Microsoft [5]). The key idea of ABR
+is to enable video players to adapt the playing bitrate
+(corresponding to the quality of video, e.g., resolution) to
+the real-time network conditions to ensure the desirable
+quality-of-experience (QoE).
+While most of the existing works focused on the bitrate
+adaptation methods of a single user (e.g., [6], [7]), in this
+work we consider a more general scenario of multi-user
+video streaming over wireless cellular networks. In the
+
+multi-user wireless scenario, the QoE of each mobile user
+is affected not only by the stochastic changing of his own
+network condition (e.g., channel fading), but also by the
+potential resource competition and interference of other
+users [8]–[19]. Without proper coordination or cooperation
+among users, such competition and interference may
+degrade the network performance greatly (e.g., leading
+to congestion), hence increase the video streaming cost
+and harm the user QoE. Thus, the existing single-user
+based bitrate adaptation methods often fail to provide
+desirable QoE for video users in the multi-user scenario,
+due to lack of consideration of multi-user competition
+and interference.
+To this end, in this work we will study the multiuser
+cooperative video streaming, where (nearby) mobile
+video users cooperate with each other in both bitrate
+adapting and video downloading. Namely, each user
+can download video data for other users using his own
+cellular link or download his video data through others’
+links. In this sense, users aggregate their cellular links and
+resources for the cooperative video streaming. Figure 1
+illustrates such a cooperative streaming model with three
+users {1, 2, 3}, where user 1 downloads for all three users
+and user 2 downloads for himself and user 3. Note that
+user 3 does not have the available cellular link.
+There are several real-world scenarios where the multiuser
+cooperative streaming is useful and helpful. First,
+the most relevant scenario is User-Provided Networking
+
+Figure 1. Cooperative Video Streaming Model.
+devices. UPN has been widely studied and implemented
+today, and some IT and Telecom companies (such as
+OpenGarden [22], Karma [23], and AT&T [24]) have provided
+commercial UPN services. The cooperative streaming
+proposed in this work can enhance the capability of
+UPN on providing the video streaming service. Another
+more concrete scenario is Mobile Live Streaming (MLS)
+[25], [26], with which people can watch live activities
+of their friends or share their own activities to their
+friends on their smartphones. MLS becomes popular in
+recent years with the proliferation of smartphones and
+4G cellular networks. Nowadays, many social network
+companies have provided MLS services, such as IngKee
+[27], Youtube Live [28], and Facebook Livestream [29].
+The cooperative streaming proposed in this work can
+improve the live streaming quality in MLS.
+The key motivation for considering such a cooperative
+streaming system is the heterogeneity of mobile devices.1
+Note that cooperative streaming can be easily implemented
+in a practical scenario (such as UPN and MLS)
+by installing some customized apps (e.g., OpenGarden
+[22]) on smartphones, and the related optimization and
+incentive issues have been studied in the recent literature
+(e.g., [20], [21]). However, the existing techniques in [20],
+[21] cannot be directly applied to the cooperative video
+streaming model, due to the asynchronous operations of
+video streaming and the unique QoE requirements of
+video applications. This motivates us to study the multiuser
+cooperative streaming in this work.
+1.2 Solution and Contributions
+In this work, we propose a general multi-user cooperative
+video streaming framework based on UPN [20], [21]. The
+key idea is to enable nearby mobile users to form a
+cooperative group (via WiFi or Bluetooth) and aggregate
+their cellular links and resources for the cooperative
+video downloading and bitrate adapting. We focus on
+studying the users’ streaming behaviours (i.e., download
+scheduling and bitrate adaptation) in the proposed cooperative
+framework. Namely, for each video user, when
+
+
+and from whom he is going to download each video
+segment, at which bitrate? Our goal is to understand the
+performance bound of the system and design an online
+scheduling method to approach such a bound.
+First, we formally define the users’ operations in the cooperative
+streaming system, and formulate the corresponding social
+welfare optimization problem (Section 4). The optimal solution
+of this problem provides the theoretical performance
+bound of the proposed cooperative streaming system. A
+comprehensive analysis for such a performance bound is
+the foundation of the future study on privacy, security,
+and incentive mechanism design.2
+Second, we analyze the social welfare performance bound
+of the proposed cooperative streaming system (Section 5).
+Directly solving such a performance is challenging, due
+to the asynchronous operations of users as well as the
+mixed-integer nature of the problem. To this end, we
+introduce a virtual time-slotted system with the synchronized
+operations, and formulate the new social welfare
+optimization problem as a linear programming (which
+can be solved efficiently with many standard methods).
+We show that with proper choices of time parameters, the
+optimal solution of the virtual time-slotted system can
+provide an effective upper-bound and lower-bound for
+the optimal solution (performance bound) of the original
+system, which forms the feasible performance region of
+the proposed cooperative streaming system.
+Finally, we design a Lyapunov-based online streaming
+algorithm for the practical implementation of the proposed
+cooperative streaming system (Section 6). The proposed algorithm
+converges to the theoretical performance bound
+asymptotically, with a controllable approximation error
+bound. Moreover, it relies only on the current state and
+historical streaming information (while not on any future
+network information), hence can be implemented in the
+online manner; and it requires only the local information
+exchange within each cooperative group (while not the
+global network information exchange), hence can be
+implemented in the distributed manner. We perform extensive
+experimental simulations with real data traces to
+evaluate its performance gap with the theoretical bound
+and to compare its performance with state-of-art online
+algorithms in the existing literature.
+For more clarity, we summarize the logical relationship
+among the above three parts as follows: (i) the social welfare
+optimization problem in Section 4 defines the theoretical
+performance bound of the proposed cooperative streaming system
+(but it is challenging to solve); (ii) the virtual time-slotted
+system in Section 5 helps characterize the region (i.e., upperbound
+and lower-bound) of the above theoretical performance
+
+bound; (iii) the online algorithm in Section 6 converges to the
+above theoretical performance bound asymptotically in the realistic
+scenario without complete future network information.
+More specifically, the key contributions of this work are
+summarized as follows.
+• Novel Model: To our best knowledge, this is the first
+work that proposes a general multi-user cooperative
+streaming framework for mobile video streaming.
+The framework enables mobile video users to
+crowdsource their radio connections and resources
+for cooperative video streaming, and can effectively
+improve the QoE of video users. Moreover, we
+provide both theoretical performance analysis and
+practical algorithm design for such a cooperative
+streaming system.
+• Performance Bound Analysis: We analyze the theoretical
+performance bound of the proposed cooperative
+streaming system, overcoming the challenging
+issue of asynchronous operations by using a virtual
+time-slotted system. Such a performance bound
+analysis is fundamental for the design, evaluation,
+and implementation of practical algorithms in such
+a cooperative streaming system.
+• Online Algorithm Design: We implement the cooperative
+streaming system in the practical scenario
+without future and global network information,
+and design a Lyapunov-based online streaming algorithm.
+The proposed algorithm converges to the
+theoretical performance bound asymptotically.
+• Experiment and Demo: We conduct extensive experiments
+with real data traces, which show that our
+proposed cooperative streaming system, together
+with the online streaming algorithm, outperforms
+the existing systems and algorithms in terms of
+both achieved bitrate (with an average gain of
+20% ∼ 30%) and social welfare (with an average
+gain of 10% ∼ 50%). We also construct a real demo
+system to implement and evaluate the proposed
+system and algorithm.
+The rest of the paper is organized as follows. In Section
+2, we review the related work. In Section 3, we present
+the system model. In Section 4, we provide the problem
+formulation. In Section 5, we propose the virtual timeslotted
+system and the performance bound analysis.
+In Section 6, we propose the Lyapunov-based online
+streaming algorithm. We provide simulation results in
+Section 7 and conclude in Section 8.
+2 LITERATURE REVIEW
+Prior works on ABR video streaming mainly focused on
+the bitrate adaptation of a single user using either bufferbased
+method [6] or channel prediction-based method
+[7]. Recently, there is a growing interest in exploiting
+the multi-user cooperative video streaming. From the
+modeling perspective, the existing cooperative streaming
+models can be classified into four categories (see
+[8] for more details): Bandwidth Aggregation (BA) model
+[9], Device-to-Device (D2D) model [10]–[12], Crowdsourced
+Mobile Streaming (CMS) model [13], [14], and Mobile Peerto-Peer
+(MP2P) model [17]–[19].
+1) BA Model [9]: The key idea is to aggregate the
+bandwidth of nearby users to help a particular mobile
+video user’s streaming. The BA model mainly focused
+on the simple one-to-many cooperation between a single
+video user and multiple helpers [9]. We consider a more
+general many-to-many cooperation framework with multiple
+video users and multiple helpers, where each user
+acts as both the video user and the helper.
+2) D2D Model [10]–[12]: The key idea is to enable
+nearby video users to share their downloaded video
+segments with each other through D2D links. In [10],
+Golrezaei et al. studied the cache-based D2D cooperation,
+where mobile video users cache popular video
+contents and deliver to other users via D2D links in
+the future. Our model differs from that of [10] in the
+following aspects. First, we consider the real-time cooperation
+of nearby users, while they considered the
+future opportunistic cooperation. Second, we study the
+jointly video streaming of multiple users, while they
+studied the video streaming of different users separately.
+In [11], [12], researchers studied the real-time D2D based
+cooperation, where multiple nearby users watch the
+same video and share video contents cooperatively via
+D2D links. Our model is similar but more general than
+those in [11], [12], as we allow different users to watch
+different videos. This introduces an additional dimension
+(i.e., video index) when making the scheduling decision,
+hence involves additional challenges.
+3) CMS Model [13]–[16]: The key idea is to enable
+nearby mobile video users pool their network resources
+together to satisfy all users’ video streaming
+requirements jointly. Note that our proposed cooperative
+streaming model falls into this category. In [13], Pu et
+al. proposed a rate adaptation algorithm for optimizing
+the adaptive streaming across multiple mobile users
+(possibly watching different videos), but they didn’t
+consider the individual characteristics of different users.
+In [14], [15], Tang et al. focused on the incentive design
+in the multi-user CMS model and proposed a multidimensional
+auction-based mechanism to incentivize
+video users to collaborate with each other under information
+asymmetry. However, they neither performed the
+performance bound analysis, nor designed the online
+algorithm. In [16], Gao et al. analyzed the performance
+bound for multi-user CMS models, but didn’t consider
+the online algorithm design. In this work, we will study
+both the theoretical performance bound and the practical
+online algorithm systematically.
+4) MP2P Model [17]–[19]: The key idea is to enable
+video users act as virtual video servers and send the
+downloaded segments to other users via Internet. Thus,
+in the MP2P model, a video user can potentially help
+other users that are not physically close-by. The key
+difference between our model and the MP2P model is
+as follows. In the MP2P model, each video segment has
+multiple copies residing on both the video server and
+the user devices (peers), and video users can download
+a video segment from either the server or a user peer, via
+his own wireless cellular link. Hence, the key design purpose
+of MP2P model is to reduce the load of the video server.
+In our cooperative streaming model, however, each video
+segment has a unique copy residing on the video server,
+and users can download a video segment (from the video
+server) either via his own wireless cellular link or a
+neighbor’s cellular link. Hence, the key design purpose
+of our model is to reduce the uncertainty or improve the
+efficiency of user’s wireless cellular link.
+
+3 SYSTEM MODEL
+3.1 Network Model
+We consider a set N , {1, . . . , N} of mobile video users
+in wireless cellular networks, who want to watch videos
+(on their smartphones) via 3G/4G cellular links. Mobile
+users are heterogeneous in terms of their cellular link
+capacities and video quality requirements. For example,
+a user requesting a high quality video may suffer from a
+low cellular link capacity, due to factors such as a severe
+channel fading and a high cellular network congestion.
+This may reduce the quality of the video and increase the
+video quality variation, both harming the user’s quality
+of experience (QoE). On the other hand, a user requesting
+a low quality video (or not playing a video at all) may
+experience a high cellular link capacity, and have extra
+capacity to help other users. Thus, it is desirable to
+enable users to connect with each other to download the
+streaming video contents cooperatively.
+There are many real-world application scenarios for
+such a cooperative video streaming. Consider, for example,
+that a group of friends who want to watch a live soccer
+match together on their phones at a remote location
+(e.g., a camping or skiing site), or a family who wants to
+watch one or multiple movies on their phones in the train
+or in the car, or a group of students who want to watch
+different online lectures using WiFi at a busy hotspot
+(e.g., a classroom). In all these cases, some or all of the
+users may have poor or intermittent cellular connectivity,
+depending on the coverage of their service providers.
+Thus, aggregating the resources of nearby users for the
+cooperative video streaming may significantly improve
+the overall user satisfactions.
+1) User-Provided Network (UPN): UPN enables
+nearby mobile users to form a cooperative group (via
+WiFi) and aggregate their radio connections and resources
+for cooperative data downloading. We consider
+a general multi-user cooperative streaming scheme based
+on UPN. Namely, in a cooperative group, each user
+can download video data for other users using his own
+cellular link (and resources) and download his video
+data through other users’ links (and resources). As mentioned
+previously, we assume that some well-designed
+incentive mechanisms (e.g., auction [30]–[33], contract
+[34]–[37], or others trust mechanisms [38], [39]) have
+been adopted, such that users are willing to participate
+in the cooperative streaming system to help others.
+Figure 1 illustrates such a cooperative streaming model
+with three users {1, 2, 3}, where user 1 downloads
+one segment for himself, one segment for user 2, and
+two segments for user 3, while user 2 downloads two
+segments for himself and one segment for user 3. Note
+that user 3 does not download any video content due to
+the temporary interruption of his cellular link.
+2) Mobility Model: The cooperation gain of such a
+cooperative streaming highly depends on the number of
+cooperative users and the duration of cooperation, both
+closely related to the users’ mobility patterns. We adopt a
+hotspot-based mobility model [40], where the whole area is
+divided into a set of small hotspots and the non-hotspot
+area,3 and each user moves across a sequence of hotspots
+during his travel in the following pattern: staying for a
+certain period of time in each hotspot that he passes, and taking
+some time for each transition (from one hotspot to another).
+Figure 2 illustrates such a mobility model, where user 1
+stays at hotspot 1 for 30 minutes (11:00∼11:30), and then
+takes 1 hour to move to hotspot 2 and stays at hotspot
+2 for 45 minutes (12:30∼13:15).
+In such a hotspot-based mobility model, users in the
+same hotspot at the same time can connect with each
+other (hence form a cooperative group), while users in
+different hotspots or in the non-hotspot area cannot. Such
+a mobility model has been widely-used in the scenarios
+where users need to take certain time to interact with
+each other (e.g., mobile data forwarding in [41]).
+Notations: We consider the operation in a period of
+continuous time T , [0, T], where t = 0 is the initial
+time and T is the ending time. Let A , {1, . . . , A} denote
+the set of all hotspots, and {0} denote the non-hotspot
+area. The key notations in this part are listed below.
+• an(t) ∈ A S
+{0}: the location of user n at time t;
+• hn(t) > 0: the cellular link capacity of user n at time t;
+• en,m(t) ∈ {0, 1}: the indicator denoting whether users
+n and m are encountered (i.e., in the same hotspot) at
+time t, i.e., en,m(t) = 1 if an(t) = am(t) ∈ A.
+For convenience, we refer to the user location and
+cellular link capacity {(an(t), hn(t)), ∀n ∈ N , t ∈ T } as
+the network information, which varies randomly over time.
+Note that the encounter indicator en,m(t) can be derived
+from the location information of users n and m.
+3.2 Video Streaming Model
+We consider a typical ABR streaming model [2], where
+a single source video file is partitioned into multiple
+segments and delivered to a video user using HTTP. The
+key features of ABR model are summarized below.
+(i) Video Segmenting: To facilitate the video delivery
+over the Internet, a source video file is divided into a sequence
+of small HTTP-based file segments, each containing
+a short interval of playback time (e.g., 2–10 seconds)
+of the source video, which is possibly several hours in
+term of the total duration (e.g., a movie). A user downloads
+the video segment by segment.
+(ii) Multi-Bitrate Encoding: Each segment is encoded at
+multiple bitrates, each corresponding to a specific video
+quality (such as resolution). A user can select different
+bitrates for different segments according to real-time
+network conditions.
+(iii) Data Buffering: For smoothly playing, each downloaded
+segment is first stored in a buffer at the user’s
+device, and then fetched to the video player sequentially
+for playback. The maximum buffer size on user device
+is usually limited (e.g., 20–40 Seconds).
+Notations: Key notations in this part are listed below.
+): the set of bitrates (in Mbps) available for user n,
+which depends on both the sever-side protocols and the
+user-side parameters such as device type.
+• Qn > 0: maximum buffer size (in seconds) of user n.
+4 PROBLEM FORMULATION
+In this section, we first characterize the users’ behaviours
+in the cooperative streaming model, and then formulate
+the associated optimization problem.
+Specifically, with the ABR streaming, each source video
+is downloaded segment by segment. Namely, each user
+starts to download a new segment (with a specific bitrate)
+only when completing the existing segment downloading.
+Hence, users operate in an asynchronous manner,
+as they may complete segment downloading at different
+times. We refer to such an operation scheme as the
+segmented download operation.
+4.1 Downloading Sequence
+With the segmented operation, each user n’s downloading
+operation can be characterized by a sequence:
+Sn ,
+
+It is easy to see that our cooperative streaming model
+generalizes the model without crowdsourcing, in which
+case we can simply restrict each user n downloading only
+his own segment, i.e., un[k] = n, ∀n, k.
+Next we provide the constraints for a feasible downloading
+sequence Sn of user n.
+(i) Timing Constraint: As users download segment by
+segment, we have the following timing constraint:
+
+A strict inequality implies that user n waits for some time
+before starting to download the next segment sn[k+1], for
+example, when all users’ buffers are full.
+
+. Hence,
+we have the following cellular link capacity constraint:
+
+
+5 PERFORMANCE BOUND ANALYSIS
+In this section, we study the theoretical social welfare
+performance bound of the proposed cooperative system
+(i.e., the solution of the offline social welfare maximization
+problem (14)), which serves as a benchmark for the
+online scheduling solutions in Section 6.
+However, directly solving (14) is challenging due to
+the following reasons. First, users operate in an asynchronous
+manner. Namely, different users may start to
+download new segments at different times. Second, (14)
+involves both discrete variables (e.g., u and z) and continuous
+variables (e.g., t
+s and t
+e
+), hence is a complicated
+mixed-integral optimization problem. Third, (14)
+involves the integral operation (C.2), which is even more
+challenging. Hence, we will focus on finding upperbound
+and lower-bound for the desired performance
+bound of the cooperative streaming system.
+To achieve this, we propose a virtual time-slotted download
+operation scheme, under which the problem can be
+formulated as an linear programming, hence can be
+solved by many classic methods. We will show that
+the solution of (14) under the segmented operation
+scheme (i.e., the theoretical performance bound of the
+proposed cooperative streaming system) is bounded by
+the solutions under this virtual time-slotted system. It
+is important to note that this time-slotted operation
+scheme is only used for characterizing the theoretical
+performance bound, but not for the practical implementation.
+5.1 Time-Slotted Download Operation
+To model the time-slotted operation scheme, we divide
+the whole time period [0, T] into multiple time slots, each
+with the same length. For convenience, we normalize the
+length of each slot to be one. Hence, there is a set of T
+time slots, denoted by T = {1, 2, ..., T}, with the τ -th slot
+corresponding to time interval [τ − 1, τ ].
+Under the time-slotted operation scheme, each video
+is downloaded slot by slot in a synchronized manner,
+rather than segment by segment under the segmented
+operation. Thus, in this case, we can focus on the segments
+that each user downloads in each time slot, instea
+
+of the segment downloading sequence. Moreover, to
+guarantee the synchronous operation, we require that
+each segment must be completely downloaded within
+one time slot. Namely, users cannot download a segment
+across multiple time slots.
+For clarity, we illustrate the difference (in download
+scheduling) between the segmented operation and the
+time-slotted operation in Figure 3, where blue blocks
+denote user 1’s data and orange blocks denote user 2’s
+data. Under the segmented operation (left), users start to
+download data at different times, while under the timeslotted
+operation (right), users are synchronized, and
+download data at the beginning of each time slot.
+1) Downloading Vector: With the time-slotted operation,
+the downloading operation of each user n can be
+characterized by a downloading vector:
+6.1 Online vs Offline
+We first discuss the key difference between online
+scheduling and offline scheduling. In the offline scheduling,
+the segment downloading sequences of all users at
+all time are determined in advance, through, for example,
+the offline social welfare maximization problem (14),
+which requires the complete network information. In the
+online scheduling, however, each user makes the download
+scheduling decision (regarding the next segment to
+be downloaded) in real time, e.g., at the time when he
+completes a previous segment downloading.
+In our proposed cooperative streaming system, such
+a real time downloading decision mainly includes two
+problems: whose segment to be downloaded, and at which
+bitrate level? The decision may depend on different criteria
+such as the real time user buffer levels (e.g., in
+[6]), the channel bandwidth or throughput predictions
+(e.g., in [7]), and other specific objective functions (e.g.,
+Lyapunov drift-plus-penalty described below).
+6.2 Lyapunov-Based Online Scheduling
+Lyapunov optimization [44] is a widely used technique
+for solving stochastic optimization problems with time
+average constraints. In our model, an implicit time average
+constraint is that the average segment arriving rate
+should be same as the video playback rate in term of
+segment.9
+If the video playback rate is smaller, then the
+Based on the above analysis, we now design an online
+algorithm that aims at minimizing the drift-pluspenalty
+(29) in each decision-making time. We present
+the detailed algorithm in Algorithm 1. Note that a user
+may decide not to download any segment at a decisionmaking
+time, when, for example, all buffers are full and
+cannot afford one more segment. In this case, the user
+will wait for a certain time and then trigger decisionmaking
+event again. Hence, a decision-making time can be
+either the time that a user completes a segment downloading or
+the time that a user is triggered by the waiting timer.
+Note that the online scheduling in Algorithm 1 works
+in a distributed manner, as each user makes the decision
+independently. To coordinate the downloading decisions
+of different users and to avoid the redundant downloading
+of the same segment, nearby users need to exchange
+the context information (e.g., buffer length, segment size,
+encode bitrate, and url). To illustrate this, we construct
+a real demo system on Raspberry PI. Please refer to our
+online technical report [49] for more details.
+4) Performance Analysis: Now we analyze the performance
+of Algorithm 1. Let t[k] denote the k-th decisionmaking
+time (counting all users), and let P[k] denote the
+associated welfare achieved in the k-th download operation.
+Then, the social welfare generated by Algorithm 1
+
+To simulate the video watching behaviours of mobile
+users and the real cellular link throughputs for video
+streaming, we use the video viewing session logs obtained
+from BestTV [48], one of the largest OTT (Over
+The Top) video service providers in China. There are 5
+different bitrate levels (for mobile users) in this dataset:
+{0.2, 0.4, 0.7, 1.3, 2.3}Mbps, corresponding to the lowest
+to the highest video resolutions, respectively. Based on
+the segment length, bitrate, and downloading time, we
+can calculate the measured end-to-end link throughput
+for each segment downloading. We use this measured
+throughput to approximate the cellular link capacity
+in our experiments. Moreover, the energy consumption
+factors are chosen according to the real measurement
+given in [45].
+2) Existing Online Algorithms: To evaluate the performance
+of our proposed Lyapunov-based online algorithm,
+we also perform simulations using the following
+two typical existing online algorithms: Buffer-based
+algorithm [6] and Channel Prediction-based algorithm
+[7]. Specifically, buffer-based algorithm [6] introduces a
+linear mapping between buffer and bitrate, and selects
+the next segment bitrate based on the current buffer level:
+a higher buffer level is mapped to a higher bitrate. Channel
+prediction-based algorithm [7] proposes a channel
+prediction method, and selects the next segment bitrate
+based on the predicted channel capacity: the highest bitrate
+that can be supported by the predicted channel capacity.
+12
+7.2 Multiple-User Case
+Now we perform experiments for the multi-user scenario,
+where some users play videos (called video users),
+while others remain idle and can potentially help the
+encountered video users.13 For simplicity, we assume
+that all video users play the high-resolution videos (bitrate
+2.3Mbps). The total video length is 500 seconds, the
+segment length is 2 seconds, and the maximum buffer
+length at the user’s device is 40 seconds. We use these
+multi-user experiments to illustrate both the cooperation
+gain of the proposed cooperative streaming system and
+the performance gain of the proposed algorithm.
+In the following experiments, we consider a total of
+50 users and randomly choose a subset of users as
+video users. We consider different network conditions,
+characterized by the range of the average link capacity.
+For example, a bad network condition corresponds to
+a range [0, 0.7]Mbps, under which each user will be
+randomly assigned by a real data trace with an average
+link capacity smaller than 0.7Mbps.
+1) Average Bitrate: Figure 4 shows the average bitrates
+with different percentages of video users under different
+network conditions. For each video user percentage and
+network condition, we perform experiments with the
+three algorithms under ISF and NWF mobility traces,
+corresponding to different encountering scenarios (hence
+different cooperation probabilities). To fully characterize
+the cooperation gain, we also run the algorithms under
+two benchmark encountering scenarios: (i) a full cooperation
+scenario, where all users are always encountered
+with each other, and (ii) a non-cooperative scenario,
+where none of users are encountered.
+Sugfigures (a) to (c) show the average bitrates with
+100%, 60%, and 20% video users, respectively. As illustrated
+in (a), the solid bar denotes the average bitrate
+under the non-cooperative scenario, and the hollow bar
+denotes the average bitrate under the full cooperation,
+in which the first (higher) line denotes the average bitrate
+under ISF (with a higher encountering probability)
+and the second (lower) line denotes the average bitrate
+under NWF (with a lower encountering probability).
+Subfigure (d) shows the average bitrate increase (i.e., the
+cooperation gain) using our proposed Lyapunov-based
+algorithm, comparing with the achieved bitrate under
+the non-cooperative scenario. The dash, solid, and dashdot
+lines denote the results with 20%, 60%, and 100%
+video users, respectively. The marks “circle”, “square”,
+and “triangle” denote full cooperation, ISF, and NWF,
+respectively.
+From subfigure (a), we can see that when the percentage
+of (high-resolution) video users is very high (e.g.,
+100%), the increase of bitrate is very small under a low
+link capacity range (e.g., lower than 2.5Mbps), as in this
+case all users are lack of capacity, hence nobody can
+help other users significantly. Under a high link capacity
+range (e.g., [0, 5]Mbps and [0, 8]Mbps), the increase of bi
+trate becomes significant, as some users may have redundant
+capacities, hence can help others. From subfigures
+(b) and (c), we can see that when the percentage of video
+users is low (e.g., 60% or 20%), the bitrate increase is
+significant under all network conditions, mainly due to
+the contributions of the idle users.
+Subfigure (d) summarizes the increase of bitrate under
+our proposed algorithm. We can see that with 100%
+video users, the increase of bitrate continuously increases
+with the link capacity, as a larger capacity gives the video
+users more opportunities to obtain redundant capacity
+and help others. With 20% video users, however, the
+increase of bitrate continuously decreases with the link
+capacity, as a very small capacity already leads to a
+considerably high bitrate (due to the contributions of
+a large population of idle users), hence the increase of
+bitrate is more significant under a small capacity (as the
+benchmark bitrate is smaller). With 60% video users, the
+increase of bitrate first increases with the link capacity
+(due to a similar reason in the 100% case), and then decreases
+with the link capacity (due to a similar reason in
+the 20% case). The maximum bitrate increase ratio under
+the full cooperation scenario can be up to 50% ∼ 230%
+with 20% video users, 35% ∼ 60% with 60% video users,
+and 4% ∼ 40% with 100% video users. Moreover, the
+bitrate increase under the real data traces is bounded by
+the above maximum ratio, and actually depends on the
+encountering probability. In our experiments, the bitrate
+increases under ISF and NWF can reach around 60% and
+40% of the maximum bitrate increase, respectively.
+2) Social Welfare: Figure 5 shows the average social
+welfares and welfare gains with different percentages
+of video users under different network conditions. The
+key informations and observations regarding the social
+welfare are similar as those regarding the average bitrate
+in Figure 4, hence we skip the detailed discussions and
+only present the results regarding the cooperation gain.
+Specifically, using our proposed algorithm, the maximum
+social welfare increase ratio (under the full cooperation
+scenario) can be up to 20% ∼ 40% with 20% video
+users, 10% ∼ 20% with 60% video users, and 5% ∼ 15%
+with 100% video users. The social welfare increase under
+ISF and NWF can reach 60% and 40% of the maximum
+welfare increase, respectively.
+3) Algorithm Comparison: From Figure 4 (a) to (c)
+and Figure 5 (a) to (c), we can also evaluate the performance
+difference between our proposed algorithm and
+the algorithms in [6] and [7] in the multi-user scenario.
+By comparing the difference between solid bars (for the
+non-cooperative scenario) and the difference between
+hollow bars (for the multi-user cooperative scenario), we
+can find that the performance difference (between our
+algorithm and the algorithms in [6], [7]) become more
+significant in the cooperative scenario, especially when
+the video user percentage is small. Such a performance
+difference is mainly due to the non-optimal segment
+owner selection in [6], [7]. In our algorithm, however,
+the segment owner selection and the bitrate adaptation
+8 CONCLUSION
+In this work, we proposed a multi-user cooperative
+video streaming framework for video streaming over
+wireless networks. We analyzed the theoretical performance
+bound of the proposed cooperative streaming
+system, and designed the online streaming algorithm for
+the practical implementation. We conducted extensive
+experiments with real data traces, and illustrated both
+the cooperation gain of the cooperative streaming system
+and the performance gain of the proposed online streaming
+algorithm. Adaptive bitrate streaming is a new technology
+trend of mobile video streaming, and the research
+on multi-user cooperative video streaming is becoming
+increasingly important. This paper developed a unified
+cooperative framework, for both theoretical analysis and
+practical implementation. There are several interesting
+future research directions in this area. An important one
+is to consider the users’ strategic behaviours and the
+associated incentive issues in the cooperative streaming.
+9 ACKNOWLEDGMENTS
+This work is supported by the National Natural Science
+Foundation of China (Grant No. 61771162, 61472204,
+and 61521002) and the General Research Funds (Project
+Number CUHK 14219016) established under the University
+Grant Committee of the Hong Kong Special
+Administrative Region, China. This work is also supported
+by the Beijing Key Lab of Networked Multimedia
+(Z161100005016051). Jianwei Huang is the corresponding
+author.
+REFERENCES
+[1] Cisco VNI: Global Mobile Data Traffic Forecast Update, 2016-
+2021.
+[2] S. Akhshabi, Ali C. Begen, and C. Dovroli, “An Experimental
+Evaluation of Rate-Adaptation Algorithms in Adaptive Streaming
+over HTTP,” Proc. ACM MMSys, 2011.
+[3] Adobe Systems, “HTTP Dynamic Streaming,” url: http://www.
+adobe.com/products/hds-dynamic-streaming.html
+[4] R.P. Pantos, “HTTP Live Streaming draft-pantos-http-livestreaming-13,”
+Network Working Group, 2014, url: http://tools.
+ietf.org/html/draft-pantos-http-live-streaming-13
+[5] Microsoft, “Smooth Streaming,” url: http://www.iis.net/
+downloads/microsoft/smooth-streaming
+[6] T. Y. Huang, R. Johari, N. McKeown, M. Trunnell, and M. Watson,
+“A buffer-based approach to rate adaptation: Evidence from a
+large video streaming service,” Proc. ACM SIGCOMM, 2014.
+[7] Z. Li, X. Zhu, J. Gahm, R. Pan, H. Hu, A. C. Begen, D. Oran,
+“Probe and adapt: Rate adaptation for http video streaming at
+scale,” IEEE Journal on Selected Areas in Communications, 32(4):719-
+733, 2014.
+[8] M. Tang, L. Gao, H. Pang, J. Huang, and L. Sun, “Optimizations
+and Economics of Crowdsourced Mobile Streaming,” IEEE Communications
+Magazine, 55(4):21-27, 2017.
+[9] Y. Zhang, C. Li, L. Sun, “DECOMOD: collaborative DASH with
+download enhancing based on multiple mobile devices cooperation,”
+Proc. ACM MMSys, 2014.
+[10] N. Golrezaei, P. Mansourifard, A. F. Molisch, and A. G. Dimakis,
+“Base-Station Assisted Device-to-Device Communications
+for High-Throughput Wireless Video Networks,” IEEE Transactions
+on Wireless Communications, 13(7):3665-3676, 2014.
+[11] L. Keller, A. Le, B. Cici, H. Seferoglu, C. Fragouli, and A.
+Markopoulou “MicroCast: Cooperative Video Streaming on
+Smartphones,” Proc. ACM MobiSys, 2012.
+[12] Y. Cao, X. Chen, T. Jiang, and J. Zhang, “SoCast: social ties based
+cooperative video multicast,” Proc. IEEE INFOCOM, 2014.
+[13] W. Pu, Z. Zou, and C. W. Chen, “Video adaptation proxy for
+wireless dynamic adaptive streaming over HTTP,” IEEE Workshop
+Packet Video, 2012.
+[14] M. Tang, S. Wang, L. Gao, J. Huang, and L. Sun, “MOMD:
+A Multi-Object Multi-Dimensional Auction for Crowdsourced
+Mobile Video Streaming,” Proc. IEEE INFOCOM, 2017.
+[15] M. Tang, L. Gao, H. Pang, J. Huang, and L. Sun, “MultiDimensional
+Auction Mechanism for Mobile Crowdsourced
+Video Streaming,” Proc. IEEE WiOpt, 2016.
+[16] L. Gao, M. Tang, H. Pang, J. Huang, and L. Sun, “Performance
+Bound Analysis for Crowdsourced Mobile Video Streaming,”
+Proc. IEEE CISS, 2016.
+[17] X. Kang and Y. Wu, “Incentive Mechanism Design for Heterogeneous
+Peer-to-Peer Networks: A Stackelberg Game Approach,”
+IEEE Transactions on Mobile Computing, 14(5):1018-1030, 2015.
+[18] M. Klusch, P. Kapahnke, X. Cao, B. Rainer, C. Timmerer, and S.
+Mangold, “MyMedia: mobile semantic peer-to-peer video search
+and live streaming,” Proc. ACM MOBIQUITOUS, 2014.
+[19] B. Rainer, C. Timmerer, P. Kapahnke, and M. Klusch, “Real-time
+multimedia streaming in unstructured peer-to-peer networks,”
+Proc. IEEE CCNC, 2014.
+[20] G. Iosifidis, L. Gao, J. Huang, and L. Tassiulas, “Incentive
+Mechanisms for User-Provided Networks,” IEEE Communications
+Magazine, 52(9):20-27, 2014.
+[21] G. Iosifidis, L. Gao, J. Huang, and L. Tassiulas, “Enabling CrowdSourced
+Mobile Internet Access,” Proc. IEEE INFOCOM, 2014.
+[22] Open Garden, url: http://opengarden.com/
+[23] Karma, url: https://yourkarma.com/
+[24] Tethering of AT&T, url: www.att.com/shop/wireless/tethering.html
+[25] K. Mori, S. Hatakeyama, H. Shigeno, “DCLA: Distributed Chunk
+Loss Avoidance Method for Cooperative Mobile Live Streaming,”
+Proc. IEEE AINA, 2015.
+[26] T. Wu, W. Dou, Q. Ni, S. Yu, and G. Chen, “Mobile Live Video
+Streaming Optimization via Crowdsourcing Brokerage,” IEEE
+Transactions on Multimedia, 19(10):2267-2281, 2017.
+[27] IngKee, url: www.ingkee.com
+[28] Youtube Live, url: www.youtube.com/live dashboard splash
+[29] Facebook Livestream, url: www.facebook.com/livestream
+[30] G. Iosifidis, L. Gao, J. Huang, and L. Tassiulas, “A Double Auction
+Mechanism for Mobile Data Offloading Markets,” IEEE/ACM
+Transactions on Networking, 23(5):1634-1647, 2014.
+[31] T. Luo, S. S. Kanhere, J. Huang, S. K. Das, and F. Wu, “Sustainable
+Incentives for Mobile Crowdsensing: Auctions, Lotteries, and
+Trust and Reputation Systems,” IEEE Communications Magazine,
+55(3):68-74, 2017.
+[32] L. Gao, Y. Xu, and X. Wang, “MAP: Multi-Auctioneer Progressive
+Auction for Dynamic Spectrum Access,” IEEE Transactions on
+Mobile Computing, 10(8):1144-1161, 2011.
+[33] C. Jiang, L. Gao, L. Duan, and J. Huang, “Data-Centric Mobile
+Crowdsensing,” IEEE Transactions on Mobile Computing, 2017.
+[34] Q. Ma, L. Gao, Y.F. Liu, and J. Huang, “Incentivizing WiFi
+Network Crowdsourcing: A Contract Theoretic Approach,”
+IEEE/ACM Transactions on Networking, 2018.
+[35] L. Gao, J. Huang, Y. Chen, and B. Shou, “An Integrated Contract
+and Auction Design for Secondary Spectrum Trading,” IEEE
+Journal on Selected Areas in Communications, 31(3):581-592, 2013.
+[36] L. Duan, L. Gao, and J. Huang, “Cooperative Spectrum Sharing:
+A Contract-based Approach,” IEEE Transactions on Mobile Computing,
+13(1):174-187, 2014.
+[37] L. Gao, X. Wang, Y. Xu, and Q. Zhang, “Spectrum Trading
+in Cognitive Radio Networks: A Contract-Theoretic Modeling
+Approach,” IEEE Journal on Selected Areas in Communications,
+29(4):843-855, 2011.
+[38] X. Zhang, Z. Yang, W. Sun, Y. Liu, S. Tang, K. Xing, and X.
+Mao, “Incentives for mobile crowd sensing: A survey,” IEEE
+Communications Surveys & Tutorials, 18(1):54-67, 2016.
+[39] L. Gao, G. Iosifidis, J. Huang, L. Tassiulas, and D. Li, “Bargainingbased
+Mobile Data Offloading,” IEEE Journal on Selected Areas in
+Communications, 32(6):1114-1125, 2014.
+[40] T. Camp, J. Boleng, and V. Davies, “A survey of mobility models
+for ad hoc network research,” Wireless Communications and Mobile
+Computing, 2(5):483-502, 2002.
+[41] P. Yuan and H.-D. Ma, “Opportunistic Forwarding with Hotspot
+Entropy,” Proc. IEEE WoWMoM, 2013.
+[42] N. Balasubramanian, A. Balasubramanian, and A. Venkataramani,
+“Energy consumption in mobile phones: a measurement
+study and implications for network applications,” Proc. ACM
+SIGCOMM, 2009.
+[43] M. A. Hoque, M. Siekkinen, and J. K. Nurminen, “Energy efficient
+multimedia streaming to mobile devicesła survey,” IEEE
+Communications Surveys & Tutorials, 16(1):579-597, 2014.
+[44] M. J. Neely, Stochastic Network Optimization with Application to
+Communication and Queueing Systems, Morgan & Claypool, 2010.
+[45] G. P. Perrucci, F. H. Fitzek, and J. Widmer, “Survey on energy
+consumption entities on the smartphone platform, Proc. IEEE
+VTC-Spring, 2011.
+[46] http://crawdad.cs.dartmouth.edu/ilesansfil/wifidog/
+[47] http://www.nextwifi.cn/wifind/
+[48] http://www.bestv.com.cn/
+[49] Technical Report at arXiv, url: https://arxiv.org/abs/xxxx.xxxx

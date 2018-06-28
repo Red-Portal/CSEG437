@@ -1,0 +1,29 @@
+First look at iOS 12: New AR features and memoji
+
+The iOS 12 - slated to be available in September for iPhones and iPads - will come with numerous new features.
+
+They include Siri Shortcuts for third-party integrations, grouped notificationsand the new Do Not Disturb during Bedtime feature that dims the display and hides all notifications on the lock screen. And CarPlay will support third-party navigation apps such as Google Maps.
+
+But what caught my eye is Apple's new developer kit for augmented reality (AR), the ARKit 2. It allows developers to create a persistent AR experience by adding virtual AR worlds to real-world objects. It also allows shared AR experiences, such that multiple users can see the same AR world and interact with it.
+
+The best example is the Lego AR game. It was demoed during the Worldwide Developers Conference keynote and I got to try it a day later. And after playing it, I think this is the future of AR.
+
+You start the game by pointing your device at a Lego building, which activates the game world. You can add characters - like a Lego Batman - and vehicles into the AR world. You can then control them and get them to finish tasks such as putting out a fire or rescuing people from the fire.
+
+I can already imagine Lego coming up with Star Wars-themed sets, so you can control Darth Vader and Luke Skywalker with TIE Fighter and X-Wing starships. Not to mention, Pokemon Go might finally see a player-versus-player battle using this new AR technology.
+
+In iOS 12 is an Apple AR app called Measure, which you can use to measure objects by plotting a virtual line from one point to another. I found it to be fairly accurate. For example, I measured the diagonal length of my 55-inch TV and the app displayed it as close to 56 inches.
+
+Another iOS 12 feature - and it is one which I think might be the killer feature - is Memoji, which lets users create an animated emoji.
+
+Yes, there are plenty of apps that have tried to do something similar, but I think Memoji is much more fun. It does not try to take a picture and create an animoji that looks like you. Instead, you create and customise the memoji on your own terms.
+
+Starting with a default face, you can change your skin tone or add freckles, select a hairstyle and hair colour and choose your head shape as well as the shape and colour of your eyes.
+
+There are three noses, six lips and 16 lip colours to choose from. You can also add facial hair and eyewear.
+
+Somehow, I managed to create a memoji that looks like a cute anime version of myself. Of course, you can go to the other extreme of creating something that does not look like you at all. It is up to you.
+
+Once you have created your memoji, you can save and use it on iMessage or FaceTime video chats.
+
+Trevor Tan

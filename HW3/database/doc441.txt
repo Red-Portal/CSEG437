@@ -1,0 +1,43 @@
+The original Starcraft was released on March 31st, 1998. With its release came a plethora of die hard Starcraft junkies that could not get enough of the game. Years later Blizzard announced they were working on a Starcraft 2. Starcraft junkies were hoping year after year Starcraft
+
+ 
+2 would hit the stores shelves with no luck. Now, finally, one of the most anticipated games of all-time has been release today, July 27th, 2010... over 12 years after the initial release of the Starcraft.
+
+The new Starcraft II was programmed with a totally new 3D graphics engine that is capable of handing visually stunning landscapes and larger armies than were possible in the original Starcraft.
+
+VERY IMPORTANT: The original version of Starcraft may play flawlessly on your older computers. But the new Starcraft 2 will NOT play on the same old computers. With its new 3D graphics engine Starcraft 2 demands a lot faster computer with a good graphics card.
+
+Checkout the Starcraft 2 system requirements below BEFORE you buy it for your PC or Mac.
+
+PC MINIMUM System Requirements
+? Operating System: Windows XP, Vista or Windows 7 (all versions of Windows must be fully updated)
+? CPU: Intel Pentium 4 2.6GHz or equivalent AMD Athlon processor
+? RAM: 1 GB on XP / 1.5 GB on Vista and Windows 7
+? Graphics Card: 128 MB nVidia PCI express GeForce 6600 GT or ATI Radeon 9800 Pro or better video card
+? DirectX: Microsoft DirectX 9.0c
+? Hard Drive: 12 GB free space
+? DVD-Rom drive
+? Broadband Internet Connection (DSL, Cable, T1, etc.)
+
+PC RECOMMENDED System Requirements
+? Operating System: Windows Vista or Windows 7 (all versions of Windows must be fully updated)
+? CPU: Dual Core 2.4 GHz processor
+? RAM: 2 GB
+? Graphics Card: 512 MB nVidia PCI express GeForce 8800 GTX or ATI Radeon HD 3870 or better video card
+NOTE FROM BLIZZARD: Due to potential programming changes, the Minimum System Requirements for this game may change over time.
+
+MAC MINIMUM System Requirements
+? Operating System: OS X 10.5.8, 10.6.2 or newer
+? CPU: Intel processor
+? RAM: 2 GB
+? Graphics Card: nVidia GeForce 8600M GT or ATI Radeon X1600 or better
+? Hard Drive: 12 GB free space
+? DVD-Rom drive
+? Broadband Internet Connection (DSL, Cable, T1, etc.)
+? 1024x720 minimum display resolution
+
+MAC RECOMMENDED System Requirements
+? CPU: Intel Core 2 Duo processor or better
+? RAM: 4 GB
+? Graphics Card: nVidia GeForce 9600M GT or ATI Radeon HD 4670 or better video card
+NOTE FROM BLIZZARD: Due to potential programming changes, the Minimum System Requirements for this game may change over time

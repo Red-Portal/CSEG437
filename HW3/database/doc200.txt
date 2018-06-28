@@ -1,0 +1,48 @@
+HDTV - The Tech Specs
+In order to understand the specifics of how HDTV works, its best to start off with
+a discussion of the current technical specs of traditional Analog TV.
+
+In a typical analog TV, a 6 MHZ analog signal carries intensity and color
+information for each scan line of the picture. In the U.S., an analog TV 
+signal has 525 scan lines (Europe has 625) for the image, and each image is 
+refreshed every 30th of a second. The horizontal resolution is equivalent to 
+approx 500 dots for a color set.
+
+Analog signals are transmitted through a process similar to radio transmission. 
+The signal is susceptible to "ghosting" or snow depending on the distance between 
+the tower emitting the signals and the location of the TV the signal is being received 
+from. The further away your TV is, the poorer the reception might be. There is also the
+matter of "bandwidth" (the amount of data that can be passed along a communication 
+channel) assigned to a particular TV channel, which might further interfere with the
+resolution and overall level of quality of the image.
+
+In comparison, digital signal transmission is either "on" or "off"-eliminating any 
+gradual signal loss or "ghosting." Your TV is either able to receive the signal or not, 
+there is no in between. DTV signals are made up of "bits" which take up much less space 
+than traditional analog signals. Thus, the current bandwidth sizes which accommodate analog
+signals allow DTV broadcasters to provide extra features such as surround sound, text 
+services, multiple language audio etc. There are currently 18 approved DTV formats 
+(HDTV is one of those formats). The ability to broadcast in true widescreen format 
+(16 x 9) is also a major plus with DTV transmission, transforming the TV viewing 
+experience into something much more akin to watching a movie in a theater.
+
+HDTV,or High Definition TV represents the highest level of quality available in the 
+class of digital televsion. All HDTV's are digital, however, not all digital TV's are HD.
+
+HDTV has either 720 or 1080 scan lines of resolution (in comparison to the 525 scan
+lines available in analog TV sets). Each additional scan line translates into a much 
+sharper picture, resulting in film-like quality. 720p (the "p" stands for progressively
+which refers to how the lines are scanned) is currently considered the HDTV "standard" 
+and has been adopted by Fox and ABC as their minimum HDTV broadcasting standards. 
+
+ 
+1080i (1080 lines of resolution scanned in alternate lines of 540 each) is the most commonly
+used HDTV format and has already been adopted by NBC, CBS, PBS and HBO as their HDTV standard.
+In order to fully appreciate the quality of 1080i, it should be viewed on a TV larger than 
+36". The drawback to this format is that the signal is displayed in an "interlaced" manner,
+meaning that lines are scanned alternately rather than progressively. However, this broadcast
+format is thought to display the most detailed images, of all of the 18 approved DTV formats.
+
+HDTV requires special production and transmission equipment, as well as an HDTV equipped 
+television in order to view it properly.
+

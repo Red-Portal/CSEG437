@@ -1,0 +1,3 @@
+What is the difference between "phone memory" and "internal storage" in an Android phone?
+ Phone storage is an embedded memory in phone and this is the memory part that is allowed to the user to access it. 
+Your additional apps are installed in this memory and can be seen when it is connected with PC. Also it stores pictures, music and videos. 

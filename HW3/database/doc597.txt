@@ -1,0 +1,24 @@
+ARM Vulkan: Built for Modern Mobile Systems
+
+What is Vulkan?
+Vulkan is a new, open standard, cross platform API designed from the ground up to enable applications to run more efficiently on modern CPU and GPU architectures spanning desktop, console and most importantly, mobile.
+
+Who¡¯s going to use Vulkan?
+Every application on a mobile device uses graphics in some way, for UI if nothing else. This includes the operating system, with Google in particular having made very clear statements of Vulkan support for Android, suggesting it will very likely become the core graphics API for that platform. Vulkan has received an unprecedented amount of industry support from OS vendors, silicon vendors, game engine developers and software developers.
+
+Higher performance at lower power
+On mobile platforms Vulkan is a game changer, offering lower overhead, more direct control over the GPU and lower CPU usage. The end-user benefit is far more than bigger and better game graphics. Vulkan is a highly efficient API enabling developers to optimize their applications for significantly lower energy consumption than was previously possible.
+
+Lower CPU usage and minimum energy consumption
+Multi-thread / multicore friendly
+
+Traditional graphics APIs were not designed for multi-threaded use and required a lot of synchronization with the CPU to manage draw calls, resulting in high CPU overhead with the CPU becoming a bottleneck, especially on mobile devices. Vulkan was designed from the ground up to minimize driver overhead, enable CPU multi-threading with greater control over memory management for high-efficiency graphics and compute processing performance.
+
+Direct GPU control with lower driver overhead
+
+Applications using traditional graphics APIs can easily max out CPU usage during complex drawing, driving up energy consumption and generating very high device heat. GPU drivers needed to do a lot of work leveraging CPU to manage multiple rendering and compute processes. Vulkan provides developers with much greater control over GPU processing, enabling them to more easily balance graphics and compute loads across multiple cores. This results in low per core usage, lower overall power consumption, less device heat and considerably longer battery life.
+
+
+With great power comes great responsibility
+Vulkan has been designed with modern mobile GPU rendering and compute technologies in mind. Application developers can now manage how things are ordered and executed on their own rather than leaving it up to a generic driver. This gives them more work to do but also provides more flexibility in designing applications with better performance and lower energy consumption than was possible using OpenGL ES.
+

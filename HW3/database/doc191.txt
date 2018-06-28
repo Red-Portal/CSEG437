@@ -1,0 +1,11 @@
+All HDTVs must support DVI-V or HDMI for digital video streams. If an HDTV has both, we use DVI-V. We do not test HDTVs that have neither.
+
+We test under two different lighting configurations. The standard test suite is performed under 5000K lighting (one bulb per bank). The bright-light test is performed under banks of mixed bulbs (two 6500K bulbs and one 5000K bulb).
+
+We place the HDTVs on long tables, with the midpoint roughly at eye-level for someone sitting in a chair. HDTV vendors have said they design their sets so that the viewers' eyes will be at the midpoint when the set is placed on the ground and the viewers are seated.
+
+We use a color analyzer to choose the preset color temperature setting that most closely matches the recommended setting of 6500K. We then conduct a consumer level-calibration using "AVIA: Guide to Home Theater and Digital Video Essentials." We adjust all available end-user accessible controls, following the instructions on the discs. The resulting calibration will be better than one performed by an end-user--our target reader--but not as precise as one done by a professional.
+
+Content for the jury tests was recorded from various local off-air (antenna) sources using a MyHD PCI card with a DVI-HD daughtercard on a PC test bed. The content is played from the PC through a DVI distribution amplifier to the HDTVs.
+
+To ensure consistency across test batches, we include a previously tested baseline HDTV of the same size as the new HDTVs in each test batch.

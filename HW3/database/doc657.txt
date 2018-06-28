@@ -1,0 +1,18 @@
+Android P Tackles Phone Addiction, Distraction
+By John P. Mello Jr. 
+May 10, 2018 5:00 AM PT
+
+Google's Android P mobile operating system includes tools to address smartphone addiction and distraction
+Google on Tuesday revealed some major new features in the next version of its Android operating system for mobile devices.
+
+Now in public beta, the OS known as "Android P" includes features designed to address growing concerns about phone addiction and distraction.
+
+For example, a dashboard will show users how often, when and for how long they use each application on their phone. What's more, they can set time limits on usage.
+
+With the help of artificial intelligence, Android P also will watch how a user handles notifications. If notifications from an app constantly are swiped away, Android P will recommend notifications be turned off for that program.
+
+"Do Not Disturb" mode has been beefed up in Android P. Users will be able to set the mode so there are no visual cues at all on a display of notifications, not even in the notification drawer.
+
+The mode can be activated simply by placing the phone face down on a flat surface. If a phone is set up to separate work from personal apps, it can be configured to mute all apps at once with a single toggle.
+
+Moreover, there's a "wind down" feature that will take the phone into Do Not Disturb mode at a bedtime set by the user.

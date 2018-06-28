@@ -1,0 +1,2 @@
+Symbian OS is one of Nokia's mobile operating systems for mobile devices and smartphones, with associated libraries, user interface, frameworks and reference implementations of common tools, originally developed by Symbian Ltd. It is a descendant of Psion's EPOC and runs exclusively on ARM processors, although an unreleased x86 port existed.
+

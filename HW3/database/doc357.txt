@@ -1,0 +1,32 @@
+galaxy hurmmingbird cpu
+
+Did you know the Samsung Galaxy S contains the fastest graphics processing unit of any Android phone? Neither did I because Samsung felt that spec wasn°Øt important enough to include in their official press release.
+
+It took me awhile to realize it, but I was watching the Galaxy S keynote highlights and noticed Samsung°Øs Omar Khan mention their 1 GHz chip could °∞process a staggering 90 million triangles per second°±. He claimed this was three times faster than any smartphone so I went and verified the numbers. The Snapdragon platform (QSD8x50) only does 22 million triangles per second.
+
+So how could this be? How could Samsung produce one of the most powerful Cortex-A8 based processors and just completely leave it off their press kit for the Galaxy S?
+
+It took me a lot of searching (really, I should be sleeping), but I was able to dig up all the goods on this magical processor.
+
+Apparently the Samsung Galaxy S features their new S5PC110 application processor which was announced last year. This processor contains an ARM Cortex-A8 core paired with a PowerVR SGX540 GPU.
+
+The Cortex-A8 core is codenamed Hummingbird and it was designed by Intrinsity who claims it is the fastest Cortex-A8 processor around. I will spare you that I°Øm some kind of ARM architecture expert and refer you to their press release for more info.
+
+Very little is know about the PowerVR SGX540 because it has only been shown off on two device so far ? the Samsung Galaxy S (GT-I9000) and the Samsung Wave (S8500).
+
+Here is a GPU comparison for some of the leading smartphones:
+
+°·Motorola Droid: TI OMAP3430 with PowerVR SGX530 = 7-14 million(?) triangles/sec
+°·Nexus One: Qualcomm QSD8x50 with Adreno 200 = 22 million triangles/sec
+°·iPhone 3G S: 600 MHz Cortex-A8 with PowerVR SGX535 = 28 7 million triangles/sec
+°·Samsung Galaxy S: S5PC110 with PowerVR SGX540 = 90 million triangles/sec
+And for comparison a few consoles:
+
+°·PS3: 250 million triangles/sec
+°·Xbox 360: 500 million triangles/sec
+As you can clearly see, the Samsung Galaxy S comes out on top of the smartphones by a wide margin (but not quite those PS3 graphics in your pocket yet).
+
+So to recap, the Samsung Galaxy S has the best display (Super AMOLED) and fastest processor of any Android smartphone that has been officially announced to launch this year.
+
+I wonder what else Samsung is trying to hide from us (they have not disclosed the RAM either).
+

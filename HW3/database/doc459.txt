@@ -1,0 +1,48 @@
+Nokia Lumia 820 and 920: Wireless Charging, High Hopes
+
+Ten years ago, Nokia was a household name. It sold a majority of the world's cellphones and didn't have to worry about rivals, like Apple or Google. Today, Nokia holds less than 10 percent of smartphone market share.
+
+In 2011, the company announced that it was betting the house on Microsoft's Windows Phone operating system. Today it is announcing new handsets -- the Lumia 820 and 920 -- which it hopes are its ticket back to the top.
+
+"It was in February of 2011 where we began our strategic shift at Nokia, and we announced our partnership with Microsoft," Nokia CEO, Stephen Elop, told ABC News in an interview.
+
+"What today represents is the next big step in that journey, because we're introducing the next generation of Windows Phone devices from Nokia, and, of course, those are using the Windows Phone 8 platform, which will be coming into the market in the quarter ahead." 
+
+WATCH: ABC News' Interview With Nokia CEO 
+
+Differentiation Through Hardware 
+Nokia is one of many phone makers planning to release handsets that run Microsoft's new operating system, but Elop said he and his team have worked hard to make sure their phones stick out. And stick out they do, especially in design and color.
+
+Nokia is using a similar hardware design to its Lumia 900. It really doesn't look like any other type of phone on the market. The polycarbonate glossy back, which comes in red, yellow, and gray, has curved edges and the screens are bright. The 920 has a large ClearBlack 4.5-inch screen and the 820 has a 4.3-inch screen. The designs of the phones are beautiful and truly different from all others out there. And both phones have high end specs too -- a dual-core processor, new Synaptic touch screens that are ultra-responsive even when you have gloves on, Near Field Communication (NFC), and expandable storage slots.
+
+But there's also some secret sauce inside the hardware that makes the phone stick out. The first has to do with camera technology. Nokia has brought over its PureView camera technology from that crazy 41-megapixel phone to this new line, and while the phones have fairly average 8-megapixel cameras, the secret is in the software.
+
+"This particular camera lens on the 920 is actually floating inside that case. And what that means is as I hold this up to take a picture, and my hand may be shaking or I may be on a bicycle or in a car, but the lens automatically balances for that," Elop said as he demonstrated. There is also an augmented reality app called Nokia City Lens, which will overlay information on the Nokia Maps when you hold the camera up to your surrounding area.
+
+The new phones also have wireless charging capabilities. Inside the backs of both phones are plates that will allow you charge them simply by dropping the phone on a charging accessory; no need to plug it in. Nokia has teamed up with accessory makers to make charging pods and retailers, like the Coffee Bean, which will have the charging base stations in their stores. Nokia is also using a common standard for the wireless charging, so that means it could work with other brands charging systems. JBL will also be making speakers that match the phones; place the phone on the top of the speaker and you will be able to stream music from the phone to it.
+
+And that's where Elop believes the company is starting to do things differently than the others. "Things like that [wireless charging], where we're taking that first step and really showing the ability to differentiate within gives us confidence that we'll do well within Windows Phone, but more importantly all of Windows Phone has to compete with Android and Apple."
+
+
+Windows 8 and the App Ecosystem 
+But while Nokia has proven itself capable of differentiating with hardware, software is where the company faces its biggest obstacle. And it's not with the base Windows Phone 8 operating system. Windows Phone 8 already improves on Microsoft's already impressive software interface by including Skype integration, a new home screen layout, and turn-by-turn navigation.
+
+Apps have been another matter. Microsoft so far cannot keep up with Android and iOS.
+
+While the Android and iOS app stores have over 500,000 apps, the Windows Phone Marketplace only has about 100,000. And while it might not just be a numbers game, the hottest new apps arrive for the iPhone and Android before they do for Windows Phone (see Pinterest, Instagram, Draw Something, etc.)
+
+But Elop says that since Nokia partnered with Microsoft, thousands of apps have been added to the store. He also said that the app growth will surge as Windows 8 becomes available for laptops, desktops, and tablets. (More app developers will be able to write apps for both platforms.) Microsoft CEO Steve Ballmer said the same at the launch event for the phones: "The next app developer to make it big will be on Windows."
+
+Elop said he remains very confident in his decision to use Windows Phone rather than Android and also hinted at Nokia's plans to bring out a Windows 8 tablet.
+
+"The most important reason we did not go with Android is because we wanted to be different. We needed differentiation," he said. "You can look at all of the different Android devices out there, all of the textured backs, a bunch of black and gray cases. That's all fine. Nokia needs to stand for something different. "
+
+
+Turning it Around 
+The Lumia 820 and 920 are different and beautifully designed, that's for sure. But whether they will be able to get Nokia back to where it was years ago depends really on the public whether they will buy the phones. Nokia isn't announcing the price of the phones today or what carriers will sell them; they will be available in the U.S. before the end of the year though. The Lumia 900, however, was sold at a very aggressive $99.
+
+And with the anticipation of Apple's iPhone 5 event and projections that Apple will sell over 10 million in just the first few weeks, it's apparent that it's increasingly hard to drag people away from what they know and have been happy with.
+
+But Elop hasn't given up the hope.
+
+"Within Nokia we talk a lot about a particular attitude, and that is the challenger mindset," he said. "We're still a very large company with a very large position in many markets around the world, and yet we have to operate like challengers and fight our way back every step of the way, and that's what we're doing. Today is an important step in that journey.

@@ -1,0 +1,68 @@
+New Xbox Controller Could Open Whole New World to Gamers With Disabilities
+
+Microsoft on Thursday introduced its new Xbox Adaptive Controller, designed specifically for gamers with disabilities. The new hardware can be used for game play with an Xbox One console or Windows 10 PC, and it offers Bluetooth plug-and-play compatibility.
+
+It supports Xbox Wireless Controller features such as button remapping, and it connects to external buttons, switches, joysticks and mounts. Microsoft developed the Xbox Adaptive Controller to enable gamers with physical disabilities to customize their respective setups.
+
+Microsoft partnered with several high-profile global organizations dedicated to providing accessibility to those with physical disabilities: The AbleGamers Charity, The Cerebral Palsy Foundation, Craig Hospital, SpecialEffect, and Warfighter Engaged. Microsoft developers also worked directly with gamers who have limited mobility.
+
+The Xbox Adaptive Controller will be available later this year for about US$100.
+
+Serious Control Panel
+
+The inspiration for the Xbox Adaptive Controller was a 2014 social media post featuring a photo of a custom gaming controller made by Warfighter Engaged, a nonprofit organization that develops gaming controllers for disabled veterans.
+
+It caught the attention of a Microsoft engineer, which resulted in a hackathon at Microsoft's 2015 Ability Summit, where the first prototype of a controller for people with disabilities was developed. Now, three years later, the final product is about ready for the market.
+
+Unlike the standard unit that is held in two hands, the Xbox Adaptive Controller utilizes a flat yet compact design that allows it to rest on a table.
+
+In the place of small joysticks that typically are controlled with a user's thumb are two round light-touch-enabled pads that players can use by rolling their palms on them or pressing with their hands. These offer essentially the same level of precision as the thumb joysticks on a normal controller, but they have an added option of providing an audible cue for another layer of sensory input.
+
+The Xbox Adaptive Controller also features a standard D-pad, an Xbox power button, and a profile button that allows users to shift among several mapping options.
+
+Where the Xbox Adaptive Controller offers serious flexibility is in its ability to work with other existing accessibility tools, including those that offer air-power input methods or foot pedals. These can connect to one the 19 3.5mm ports on the back panel of the controller. Each of these devices can be mapped to the unit, and can be modified on the fly without even pausing the game.
+
+Four Keys to Generating 7 Figure Sales on WooCommerce
+Specialty Controller
+
+The Xbox Adaptive Controller is designed from the ground up to be a unique controller for those with special needs.
+
+"Gaming -- and especially online games -- is an important outlet for people with disabilities," said Roger Entner, principal analyst at Recon Analytics.
+
+"They can often interact with others without having their disability play a role in the interaction," he told TechNewsWorld.
+
+"Particularly as we move to technologies like virtual reality, gaming can be one of the few ways a disabled person can step away from their disabilities, depending on what they are," said Rob Enderle, principal analyst at the Enderle Group.
+
+"For instance someone without legs or missing an arm or most of their fingers can still play a video game -- if they have the right controller -- as well or better than someone who isn't disabled," he told TechNewsWorld.
+
+"Any physical deformities are hidden behind the game avatar so the disabled person can, for a short time in game, experience what it is like to be treated for how they do -- not how they look," Enderle said. "Video games distract everyone from reality, and this can often be very important for someone struggling with the unfairness of a disability. So, combined, video games can be incredibly important to someone challenged by a disability."
+
+Innovative Adaptations
+
+To get this product to market actually may have taken some unique adaptation -- not in anything technical, but rather in the kind of thinking that is typical of companies such as Microsoft.
+
+"We have been around 14 years, but we spent some 10 years trying to think we were helping gamers with disabilities," said Mark Barlet, founder of AbleGamers.
+
+"Now we have spent the last few years trying to convince the market that people with disabilities played games, and had to convince the companies to put real effort into catering to those with disabilities," he told TechNewsWorld.
+
+"However, we noted that the management at these companies never saw the why, because it was only a small portion of the population, so it took a while to convince the industry that this was an untapped market," Barlet added. "Finally we had people that were passionately roaming the halls for years who were now in a position to make it happen."
+
+The advocacy, fact and reality finally converged three years ago, said Barlet.
+
+"We did warn Microsoft that it won't sell millions of these, but that they'll get these in the hands of everyone who wants them," he noted. "Why wouldn't Microsoft want more dedicated gamers in their camp?"
+
+Special Advantages
+
+As the Xbox Adaptive Controller is designed to allow for greater flexibility with other input devices, it also could be used for those who prefer something beyond the normal controllers. In some cases, it could lead to gamers trying to get a potentially unfair advantage.
+
+"Adaptive controllers could actually provide advantages in gaming because they, in theory, better match the controller to the person using it," suggested Enderle.
+
+"Right now, game controllers are pretty generic but people come in all shapes and sizes," he pointed out.
+
+"In other competitive sports we have, at the highest levels, custom tools designed for the individual athlete, but not so much with computer gaming yet," said Enderle. "These adaptive controllers, while initially focused on disabilities, could eventually open up a market for controllers that are specifically designed for the gamer that uses them."
+
+In most cases, the biggest advantage almost certainly will be opening up the world to those who have struggled just to enjoy the games for fun.
+
+Still, "if a controller for people with physical limitations gives someone an edge in a competition, all players will use it," said Recon Analytics' Entner.
+
+"I have personally played with quite a few players with disabilities, but only found out after quite a while," he said. "Many relish that they are treated like everyone else when they are behind a screen and interact with everyone unimpaired by the perception of others."

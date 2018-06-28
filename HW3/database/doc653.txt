@@ -1,0 +1,14 @@
+Apple Unveils New Siri Customization Tools at WWDC
+By John P. Mello Jr. 
+Jun 5, 2018 5:00 AM PT
+
+apple introduced new app customization tools for siri at worldwide developers conference 2018
+The next version of Apple's mobile operating system, iOS 12, will include a new feature that allows you to customize the way Siri works with applications on phones and tablets. The announcement was one of the highlights at the kickoff of Apple's Worldwide Developers Conference at the McEnery Convention Center in San Jose, California, on Monday.
+
+Called "Siri Shortcuts," the feature lets a user define a phrase that will trigger a set of actions by the apps on a device. For example, you could say, "Game Time" to get a team schedule from TeamSnap, or "Groceries" to fulfill a standing grocery order from a grocery app.
+
+Apple also announced a Shortcuts app to perform multiple tasks at the mention of a phrase. You could say, "Surf's Up," for instance, and your phone automatically would display the latest surf report and weather, give you an ETA from your current location to the beach, and remind you to put on sunscreen when you get there.
+
+"Apple has taken a lot of criticism for not making Siri more open," explained Ross Rubin, principal analyst at Reticle Research.
+
+"This essentially opens it up to any app, but the tradeoff is you may have to create your own custom phrases for some of these things to work," he told TechNewsWorld. "

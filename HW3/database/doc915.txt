@@ -1,0 +1,37 @@
+That Game on Your Phone May Be Tracking What You¡¯re Watching on TV
+
+
+At first glance, the gaming apps ? with names like ¡°Pool 3D,¡± ¡°Beer Pong: Trickshot¡± and ¡°Real Bowling Strike 10 Pin¡± ? seem innocuous. One called ¡°Honey Quest¡± features Jumbo, an animated bear.
+
+Yet these apps, once downloaded onto a smartphone, have the ability to keep tabs on the viewing habits of their users ? some of whom may be children ? even when the games aren¡¯t being played.
+
+It is yet another example of how companies, using devices that many people feel they can¡¯t do without, are documenting how audiences in a rapidly changing entertainment landscape are viewing television and commercials.
+
+The apps use software from Alphonso, a start-up that collects TV-viewing data for advertisers.
+
+Using a smartphone¡¯s microphone, Alphonso¡¯s software can detail what people watch by identifying audio signals in TV ads and shows, sometimes even matching that information with the places people visit and the movies they see. 
+
+The information can then be used to target ads more precisely and to try to analyze things like which ads prompted a person to go to a car dealership.
+
+More than 250 games that use Alphonso software are available in the Google Play store; some are also available in Apple¡¯s app store.
+
+Some of the tracking is taking place through gaming apps that do not otherwise involve a smartphone¡¯s microphone, including some apps that are geared toward children.
+
+The software can also detect sounds even when a phone is in a pocket if the apps are running in the background.
+
+Alphonso said that its software, which does not record human speech, is clearly explained in app descriptions and privacy policies and that the company cannot gain access to users¡¯ microphones and locations unless they agree.
+
+¡°The consumer is opting in knowingly and can opt out any time,¡± Ashish Chordia, Alphonso¡¯s chief executive, said, adding that the company¡¯s disclosures comply with Federal Trade Commission guidelines. 
+
+The company also provides opt-out instructions on its website.
+
+Alphonso declined to say how many people it is collecting data from, and Mr. Chordia said that he could not disclose the names of the roughly 1,000 games and the messaging and social apps with Alphonso software because a rival was trying to hurt its relationships with developers. (The New York Times identified many of the apps in question by searching ¡°Alphonso automated¡± and ¡°Alphonso software¡± in the Google Play store.)
+
+EDITORS¡¯ PICKS
+
+Keyless Cars and Their Carbon Monoxide Toll
+
+How Trump Uses Conspiracy Theories Like ¡®Spygate¡¯
+
+The Last Days of Time 
+

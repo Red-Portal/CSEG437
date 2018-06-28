@@ -1,0 +1,28 @@
+AI Smartphones Will Soon Be Standard, Thanks to Machine Learning Chip
+
+AI BUILT IN
+Almost every major player in the smartphone industry now says that their devices use the power of artificial intelligence (AI), or more specifically, machine learning algorithms. Few devices, however, run their own AI software. That might soon change: thanks to a processor dedicated to machine learning for mobile phones and other smart-home devices, AI smartphones could one day be standard.
+
+British chip design firm ARM, the company behind virtually every chip in today’s smartphones, now wants to put the power of AI into every mobile device. Currently, devices that run AI algorithms depend on servers in the cloud. It’s a rather limited set up, with online connectivity affecting how information is sent back and forth.
+
+by Dom Galeon	February 14, 2018 Artificial Intelligence
+IN BRIEF
+Today, smartphones that use machine learning depend on cloud servers, which limits how information is processed. Having a built-in artificial intelligence processing unit, however, could change that and increase a device's computing power.
+AI BUILT IN
+Almost every major player in the smartphone industry now says that their devices use the power of artificial intelligence (AI), or more specifically, machine learning algorithms. Few devices, however, run their own AI software. That might soon change: thanks to a processor dedicated to machine learning for mobile phones and other smart-home devices, AI smartphones could one day be standard.
+
+British chip design firm ARM, the company behind virtually every chip in today’s smartphones, now wants to put the power of AI into every mobile device. Currently, devices that run AI algorithms depend on servers in the cloud. It’s a rather limited set up, with online connectivity affecting how information is sent back and forth.
+
+
+
+Project Trillium would make this process much more efficient. Their built-in AI chip would allow devices to continue running machine learning algorithms even when offline. This reduces data traffic and speeds up processing, while also saving power.
+
+
+“We analyze compute workloads, work out which bits are taking the time and the power, and look to see if we can improve on our existing processors,” Jem Davies, ARM’s machine learning group head, told the MIT Technology Review. Running machine learning algorithms locally would also mean fewer chances of data slipping through.
+
+A STAPLE FOR MOBILE PHONES
+With the advantages machine learning brings to mobile devices, it’s hard not to see this as the future of mobile computing. ARM, however, isn’t exactly the first in trying to make this happen. Apple has already designed and built a “neural engine” as part of the iPhone X’s main chipset, to handle the phone’s artificial neural networks for images and speech processing.
+
+Google’s own chipset, for their Pixel 2 smartphone, does something similar. Huawei’s Mate 10 packs a neural processing unit developed by the Chinese smartphone maker. Amazon might follow soon with its own AI chips for Alexa.
+
+The MIT Tech Review notes, however, that ARM’s track record for energy-efficient mobile processors could translate to a more widespread adoption of their AI chip. ARM doesn’t actually make the chips they design, so the company has started sharing their plans for this AI chip to their hardware partners — like smartphone chipmaker Qualcomm. ARM expects to find their machine learning processor in devices by early 2019.

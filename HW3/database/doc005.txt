@@ -1,0 +1,40 @@
+﻿China Largely Silent on Telecom Strategy
+
+
+If the world’s telecommunications executives thought that bringing their industry’s biggest trade show to China would spur Chinese officials into opening their vast market, they were wrong — at least so far.
+
+Government officials have avoided using the ITU Telecom World 2006 conference in Hong Kong this week to say when they would allow next-generation mobile phone networks to enter the country.
+
+With third-generation services slow to take off in Europe and the United States, telecommunications suppliers have been counting on China to provide a major lift, and most say that they are ready to jump in whenever so-called 3G network building begins in earnest on the Chinese mainland. But, so far, the industry has encountered only delays and postponements.
+
+At the opening ceremony for the conference on Sunday and again Monday, Chinese leaders declined to announce a timetable. Three important decisions remain: which technology China will select, which mobile phone operators will get the licenses, and when. “China will consider three standards for 3G,” Wang Xudong, the minister for the information industry, said Monday. “The timing for issuing 3G licenses will be determined by the market.”
+
+With India and China together adding more than 12 million cellphone subscribers a month, the two countries are the fastest-growing markets for conventional networks. These networks are good for voice calls, but too slow to allow subscribers a comfortable experience surfing the “mobile Internet” on a cellphone.
+
+With present-day mobile phone use reaching a saturation point in many industrial economies, telecommunications supply executives can seem almost wistful about the potential for 3G networks in China, a $26 billion market for such systems.
+
+“This is for the government to decide, but there’s no negative,” said Frédéric Rose, president of the Asia-Pacific region for the newly merged Alcatel- Lucent.
+
+His boss, Patricia F. Russo, and the chief executives of Ericsson, Motorola and Nortel Networks are among those meeting here with clients, suppliers and Chinese officials. But China has shown a preference for developing and choosing its own standards, and if it does so in this case, some Western companies may be left out.
+
+The European version of 3G is called W-CDMA, a technology with the backing of Nokia and Ericsson; one used by some American carriers is called CDMA 1000x; and China’s is called TD-SCDMA. Technically, they are related, but there is little consensus on differences in quality.
+
+“I expect we will get some clarity by summer,” Mr. Rose said. “We expect there will be 3G networks operational in the main cities for the Olympics in September 2008.”
+
+Alcatel-Lucent gets about a third of its revenue from the Asia-Pacific region. Mr. Rose said the company was buffered in two ways from the impact of a decision about a 3G standard. First, it is actively investing in the second-generation business, which is still growing in China.
+
+Second, Alcatel-Lucent is prepared to jump into any of the three standards.
+
+Its TD-SCDMA equipment, through its Shanghai Bell joint venture with Datang Communications of China, is already being used in pilot networks in the country. And since Datang owns most of the TD-SCDMA intellectual property, Alcatel-Lucent would generally not pay royalty fees to use it. (Datang is also working with Siemens.)
+
+In addition, Alcatel-Lucent makes W-CDMA equipment for the European market. And the merger of Alcatel and Lucent Technologies brought to the combined company Lucent’s expertise in CDMA.
+
+Chinese manufacturers are also ready. ZTE and Huawei are among the biggest pushing for the TD-SCDMA standard, and they, too, make equipment for the competing standards. They would also be eager to see companies like Nokia and Motorola give up their dominance of the second-generation network business in China.
+
+Samsung of South Korea would like a piece of the action, as well. “We are ready to enter that market, whether it is TD-SCDMA or W-CDMA — whatever the standard,” said Jeong Han Kim, senior vice president for Samsung Electronics’ telecommunication network business. “We will be a major player in that area,” he said, citing two factories that Samsung has on the mainland. 
+
+Although 3G phone services like videoconferencing, Internet browsing and TV viewing may be more expensive than most Chinese can afford, Mr. Jeong said that “China has very big potential, so it will grow very fast.” 
+
+After three years of waiting, the telecommunications industry is still speculating. But there is one thing that companies can bank on, Mr. Rose said.
+
+“There’s no fear that 3G won’t happen in China.”

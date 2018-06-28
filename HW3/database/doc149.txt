@@ -1,0 +1,13 @@
+Mobile malware to get worse, McAfee predicts
+
+Malware attacks on mobile devices will likely increase in 2007, reports anti-malware maker McAfee in its "top ten predictions for security threats in 2007." With increased use of Bluetooth, WiFi, USB, multimedia, SMS, instant messaging, email, and the web, the chances are growing for "cross device contamination," the company says.
+
+During 2006, malware authors worked toward producing "PC-to-phone and phone-to-PC infection vectors," McAfee notes. In particular, MSIL/Xrove.A, a .NET malware that can infect a smartphone via ActiveSync, was successful as a PC-to-phone vector. Currently, phone-to-PC vectors "remain primitive in nature," for example, infecting devices via removable memory cards.
+
+"SMiShing," which ports email phishing techniques to SMS, is also expected to increase next year. In August, McAfee's Avert Labs received its first sample of a SMiShing attack -- a mass mailing worm that also sends SMS messages to mobile phones. By the end of September, four variants of the worm had been discovered, according to the company.
+
+McAfee expects "for-profit" mobile malware to increase in 2007. For example J2ME/Redbrowser, a Trojan horse program, pretends to access WAP (wireless access protocol) web pages via SMS messages, but instead sends SMS messages to "premium rate" numbers, thus costing the user more than intended.
+
+Commercially available mobile spyware was also on the rise in late 2006, and is expected to grow in 2007, according to McAfee. Most such programs monitor phone-numbers and SMS call-logs, or steal SMS messages by forwarding copies to another phone. Two particularly unsettling spyware examples, however, are one that enables eavesdropping by remotely activating the microphone on the victim's device, and another that activates a phone's camera.
+
+Naturally, McAfee recommends that both individuals and enterprises keep updated with the latest Data Definition Files (DATs), install the latest patches, and implement a "multi-layered approach" to detecting and blocking attacks.

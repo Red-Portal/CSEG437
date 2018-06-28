@@ -1,0 +1,8 @@
+Digital television
+
+Digital television (DTV) is a telecommunication system for broadcasting and receiving moving pictures and sound by means of digital signals, in contrast to analog signals in analog (traditional) TV. It uses digital modulation data, which is digitally compressed and requires decoding by a specially designed television set or a standard receiver with a set-top box.
+
+Digital television has several advantages over traditional TV, the most significant being use of a smaller channel bandwidth. This frees up space for more digital channels, other non-television services such as pay-multimedia services and the generation of revenue from the sales of frequency spectrum taken by analog TV. There are also special services such as multicasting (more than one program on the same channel), electronic program guides and interactivity.
+
+Digital television often has a superior image, audio quality and better reception than analog. However, digital television picture technology is still in its early stages and there are many advances yet to be made in eliminating picture defects not present on analog television or motion picture cinema. This is due to present-day limitations of bandwidth and the compression algorithms commonly used, such as MPEG2, the effects of which are not immediately apparent unless compared side by side with the original program source, such as a 16/35mm motion picture film print.
+

@@ -1,0 +1,13 @@
+River Bank modular powerbank offers plane-friendly power
+
+The River Bank from San Francisco-based EcoFlow Tech is a modular powerbank designed to provide power to a range of devices, whether wirelessly charging your phone, powering laptops in a makeshift office, ensuring your gadgets stay powered up while camping, or even jumpstarting your car. The company also says it's the largest portable charging system that you'll be able to legally fly with.
+
+The heart of the River Bank is the Main Module, which weighs 2 lb (0.9 kg) and measures 5.28 x 3.45 x 1.02 in (17.6 x 11.5 x 3.4 cm). It packs a 25,600-mAh, 94-Wh lithium-ion battery and can charge various devices via its two USB type A ports and two USB-C ports. An LED screen indicates remaining power and which ports are in use, while the wireless charging pad on top can charge up any Qi-compatible device. The Main Module can also be used as a USB hub, allowing data to be transferred between devices plugged into it.
+Its creators claim the Main Module can charge a laptop one to three times, a phone nine to 15 times, a tablet three times, a GoPro over 20 times, and a Nintendo Switch six times. Its own charge time will be four to six hours, or 12–18 – depending on the weather – if you're relying on the optional 21-watt solar charger.
+
+Attach the AC module, though, and you'll double the power you have access to, while also gaining an additional USB-C port and a 100-W AC port for powering devices that would usually require a wall outlet. It is the same length and width as the Main Module, but slightly thinner at 0.97 in (3.26 cm).
+The final piece of the stackable pie is a Car Module, which packs a 4,000-mAh, 44-Wh battery in a unit the same size as the AC Module. It also adds an additional USB-C port, but – as its name suggests – features a car jump starter port, which is claimed to be able to jump start a car up to 10 times.
+Each module can be used independently or stacked to increase power capacity. Combined, the modules boast a capacity of up to 51,200 mAh and 188 Wh. Separating the units means they can be carried aboard commercial flights, with no individual module going over the limit for batteries you can fly with.
+Having raised 3,319 percent of its original crowdfunding goal last year, EcoFlow is now at the production stage and offering up pre-orders at a discount through Indiegogo. Pledges start at $199 for the Main Module, and reach up to $489 for the Complete Energy pack that includes the Main Module, Car Module, AC Module and 21-W solar charger. Shipping is slated to begin in August if all goes to plan.
+The video below gives an overview of the River Bank.
+

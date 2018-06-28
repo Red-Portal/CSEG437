@@ -1,0 +1,19 @@
+Google retires the Tango brand as its smartphone AR ambitions move wider
+
+I was recently looking at a slide in the pitch deck of an AR startup and there was a graph mapping the addressable markets of individual smartphone AR platforms by devices. When rounding to the hundredth of a percent, Google’s  addressable market with Tango makes up 0.00% of the smartphone market.
+
+That’s a bit of a problem when Apple is about to bring smartphone AR to hundreds of millions of devices when it launches ARKit on iOS 11, likely in a couple of weeks. For Google, the time to scale was yesterday and that’s what it’s doing with the introduction of ARCore. Alongside the news, Google has confirmed that moving forward phones with Tango-like depth-sensing capabilities will be branded as ARCore compatible devices.
+
+It’s a big move considering the company just launched its second Tango device a few weeks ago, but it also showcases where the market is moving and how fast it’s heading there.
+
+Project Tango dropped the “Project” part of its name in June of last year to signal its exit from beta but it never seems to have reached far beyond the experimental. For the company’s part, Google AR/VR boss Clay Bavor says that he’s seen Tango as something to validate the use cases of AR.
+
+“Our goal with Tango was really to prove out the core technology and show the world that it’s possible,” Bavor told TechCrunch “Obviously others have started to invest in smartphone AR, our goal with Tango has always been to drive that capability into as many devices as possible.”
+
+Google definitely got the head start on the smartphone AR craze, but its focus on bringing high-end HoloLens-level 3D mesh-sensing technologies may have overestimated the willingness of OEMs to integrate expensive new camera layouts to power a technology that no one seems to have developed particularly game-changing applications for yet.
+
+As a result, over the past three years that Tango has been in the public eye, Google has managed to get it on just two fringe smartphones, the Lenovo Phab 2 Pro, a hulking beast of a phablet, and the Zenfone AR, a device which launched earlier this month. Both of these devices launched with Tango support as one of their most heavily marketed features.
+
+The lack of supported devices has stunted development on the platform considerably. According to Google Play metrics, only a handful of Tango-only apps have managed to breach 1,000 downloads. Even applications from companies like Amazon, which has an app called Product Preview that allows users to visualize accurately sized TVs in their home, have only recently managed to cross 1,000 downloads. Most paid apps have fallen quite short of that, with many garnering just a few hundred downloads.
+
+Shuttering the Tango brand is a major step for Google, and perhaps also a rather vocal acknowledgement that the excitement around smartphone AR has accelerated to a point where Google can no longer wait for hardware manufacturers to get on board to compete for developer interest.

@@ -1,0 +1,22 @@
+The Thermometer Meets the Smart Phone: Technology that Help Moms and Saves Lives.
+
+Body temperature. 
+
+It¡¯s an essential element to being a good mom and a good doctor. It¡¯s a gauge of the human body¡¯s well being and plays a valuable role in the management of many diseases, not the least of which is infection.  Every intern, parent and caregiver knows that feeling when ¡°your patient¡± spikes a temperature.  Sometimes, it¡¯s a human touch and yet other times it¡¯s the touch of technology.
+
+
+Taking a temperature is nothing new and the concept dates back to the 16th and 17th centuries.  And today, technology has made the process quick, efficient and accurate.  But problems still exist, espically for that restless child who resists the process.
+
+There¡¯s an app for that!  And here¡¯s another case where your smartphone is another key tool for both health and wellness.
+
+Accuracy meets convenience
+
+These days, the cell phone has become a kind of Swiss army knives ? no longer just for talking and listening. With smart phones, you can take a photo and video, play games, locate your position and do countless of other useful things. A new patent granted to Fraden Corporation of San Diego, may in the future allow smart phone become an accurate medical diagnosing instrument that, without physical contact, can instantly measure someones temperature and detect environmental hazards.
+
+There are two ways of taking temperature. One is by contacting the body, like by a tip of an oral thermometer touching under the tongue. The other is a non-contact method by detecting intensity of the invisible infrared light that naturally emanates from every surface in this Universe. This light is proportional to the surface temperature, so by measuring its brightness a microprocessor can compute the temperature. When nearly 30 years ago Dr. Jacob Fraden invented an ear thermometer working on this second principle, the infrared light sensor was so large that he needed a narrow gold-plated reflective tube to channel the light from the ear drum to the sensor. Today, thanks to a great progress in microelectronics, the infrared sensors became really tiny and even more sensitive. According to the patent, the infrared sensor is positioned inside a smart phone next to the digital camera lens. To measure temperature, the camera works as a viewfinder for a correct positioning the smart phone at about 1 inch from the patient¡¯s temple. When the phone detects that its position is just right, it instantly takes the body temperature with a clinical accuracy sufficient for any diagnostic purpose. Thus, a doctor, nurse or mom no longer needs to carry a thermometer ? it will be just there ? inside their smart phone.   An additional benefit may also be the avoidance of physical contact and the potential for disease transmission.  The inventors expect that this new patent will be incorporated into future smart phone and give everybody a powerful health care tool!
+
+But it doesn¡¯t stop there!  The technology can be used to measure the surface temperature of many objects, including something a important as your baby¡¯s bath water!
+
+Your smart phone is really getting smart
+
+Is there a Moore¡¯s law for the smart phone?  It seems like the progress in technology combined with consumer demand will drive innovation with a speed and direction that is almost impossible to predict.  But if this slope of innovation continues, health and wellness will be an important beneficiary.

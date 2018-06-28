@@ -1,0 +1,17 @@
+				Patents and MP3
+
+Many people think that the MP3 standard is free and open, and that the ISO reference source code is also. But in the beginning of September 98, Fraunhofer Institute, largely involved in the development of MPEG-audio compression, has sent a letter to several developers of "free" ISO-source based encoders. In this letter they make it very clear that all developers and publishers of MPEG-audio layer 3 (MP3) encoders based on ISO-source must pay a license fee to Fraunhofer. So, what is the real situation of MP3?
+
+First of all, a few word about how MPEG development is done. MPEG development is almost open. You can join the MPEG development group by asking your local MPEG contact. So a lot of people are working on the development of each MPEG standard. But they are all working for companies paying them. It is because this kind of algorithmic research needs a high level of knowledge and a lot of time (in most of the cases it is a full-time job). So the work done by those people is property of their respective employers. 
+
+When an MPEG format is approved by ISO, it contains several parts. It defines the bitstream syntax that must be used to be compliant, operations done by the decoder, and it provides an informative only source code for encoding and decoding, which is freely available. But this source code is purely indicative, as MPEG never defines any encoding rule. 
+
+The Fraunhofer Institute has been the main developer of MPEG audio Layer-3, and the MP3 standard that has been approved is mainly based on their work, which Fraunhofer has protected by several patents. They decided to join their patents with those of Thomson Multimedia (also known as RCA) in order to create a joint patents portfolio, and to ask royalties for the use of this portfolio.
+
+They now control a portfolio of 18 patents related to MP3, and one for Mp3Pro. This portfolio is very extensive, and cover various aspects of MP3 encoding. Some of those patents could be avoided in an MP3 implementation by either not using several features of the standard, or by using different algorithms than those specified. But what is important is that there are some of those patents that you will not be able to avoid, so practically it means that you can not use any MP3 implementation without using some parts of those patents. 
+
+You also have to remember that this portfolio is only the one of Fraunhofer and Thomson Multimedia. Some other companies could have some patents also covering parts of MP3. As an exemple, it's very likely that AT&T has such patents. Those companies might decide to ask for royalties in the future, but the MP3 standard is established since 1992, and no one except Fraunhofer/Thomson Multimedia asked for fees. 
+
+As fees could change, you should consult Mp3licensing.com for official up to date prices.
+
+Before closing this page, I would like to apologize to both my readers and Thomson Multimedia for having kept this article not up to date (and so innacurate) during a long period due to a lack of time.

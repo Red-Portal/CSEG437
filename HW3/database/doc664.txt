@@ -1,0 +1,9 @@
+Mobile IoT refers to low power wide area (LPWA) 3GPP standardised secure operator managed IoT networks in licensed spectrum. In particular, LPWA networks designed for IoT applications that are low cost, use low data rates, require long battery lives and often operate in remote and hard to reach locations. Existing cellular networks have evolved to deliver service to billions of new devices providing complete IoT connectivity.
+The GSMA Mobile IoT Initiative is designed to accelerate the commercial availability of low power wide area solutions in licensed spectrum.
+ 
+Why do we need low power wide area networks?
+To support the further growth and development of the Internet of Things (IoT), the mobile industry together with 3GPP has standardised a new class of GSM technologies in record time. LPWA networks will support devices requiring, low power consumption, long range, low cost and security.
+LPWA networks will play an important role in connecting up the billions of new devices making up the IoT. LPWA technologies are expected to serve a diverse range of vertical industries and support a range of applications and deployment scenarios, which existing mobile technologies may not currently be best placed to connect.
+ 
+Complementary technologies using licensed spectrum
+Due to the diversity of IoT application requirements, a single technology is not capable of addressing all of the LPWA use cases. For this reason the mobile industry has focused on two complementary licensed 3GPP standards: Long-Term Evolution for Machines (LTE-M) and Narrowband-Internet of Things (NB-IoT). LPWA technologies in licensed spectrum can be deployed in a simplified manner, without sacrificing key customer requirements, such as battery lifetime and security.

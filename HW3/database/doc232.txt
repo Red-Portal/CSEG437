@@ -1,0 +1,7 @@
+The World's Smallest Full HD Display
+
+The iPhone 4's Retina Display is 3.5 inches, with a resolution of 960x640 and a pixel density of 326ppi. Pretty much everyone agrees it looks great. So how incredible must ORTUS's new 4.8-inch, 1,920¡¿1080, 458ppi display look?
+
+ORTUS, a collaborative venture between Casio and Toppan Printing, announced the Hyper Amorphous Silicon TFT (HAST) display today in Japan. The company claims it's up to 30% brighter than other TFT displays, capable of producing 16.8 million colors and has a viewing angle of 160 degrees.
+
+But if the Retina Display, as Apple claims, is pushing up against the threshold for the human eye, is ORTUS's added pixel density really that important? I'm reserving judgment until I can watch Dark Knight on the thing.

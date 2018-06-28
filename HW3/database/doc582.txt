@@ -1,0 +1,13 @@
+﻿New wireless charging tech juices your phone from across the room using lasers
+
+Today’s wireless charging tech may be called “wireless” charging, but it’s not exactly what people think of when they imagine charging their phones without the indignity of having to plug them in. Wireless charging tech of the kind employed by Apple, Samsung, and other device makers still involves plugging in a charging pad and putting your phone on it; it just means you don’t have to directly attach your phone.
+
+Engineers at the University of Washington may now have developed the kind of long-range smartphone wireless charging folks have been longing for, and like the a lot of attention-grabbing tech innovations, it involves a laser. The result looks like the world’s most useful James Bond deathtrap.
+
+As detailed in a recent paper published in the Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable & Ubiquitous Technologies, the tech involves firing a narrow, invisible beam from a laser emitter, which can deliver a charge to a smartphone sitting on the other side of the room. This is achieved by mounting a thin power cell to the back of a smartphone, which enables it to absorb power from the laser. According to the team, the laser tech is as efficient for charging as plugging your smartphone charger into a USB port.
+
+“The advantage to our technique is that it can work at much longer ranges than the near field wireless charging solutions built into phones,” Vikram Iyer, a graduate student in Electrical Engineering at the University of Washington, told Digital Trends. “These chargers only work at ranges of a few centimeters. In contrast, our system works at ranges of a few meters or more. We chose lasers for our approach because they provide a focused beam of energy. Doing this with radio waves is much more inefficient because radio waves spread out significantly in space, requiring a very high transmit power to receive enough to charge a phone.”
+
+The team’s laser charging technology also features all-important safety precautions. These include the addition of a metal, flat-plate heatsink on the smartphone which dissipates excess heat from the laser, as well as a method of shutting off the laser if a person moves into its path. This involves using “guard beams” which don’t deliver charge, but monitor movement, and can shut off the charging laser immediately if a human body is detected.
+
+“What we’ve demonstrated here is a first proof of concept,” Iyer continued. “We’re looking at methods of improving things like the range and form factor of our current prototype. As far as commercialization, we’re currently exploring options.”

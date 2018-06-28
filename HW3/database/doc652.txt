@@ -1,0 +1,11 @@
+Next-Generation 7nm Chips Headed for Fall iPhones: Report
+by John P. Mello Jr.
+May 24, 2018 5:00 AM PT
+   
+Apple has ramped up production of its new 7-nanometer processor for its upcoming crop of iPhones.
+The new processor will be smaller, faster and more efficient than the 10nm processor in Apple's current iPhone line, Bloomberg reported Tuesday, citing people familiar with matter.
+Taiwan Semiconductor Manufacturing Company, one of Apple's partners, has begun mass production of the chip, which is expected to be called the "A12," according to the report.
+TSMC earlier this year announced that it had begun producing 7nm chips, but it didn't reveal at that time for whom it was producing the silicon, Bloomberg noted.
+It is very likely that Apple has began mass producing 7nm chips, said Charles King, principal analyst at Pund-IT.
+"The move to 7nm silicon was one of the reasons Apple shifted an increasing amount of business to TSMC and away from Samsung," he told TechNewsWorld.
+"Assuming that chip yields can support Apple's manufacturing needs, I expect we'll see iPhones with the new chips later this year," King added.

@@ -1,0 +1,85 @@
+<Ultra-Mobile PC>
+From Wikipedia, the free encyclopedia
+
+The Ultra-Mobile PC (abbreviated UMPC), previously known by its codename Project Origami, is a specification for a small form factor tablet PC. 
+It was developed as a joint development exercise between Microsoft, Intel, and Samsung, among others. Current UMPCs feature the Windows XP 
+Tablet PC Edition 2005 operating system and low-voltage Intel Pentium or VIA C7-M processors in the 1 GHz range.
+
+
+
+Features
+ 
+DialKeysUltra-Mobile PCs have a 20 cm (7-inch) or smaller touch sensitive screen at a minimum resolution of 800 ¡¿ 480. 
+Windows XP Tablet PC Edition is used with slight tweaks to the interface to make it more suited for the small form factor. 
+In addition, a software suite known as the Touch Pack Interface is included to make the interface more suitable for use of stylus as well as hand.
+
+The Ultra-Mobile PC is just a platform for which manufacturers can design any model they want, provided they meet or exceed the baseline 
+specifications laid down by Intel and Microsoft. However, the UMPC will be capable of running a full version of most PC operating systems. 
+When the UMPC was disclosed at CeBIT 2006, Samsung, ASUS and Founder had near-complete devices on display. The Samsung Q1 officially 
+launched on March 1, 2006
+
+UMPCs will be able to run any software that has been written for the Windows XP platform, though the small form factor will mandate some 
+changes to the interface. The standard Windows XP interface is the default, though a choice of having an interface more suited for the small 
+form factor is available with the Touch Pack Interface. Due to the small size, most UMPC do not feature a physical keyboard, 
+but a virtual keyboard, known as DialKeys, is provided in the Touch Pack Interface. Also, since the device has standard USB 2.0 connectivity, 
+external keyboards and mice can be attached.
+
+UMPC devices will include a 900 MHz Intel Celeron M, Pentium M or VIA C7-M processor, 256 MB to 1 GB of RAM, and a 30 to 160 GB harddisk, 
+depending on the manufacturer. Other ultra mobile devices have been found with AMD Geode CPUs (Raon Digital Vega) or 
+Transmeta Crusoe CPUs (OQO Model 01). Ultra-Mobile PCs can also feature GPS devices, webcams, fingerprint readers, stereo speakers, TV tuners, 
+or memory card readers. Bluetooth, Wi-Fi and Ethernet are all supported as well.
+
+UMPCs have enough processing power to support audio, video, and gaming, in addition to having rich support for browsing the internet as well as 
+for other communication and networking applications. Windows Media Player will be included, with a special skin designed to provide a better 
+experience on the small screen. The devices will also feature DirectX 8?class graphics, and all applications available for standard Tablet PCs 
+are expected to be compatible.
+
+In the future, the prices of UMPCs are expected to come down to the US$500 range. Battery life is expected to increase from the initial two 
+and a half hours to eight hours. Finally, UMPCs will be upgraded to include Windows Vista early in 2007.
+
+
+
+
+Available Devices
+
+The list of UMPCs on the market is growing beyond the first available UMPCs: Amtek's T700 and Samsung's Q1. The Amtek unit is being sold worldwide 
+through different OEM's. In the US it's the TabletKiosk eo v7110 and agopc ago7, in Europe the PaceBlade EasyBook P7 and it's Label Origami, 
+in Australia the TabletKiosk eo V7110 and the Pioneer DreamBook UMPC 700, and in Japan the PBJ SmartCaddie.
+
+TabletKiosk launched a line of Intel based UMPCs in late August 2006, the eo i7210 and i7209 can be found on the TabletKiosk Website, 
+Tegatech Australia Website, & Pocket PC Solutions - UK.
+
+While the OQO model 01 was actually launched well before the Ultra-Mobile PC craze began, it should be included in any discussion of the UMPC. 
+It runs a Transmeta Crusoe processor at 1GHz, has 256MB of RAM and has a 20GB hard drive. It's tiny size and stylish exterior drew a lot 
+of attention, but the $1900 pricetag kept it out of the hands of most consumers.
+
+
+Latest Devices
+
+In September 2006, Raon Digital launchd the Vega running a AMD Geode LX800, 256MB of RAM, and a 30GB hard drive. 
+It's 4.3" screen and 500MHz processor give it a battery life of 5.5 hours. The Vega runs Microsoft Windows XP Home Edition and retails 
+for 680,000 Korean won (U$700-750).
+
+In early October 2006 Samsung quietly launched the Q1b, bringing the Ultra Mobile platform closer to the vision that Microsoft created. 
+The Q1b features a VIA C7-M ULV processor running at 1GHz, a 30% brighter screen, up to 5 hours of battery life, and a lower price point 
+than the Samsung Q1. The Q1b also has optional modules for HSDPA or WiBro for ubiquitous internet connectivity in major cities around the world. 
+Both the Samsung Q1 & Samsung Q1b are now available at all North America Best Buy stores, Fry's Electronics, and CompUSA stores for 
+US$1099 & US$899 respectively.
+
+
+
+
+Upcoming Devices
+
+There are quite a few announced UMPCs that haven't hit the market yet. The DualCor cPC, Mobits X17 and ASUSTek R2H have all been announced 
+and are scheduled to be on the market sometime this year. Makers of the CPUs found in most Ultra-Mobile PCs, VIA & Intel, 
+are stepping up efforts to create new processors and chipsets that could result in devices with 10 times lower power consumption than today¡¯s 
+laptops in 2008.
+
+
+
+
+
+
+
+

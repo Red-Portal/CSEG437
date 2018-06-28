@@ -1,0 +1,12 @@
+Sony's new MP-CD1 pico projector is a strangely uninspired upgrade
+
+
+The latest micro projector from Sony is a curious step sideways from the company's earlier MP-CL1A pico projector. Dropping down in overall resolution from the prior model, the new MP-CD1 brings in Texas Instruments' Intellibright DLP projection technology.
+
+The MP-CD1 looks a lot like a back-to-basics redesign for Sony's pocket-sized projector. It measures up at 3.2 x .6 x 5.9 in (83 × 16 × 150 mm), slightly larger than the CL1A, and it weighs in at 9.9 oz (280 g), slightly heavier than the CL1A. Perhaps the most striking comparison between the two models is in the newer CD1's disappointing display resolution of only 854 × 480 when the older CL1A could display 1920 x 720.
+The new CD1 has a larger 5,000-mAh battery but still only promises two hours of viewing on a full charge. This addition of more power but no extra projection time is most likely accounted for by the new projection system. Replacing the CL1A's Laser Beam Scanning (LBS) system, the CD1 incorporates DLP technology, specifically the Texas Instruments Intellibright design reportedly offering a brightness relative to ANSI 105 lumens.
+
+Everything else you would expect from a small projector is here, and carried over comfortably from the CL1A. Bluetooth connectivity, automatic keystone correction and a maximum image size of 120 in (304 cm) from a distance of just 11.3 ft (3.4 m).
+The main reason we are continually comparing the MP-CD1 to Sony's prior offering in the pico projector market is that both models are currently available for exactly the same price of US$399.99. While the older LBS 720p model certainly wasn't the most impressive pico projector on the market, this new CD1 seems like an odd step sideways for Sony. Improving some specs, while downgrading others.
+
+While the incorporation of DLP technology brings this pico into line with many others on the market, there isn't a huge amount going for this particular model, especially at the $400 price point. Ultimately, this appears to be an uninspiring addition to Sony's projector range.

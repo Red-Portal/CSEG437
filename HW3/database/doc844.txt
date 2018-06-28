@@ -1,0 +1,33 @@
+China's largest smartphone maker is working on an A.I. that can read human emotions
+
+SHENZHEN, China — Chinese tech company Huawei wants to change the way people talk to their artificially intelligent voice assistants. The firm plans to make those conversations more emotionally interactive, according to senior executives.
+
+Voice-powered virtual assistants currently serve a functional role, by giving information — "What's the weather like?" — or completing small tasks like turning on a playlist. Huawei wants to take that a step further and create a voice companion to fulfill some of its users' emotional needs.
+
+"We want to provide emotional interactions," Felix Zhang, vice president of software engineering at Huawei's consumer business group, told CNBC at the company's annual global analyst summit in Shenzhen, China.
+
+Huawei launched a voice assistant for the Chinese market in 2013 and said it's looking to release an emotion-based AI software in the near future. The company says it has 110 million users of its voice assistance on a daily basis in China.
+
+"We think that, in the future, all our end users wish [that] they can interact with the system in the emotional mode," Zhang added. "This is the direction we see in the long run."
+
+Other tech companies are also experimenting with AI to serve their users; that includes Amazon's Alexa, Samsung's Bixby, Apple's Siri, and Microsoft's task-driven Cortana and it's social chatbot Xiaoice that's designed for the Chinese market.
+
+The idea that a program can detect a user's mood and respond accordingly is defined as "emotion AI." The technology is being looked at to create a more personalized user experience, according to research company Gartner.
+
+In a January article, the research firm explained that emotion AIs are not yet widespread. Voice-controlled virtual assistants provide a natural outlet for this technology to gain traction due to the popularity of such applications, according to Gartner. Those virtual assistants have the ability to process commands and questions at the moment, but lack the contextual information needed to understand and respond to a user's emotional state, the company said.
+
+"Adding emotion-sensing capabilities will enable [virtual personal assistants] to analyze data points from facial expressions, voice intonation and behavioral patterns," Gartner said.
+
+The type of program that Huawei has in mind will attempt to keep a conversation going for as long as possible so that a user does not feel alone, according to James Lu, director of AI product management at Huawei's consumer business group.
+
+To do that, "the first step is [to] give your assistant a high IQ," he said, adding that the next step will be to give it a high EQ — emotional quotient.
+
+If the idea of your smartphone turning into an emotional companion sounds like something out of a science fiction movie, it's not far off. In fact, Huawei executives talked about the sci-fi film "Her" as an inspiration.
+
+The movie's protagonist falls in love with his artificial voice assistant, Samantha, which learns and adapts to his emotional needs.
+
+"Samantha is a dream for all the engineers," Zhang said referring to the fictional character's software capabilities. "Like in the movie, you can even get rid of your girlfriend. This is quite emotional service providing."
+
+But for it to be effective, the software must be accurate, he added. For example, if a user is angry and the voice assistant plays very strong music, it could make the person feel even worse.
+
+Zhang predicted that users will soon no longer need to touch their smartphones to use them — the idea is that most of the functions on the devices can be accessed using voice command.

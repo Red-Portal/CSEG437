@@ -1,0 +1,34 @@
+Play More Than Games With Your Console
+ExtremeTech,  May, 2003  by Jim Louderback
+No console is an island. We've seen that over the last year, as Xbox and PS2 users have flocked online to play games against friends and strangers. But now that our consoles are connected, they're starting to become full-fledged members of the home media network. Two new products, one for the Xbox and another for the PS2, bring the console closer to full media servers and playback devices. We'll start with a look at the Mad Katz PS2 Media Player, and then look at Microsoft's new Xbox Music Maker. 
+
+Mad Katz PS2 Media Player This is not a new product. BroadQ developed and sold the first version, called the QCast player. But the company has decided to get out of the retail software business, and instead further its technology while letting others sell it. So Mad Katz picked up version 2 of the QCast software, and will be selling it by mid June. 
+
+The PS2 Media Player performs a small miracle ? it lets you stream and play music, photos and movies from your PC onto your TV and through your home theater. It essentially turns your PS2 into a Digital Media Adapter ? stand-alone devices now sold by HP and Sony for $200 or more. 
+
+To make it work, you first need to purchase a network adapter for your PS2. Once it's connected to your home network, you can then install the software both in your PS2 and on the PC containing your media. Version one was somewhat difficult to install, but the company claims that this version will install almost automatically. 
+
+Many more media types are supported too, including DiVX, Mpeg1, Mpeg2, Apple's MP4 and AVI video, AC3, MP3, OGM and WMV audio formats. The new version also supports progressive scan and 16:9, which lets you play your downloaded and ripped video on high-definition TVs. I watched a DiVX movie streamed from a PC through the PS2 onto a plasma display and it looked tremendous. 
+
+The software also attempts to do intelligent caching of streamed audio and video, so that network hiccups won't distort the playback media. But not all of the usability issues have been worked out. Photo playback is still a little slow, and you can't cycle through pictures as quickly as you might like. 
+
+Still, for anyone that's amassed a large library of MP3 music and ripped DVD movies or other hard-drive based TV content, this $50 software is a godsend. It brings the vision of a connected home, with media furnace/server that connects to playback devices around the house much closer. And if you're looking to by one of those media adapters, consider a PS2 and the Media Player instead. You'll end up getting a game-player almost for free. 
+
+What about bringing this technology to other consoles? The BroadQ team I talked with said that they could easily port the software to Xbox or Gamecube, if Microsoft and Nintendo would allow them. I got the sense, in our conversations, that they're already negotiating with Nintendo, but that Microsoft wants to go it alone. 
+
+In addition, they're working on bringing newer technology to the plate too. Imagine TiVO-like functionality, perhaps working with a PC-based video in card. That's not impossible either. The company is working with PC hardware companies like Happauge, ATI and nVidia to make that a reality too. 
+
+Microsoft has taken a somewhat different approach with its Music Mixer software, also announced at E3. Instead of allowing you to stream media from your PC, the Music Mixer software copies music and photos from your PC, or a CD, onto the XBOX itself. And it only works with photos and music, no video at all. 
+
+Even though it lets you playback MP3 and WMA music files, it's not as tightly integrated with the PC as it should. It will not download saved playlists you've created, nor will it support any of the advanced ID3 tags containing album cover art and other song information. 
+
+You can create playlists on the XBOX, of music you've already transferred over, but that's recreating the wheel if you've done so on your PC as well. 
+
+The goal of the Music Mixer seems to be letting you play with and interact with your music, rather than providing a connection to a digital media server for playback. It's more designed for the guy who wants to play DJ or VG, as it lets you create and run 2D and 3D visualizations as the music plays. 
+
+These are interesting, although unless you're amped up on powerful drugs, they'll soon grow boring. Two interactive 3D visualizations are included, a nightclub and an industrial rave scene. While your music is playing, you can navigate through the virtual space, watch dancers dance, change the clothes, and other mindless drivel. 
+
+The 2D visualizations, like what you see with Winamp or the Windows Media Player, mostly consist of wavy lines playing on your TV. You can use the Xbox controller to manipulate those lines, and in that way groove along with your tunes. You'll be able to download more 2D and 3D visualizations via Xbox live. 
+
+You can also access the hour of video included with the device to create mixed video playbacks that also play along with your music. This is a cool feature, and if you're throwing a party, you could have hours of fun creating special video playbacks for all your wasted friends. 
+

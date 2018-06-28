@@ -1,0 +1,7 @@
+Video games have become an important part of our culture in a relatively short period of time. 
+The industry is also developing into a major pillar of many modern economies, with game development tax schemes being introduced into many developed countries. 
+These are coinciding with a period of time where it has never been easier to release a game into the commercial market. 
+For the last two decades, game development teams have required financial backing and a level of expertise to pass stringent tests by platform holders to be allowed access to their development hardware. 
+Today, anyone with a mobile phone or a tablet and a computer, even a laptop, can build a game and have it for sale with a minimum of time and financial backing. 
+This does not mean that every game is successful: it is still essential to have a good understanding of the technical aspects involved in making games and the considerations involved in designing games which people will want to play. 
+Sometimes the best way to develop this knowledge is to begin at the very beginning, so we'll look at some video game history.

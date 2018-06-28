@@ -1,0 +1,10 @@
+Internal Versus External Memory
+When considering the memory specifications of any phone, it is important to understand the difference between internal and external (or expandable) memory. Internal memory is the manufacturer-installed storage space, usually 16, 32 or 64GB, where the operating system, pre-installed apps, and other system software is installed.
+
+
+The total amount of internal storage cannot be increased or decreased by the user, so if your phone has only 16GB of internal storage and no expansion slot, this is all the storage space you will ever have. And remember, some of this will already be used up by the system software.
+
+External, or expandable, memory refers to a removable MicroSD card or similar. Many devices which feature a MicroSD card slot are sold with a card already inserted. But not all phones will have this extra storage space included, and not all phones even have the facility to add external memory. The iPhone, for example, has never given users the ability to add more storage space by using an SD card, neither have LG Nexus devices. If storage, for music, images, or other user-added files, is important to you, the ability to add another 32GB or even 64GB card reasonably cheaply should be an important consideration.
+
+Cloud Storage
+To overcome the problem of reduced internal storage space, several high-end smartphones are sold with free cloud storage accounts. This could be 10, 20 or even 50GB. Whilst this is a nice extra, bear in mind that not all data and files can be saved to cloud storage (apps for example). You will also be unable to access files stored in the cloud if you do not have a Wi-Fi or mobile data connection.

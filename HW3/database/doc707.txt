@@ -1,0 +1,27 @@
+Intel and Google Equip Smartphones with 3D Cameras and Computer Vision
+
+Computer vision and sensing are crucial for cars, robots, drones and many other applications. However, existing devices such as personal computers or mobile gadgets can also take advantage of such technologies . Intel, Google and Lenovo introduced their new smartphones that feature either RealSense or project Tango sensors, which can scan volumetric objects as well as detect motions and gestures. The smartphones are compatible with Google’s project Tango technology and are designed for developers of software as well as enthusiasts, who would like to experiment with computer vision.
+
+Google Tango and Intel RealSense
+Google’s project Tango and Intel’s RealSense have a lot in common, but they are not exactly the same thing. Intel’s RealSense started like a way to enable better interaction between computers and humans (hence, it is compatible with Microsoft Windows, it can recognize faces, gestures, etc.), but quickly evolved into a more general computer vision technology that will eventually be used for robots and drones. The goal of Google’s Tango was to give computers a human-like perception of space and motion, which is important for a wide range of devices.
+
+Both Tango and RealSense use similar sensors (an RGB camera, a motion tracking camera, an IR depth sensor, various motion sensors), but different compute hardware (Intel’s RealSense uses Intel’s compute cores, Tango can use various compute devices, including the Movidius Myriad 1 vision processor, NVIDIA CUDA cores and other) as well as different software development kits.
+
+Intel RealSense and Google Tango hardware require software to be actually worthwhile. While there are programs that can utilize both technologies, there are not a lot of them. Moreover, unlike RealSense, Tango is still not available for consumers in any form. The new smartphones by Intel and Google/Lenovo were developed specifically to enable mobile software developers to take advantage of the RealSense and Tango technologies and create appropriate apps. If there are a lot of valuable programs that take advantage of the two computer vision technologies, the sensors may find their way to commercial products. Alternatively, developers could use the hardware to design programs for professional use (e.g. for constructors, designers, etc.).
+
+Intel RealSense Smartphone
+The Intel RealSense Smartphone prototype is equipped with the company’s RealSense ZR300 camera, which can capture over 10 million depth points per second, a wide field-of-view camera for motion and feature tracking (VGA with >160-degree FOV), an 8 MP rear-facing camera, a 2 MP front-facing camera as well as an accelerometer and a gyroscope. The ZR300 is placed at the edge of the handset, which may not be too comfortable for a consumer, but is okay for software developer playing with the RealSense technology.
+
+The Intel RealSense Smartphone prototype is based on the Intel Atom x7-Z8700 system-on-chip (four cores, 2MB cache, 1.6 GHz – 2.4 GHz clock-rate, built-in Intel HD Graphics core with 16 execution units, 2 W thermal design power, 14 nm process technology) and is equipped with a 6-inch display with 2560x1440 resolution. The smartphone comes with 2 GB of RAM, 64 GB of NAND flash storage, Wi-Fi and Bluetooth 4.0 wireless technologies, a GPS module, an HDMI port as well as 3G connectivity. The smartphone lacks 4G/LTE and it will not be viable for general consumers.
+
+Intel’s smartphone prototype is powered by Google Android operating system and supports both the Google Project Tango software development kit (SDK) as well as the Intel RealSense SDK add-on for Android. The handset will cost $399 to interested software developers and enthusiasts..
+
+Lenovo’s Project Tango Smartphone
+Not a lot of details have been revealed about Lenovo’s project Tango smartphone so far, but we do know that the device sports a 6.5-inch display as well as a Qualcomm Snapdragon system-on-chip. The smartphone is equipped with project Tango’s regular sensors, such as, an RGB camera, a motion tracking camera, an IR depth sensor and various motion sensors (gyroscope, accelerometer, etc.).
+
+Lenovo’s smartphone that supports project Tango will be available not only to software developers, but also to general consumers. Therefore, expect the handset to support 4G/LTE and other technologies necessary for everyday use. In fact, Lenovo’s smartphone will be the world’s first commercial handset to support Google’s Tango technology when it becomes available this summer. Exact price of the device is unknown.
+
+Smartphones Get Computer Vision
+Since there are almost no programs for smartphones, which take advantage of Google’s project Tango or Intel’s RealSense technologies, it hardly makes a lot of sense for an average user to buy the new smartphones from Intel and Lenovo. Nonetheless, for developers and enthusiasts of new technologies the new products can actually be valuable.
+
+It is noteworthy that modern RealSense and Tango sensors are so small that they can be installed into commercial smartphones. It remains to be seen how exactly such sensors could be used on handsets, but all three companies seem to believe that computer vision is a valuable technology for all types of devices.

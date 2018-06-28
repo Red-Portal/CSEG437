@@ -1,0 +1,16 @@
+Cloud Computing Partnership Announced Between Google and VMware
+
+VMware has joined hands with Google (News - Alert) and has announced the general availability of the first in a series of technology collaborations. These collaborations will help the developers to create, deploy and manage applications within any cloud environment on any device.
+
+With this partnership, companies can use the integrated developer tools to build modern web apps that are ¡°cloud ready¡± from the start, and can be deployed to any standard environment. 
+
+Being the first in a series of technology collaborations, the general availability of these projects represent collaborations to enhance cloud portability across multiple clouds and devices. As demonstrated by the ability to deploy a SQL-based Spring application on Google App Engine for Business, the next collaboration projects will focus on even broader mobile application support and accessing data in the cloud. 
+
+¡°Together, Google and VMware enable enterprises to develop and deploy rich Spring Java applications across multiple clouds and devices.¡± said Rod Johnson, SVP, application platform division at VMware. ¡°Today we have reached an important milestone where these modern applications can run smoothly within the firewalls of a company¡¯s production datacenter or in a trusted provider's cloud environment,¡± continued Rod Johnson.
+
+The projects that will be Generally Available within 2 weeks include Spring Roo and Google Web Toolkit, Spring Insight and Google Speed Tracer, and SpringSource Tool Suite and Google Plugin for Eclipse. With Spring Roo, developers can build rich browser apps in enterprise production environments. Google¡¯s Speed Tracer with VMware¡¯s Spring Insight performance tracing technology enable end to end performance visibility into cloud application. With the integration of SpringSource Tool Suite version 2.5, developers can build and maintain large scale, web-based, enterprise applications. 
+
+In June 2010, Orange (News - Alert) Business Services decided to join the VMware vCloud initiative to enable cloud computing providers to develop a common platform based on VMware vSphere that will enable cloud interoperability and portability. By providing unique solutions that help customers switch easily between cloud computing providers, get different cloud services, Orange Business Services (News - Alert) wants to be at the top of the cloud services table.
+
+
+Raju Shanbhag is a contributing editor for TMCnet. To read more of Raju¡¯s articles, please visit his columnist page.

@@ -1,0 +1,21 @@
+Xbox recently added a new feature for Xbox 360 games that have been enhanced for the Xbox One X. Players now have the option of choosing between Performance and Graphics modes to prioritize frame rate or visual quality. Performance mode may not do what you think, and choosing it may be a bad idea.
+
+Here's where you can find the setting for switching between Performance and Graphics modes.
+
+Press the Menu and View buttons simultaneously.
+Click Settings > Xbox One X Settings.
+Use the right bumper to choose between Graphics or Performance mode.
+
+Be aware that Performance mode for enhanced Xbox 360 games works differently from what you may expect. The performance modes that are offered on many Xbox One games that have been enhanced for the One X typically unlock frame rate. If the original code capped frame rate at 30 fps, the code is modified and the cap is removed for the performance mode. In the best cases, performance is improved by frame rates that stay at or close to 60 fps at the cost of visual quality. The Performance mode on enhanced Xbox 360 games doesn’t work like this because the game's original code remains unchanged.
+
+Xbox 360 games run at native 720p (1280 x 720) resolution. These games are enhanced to run at native 4K (3840 x 2160) by collapsing a 3 x 3 grid of 720p renders into a full 4K image.
+
+The game’s original code is not changed; it’s exactly the same game displayed at a higher resolution. This means that choosing Performance mode may not increase performance although it will definitely produce lower quality visuals.
+
+Many Xbox 360 games were capped at 30 fps. If a game failed to reach this cap on the Xbox 360, the Performance mode will produce solid 30 fps gameplay because the One X is a much more powerful console. However, if a game maintained a solid 30 fps on the Xbox 360, Performance mode does nothing for performance because the original code hasn’t been changed to remove the 30 fps cap.
+
+Performance mode involves a serious downgrade in visual quality because it sacrifices 4K and displays the game at its original 720p resolution. Thus, if a game played at 30 fps on the Xbox 360, choosing Performance mode has no effect on performance but it reduces resolution from native 4K to 720p. This will not look good on a large 4K television.
+
+The One X enhanced Forza Horizon is an example according to Digital Foundry. The game plays at 30 fps in both the Performance and Graphics modes. The only difference is that Performance mode reduces the 4K resolution that was the whole reason to play the enhanced version in the first place to 720p.
+
+Xbox’s commitment to its backwards compatibility program is great. Having a library of games that stays with you as you upgrade to more powerful consoles is one of the best idea in modern console gaming. The new Performance and Graphics modes for enhanced Xbox 360 games may not be very useful, however. Performance mode always sacrifices 4K resolution and may not produce any performance benefit. The good news is that Graphics mode is the default. Leaving it there is likely to be the best option for many enhanced Xbox 360 games.

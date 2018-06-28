@@ -1,0 +1,9 @@
+Toshiba Samples New UFS 2.1 NAND: Up to 900 MB/s Reads For 2018 Smartphones
+
+Toshiba has announced that it had started sample shipments of its latest UFS storage devices based on its 64-layer BICS3 3D TLC NAND memory. The new devices are compliant with the UFS 2.1 specification and can offer very high performance for demanding mobile devices, such as smartphones, tablets, and VR headsets.
+
+Toshiba did not reveal when it plans to ship its UFS 2.1 storage devices powered by BICS3 3D TLC memory in its press release, but it is logical to expect the chips to end up inside 2018 smartphones and other devices. Earlier this year some makers of handsets suffered from shortages of NAND flash in general and UFS 2.0/2.1 devices in particular, so Toshiba’s upcoming launch of its new UFS 2.1 storage will be appreciated by the industry.
+
+Toshiba’s new UFS 2.1 storage devices based on the company’s 64-layer BICS 3D TLC NAND memory will be available in 32 GB, 64 GB, 128 GB, and 256 GB configurations. The storage devices come in JEDEC-standard 11.5×13 mm package and use two full-duplex HS-Gear3 lanes with 5.8 GT/s data transfer rate per lane. Toshiba advertises up to 900 MB/s sequential read speed and up to 180 MB/s sequential write speed for the 64 GB model while also promising improvements of random read/write performance. Meanwhile, the 32 GB SKU is naturally slower than the higher-capacity models due to lower parallelism.
+
+The manufacturer says it uses an in-house developed UFS 2.1 storage controller for the new devices. The company only mentions its expected functions, such as performing error correction, wear leveling, logical-to-physical address translation, and bad-block management, but does not elaborate.

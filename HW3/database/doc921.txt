@@ -1,0 +1,11 @@
+Report: Motorola To Release Smartphone-Based VR Headset For Moto Z
+
+Lenovo has plenty going on in the VR world already and now it looks like its subsidiary, Motorolla, is jumping into the industry too.
+
+Respected mobile industry leakster Evan Blass recently posted two images of a Virtual Viewer by Motorola that fall under the company’s Moto Mods brand. Moto Mods allow Moto Z users to augment their smartphone with a range of peripherals from projectors to improved cameras and more.
+
+No further details about the viewer have been released, but it’s not like there’s much more to find out. The hole in the front cover allows the Moto Z’s front-facing camera to peer into the real world but, other than that, it looks like a fairly unremarkable smartphone-based headset. We’d expect it to play Google Cardboard apps.
+
+Of course, the Moto Z is one of a handful of smartphones that already supports Google’s Daydream mobile VR ecosystem, which requires the View headset to run. If you’re a Z user and are looking to get into VR, we’d recommend starting there rather than waiting for this new release.
+
+Meanwhile, in Lenovo world, we’re looking forward to the release of the Mirage Solo, a Daydream-ready standalone headset with 6DOF tracking.

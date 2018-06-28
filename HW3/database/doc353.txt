@@ -1,0 +1,29 @@
+Android sdk install
+
+Quick Start
+The steps below provide an overview of how to get started with the Android SDK. For detailed instructions, start with the Installing the SDK guide. 
+
+1. Prepare your development computer
+
+Read the System Requirements document and make sure that your development computer meets the hardware and software requirements for the Android SDK. Install any additional software needed before downloading the Android SDK. In particular, you may need to install the JDK (version 5 or 6 required) and Eclipse (version 3.4 or 3.5, needed only if you want develop using the ADT Plugin). 
+
+2. Download and install the SDK starter package
+
+Select a starter package from the table at the top of this page and download it to your development computer. To install the SDK, simply unpack the starter package to a safe location and then add the location to your PATH. 
+
+3. Install the ADT Plugin for Eclipse
+
+If you are developing in Eclipse, set up a remote update site at https://dl-ssl.google.com/android/eclipse/. Install the Android Development Tools (ADT) Plugin, restart Eclipse, and set the "Android" preferences in Eclipse to point to the SDK install location. For detailed instructions, see ADT Plugin for Eclipse.
+
+4. Add Android platforms and other components to your SDK
+
+Use the Android SDK and AVD Manager, included in the SDK starter package, to add one or more Android platforms (for example, Android 1.6 or Android 2.2) and other components to your SDK. If you aren't sure what to add, see Which components do I need?
+
+To launch the Android SDK and AVD Manager on Windows, execute SDK Setup.exe, at the root of the SDK directory. On Mac OS X or Linux, execute the android tool in the <sdk>/tools/ folder. For detailed instructions, see Adding SDK Components.
+
+Done!
+
+If you are new to Android, you can use the Hello World tutorial to get started quickly. Next Steps offers other suggestions of how to begin.
+
+For a more detailed guide to installing and setting up the SDK, read Installing the SDK.
+

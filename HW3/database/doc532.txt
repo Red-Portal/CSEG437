@@ -1,0 +1,6 @@
+ASUS Outs GeForce GTX 680 4 GB with Dual Slot DirectCU II Cooler and Assassins Creed 3 Bundle
+
+ASUS has launched two new variants of the GeForce GTX 680 4 GB GPU which come with the latest Dual Slot version of their DirectCU II Cooler.
+ASUS¡¯s GeForce GTX 680 4 GB bearing the model name of GTX680-DC2-4GD5 features the GK104 core which packs 1536 Cores clocked at 1006 MHz base and 1058 MHz Boost while a 4 GB GDDR5 memory runs at 6.0Ghz effective clock speed along a 256-bit wide interface.
+The GeForce GTX 680 4 GB DCII from ASUS is equipped with a Digi+ VRM with 6+2 phase Super Alloy Power and is powered through 6+8 Pin PCIe connectors. Display outputs include Dual Link DVI, HDMI and a full length display port whereas the GPUs offer 4-Way SLI connectivity.
+The most interesting feature on the new models is its Dual Slot DirectCU II Cooler. While the previous GeForce GTX 680 4 GB models came with a tri-slot iteration of the DCII cooler, the newer models use the Dual slot cooler which features two PWM controlled fans directly pushing air towards a large central aluminum fin array equipped with multiple heatpipes. In addition to this, with one of the two models GTX680-DC2G-4GD5 you can gain a full game from a choice of five: Assassin¡¯s Creed III, I Am Alive, R.U.S.E, Splinter Cell: Conviction, Rainbow Six Vegas 2.

@@ -1,0 +1,70 @@
+maxis.com.my
+SAMSUNG GALAXY TAB
+General
+2G Network : GSM 850 / 900 / 1800 / 1900
+3G Network : HSDPA 900 / 1900 / 2100
+Announced : 2010, September
+Size
+Dimensions : 190.1 x 120.5 x 12 mm
+Weight : 380 g
+Display
+Type : TFT capacitive touchscreen, 16M colors
+Size : 600 x1024 pixels, 7.0 inches
+- TouchWiz UI
+- Multi-touch input method
+- Accelerometer sensor for UI auto-rotate
+- Three-axis gyro sensor
+- Touch-sensitive controls
+- Proximity sensor for auto turn-off
+- Swype text input
+Sound
+Alert types : Vibration; MP3, WAV ringtones
+Speakerphone : Yes, with stereo speakers
+- 3.5 mm audio jack
+Memory
+Phonebook : Practically unlimited entries and fields, Photocall
+Call records : Practically unlimited
+Internal : 16GB storage, 512MB RAM
+Card slot : microSD, up to 32GB
+Data
+GPRS : Yes
+EDGE : Yes
+3G : HSDPA, 7.2 Mbps; HSUPA, 5.76 Mbps
+WLAN : Wi-Fi 802.11 b/g/n
+Bluetooth : Yes, v3.0 with A2DP
+Infrared port : No
+USB : Yes, v2.0 (proprietary)
+Camera
+Primary : 3.15 MP, 2048x1536 pixels, autofocus, LED flash
+Features : Geo-tagging
+Video : Yes, 720x480@30fps
+Secondary : Yes, 1.3 MP
+Features
+OS : Android OS, v2.2 (Froyo)
+CPU : ARM Cortex A8 processor, 1 GHZ processor;
+PowerVR SGx540 graphics
+Messaging : SMS (threaded view), MMS, Email, Push Mail, RSS
+Browser : HTML
+Radio : No
+Games : Yes
+Colors : Black and Grey
+GPS : Yes, with A-GPS support
+Java : Yes, MIDP 2.1
+- Social networking integration
+- Digital compass
+- Full HD video playback
+- Up to 7h movie playback
+- TV-out
+- MP4/DivX/WMV/H.264/H.263 player
+- MP3/WAV/eAAC+/AC3/FLAC player
+- Organizer
+- Image/video editor
+- Thinkfree Office (Word, Excel, PowerPoint, PDF)
+- Google Search, Maps, Gmail, YouTube, Calendar, Google Talk,
+Picasa integration
+- Readers/Media/Music Hub
+- Adobe Flash 10.1 support
+- Voice memo/dial/commands
+- T9
+Battery
+Type : Standard battery, Li-Po 4000 mAh

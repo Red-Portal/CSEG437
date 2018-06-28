@@ -1,0 +1,25 @@
+How Apple is making animations smoother in iOS 12
+
+Users of iOS 12 may find the user interface to scroll smoother and process animations with fewer dropped frames compared to previous versions, thanks to a series of changes Apple made. 
+
+Explained during the session "What's New in Cocoa Touch" at WWDC 2018, Apple's engineers have used iOS 12 as an opportunity to fix animation issues that have plagued users over the years. The causes behind some dropped frames were discovered while the engineers were examining first-party apps, with Josh Shaffer advising of what they were, and what Apple has done to correct the issues. 
+
+For the most part, this consisted of improvements to the scheduling of tasks performed by the iOS device's processor, as well as pre-loading upcoming animations. 
+
+One identified issue related to how iOS handled data that needed to be produced as the user scrolls, such as items on a list of options in a menu, or a graphic further down a document. An API introduced in iOS 10 called Cell Pre-fetch aimed to cure this by preloading data in the background ahead of time, so it was ready to appear onscreen without delay or a large and sudden processor load. 
+
+Though this works well, Apple discovered times when it would still cause dropped frames during scrolling, caused through prefetch requests for data that will be used in the near future to be made at the same time as another set of data was being produced on-screen, causing a CPU bottleneck that slowed down both tasks. Apple has updated the pre-fetch API to prevent this from happening, by queueing up tasks to fetch data after the more immediately important rendering task is complete. 
+
+Another, arguably bigger, issue related to dropped frames during periods when there are relatively few tasks being carried out, namely periods when the CPU wasn't under load and could lower its clock speed to help preserve battery life. In cases where a user's action triggers a task, it was discovered the CPU was slow in responding to the extra work with an increase in its clock speed, effectively causing a bottleneck and resulting in a dropped frame. 
+
+In iOS 12, the CPU will now respond more quickly in these types of situations, and will increase to the appropriate clock speed to perform the task at a faster rate. Once completed, the CPU will reduce its clock speed down to its idling level as quickly as possible. 
+
+Auto-layout, Apple's framework that allows developers to define the placement of an app's content on a screen for a wide variety of different display sizes, has been updated to consume fewer resources in iOS 12. It was found the resources used by the framework could scale exponentially in a number of cases, such as when elements are nested or are dependent on the placement of other items. 
+
+Apple's optimizations in iOS 12 has significantly reduced the exponential scaling elements, cutting the impact on the CPU and GPU. While layouts where elements are placed independently of each other uses fewer resources overall, even this has seen some improvement in iOS 12 from iOS 11. 
+
+Shaffer also covered a new technique in iOS 12 that can reduce the amount of memory an app could require to perform a task, called Automatic Backing Stores. 
+
+In the example shown onstage, a photograph and a grayscale drawn image of the same size are shown to normally consume the same amount of memory, despite a considerable difference in colors and the number of bits used per pixel. Automatic Backing Store will define the memory usage of a file by the depth of the content itself, rather than treating everything equally, potentially reducing the memory usage for that element. 
+
+Apple has included these changes, as well as other performance improvements, in its developer betas for iOS 12. As the features are still actively being worked on, it is entirely possible for Apple to revert back to older methods if issues arise that cannot be fixed before the expected public release of iOS 12 in the fall.

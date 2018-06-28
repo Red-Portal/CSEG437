@@ -1,0 +1,1046 @@
+Mobile game-based learning in secondary
+education: engagement, motivation and
+learning in a mobile city game
+J. Huizenga,*W. Admiraal,* S. Akkerman† & G. ten Dam*
+*Graduate School of Teaching and Learning of the University of Amsterdam, Spinozastraat, Amsterdam, The Netherlands
+†IVLOS Institute of Education of the University of Utrecht, Utrecht, The Netherlands
+Abstract Using mobile games in education combines situated and active learning with fun in a potentially
+excellent manner. The effects of a mobile city game called Frequency 1550, which was
+developed by TheWaag Society to help pupils in their first year of secondary education playfully
+acquire historical knowledge of medieval Amsterdam, were investigated in terms of pupil
+engagement in the game, historical knowledge, and motivation for History in general and the
+topic of the Middle Ages in particular. A quasi-experimental design was used with 458 pupils
+from 20 classes from five schools. The pupils in 10 of the classes played the mobile history
+game whereas the pupils in the other 10 classes received a regular, project-based lesson series.
+The results showed those pupils who played the game to be engaged and to gain significantly
+more knowledge about medieval Amsterdam than those pupils who received regular projectbased
+instruction. No significant differences were found between the two groups with respect to
+motivation for History or the MiddleAges. The impact of location-based technology and gamebased
+learning on pupil knowledge and motivation are discussed along with suggestions for
+future research.
+Keywords engagement, game-based learning, learning effects, location-based technology, mobile History
+game, motivation.
+Introduction
+While schools are aimed at the education of pupils and
+qualification of pupils for the labour market, they are
+not always successful today. In the school year 2005–
+2006 in the Netherlands, for instance, about 19% of the
+pupils in secondary education left school without a
+diploma. The majority of the pupils dropping out of the
+first classes of secondary education came from prevocational
+education (OCW 2007). The pupil drop-out
+issue is an issue, moreover, in not only the Netherlands
+but also all other European countries (Jonassen &
+Blondal 2005; Herweijer 2008) and the USA as indicated
+by the many newsletters of the Association for
+Supervision and Curriculum Development. It thus
+appears that education is not meeting the needs of
+certain pupils sufficiently. According to Prensky (2001)
+and others (e.g. Beck &Wade 2006; Klopfer 2008), one
+of the reasons for this failure is that a new generation of
+pupils is largely being educated with old paradigms and
+methods. The present generation of pupils is growing up
+with information and communication technology (ICT)
+embedded in their daily lives. Such pupils handle digital
+information on a daily basis, are connected to each other
+via mobile technologies, work interactively, often
+perform several tasks more or less simultaneously and
+Accepted: 20 February 2009
+Correspondence: Jantina Huizenga, Graduate School of Teaching
+and Learning, University of Amsterdam, Spinozastraat 55, 1018 HJ
+Amsterdam, The Netherlands. Email: j.c.huizenga@uva.nl
+doi: 10.1111/j.1365-2729.2009.00316.x
+Original article
+332 © 2009 Blackwell Publishing Ltd Journal of Computer Assisted Learning (2009), 25, 332–344
+play games to a greater extent than previous generations
+(Beck & Wade 2006; OCW 2007). According to van
+Eck (2006), the popularity of games together with
+ongoing research on the power of digital game-based
+learning, on the one hand, and increased disengagement
+of the so-called ‘net generation’ or ‘digital natives’from
+traditional instruction, on the other hand, are factors
+which explain the widespread interest in game-based
+learning. This interest in game-based learning holds not
+only for digital natives, but also for a broad group of
+pupils and researchers today as well as for teachers and
+parents (Kirriemuir & McFarlane 2004; Sandfort et al.
+2006). It is thus quite possible that game-based learning
+may more adequately address the manner in which
+youngsters learn nowadays and engage them more successfully
+in meaningful learning than traditional learning
+methods (Prensky 2001; Gee 2003; Shaffer 2006;
+van Eck 2006). Although some studies report success in
+learning with games with traditionally disengaged
+groups of students (see, e.g. Squire 2004; Egenfeldt-
+Nielsen 2005) and that using games in lessons is motivating
+(see, e.g. Sandfort et al. 2006) the empirical basis
+for claiming that game-based learning may more
+adequately engage pupils is still rather thin and far from
+conclusive.
+Game-based learning
+During the last 20 years, the importance of fostering
+meaningful learning has been elaborated upon under
+the general heading of situated and active learning
+(Brown et al. 1989; Lave & Wenger 1991; Lombardi
+2007). So-called mobile and location-based technologies
+provide opportunities to embed learning in authentic
+environments and thereby enhance engagement and
+learning outside traditional formal educational settings.
+With handhelds, it is possible to mix virtual data with
+real-world data (i.e. locations and contexts) and thereby
+connect a virtual world to real life (Klopfer & Squire
+2008). Similarly, games can be played in the real world
+with the support of such digital devices as Personal
+Digital Assistants and cell phones, which make it possible
+to create a fictional layer on top of a real world
+context and thus an augmented reality. Location-based
+augmented reality games, for instance, are played in
+specific real-world locations which may include historical
+or geographical sites. Along these lines, the MIT
+Teacher Education Program created a game called
+Environmental Detectives in which handheld computers
+with a Global Positioning System (GPS) are used to
+augment the experience of the user with additional text,
+audio and video data (Klopfer et al. 2002). Under such
+circumstances, the user experiences his or her environment
+in a new way and situated, active learning is
+stimulated. The context sensitivity of mobile devices
+(i.e. their capacity to gather data which is unique to the
+current time and location and may be either real or
+simulated) is one of the properties – according to
+Klopfer et al. – which makes such mobile devices so
+well-suited for the support of learning activities. Four
+other properties which are assumed to make such
+mobile devices particularly useful for educational purposes
+concern their portability, their social interactivity
+as both face-to-face interaction and the exchange of
+data between learners is made possible, their connectivity
+and their individuality as the support for different
+activities can be tailored to the needs of specific learners
+(see Klopfer et al. 2002). Given all the possibilities
+of game-based learning, the question which arises is
+whether it actually lives up to all of the expectations
+or not.
+Research on mobile game-based learning tends to
+focus on the motivational effects of the methods. One of
+the main reasons for this is that when people play such
+games, they are generally found to be very engaged in
+the game: They are totally immersed in the game and
+can play for hours on end with little or no awareness of
+the more general world around them (Beck & Wade
+2006; Shaffer 2006). Such a state of complete absorption
+in a task is referred to as ‘flow’ (Csíkszentmihályi
+1990). Flow theory is important for motivation in
+instruction (Watson 2007). Having motivated learners is
+what many teachers desire. In fact, a motivated learner
+is easy to describe: enthusiastic, focused and engaged.A
+motivated learner shows a clear interest in what he or
+she is doing and enjoys what he or she is doing, tries
+hard and persists over time (Garris et al. 2002). Many
+studies of games and motivation are based upon the
+motivationwork of Malone and Lepper (1987) who proposed
+a link between motivation and intrinsic learning.
+More specifically, seven factors which include both
+individual and interpersonal factors have been postulated
+to promote intrinsic motivation. The individual
+factors are challenge, curiosity, control, fantasy, competition,
+cooperation and recognition. According to many
+authors, many of these factors are triggered by games
+Mobile game-based learning in secondary education 333
+© 2009 Blackwell Publishing Ltd
+(see, e.g. Prensky 2001; Garris et al. 2002; Egenfeldt-
+Nielsen 2006).
+In their evaluation of mobile game-based learning,
+Schwabe and Göth (2005) indeed found that technology
+enables immersion into a mixed reality and thus provides
+highly motivating learning experiences. In their
+words, the MobileGame they studied moved the pupils
+‘into a state where they are mentally ready for learning
+and where they are in the right environment for learning’
+(p. 215). However, the authors also admit that they
+cannot claim that the game actually enhanced pupil
+learning. There is a need to more thoroughly evaluate
+the cognitive benefits of mobile game-based learning
+despite the fact that both the cognitive and motivational
+effects of game-based learning have been previously
+studied (see, e.g. Mitchell & Savill-Smith 2004; Hays
+2005; Egenfeldt-Nielsen 2006; Fletcher&Tobias 2006;
+de Freitas 2006; Gros 2007; Habgood 2007). While the
+reviews conducted to date show a positive overall
+picture, many of the relevant studies are nevertheless
+methodologically flawed, rarely experimental and often
+present contradictory results. According to de Freitas
+(2006) in her review of the literature on game-based
+learning, games and simulations certainly have substantial
+potential for learning but certain challenges ‘in
+terms of setting and assessing specified learning objectives’
+(p. 58) in particular must be met in order to effectively
+use the potential of learning from games and
+simulations.
+In the present study, the motivational and learning
+effects of a mobile city game called Frequency 1550
+were thus examined. Frequency 1550 can be considered
+as a game, following the definition of Dempsey saying
+that a game is ‘a set of activities involving one or more
+players. It has goals, constraints, payoffs and consequences.
+A game is rule-oriented and artificial in some
+respects. Finally a game involves some aspects of competition,
+even if that is competition with oneself’
+(Dempsey et al. 1996, p. 2). Although the game Frequency
+1550 has won an award as the world’s most
+innovative e-learning application, the educational value
+of the game has yet to be documented systematically.
+The effects of the mobile game on pupil knowledge of
+medieval Amsterdam and their motivation for the study
+of History in general and the Middle Ages in particular
+will therefore be examined in the present study in addition
+to the engagement of the pupils while playing the
+game.
+The Frequency 1550 game
+Introduction to the game
+The Frequency 1550 game was developed by theWaag
+Society, which is a Dutch ICT research foundation
+working in the social and cultural domain. Frequency
+1550 is a game about medieval Amsterdam to be played
+during a single school day.At the start of the game day,
+the pupils gather at the main location, namely theWaag
+building or 15th century weighing house in the city of
+Amsterdam. The pupils are introduced to the game, the
+tasks, the tools to be used and the objective of the game:
+To gain citizenship in the city of Amsterdam via attainment
+of the required 366 points or ‘days of citizenship’
+which represent the medieval year-and-a-day rule that
+requires residence within the Amsterdam city walls for
+this period of time to earn civil rights. Groups of four or
+five pupils are formed, and the pupils are randomly
+assigned the identity of a beggar or a merchant who have
+different rights and a different status (i.e. order) in the
+game. The part about earning citizenship and being in
+an order is called the main storyline or the backstory.
+With the help of the Internet, smart phones, videophones
+and GPS technology, Amsterdam becomes a
+medieval playground.
+Group and team structure
+Each group of four or five pupils is divided into a city
+team (CT) consisting of two or three pupils who walk
+through the city and a headquarter team (HQT) consisting
+of the other two or three pupils who operate from
+behind the computer in the main building. After the
+lunch break, the teams switch places so that each pupil
+has participated in both the CT and HQT at the end of
+the day. The CT is assigned one of six areas (see below)
+as the starting point for the conduct of small, locationbased
+media tasks to explore, map and gain knowledge
+of each of the areas and their associated themes. The CT
+can view a map of medieval Amsterdam (Figure 1) on
+their smart phones and zoom in on a particular part of
+the map. The HQT can use two maps: one about medieval
+Amsterdam and one about present Amsterdam;
+both maps have coloured dots indicating the routes the
+six CTs are walking. The HQT digitally follows the
+route of the CT by means of GPS and guides them
+towards and through the required learning tasks using
+various sources of information, including the videos in
+the game and Internet resources.
+334 J. Huizenga et al.
+© 2009 Blackwell Publishing Ltd
+Six areas and associated themes
+The old city of Amsterdam has been divided into six
+areas in which six different themes from medieval times
+are addressed. The six themes are: 1) labour in the area
+called Lastage; 2) trade in the area called de Kade; 3)
+religion in the area called de Twee Zijden; 4) rules and
+government in the area called die Plaets; 5) knowledge
+in the area called de Kloosters; and 6) defence in the
+area called de Verdediging. Each theme is introduced
+with the name of the area via an introductory video clip
+displayed in a telephone message which is sent to the
+pupils as if it came from the year 1550 as soon as they
+enter a new area. Each clip presents words which can
+help the group complete the assignments for the area;
+the audio background presents the sounds of medieval
+activities in the area (e.g. the sound of manual work,
+sawing). After the presentation of keywords, the video
+clip zooms in on a few pages from a diary. The diary for
+the area Lastage reads as follows.
+Tuesday. A few sisters’ dresses are worn out and I need
+yarn. The best yarn can be found in Lastage because they
+make rope out of yarn there. Lastage is a long walk from
+the monastery because it is located outside the city wall.
+As soon as you pass the city wall, you will hear hammering
+in the distance where manual labour is conducted
+(. . .) the area is being protected by the newdefence tower
+which lies on the outer boundary of Lastage. It is situated
+at the intersection of the water of the Amstel and the
+water of the IJ.
+In order to receive assignments, the CTs must try to find
+a certain area, the so-called hidden location. Following
+the diary pages, a closing text is presented by the main
+narrator providing clues about the hidden location:
+The hidden location can be found on the outskirts of
+Lastage. It is situated at the intersection of the water of
+the Amstel and the water of the IJ. The hidden location is
+a tower on the east side of Lastage.
+Assignments
+As soon as the GPS data shows a CT has reached a particular
+location, three video assignments in addition to
+the introductory video are automatically sent from the
+server in The Waag to the videophone. For each area,
+there are three similar types of assignments: an orientation
+assignment, an imagination assignment and a symbolic
+assignment. Each assignment consists of three
+parts and is concluded with a final multiple choice or
+open-ended question which often requires the CT and
+HQT to combine their knowledge to find the answer.
+The orientation assignment includes texts and tasks
+which are intended to trigger environmental awareness.
+This may be done via the creation or selection of photos,
+the answering of questions about the site.
+The imagination assignment includes texts and a task
+which are again intended to trigger not only environmental
+awareness via the creation or selection of photos
+and the answering of questions about the site but also
+Fig 1 Map of medieval Amsterdam ©
+Waag Society.
+Mobile game-based learning in secondary education 335
+© 2009 Blackwell Publishing Ltd
+the imagination of historical actions, events and the
+work of historical characters. For this assignment, the
+CTs are asked to act out particular idioms/sayings such
+as ‘this is monks’ work’, which is the equivalent of ‘this
+is sheer drudgery’in English and refers to the days when
+monks meticulously copied books by hand. The acting
+out of the sayings is videotaped, while the HQTs are
+asked to find out what these sayings mean.
+In the comprehensive assignment, the CTs are asked
+to search for several details – such as a plaque with the
+medieval name of the area – and take pictures of the
+details while the HQTs are asked to select the correct
+picture from various pictures on the Internet or somewhere
+else. Similarly, the CTs may be asked to take a
+picture of something such as a depiction of the emblem
+for a guild while the HQTs have to find out more about
+the guild itself.
+Each group, consisting of a CT and a HQT, can gain
+points which help them to win the game via the completion
+of assignments. Each CTalso has to decide whether
+to stay away from the other CTs or enter into a confrontation
+in which their ‘order’ determines the winner with
+merchants having a higher order than beggars. The
+winning group receives points (i.e. days of citizenship)
+from the losing group. Team members can also drop
+virtual medieval rats (i.e. the equivalent of a virtual
+bomb) on the other team which causes the screen of the
+smart phone to go blank and thus disables the use of this
+phone temporarily.
+Completion of the game
+At the end of the day, all of the pupils gather at the main
+building where the HQTs are located. Each of the
+groups is invited to briefly present some of their collected
+media to the other groups. An educational staff
+member of theWaag Society is also present to guide this
+process and ask questions. Finally, every group is told
+how many points they have earned and the group with
+the highest score is announced. With 30 min of introduction,
+a 1 h lunch break and almost 1 h of presentations
+at the end of the day, 2 h are left of play in a CT and
+2 h left to play in an HQT.
+Method
+Given that the aim of the present study was to enhance
+insight into both the motivational and learning effects of
+game-based learning, hypotheses regarding the motivation
+and knowledge gains of the pupils in the different
+research conditions were formulated first.
+1 The motivation of the pupils playing the Frequency
+1550 game for History in general and the topic of the
+Middle Ages in particular will differ from that of the
+pupils receiving the regular project-based lesson
+series.
+2 Those pupils playing the Frequency 1550 game will
+show different knowledge gains with regard to medieval
+Amsterdam than the pupils receiving the regular
+project-based lesson series.
+The aforementioned hypotheses were formulated nondirectional
+as the literature did not provide conclusive
+evidence regarding the effects of game-based learning.
+Research by Clark and Feldon (2005) and Kanfer and
+McCombs (2000) suggests that pupil interest in a topic,
+their prior knowledge with regard to the topic and their
+learning preferences (i.e. learning styles) may affect
+their choices and persistence to learn a subject. Given
+that the majority of the pupils dropping out of secondary
+education are in pre-vocational secondary education
+(OCW 2007), it may be that education is not appealing
+enough for these pupils and that the Frequency 1550
+game may work differently for pre-vocational pupils
+than for other pupils. Two pupil characteristics, in particular,
+may interact with the playing of the Frequency
+1550 game, namely: the pupil’s prior History ability and
+the pupil’s level of education – which can be understood
+to reflect various aspects of general cognitive ability,
+motivation and learning style. In keeping with the aforementioned,
+the following two hypotheses were thus formulated.
+3 Pupils with an initially low History ability will generally
+attain different knowledge of medieval Amsterdam
+results after playing the Frequency 1550 game
+than after receipt of a regular project-based lesson
+series.
+4 Pupils from pre-vocational secondary education will
+generally attain different knowledge of medieval
+Amsterdam results after playing the Frequency 1550
+game than after receipt of a project-based lesson
+series.
+As pupil engagement in a game is an important condition
+for learning and having fun, we will measure their
+level of engagement as well.
+336 J. Huizenga et al.
+© 2009 Blackwell Publishing Ltd
+The regular project-based lesson series of two class
+hours was designed by the researchers in strong cooperation
+with five history teachers from the participating
+schools. The content of the game Frequency 1550 has
+been used in the design of the regular project-based
+lesson series, which means that the content of both conditions
+(games and lesson) was similar.We checked the
+realisation of this design with teacher reports. However,
+the instruction of the assignments, the pedagogy and the
+time devoted to each topic are different between both
+conditions as these are part of the educational design. In
+the game condition, the instruction of the assignment is
+more ‘game-like’and narrative-based, the pedagogy has
+a focus on pupil-centred learning, and the time devoted
+to each topic was 4 h maximum, including time to navigate
+through the city, social talk and attempts to connect
+with the headquarters.
+Participants
+The participants in the present study were pupils who
+ranged in age from 12 to 16 years with the majority
+having an age of 13 years. The pupils were all in the first
+year of secondary education in the Netherlands: 14
+classes with a mix of pre-vocational secondary education
+pupils and 6 classes with a mix of upper general and
+pre-university secondary education pupils. Of the 458
+pupils, 232 played the Frequency 1550 game and 226
+followed the regular project-based lesson series.
+Ten of the classes played the mobile history game in
+the last week of May and the first two weeks of June
+2007. Seven of these classes were pre-vocational; the
+other three were a mix of upper general and preuniversity
+secondary education. The pupils in these
+classes form the experimental group. The other 10 –
+again seven pre-vocational and three upper general and
+pre-university secondary education – classes followed
+the regular project-based lesson series which was specifically
+designed for this research during the same
+period. The pupils in these classes form the control
+group.
+Measures
+Engagement
+Every CT went into Amsterdam with a guide who
+observed the game, assisted with small technical issues
+and saw to the pupils’ safety in the busy traffic of
+Amsterdam. The observation forms included items on
+just how often specific game activities occurred or how
+actively pupils were involved in a certain game activity
+(on a 5-point Likert scale with 1 indicating ‘not at all’
+and 5 indicating ‘= very often/very strong’). Examples
+are: ‘Howactively is theHQTinvolved in the conduct of
+the assignment?’ and ‘How actively is the CT involved
+in the exploration of the surroundings?’ At the Waag
+building where the HQTs were located, the activities of
+each team were also observed by a guide who helped the
+HQTs with technical issues. In most cases, one guide
+was observing and helping two HQTs. All of the guides
+completed observation forms and, at the end of each
+day, both the guides for the CTs and the HQTs came
+together to orally report on the day. These guides were
+staff members of Waag Society or volunteers from
+outside Waag Society. Morover, the three researchers
+made notes on the pupil engagement.
+Motivation for History and the topic of
+the Middle Ages
+Motivation was measured using a 6-item questionnaire
+similar to one available to measure motivation for Math
+(Cito 1987). In fact, the word ‘Math’ was replaced by
+‘History’ and an additional item was included to assess
+the pupil’s motivation for the topic of the Middle Ages.
+The questionnaire was administered directly before
+(pre-test) and 1 week after (post-test) playing the Frequency
+1550 game or attending the lesson series. The
+questionnaire items were responded to along a 5-point
+Likert scale with 1 indicating (almost) never and 5 indicating
+(almost) always. Examples of the statements to
+be rated are: ‘I like the subject of History’ and ‘I learn a
+lot from the subject of History’. The homogeneity of
+the questionnaire was found to be satisfactory with a
+Cronbach’s a of 0.78 (pre-test) and 0.84 (post-test).
+Motivation for the topic of Middle Ages was measured
+using only the item: ‘I think the Middle Ages are
+interesting’.
+Knowledge of medieval Amsterdam
+Historical knowledge of Amsterdam was measured
+using three multiple-choice questions and two openended
+questions for each of the six themes concerned
+with medieval Amsterdam: a total of 30 questions.
+However, none of the groups of pupils were found to
+have played the Frequency 1550 game for all six themes
+by the end of the game day. This meant that the test score
+Mobile game-based learning in secondary education 337
+© 2009 Blackwell Publishing Ltd
+for each pupil was corrected for the themes and assignments
+a pupil completed. So, only the scores for those
+questions for which the pupils had received the necessary
+information were considered in the test score on
+knowledge of medievalAmsterdam. The test items were
+exactly the same for pupils for both groups (game and
+lesson).
+Background variables
+The school administration provided us with information
+on the age, gender and level of education for the pupils.
+The teachers of the pupils estimated the pupils’ initial
+History ability (knowledge or skills regarding the
+subject of History) along a scale of 1 to 5 with higher
+scores indicating greater ability. History abilitywas then
+recoded as low, medium or high initial History ability.
+Given that the playing of the Frequency 1550 game
+draws upon collaborative learning, the pupils were
+asked to respond to five statements indicating their attitudes
+towards collaboration (a = 0.78). The questionnaire
+used to do this was similar to the questionnaire
+used to assess the pupils’ motivation for History in
+general and the Middle Ages in particular; the same
+5-point Likert scale was used to respond to the questions.
+An example of an assessment statement is: ‘When
+I collaborate, I understand things more quickly’. None
+of the several existing questionnaires we reviewed were
+found suitable to the group of students we were going to
+work with; therefore, we made our own collaboration
+scale.We formulated eight items on collaboration. After
+a factor analysis, we selected those five items which
+loaded on the factor as intended and showed sufficient
+reliability.
+Analyses
+The oral reports provided by the guides at the end of the
+Frequency 1550 game day were all transcribed. In a
+grounded-theory approach, the transcriptions of the oral
+reports, the observation notes from the researchers and
+the notes of the guides from 110 observation forms were
+used to inductively discern the theme engagement
+(Strauss & Corbin 1998). Sentences with words which
+indicate (dis)engagement [e.g. fun, concentration,
+(de)motivation, enthusiasm, boredom, effort] were
+marked and the frequencies of comments indicating
+engagement or disengagement were then counted.
+To assess the four hypotheses regarding the motivational
+and learning effects of playing the game versus
+following regular lessons, univariate analyses of covariance
+were performed. For the first two hypotheses
+regarding the pupils’ motivation and knowledge, the
+independent variable was the intervention (Frequency
+1550 game or regular project-based lesson series); the
+dependent variables were motivation for History in
+general and the topic of the Middle Ages in particular
+(hypothesis 1), and knowledge of medieval Amsterdam
+(hypothesis 2). Educational level (pre-vocational vs.
+upper general secondary and pre-university education),
+initial level of History ability (transformed into low,
+medium or high), pre-test motivation for the subject of
+History in general and the topic of the Middle Ages in
+particular and attitude towards collaboration were
+entered as covariates. For the hypotheses regarding the
+interaction effects, the independent variables were
+initial level of History ability, level of secondary education
+being followed and intervention; the dependent
+variable was knowledge of medieval Amsterdam; and
+the covariates were pre-test motivation for the subject of
+History in general and the MiddleAges in particular and
+attitude towards collaboration.
+Results
+Engagement in the game Frequency 1550
+The game was mostly played as planned, but with a few
+exceptions. There was not much elaboration of backstory:
+Pupils were often just told to gather as much
+points as possible, with no reference to earning civil
+rights. Moreover, pupils were not always informed
+about their identities as beggar or merchant. This meant
+that a certain competitive element of the game was
+removed. In addition, the technology did not always
+work as planned. On particularly the first three game
+days, there were problems with the GPS which either
+showed the wrong position for the pupils or no position
+whatsoever. The sending of photographs and videos
+took a very long time on some days, which prevented the
+pupils from moving on to the next assignment. The
+pupils could not, thus, progress in the game and therefore
+completed fewer assignments than expected. These
+technical problems might have negatively influenced the
+engagement of the pupils. On about 50% of the 56 occasions
+when the guides mentioned something negative
+about the engagement of the pupils, the guide also mentioned
+a technical problem. Examples of statements
+where engagement was related to technical problems
+338 J. Huizenga et al.
+© 2009 Blackwell Publishing Ltd
+are: ‘media doesn’t arrive, causing a lot of delay leading
+to demotivation’; ‘some problems starting up the technique,
+they get impatient, start chasing each other and
+playing around’; ‘technical problems tested pupils’
+patience and diminished concentration/attention’; and
+‘the ladies want to, but get demotivated by technical
+problems’. The pupils were not always demotivated in
+cases of technical problems and the guides sometimes
+explicitly noted that the pupils were motivated despite
+the occurrence of technical problems. There seem to be
+differences in engagement between theHQTand theCT.
+The HQT generally had to wait less than the CT, and
+some of the guides mentioned that the pupils appeared to
+like to be in the HQT more than the CT. This higher
+engagement of the HQTs seemed to be related to the
+many different tasks of the HQT and their overview of
+the game play. This image of engagement derived from
+the observation forms is supported by the oral reports
+provided by the guides and researchers at the end of the
+day.
+The quantitative observation data obtained from the
+guides showed the pupils to have a strongly active
+engagement in the solution of assignments but a bit
+more for the HQTs than for the CTs.
+In general, most of the pupils appeared to like the
+game and to be engaged by the game. Pupils who were
+not engaged regularly showed off-task surfing for
+YouTube videos or other things not relevant to the game
+or the assignments. Illustrative of observations that
+pupils were engaged is a teacher mentioning the fact
+that he could not normally get his pupils to work and
+that they now stayed focused for six hours, children
+being too busy to act up, best friends now able to live
+without each other for an entire day and some quiet
+pupils suddenly taking charge of the phone.
+Below, we present the results regarding the four
+hypotheses we formulated. The means for the dependent
+variables are presented in Table 1 along with the
+numbers of participants in the analyses of covariance
+we performed.
+Motivation for History and the topic of
+the Middle Ages
+In our analysis of covariance no significant differences
+were found between playing the game versus attending
+regular lessons with respect to motivation for the subject
+of History in general or the topic of the Middle Ages in
+particular.As technical problems might have influenced
+the motivational results, the analyses were repeated for
+the data when split into days 1–3 and 4–10, but still no
+significant differences were found for the game versus
+regular instruction groups. Hypothesis 1, namely that
+the motivation for History in general and the topic of the
+Middle Ages in particular would differ for those pupils
+playing the Frequency 1550 game versus those pupils
+receiving a regular project-based lesson series, can thus
+be rejected.
+Knowledge of medieval Amsterdam
+Asignificant effect of the intervention (playing the Frequency
+1550 game vs. the receipt of a regular projectbased
+lesson series) was found for knowledge of
+medieval Amsterdam in the analyses of covariance
+[F (1, 410) = 153.6; P  0.001]. The 211 pupils who
+played the Frequency 1550 game generally attained
+higher scores on the knowledge test (with 60% of the
+questions answered correctly on average) than the 200
+pupils who received regular project-based instruction
+(with only 36% of the questions answered correctly on
+average). Almost 28% of the variance in the scores on
+the knowledge test was explained by the intervention,
+and this can be judged to constitute a large effect (effect
+size f = 0.62; see Cohen 1988).
+Table 1. Mean scores on knowledge of medieval Amsterdam, motivation for the subject of History and motivation for the topic of the
+Middle Ages for intervention and control group.
+Frequency 1550 game Regular project-based lesson series
+N Mean N Mean
+Knowledge of medieval Amsterdam 211 60% 200 36%
+Motivation for History subject 141 3.02 136 2.80
+Motivation for topic of Middle Ages 139 2.80 134 2.52
+Mobile game-based learning in secondary education 339
+© 2009 Blackwell Publishing Ltd
+In light of the fact that the majority of pupils dropping
+out of secondary education come from pre-vocational
+education(OCW2007), we expected that the Frequency
+1550 game might work differently for pre-vocational
+pupils than for the pupils from upper general secondary/
+pre-university education. The research of Clark and
+Feldon (2005) and Kanfer and McCombs (2000) also
+gave us reason to expect that a pupil’s initial History
+ability and level of education might interact with the
+learning effect. For this reason, the two variables which
+indicate a pupil’s ability level – namely, their level of
+education (pre-vocational vs. upper general secondary
+or pre-university) and initial History ability (low,
+medium, or high) were analysed in interaction with
+intervention (game vs. regular project-based lesson
+series). The analyses revealed still a significant main
+effect of intervention and significant two-way interactions
+of educational level with intervention and initial
+History level with intervention. The results of the twoway
+interactions are graphically presented in Figures 2
+and 3.
+Pupils from the higher educational level (i.e. upper
+general secondary and pre-university education)
+appeared to benefit more from playing the Frequency
+1550 game than pupils from the lower educational level
+(i.e. pre-vocational education) (see Figure 2). After
+playing the Frequency 1550 game, those pupils in
+pursuit of a higher level of education attained relatively
+higher scores for knowledge of medieval Amsterdam
+than pupils in pursuit of a lower level of education. Conversely,
+after receipt of regular project-based instruction,
+pupils with a lower educational level attained
+Fig 2 Two-way interaction between intervention
+(game vs. regular lesson) and
+educational level (pre-vocational vs. upper
+general secondary or pre-university).
+Fig 3 Two-way interaction between intervention
+(game vs. regular lesson) and initial
+History ability (low, moderate, high).
+340 J. Huizenga et al.
+© 2009 Blackwell Publishing Ltd
+relatively higher scores on the test of knowledge of
+medieval Amsterdam than pupils with a higher educational
+level [F (1, 410) = 19.6; P  0.001].
+From Figure 3, it can be seen that pupils with an initially
+low History ability benefitted most from playing
+the Frequency 1550 game; the difference between
+playing the game versus attending a regular projectbased
+lesson series is larger for this ability group than
+for the other two ability groups [F (2, 410) = 3.3;
+P = 0.04].
+From Figures 2 and 3, it is clear that a large significant
+effect of intervention in favour of playing the Frequency
+1550 game still remains [F (1, 410) = 138.7;
+P  0.001]. Some 26% of the total variance in the
+scores on the knowledge of medieval Amsterdam test is
+explained by intervention alone. The interaction effects
+depicted in Figures 2 and 3 can be understood as small
+effects and indeed explain only 5% and 2% of the variance
+in the knowledge of medieval Amsterdam test
+scores, respectively.
+Discussion
+The use of mobile games in education may be an excellent
+way to combine situated and active learning with
+fun. The learning potential of mobile and locationbased
+technologies lies in the possibility to embed
+learning in an authentic environment, enhance engagement
+and foster learning outside traditional formal educational
+settings. Although research on game-based
+learning constitutes an expanding research domain,
+claims that mobile games really enhance pupil learning
+still lack solid empirical evidence (de Freitas 2006).
+Despite the various studies conducted to date, there is
+clearly a need for more thorough evaluation of the motivational
+and learning effects of mobile game-based
+learning. Experimental studies in which mobile gamebased
+learning is compared to regular – possibly
+project-based – learning are needed direly. In this
+article, we have presented the results of an experimental
+study involving the mobile city game called Frequency
+1550 in which pupils in the first year of secondary education
+can playfully acquire historical knowledge of
+medieval Amsterdam. Pupil engagement in the game
+was investigated in addition to the effects of playing the
+game on the historical knowledge of the pupils and their
+motivation for the subject of History in general and the
+topic of the Middle Ages in particular when compared
+to pupils receiving a regular project-based series of
+lessons.
+The results showed playing of the Frequency 1550
+game to produce a clear learning effect in terms of
+knowledge of medieval Amsterdam. Those pupils who
+played the Frequency 1550 game generally attained
+higher scores on the knowledge test when compared to
+those pupils who received a series of regular projectbased
+lessons. The pupils in the mobile game intervention
+presumably gained greater knowledge of medieval
+Amsterdam because the information was presented in a
+more realistic, meaningful context and because the
+pupils had to actively work with the learning content
+within the context of medieval Amsterdam.
+Although we also expected to find motivational
+effects of playing the game, no significant differences
+were found between the different interventions with
+respect to motivation for History in general or the
+Middle Ages in particular. This is striking in light of the
+fact that motivation is commonly considered the argument
+for the use of game-based learning in education.
+However, our definition of motivation was much more
+specific than the definitions used in the research we
+read. That is, we specifically examined motivation for
+the subject of History, whereas researchers define motivation
+in terms of fun and/or engagement (e.g. Schwabe
+& Göth 2005).
+In retrospect, it might be that playing the Frequency
+1550 game for only one day is simply not enough to
+establish clear motivational effects. It is also possible
+that the technical problems may be partly responsible
+for the lack of effects on pupil motivation although
+separate analyses for those days with lots of technical
+problems versus those days with considerably fewer
+technical problems produced about the same results.
+Nonetheless, technical failures were clearly observed to
+be responsible for many instances of disengaged behaviour
+throughout the study days. In future research, more
+and earlier tests of technology should be performed in
+order to prevent technical failures to intervene with
+learning and motivational effects. Finally, many of the
+pupils did not complete one of the post-tests as it simply
+was not administered in six of the 20 classes. Given that
+the missing data was evenly distributed across the two
+interventions, however, we do not think that the validity
+of the present results and the conclusions to be drawn
+was damaged. More data might have revealed some
+smaller but significant effects, however.
+Mobile game-based learning in secondary education 341
+© 2009 Blackwell Publishing Ltd
+In light of the hypothesis that game-based learning
+might work differently for pupils with a low level of
+education or initially low History ability, we also investigated
+the possibility of interaction effects. The results
+showed pupils from the higher levels of education to
+benefit more from playing the Frequency 1550 game
+than pupils from the lower levels. Stated differently:
+Those pupils with a lower level of education benefited
+less from the Frequency 1550 game than those pupils
+with a higher level of education. Conversely, those
+pupils with an initially low History ability benefited
+more from playing the Frequency 1550 game than
+pupils with a higher level of initial History ability. That
+is, the Frequency 1550 game appears to be particularly
+worthwhile for pupils with an initially low History
+ability, and for pupils attending higher educational
+levels.
+While the present study was not about the efficiency
+of teaching, it should be noted that the regular projectbased
+lesson series involved only two class hours (of
+fifty minutes each), whereas the Frequency 1550 game
+involved the entire day. Despite the fact that the pupils
+who played the Frequency 1550 game required time for
+explanation of the technical aspects of the game and
+considerable time for navigation through the city and
+the search for the areas of the city, the pupils playing
+the game probably still had more learning time than
+those receiving the regular lesson series. In the present
+study, however, we were primarily interested in the
+effectiveness and not the efficiency of game-based
+learning.
+While the Frequency 1550 game was shown to
+clearly promote knowledge of medieval Amsterdam, it
+is not clear which elements of the game contributed to
+pupil learning. For example, was the ‘digital part’ of the
+game accountable for the results, or was it primarily the
+‘location part’, the opportunity for pupils to learn in
+location? The use of ICT in education has been influenced
+by several learning theories including behavioural
+learning theory, cognitive learning theory and
+social learning theory and thus has roots in work of
+Dewey, Piaget and Vygotsky. In their constructivist
+approaches to learning with technology, Jonassen et al.
+(1999) and Barak (2006) have described learning principles
+which involve a synthesis of several learning
+theories. It is argued, for example, that ICT may only
+promote meaningful learning when the learners are
+actively engaged in learning which is constructive, contextual,
+reflective and social. Unravelling games – and
+perhaps mobile games in particular – into their constituent
+learning principles should thus be part of future educational
+research as only then, in our opinion, can we
+claim that mobile games constitute an excellent means
+to combine situated, active and constructive learning
+with fun.
+For future research, it is suggested that the effects of
+game-based learning when pupils not only play the
+game but are also involved in the creation of the game,
+which allows more space for individual story construction
+and the addition of elements of own interest, be
+studied in particular. Such learner-centred production
+was not a part of the design of the Frequency 1550
+game as pupils played a game which was developed
+by someone else with rules, goals, objectives, identities,
+a story line and assignments which could only be
+minimally influenced by the player/learner. The potential
+of game creation for educational purposes has yet
+to be addressed, thus, while it is just this which has
+taken the newly developed Games Atelier – which
+allows pupils to create and play their own games in
+their own urban environment via mobile phones, GPS
+and the Internet – one step further. Players-asproducers
+obviously emphasizes the more creative and
+constructive role of the learner and may therefore
+enhance learning effects and also trigger greater motivation
+on the part of pupils relative to the Frequency
+1550 game, thus.
+In conclusion the present research has shown a
+mobile game-based learning strategy to be highly effective
+when compared to a regular project-based instructional
+trajectory and highlighted promising new
+directions for future research along these lines.
+Acknowledgements
+We would like to thank Gijs Determeijer, Josephine de
+Groot, Aske Hopman, Kristel Kerstens and Henk van
+Zeijts of the Waag Society Amsterdam for their help
+with this research. We would also like to thank Hein
+Butteling, Martin Rodermans and Mark Souwer who
+were the co-ordinators for the schools involved and
+Wim Aerns, Merwien Best, Neline Kuipers, Carlien
+Moeljono and HuibertTeekens who were the teachers in
+the schools involved. We would also like to thank two
+anonymous referees for their detailed comments on an
+earlier draft of this article.
+342 J. Huizenga et al.
+© 2009 Blackwell Publishing Ltd
+References
+Barak M. (2006) Instructional principles for fostering learning
+with ICT: teachers’ perspectives as learners and instructors.
+Education and Information Technologies 11, 121–
+138.
+Beck J. & Wade M. (2006) The Kids are Alright: How the
+Gamer Generation is Changing the Workplace. Harvard
+Business School Press, Boston, MA.
+Brown J.S., Collins A. & Duguid P. (1989) Situated cognition
+and the culture of learning. Educational Researcher 18,
+32–41.
+Cito (1987) Belevingschaal voor Wiskunde [Perception Scale
+for Math]. Cito, Arnhem, The Netherlands.
+Clark R.E. & Feldon D.F. (2005) Five common but questionable
+principles of multimedia learning. In Cambridge
+Handbook of Multimedia Learning (ed. R.E. Mayer),
+pp. 97–116. Cambridge University Press, Cambridge,
+UK.
+Cohen J. (1988) Statistical Power Analysis for the Behavioural
+Sciences, 2nd edition. Lawrence Erlbaum Associates,
+Hillsdale, NJ.
+Csíkszentmihályi M. (1990) Flow: The Psychology of
+Optimal Experience. Harper and Row, NewYork.
+Dempsey J., Lucassen B, Haynes L. & Casey M. (1996)
+Instructional applications of computer games. Paper presented
+to the American Educational Research Association,
+8–12April 1996, NewYork. ERIC Document Reproduction
+Service No ED 394 550.
+van Eck R. (2006) It’s not just the digital natives who are restless.
+Available at: http://net.educause.edu/ir/library/pdf/
+erm0620.pdf (last accessed 8August 2008).
+Egenfeldt-Nielsen S. (2005) Beyond edutainment: exploring
+the educational potential of computergames. [Electronic
+doctoral dissertation]. Available at: http://www.itu.dk/
+people/sen/egenfeldt.pdf (last accessed 10 December
+2007).
+Egenfeldt-Nielsen S. (2006) Overview of research on the educational
+use of video games. Tidsskriftet Digital Kompetanse
+[Nordic Journal of Digital Literacy] 1, 184–213.
+Fletcher J.D. & Tobias S. (2006) Using computer games and
+simulations for instruction: a research review. Paper presented
+at the Society for Applied Learning Technology
+Meeting, February 8–10, Orlando, FL.
+de Freitas S. (2006) Learning in immersiveworlds: a reviewof
+game-based learning. Available at: http://www.jisc.ac.uk/
+media/documents/programmes/elearninginnovation/
+gamingreport_v3.pdf (last accessed 10 August 2008).
+Garris R., Ahlers R. & Driskell J.E. (2002) Games, motivation,
+and learning: a research and practice model. Simulation
+& Gaming 33, 441–467.
+Gee J.P. (2003) What video games have to teach us about
+learning and literacy. ACM Computers in Entertainment 1,
+1–4.
+Gros B. (2007) Digital games in education: the design of
+game-based learning environments. Journal of Research on
+Technology in Education 40, 23–38.
+Habgood M.P.J. (2007) The Effective Integration of Digital
+Games and Learning Content. Unpublished Dissertation,
+University of Nottingham, Nottingham, UK.
+Hays R.T. (2005) The effectiveness of instructional games: a
+literature review and discussion. Available at: http://
+handle.dtic.mil/100.2/ADA441935 (last accessed 20
+August 2008).
+Herweijer L. (2008) Gestruikeld voor de start: de school verlaten
+zonder startkwalificatie. [Stumbling before the start:
+Leaving school without an initial qualification] Available
+at: http://www.scp.nl/publicaties/boeken/9789037703399/
+Gestruikeld%20voor%20de%20start.pdf (last accessed 4
+September 2008).
+Jonassen D., Peck K.&Wilson B. (1999) Learning with Technology:
+A Constructivist Approach. Prentice Hall, Upper
+Saddle River, NJ.
+Jonassen J.T.&Blondal K.S. (2005) Early school leavers and
+the dropout issue in Europe. Available at: http://www3.
+hi.is/~jtj/greinar/Back%20on%20track%20JTJ%20og%
+20Stella%202005.pdf (last accessed 04 September 2008).
+Kanfer R. & McCombs B.L. (2000) Motivation: applying
+current theory to critical issues in training. In Training and
+Retraining: A Handbook for Business, Industry, Government
+and the Military (eds S. Tobias & J.D. Fletcher),
+pp. 85–108. Macmillan, NewYork.
+Kirriemuir J. & McFarlane A. (2004) Report 8: Literature
+Review in Games and Learning. NESTA Future Lab series.
+Available at: http://www.futurelab.org.uk/download/pdfs/
+research/lit_reviews/Games_Review1.pdf (last accessed
+18 January 2009).
+Klopfer E. (2008) Augmented Learning: Research and Design
+of Mobile Educational Games. MIT Press, Cambridge,
+MA.
+Klopfer E. & Squire K. (2008) Environmental detectives – the
+development of an augmented reality platform for environmental
+simulations. Educational Technology Research and
+Development 56, 203–228.
+Klopfer E., Squire K. & Jenkins H. (2002) Environmental
+detectives: PDAs as a window into a virtual simulated
+world. Available at: http://website.education.wisc.edu/
+kdsquire/manuscripts/german-chapter.doc (last accessed
+21 August 2008).
+Lave J. & Wenger E. (1991) Situated Learning: Legitimate
+Peripheral Participation. Cambridge University Press,
+Cambridge, UK.
+Mobile game-based learning in secondary education 343
+© 2009 Blackwell Publishing Ltd
+Lombardi M. (2007) Authentic learning for the 21st Century:
+an overview. Educause Learning Initiative, ELI Paper
+1/2007.Available at: http://net.educause.edu/ir/library/pdf/
+ELI3009.pdf (last accessed 28 May 2008).
+Malone T.W. & Lepper M.R. (1987) Making learning fun: a
+taxonomic model of intrinsic motivations for learning. In
+Aptitude, Learning, and Instruction: III. Cognitive and
+Affective Process Analysis (eds R.E. Snow & M.J. Farr),
+pp. 223–253. Erlbaum, Hillsdale, NJ.
+Mitchell A. & Savill-Smith C. (2004) The Use of Computer
+and Video Games for Learning. Learning and Skills Development
+Agency, London.
+OCW [the Dutch Ministry of Education, Culture and Sciences].
+(2007) Factsheet Voortijdig Schoolverlaten:
+November 2007. [Factsheet leaving school prematurely:
+November 2007] Available at: http://www.
+voortijdigschoolverlaten.nl/userfiles/file/
+factsheetsnovember2007.pdf (last accessed 4 September
+2008).
+Prensky M. (2001) Digital Game-Based Learning. McGraw-
+Hill, NewYork.
+Sandfort S., Ulicsak M., Facer K. & Rudd T. (2006) Teaching
+with games: using commercial off-the-shelf computer
+games in formal education. Available at: http://
+www.futurelab.org.uk/resources/documents/
+project_reports/teaching_with_games/TWG_report.pdf
+(last accessed 18 January 2009).
+Schwabe G. & Göth C. (2005) Mobile learning with a mobile
+game: design and motivational effects. Journal of Computer
+Assisted Learning 21, 204–216.
+Shaffer D. (2006) How Computer Games Help Children
+Learn. Palgrave Macmillan, NewYork.
+Squire K. (2004) Replaying history: learning world history
+through playing. Civilization III. [Electronic doctoral dissertation]
+Available at: http://website.education.wisc.edu/
+kdsquire/dissertation.html (last accessed 12 June 2006).
+Strauss A.L. & Corbin J. (1998) Basics of Qualitative
+Research: Techniques and Procedures for Developing
+Grounded Theory. Sage Publications, Thousand Oaks,
+CA.
+Watson W. (2007) Formative research on an instructional
+design theory for educational video games. Available at:
+http://www.indiana.edu/~syschang/decatur/documents2/
+formative_resrch_isd-theory_edvideogames.pdf (last
+accessed 5 September 2008).
+344 J. Huizenga et al.
+© 2009 Blackwell Publishing Ltd

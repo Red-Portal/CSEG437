@@ -1,0 +1,275 @@
+Mobile phones and health: Government response to the report
+from the Independent Expert Group on Mobile Phones (Stewart
+Group)
+
+1. STEWART REPORT - THE GOVERNMENT'S RESPONSE
+1.1 The Government welcomes the Stewart Group Report and its comprehensive and thorough review of the
+issues.
+1.2 The report makes helpful recommendations on measures to reduce public concern about the health
+impacts of mobile telecommunications technologies. Importantly, it provides information for the consumer to
+help them to make informed choices about their own and their families' use of these technologies.
+1.3 We are acting immediately on the findings of the report. Some of its conclusions and recommendations
+can be actioned straight away. Other issues will require more time for consideration and consultation and we
+will be issuing further information in due course.
+2. THE CONTEXT
+2.1 With over 27 million subscribers in the UK, it is clear that mobile phones are a popular and important
+means of modern communication. The technology has, and will continue, to revolutionise the way people live
+their lives and companies do business. The UK is the world leader in mobile telecommunications, with
+successful mobile network operators offering innovative and competitive services.
+2.2 The Government believes that people should be able to make the most of new technology without
+concerns that it may impact on their health. For this reason, the Minister for Public Health called for an
+independent expert group to be set up to undertake the world's most comprehensive review of the possible
+health effects of mobile telecommunications technologies.
+2.3 The Independent Expert Group was set up under the chairmanship of Sir William Stewart and has
+published its report today.
+2.4 In his foreword to the Report, Sir William Stewart states that "the balance of evidence does not suggest
+that mobile phone technologies put the health of the general population of the UK at risk. There is some
+preliminary evidence that outputs from mobile phone technologies may cause, in some cases, subtle
+biological effects although, importantly, these do not necessarily mean that health is affected." Stewart
+proposes that a precautionary approach be adopted until more robust scientific information becomes
+available.
+3. ASSESSMENT OF HEALTH RISKS
+Mobile Phone Technology
+3.1 The Stewart Group has concluded that the balance of evidence suggests that for mobile phone users:
+Exposure to radio frequency radiation below guideline levels does not cause adverse health effects
+to the general population.
+3.2 However, the Stewart Group has also concluded that there is now scientific evidence that
+There may be biological effects occurring at exposures below these guidelines. This does not
+necessarily mean that these effects lead to disease or injury but this is important information.
+3.3 The Stewart Group concluded that:
+It is not possible at present say that exposure to RF radiation, even at levels below national
+guidelines, is totally without potential adverse health effects, and that the gaps in knowledge are
+sufficient to justify a precautionary approach.
+Specific Issues
+Drivers
+3.4 The Stewart Group further concluded in relation to the risks of mobile phones
+That their use in cars can increase the chance of accidents and those drivers should be dissuaded
+from using phones on the move.
+Children
+3.5 The Stewart Group stated that it believes that the widespread use of mobile phones by children for nonessential
+calls should be discouraged because:
+If there are currently unrecognised adverse health effects from the use of mobile phones, children
+may be more vulnerable because of their developing nervous system, the greater absorption of
+energy in the tissues of the head and a longer lifetime of exposure.
+Base Stations
+3.7 The Stewart Group has made a separate assessment of the potential health risks of base stations and
+concluded that
+The balance of evidence indicates that there is no general risk to the health of people living near to
+base stations on the basis that exposures are expected to be small fractions of guidelines. However,
+there can be indirect adverse effects on their well-being in some cases.
+The Government accepts the conclusions of the risk assessment of mobile phone technology set out in the
+Stewart Group's report.
+4. PUBLIC HEALTH ACTION
+4.1 The Stewart Group has identified on the basis of its risk assessment the need to take a precautionary
+approach to the use of mobile phone technologies until we have more detailed and scientifically robust
+information on any health effects.
+The Government accepts the recommended precautionary approach advised by the Stewart Group and will,
+of course, wish to hold further discussion and consultation on specific elements. The Government will be,
+therefore, taking forward the actions that follow in response to the report's specific recommendations.
+Standards for mobile phones and base stations
+4.2 The Stewart Group recommended that, as a precautionary approach, the ICNIRP guidelines for public
+exposure be adopted for use in the UK rather than the NRPB guidelines. (Paragraph 1.27 of the report)
+We are not convinced of the need to incorporate the ICNIRP guidelines in statutes. (1.28)
+The Government agrees, in line with the recommended precautionary approach, that the emissions from
+mobile phones and base stations should meet the ICNIRP guidelines for public exposure as expressed in the
+EU Council Recommendation of 12 July 1999 on the limitation of exposure of the general public to
+electromagnetic fields (0 Hz to 300GHz). The Government further agrees that the guidelines do not need to
+be incorporated into statutes.
+Mobile phones:
+Standards and Public Information
+4.3 The Stewart Group recommended that an international standard for the assessment of SAR values from
+mobile phones should be adopted for use in the UK once it has been demonstrated to be scientifically sound.
+(1.51)
+The Group recommended that information on the SAR values for mobile phones must be readily accessible
+to consumers
+， At the point of sale with information on the box,
+， On leaflets available in stores giving comparative information on different phones and with
+explanatory information,
+， As a menu option on the screen of the phone and as a label on the phone,
+， On a national web site, which lists the SAR values of different phone types. (1.52)
+Government is aware that all mobile phone handsets on sale in the UK already meet the ICNIRP guidelines.
+We are supporting CENELEC in developing a European standard for measuring the Specific Absorption
+Rate (SAR) values of mobile phones. The standard will be adopted in the UK once it has been finally
+approved. The Government agrees that the consumer should have access to the SAR values when
+considering purchasing a mobile phone. The Government will expect SAR measurements to be displayed at
+all points of sale and with each mobile phone and on the World Wide Web. The Government considers that
+the SAR value should be viewed in context, for example, by comparing the SAR value against the
+recommended exposure limits. We will work with industry to implement the recommendations.
+The use of mobile phones whilst driving.
+4.4 Drivers should be dissuaded from using either hand-held or hands-free phones whilst on the move.
+(1.22)
+Government agrees with the Stewart Group's view that the use of mobile phones whilst driving can
+substantially increase the risk of an accident and that drivers should be dissuaded from using either handheld
+or hands-free phones whilst on the move. Government launched a publicity campaign in 1998 to warn
+of the dangers of using a mobile phone while driving and reinforced that campaign at the beginning of this
+year. There will be further campaigns. The police are content to rely on existing legislation for the powers of
+prosecution, and they use it. However, if drivers continue to use mobile phones while on the move, the
+Government will review whether specific legislation is required.
+Mobile phone use by children.
+4.5 The widespread use of mobile phones by children for non-essential calls should be discouraged. The
+Stewart Group also recommended that the mobile phone industry should refrain from promoting the use of
+mobile phones by children. (1.53)
+Government accepts the Stewart Group's recommendation. The Chief Medical Officer will be discussing with
+the Stewart Group how best to ensure that parents are aware of these recommendations and the information
+contained in the report so that they are able to make informed choices about the use of mobile phones.
+Mobile phone use near essential hospital equipment.
+4.6 The Stewart Group understood that health authorities/health boards issue guidance on the use of mobile
+phones. They should ensure that all hospitals comply. This guidance should include the placing of visible
+warning signs at entrances to buildings to indicate that mobile phones should be switched off. (1.47)
+Government is aware that the use of mobile phones in hospitals and other sites where the RF radiation could
+possibly interfere with sensitive equipment and the Medical Devices Agency has already issued relevant
+guidance. This includes policy advice to hospitals covering restricted areas where mobile phones should not
+used and the placing of visible warning signs at the entrances to these areas to indicate that mobile phones
+should be switched off.
+Shielding Devices and hands-free kits
+4.8 The Stewart Group recommended that Government sets in place a national system which enables
+independent testing of shielding devices and hands-free kits to be carried out, and which enables clear
+information to be given about the effectiveness of such devices. A kite mark or equivalent should be
+introduced to demonstrate conformity with the testing standard. (1.65)
+The Government agrees that shielding devices and hands-free kits should be independently tested and that
+there should be clear information about the effectiveness of such devices. The DTI have already
+commissioned independent SAR measurement of hands free kits; the results will be published shortly.
+Base Stations
+Exclusion Zones
+4.9 The Stewart Group recommended the establishment of clearly defined physical exclusion zones around
+base station antennas, which delineate areas within which exposure guidelines may be exceeded. The
+incorporation of exclusion zones should be part of the template of planning protocols that we advocate
+(1.44).
+The Stewart Group recommended that the design of the logo should be taken forward by the British
+Standards Institute and implemented within 12 months. (1.45)
+The Stewart Group recommended that warning signs should be incorporated into microcell and picocell
+transmitters to indicate they should not be opened when in use. (1.46)
+Clear exclusion zones should already be in place around all base station antennas to prevent the public from
+exposure radio frequency radiation above ICNIRP guidelines. Different operators currently use different
+signs, which may cause confusion. The Government supports the recommendation for clearer signs around
+base stations. Government agrees that microcell and picocell transmitters should have warning signs to
+minimise the risk of undue exposure to RF radiation from being opened during use.
+Planning Issues
+Siting - a more consultative process.
+4.10 The Stewart Group recommended that for all base stations, including those with masts under 15 m,
+permitted development rights for their erection be revoked and that the siting of all new base stations should
+be subject to the normal planning process. (1.36)
+The Stewart Group recommended that, at national Government level, a template of protocols be developed,
+in concert with industry and consumers, which can be used to inform the planning process and which must
+be assiduously and openly followed before permission is given for the siting of a new base station. (1.37)
+The Stewart Group recommended that a robust planning template be set in place within 12 months of the
+publication of this report. It should incorporate a requirement for public involvement, an input by health
+authorities/health boards and a clear and open system of documentation, which can be readily inspected by
+the general public. (1.38)
+The Stewart Group recommended that an Ombudsman be appointed to provide a focus for decisions on the
+siting of base stations when agreement cannot be reached locally, and on other relevant issues. (1.62)
+The Government is minded to introduce a requirement for full planning permission for all new
+telecommunication masts, as public consultation is an integral part of the planning process. We will need to
+consult widely before doing so including the principle and precise scope of any new arrangements. We shall
+issue a consultation paper on this and related guidance which will include consideration of health concerns.
+The Group suggested that the appointment of an Ombudsman would help with planning decisions on siting
+of base stations, for example, where agreement could not be reached locally. The Government is
+sympathetic to the objectives of the proposal and feels there are better ways of achieving them, bearing in
+mind that there is no comparable arrangement in relation to other kinds of development. The role of an
+Ombudsman would not sit comfortably with the existing appeal process within the planning system.
+As regards siting, the Government's view is that the objectives are met by the planning process. When
+considering applications for new development local planning authorities consult local people and take their
+views into account in making decisions. Where an authority refuses an application the developer can appeal
+to the Secretary of State. Pre-applications discussions with authorities and with local people also have an
+important part to play, providing opportunities to explore alternative approaches to the siting and appearance
+of masts.
+Emissions from base stations - measurements and audit.
+4.11 The Stewart Group recommended that a national database be set up by Government giving details of
+all base stations and their emissions. This should include the characteristics of the base stations as
+described in paragraphs 6.47 and 6.48 and should be an essential part of the licence for the site. (1.39)
+The Stewart Group recommended that an independent random, ongoing, audit of all base stations be carried
+out to ensure that exposure guidelines are not exceeded outside the marked exclusion zone and that the
+base stations comply with their agreed specifications. If base station emissions are found to exceed
+guideline levels, or if there is significant departure from the stated characteristics, then the base station
+should be decommissioned until compliance is demonstrated. (1.40)
+The Stewart Group recommended that particular attention should be paid initially to the auditing of base
+stations near to schools and other sensitive sites. (1.41)
+The industry already maintains a national database of all base stations and emission levels. Government will
+explore further with industry the development of the database. The Government also agrees that there is a
+need to establish an independent audit of emissions to give the public confidence that base stations do not
+exceed approved guidelines. We will seek to implement a national measurement programme and will be
+discussing this further with the Radiocommunications Agency. Auditing of base stations near to schools and
+other sensitive sites will receive priority and this will include measurements of the beam intensity. We will
+consider how best to make this information publicly available and relevant to siting of base stations.
+Base stations - keep exposure low
+4.12 The Stewart Group recommend that in making decisions about the siting of base stations, planning
+authorities should have the power to ensure that the RF fields to which the public will be exposed will be kept
+to the lowest practical levels that will be commensurate with the telecommunications system operating
+effectively. (1.43)
+The Stewart Group recommended that operators actively pursue a policy of mast sharing and roaming where
+practical. (1.54)
+The Government would expect an efficient mobile network operator to ensure that this recommendation is
+met already. However, it will be exploring with the industry ways to ensure this recommendation is met.
+The Stewart Group also examined the value of mast sharing and roaming agreements, which can offer
+advantages in terms of providing a better service in rural areas and limiting environmental intrusion. We
+already require a network operator to examine the possibility of using an existing mast or structure before
+seeking to put up any new mast. We expect that any operator should be able to verify that this has been
+considered. We shall also pursue with the industry the report's recommendation that operators pursue a
+policy of roaming where practical to obviate the need for excessive build-out of networks in rural areas.
+Base stations near or in school grounds.
+4.13 The Stewart Group recommended that particular attention should be paid initially to the auditing of base
+stations near to schools and other sensitive sites. (1.41)
+The Stewart Group recommended, in relation to macrocell base stations sited within school grounds, that the
+beam of greatest intensity should not fall on any part of the school grounds or buildings without agreement
+from the school and parents. Similar considerations should apply to macrocell base stations sited near to
+school grounds. (1.42)
+Government agrees that schools and parents should be reassured that the base stations near schools and
+other places where children spend considerable time operate within guidelines. We will be working with the
+Stewart Group on the further issues regarding measurements of emissions from base stations on or near
+schools and how to take forward the recommendation on the 'beam of greatest intensity'.
+We will also be writing to local education authorities in the next few days regarding the Stewart report and
+will be issuing further guidance to schools and local education authorities in light of the action we have set
+out in paragraphs 4.5, 4.10 and 4.11.
+Health Related Research - filling in the gaps in knowledge.
+4.14 The Stewart Group recommended that priority be given to a number of areas of research related
+particularly to signals from handsets (1.57)
+The Stewart Group recommended that a substantial research programme should operate under the aegis of
+a demonstrably independent panel (1.58)
+The Stewart Group further recommended that this programme be financed by the mobile phone companies
+and the public sector (industry departments, health departments and the research councils), possibly on a
+50:50 basis. (1.59)
+The Stewart Group recommended that a register of occupationally exposed workers be established and that
+cancer risks and mortality be examined to determine whether there are any harmful effects. If any adverse
+effects of exposure to RF radiation are identified then the Health and Safety Executive should establish a
+system of health surveillance. (1.29)
+The Government agrees with the Stewart Group that there is an urgent need for further research into the
+potential health effects of mobile communications equipment. The Government is commissioning a
+comprehensive programme of research costing several millions of pounds, which will result in further
+research findings emerging over the next few years. This work should also encompass emerging radiobased
+technologies.
+Discussions have taken place with the industry about funding a UK based research programme and they
+have given their agreement in principle to support such a programme. It has been agreed that any research
+undertaken must be independent and scientifically rigorous. It should meet the research requirements
+suggested by the World Health Organisation and follow their criteria for good laboratory practice. It should
+also fit with similar work done in other countries and with the EU Framework projects in this area. An
+appropriate mechanisms for channelling industry support for research, so that it does not prejudice the
+independence of the work, will need to be determined. It is planned to launch this programme by September
+2000.
+The Stewart group proposed that a register of occupationally exposed workers should be established. A
+three-year study is currently being undertaken to assess the feasibility of conducting an industry-wide
+epidemiological study to investigate any relationship between RF and the risk of damage to human health.
+One aim is to develop a protocol to estimate total RF exposure during employment. The Government will
+consult with the Health and Safety Commission and others on how the Stewart's Group recommendation
+might best be taken forward in the light of the outcome of this study
+Further Review
+4.15 The Stewart Group recommended that the issue of possible health effects of mobile phone technology
+should be the subject of a further review in three years time, or earlier if circumstances demand it. (1.60)
+The Government is keen to maintain the momentum of reviewing the health effects of mobile phone
+technologies and recognises that the IEGMP recommends a further review in three years' time. We will be
+asking the NRPB to keep further research in this area under continual review and to report to us on progress
+with both national and international research activities in three years time or when significant information
+becomes available.
+Public Information
+4.16 The Stewart Group recommended that national and local government, industry and the consumer
+should all become actively involved in addressing concerns about possible health effects of mobile phones
+(1.24)
+The Stewart Group recommended that Government circulates a leaflet to every household in the UK
+providing clearly understandable information on mobile phone technology and on related health aspects,
+including the use of mobile phones while driving. This leaflet should additionally be available at the point of
+sale. The leaflet should be developed in concert with industry, which has already produced some good
+leaflets. (1.61)
+The Government agrees that more information about mobile phone technology should be available. We will
+be working with the Stewart group on circulating its recommendations and information to the public and we
+have already started discussions on the production and availability of information on health aspects of mobile
+phone technology. We will ensure that a leaflet will be issued shortly and be distributed widely as well as
+available where mobile phones are sold and elsewhere.

@@ -1,0 +1,25 @@
+Nokia 'Here' Brings Map Technology to Smartphone Masses
+
+Nokia just took the lid off Here, software that offers maps and location experiences across multiple screens and operating systems. Formerly known as Nokia Maps, Here paves the way for the handset maker to push its location and mapping services beyond Nokia devices. 
+For starters, Nokia is launching a maps application for iOS under the Here brand. Based on HTML5, it will include offline capabilities, voice-guided walk navigation and public transport directions. The application will be available for free download from Apple's App Store in the coming weeks. 
+
+"People want great maps, and with Here we can bring together Nokia's location offering to deliver people a better way to explore, discover and share their world," said Nokia President and CEO Stephen Elop. "Additionally, with Here we can extend our 20 years of location expertise to new devices and operating systems that reach beyond Nokia." 
+
+Nokia also announced a strategic partnership with Mozilla to bring new location experiences to the Firefox OS. Nokia plans to debut a mobile  Web version of Here maps for the new Firefox OS next year. Nokia also demonstrated an Android OS-based reference application and announced plans for the availability of a Here SDK for Android OEMs in early 2013. 
+
+As part of its Here plans, Nokia acquired Earthmine. Earthmine develops reality capture and processing technologies that will become integral parts of Here's 3D mapmaking capabilities. Nokia expects the transaction to close by the end of 2012. 
+
+Nokia also introduced new technology called LiveSight, which is based on a 3D map of the world. LiveSight offers an augmented reality experience using a phone's camera viewfinder. Nokia City Lens, which was developed exclusively for Nokia Lumia devices, is the first application providing a LiveSight-enabled experience. 
+
+"Establishing a new brand is the right move for Nokia in the map and location business," said Crawford Del Prete, executive vice president and head of worldwide research at IDC. "Nokia's assets in this space are world class. We believe mapping and location will be increasingly important to developing next-generation devices and services across a wide array of segments." 
+
+Nokia's Evolution 
+
+Avi Greengart, an analyst at Current Analysis who just wrote a White Paper on Here, told us Nokia is working to broaden the reach -- and potentially better monetize -- its mapping assets at a time when it's struggling to sell smartphones. 
+
+"Nokia has previously licensed the Navteq data  it acquired, but hadn't tried to create a platform where consumers could go in on different mobile platforms, access and use the data, and potentially sync information  across those platforms for use in a broader way," Greengart said. "Now, Nokia is doing that." 
+
+On one hand, Greengart said, the move is long overdue. On the other hand, he added, if Nokia's handsets don't succeed, the company may turn into a mapping and intellectual property firm. Although device  sales are plunging, even on the feature phone side in emerging markets, Nokia's licensing business has been profitable. 
+
+"Nokia can't just hold these assets and use them as a proprietary way of making its phones better, because people aren't buying the phones," Greengart said. "So they have to make money outside their own phones."
+

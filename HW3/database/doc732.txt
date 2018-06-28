@@ -1,0 +1,24 @@
+Intel to Bring 5G to Mobile PCs Next Year
+
+Intel is continuing to build new products and collaborations for 5G across the network, client and cloud.
+
+Today, Intel announced it is collaborating with Dell, HP, Lenovo and Microsoft to bring 5G connectivity to Windows PCs with Intel¢ç XMM¢â 8000 series commercial 5G modems. Intel expects the first high-performing 5G-connected PCs to surface in the market in the second half of 2019.
+
+
+Mobile World Congress (MWC) attendees will get a first sneak peek at a concept 5G-connected PC ? a detachable 2 in 1 ? connected by an early 5G modem and powered by 8th Generation Intel¢ç Core¢â i5 processors. At MWC, Intel will showcase the power of 5G on a PC by livestreaming video over the 5G network. This concept is one of many stepping stones for moving the industry forward in what¡¯s possible for 5G-enabled PCs.
+
+5G is not just another generation of wireless connectivity. It promises new opportunities for technology innovation across the computing and connectivity landscape from the cloud to the network and the client.
+
+The PC is a central hub for processing incredible amounts of data. 5G is coming. Not only will it bring a substantial amount of data needing processing but also new experiences for PC owners. Imagine immersing in untethered VR from anywhere in the world, or downloading a 250 megabyte file in seconds from a parking lot. Or imagine being able to continue participating in a multiplayer game as you ride in an autonomous vehicle on the way to class. Radically different. This is just a sampling of the experiences 5G will reimagine for the mobile PC. As this transformation of data continues, it¡¯s critical for PCs to be ready with 5G.
+
+In addition to 5G:
+
+At MWC, Intel will also showcase the latest steps it has taken to build toward a more connected future with:
+
+	11ax, the next big thing in Wi-Fi. A thin PC with 802.11ax Wi-Fi will be on display at the Intel¡¯s booth in Hall 3 at Stand 3E31. 802.11ax builds enhanced levels of manageability and network efficiency, and will be a critical part of the connected future with 5G.
+
+	eSIM functionality will be on display at Intel¡¯s booth in Hall 3 at Stand 3E31. As of September 2017, all of Intel¡¯s modem solutions for PCs support eSIM in enterprise and consumer segments. eSIM is an essential feature for connected PCs, and Intel plans to continue offering it going forward. Intel continues to work across the ecosystem to ensure our end customers enjoy seamless out-of-the-box experiences.
+
+Intel is investing deeply across its wireless portfolio and partners to bring 5G-connected mobile PCs to market, with benefits for users, like high-quality video on-the-go, high-end gaming, and seamless connections as users traverse Wi-Fi and cellular networks. With 5G¡¯s critical speeds and capacity, Intel will help to open the door to new experiences hardly imaginable today, and make connecting online from anywhere, anytime the norm.
+
+Intel technologies¡¯ features and benefits depend on system configuration and may require enabled hardware, software or service activation. Performance varies depending on system configuration. Check with your system manufacturer or retailer or learn more at Intel¡¯s website.

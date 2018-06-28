@@ -1,0 +1,21 @@
+Qualcomm Flight
+A product of Qualcomm Technologies, Inc.
+Development Board from IntrinsycDevelopment Kit from WORLD Electronics
+Drone and aerial robotic technology has become pervasive over the last few years in consumer, enterprise and hobbyist markets. If you¡¯ve been thinking about developing for drones and robotics applications, there¡¯s no better time to get started than right now.
+
+To help you capitalize on this growth opportunity, Qualcomm Technologies has released the Qualcomm¢ç Flight¢â, a highly integrated board that¡¯s smaller than a credit card (58x40mm) and targets consumer drones and robotics applications. Harnessing the power of the Qualcomm Snapdragon¢â 801 processor, it features robust connectivity, advanced software and development tools, along with cutting-edge mobile technologies that is designed to allow developers to create a new class of consumer drones.
+
+Qualcomm Flight brings together photography, navigation, and communication technologies in a compact and efficient package that fits on a single board. This helps reduce the size, weight, and power consumption of drones that use the board, which in turn supports longer flight times, safety, and easy-to-use form factors for consumers.
+
+The Qualcomm Flight features advanced processing power, real-time flight control on the Qualcomm¢ç Hexagon¢â DSP, built-in 2x2 Wi-Fi¢ç and Bluetooth¢ç connectivity, and Qualcomm¢ç SirfStar V¢â global navigation satellite system (GNSS) optimized to support highly accurate location positioning. It¡¯s designed to provide the advanced features that drone consumers are looking for when making purchasing decisions, including:
+
+4K Video ? 4K high resolution camera support, image enhancement and video processing capabilities with simultaneous 720p encoding for first person view
+Advanced Communication and Navigation ? Dual-band 2x2 802.11n Wi-Fi, Bluetooth 4.0, and 5 Hz GNSS location capabilities with advanced real-time flight control on Hexagon DSP
+Robust Camera and Sensor Support ? Integrated 4K stereo VGA, optic flow cameras, inertial measurement unit (IMU), barometer sensor support and ports for additional sensors (camera options include a 4K forward-facing camera, stereo (depth-sensing) cameras, and a downward-facing ¡°optic flow¡± camera.)
+Qualcomm Flight is part of the Qualcomm Drone Development Platform that includes both hardware and advanced software modules for navigation, optical flow, gimbal control, and it utilizes Qualcomm Technologies strong computer vision expertise for features such as object avoidance, following an object or person, and more.
+
+The Qualcomm Flight supports Linaro Linux and OpenCV, and is a flexible platform so companies can easily port existing drone software.
+
+Qualcomm Flight is designed to allow developers to support a broad range of applications for drones ranging from aerial photography to filming live sporting events.
+
+If you¡¯re ready to get started on your own drone project, you can purchase the Qualcomm Flight today.

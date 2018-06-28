@@ -1,0 +1,65 @@
+﻿SECTION I.Introduction
+The advent of Virtual and Augmented Reality (VR and AR respectively) technologies has spun up a variety of new applications in various fields ranging from industrial management (for predictive maintenance) to entertainment. Due to high requirements it is challenging to use smartphones to achieve a high graphical fidelity in terms of detail and refresh rate for immersion and lack of motion sickness. Though widely used, these handheld devices are not performant enough since their design priorities are ergonomics and battery life. The use of centralized cloud services equipped with dedicated GPU cores to render the graphics and simply stream back the compressed video to be displayed would be one way to tackle this obstacle. Using such outsourced computing also becomes necessary when multiple devices or users are served by the same app or share common computation resources. For example, typical multiplayer games are designed such that the game server runs in the cloud and all the gaming clients are connected to it. However, this centralization approach introduces additional latency to the time-critical control loop of augmented reality rendering simply due to the current architecture of the cloud computation systems and the geographical distance to them. The total latency between reality and rendered artifacts cannot exceed 10 milliseconds [1]. We solve this by means of Mobile Edge Clouds (MEC) [2]. It can provide guarantee that the dedicated cloud service can run as close to the user as possible, thus minimizing the latency and also preventing the bulky traffic from entering the core network.
+
+MECs do not only spawn the cloud application closest to the user, but also ensures that it moves along with the user to maintain proximity, i.e. the cloud service needs to be migrated to a different host during runtime. These challenges can be tackled by either virtualization technologies like Docker (with CRIU) and KVM live migration, or custom engineering the applications to be migration friendly. [2] compares all three methodologies and justifies why the latter is the ideal choice for a single application design. In this demo we present the implementation of Mobile Edge Cloud based an advanced version of ACM [2] using a Virtual Reality gaming application.
+
+We demonstrate the necessity of an MEC for such VR/AR apps by live-migrating the cloud service between multiple hosts spread across the globe. We will also notice that the game experience deteriorates as the edge cloud is moved farther away from the user. A earlier version of this demo has been demonstrated in CeBit 2017.
+
+Figure 1
+Fig. 1:
+Protocol overview
+
+View All
+
+SECTION II.Technology
+In this section the technical background shall be explained further. The demo relies on a new protocol for fast migration of a service between physically different locations.
+
+A. Protocol Description
+a) Client-Based Agile Cloud Migration (CACM)
+CACM is an evolution of the novel migration approach introduced in [2]. It allows the same fast relocation of a service through the transmission of solely its state. The novelty is based on a pure client control of the data and the position of the new cloud service. They are borrowing only the computation power of the node, while providing data. The client moves its data between nodes to always communicate with the closest computation node.
+
+b) Backend State Migration Methods
+State of the art implementations rely on virtualization for creating a closed-off environment with memory blocks which are separate from the host. These blocks are copied during the process of a live migration, but their number differs according to the underlying technology:
+
+Hardware-level virtualization: traditionally copy the whole state of the operating system (examples: vmWare, KVM), which involves a large overhead for components other than the application and its libraries
+
+OS-level virtualization: usually copy the memory used by the application and its libraries (examples: Docker, LXC)
+
+Application-level virtualization: only copy the state of the application (example: ACM [2])
+
+Figure 2
+Fig. 2:
+Demonstration setup illustration
+
+View All
+
+The use of higher virtualization puts a lot of trust into the correct handling of the necessary data transfer by the hypervisor and therefore a third party from the point of view of the application. We propose a new approach, where the clients have control over their own data and they decide with whom they are sharing. This approach has several benefits. In contrast with previous approaches, where the computation node decides where to send the state of the client, clients can decide which computation node they would like to use. (This process is also similar to the GSM handovers, where the clients are connecting to a better network if they are too far away from the previous one.) More control over their data allows clients to keep a higher level of data security. Furthermore, clients also may migrate their data to a different provider/network, that would not have been possible previously with ACM.
+
+c) Migration Process/System Setup
+In its current implementation, clients can query a central server to find locations of edge clouds to which they can migrate. These service providers have to be registered at the controller, which provides a function comparable to a DNS server. Though not essential to the function of the protocol, it helps connecting the clients (or players) to the edge servers (or game servers). The latter are continuously active and act as computing nodes for the different players in order to synchronize positions and other game data.
+
+B. Application Scenarios
+The nature of the protocol allows its widespread use in future 5G-related services. Especially in highly mobile devices, like cars, the protocol allows for intercommunication and therefore cooperation, which creates the use case of connected driving. Whenever externally controlled and automated devices are involved, the protocol would keep the Round-trip time (RTT) to the cloud server low. Examples for applications where this behavior is essential are collaborative services in VR akin to document modification, coordinated drones for construction or packet delivery, smart city components, and many more.
+
+Ultimately using the protocol presented here has benefits for any cooperation between clients with high requirements in terms of latency.
+
+SECTION III.Demonstration Setup
+In order to show the capabilities of the protocol, we implemented a multiplayer game with the ability to serve two different end user experiences: a VR environment based on the Google Daydream headset and a 2D implementation on an ordinary monitor, both implemented in the Unity 3D game engine [3]. The goal of the game is to operate a motorbike inside a sphere so that other players crash into either the vehicle or into the trace that every bike leaves behind. A short video of the game in operation can be seen under [4]. The original demo supports up to four VR devices and one LCD screen, that serves both as an overview about the current ongoing game and also as an additional player.
+
+Figure 3
+Fig. 3:
+In-game experience
+
+View All
+
+Figure 4
+Fig. 4:
+Spectator view
+
+View All
+
+VR players are using the Pixel XL smartphones inside of the Daydream headset and use its WLAN to connect to a wireless router, which allows access to the game servers. People playing the game can use the motion tracking to look around freely inside the sphere. For movement they use the motion sensitivity of the Daydream controllers. In the 2D variant on the LCD screen, a game controller is used, but with no way to use the head-tracking feature.
+
+A central controller, operated through a tablet device, is responsible for connecting the clients with each other and can signal them to initiate a state migration. Its practical implementation is based on a website displaying a world map with possible locations for the migration. To change the city, a click or touch on its name in the list or on the map is necessary. The signaling is purely an external stimulus for demonstration purposes; the clients can initiate the same procedure on their own, not unlike a handover in the GSM mobile wireless system. After the signal each client moves its state to the newly appointed server node. Meanwhile the VR headsets are still rendering the running game. In further iterations, this rendering can be outsourced to the cloud instance to reduce the load on the mobile devices even further.
+
+VR players will only notice the different server locations because of the latency between their inputs and the movement of the avatar in-game. The latency is made further apparent through a ghost-like figure that shows the bike path without any added latency. On the 2D display players and spectators can see the current location in the GUI of the game, alongside the latency to the game server.

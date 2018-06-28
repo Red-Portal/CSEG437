@@ -1,0 +1,22 @@
+Android and iOS Surge to New Smartphone OS Record in Second Quarter, According to IDC 
+
+08 Aug 2012 
+FRAMINGHAM, Mass. August 8, 2012 ?Android and iOS powered 85% of all smartphones shipped in the second quarter of 2012 (2Q12), establishing a new combined high for the mobile operating systems from Google and Apple. Meanwhile, BlackBerry and Symbian, two pioneers and former leaders of the smartphone market, both saw their market shares fall below five percent. According to the International Data Corporation (IDC) Worldwide Quarterly Mobile Phone Tracker, Android amassed a commanding 68.1% market share of all smartphones shipped during the quarter, while BlackBerry and Symbian reached just 4.8% and 4.4% respectively.
+
+"Android continues to fire on all cylinders," said Ramon Llamas, senior research analyst with IDC's Mobile Phone Technology and Trends program. "The market was entreated to several flagship models from Android's handset partners, prices were well within reach to meet multiple budgetary needs, and the user experience from both Google and its handset partners boosted Android smartphones' utility far beyond simple telephony."
+
+"The mobile OS market is now unquestionably a two-horse race due to the dominance of Android and iOS," said Kevin Restivo, senior research analyst with IDC's Worldwide Quarterly Mobile Phone Tracker. "With much of the world's mobile phone user base still operating feature phones, the smartphone OS market share battle is far from over. There is still room for some mobile OS competitors to gain share, although such efforts will become increasingly difficult as smartphone penetration increases."
+
+Operating System Highlights
+
+Android's success in the market can be traced directly to Samsung, which accounted for 44.0% of all Android smartphones shipped in 2Q12 and totaled more than the next seven Android vendors' volumes combined. Meanwhile, the next seven vendors were a mix of companies re-establishing their strategies or growing volumes within key markets. Also not to be overlooked was the growing relevance of Android 4.0 Ice Cream Sandwich with the release of numerous models worldwide.
+
+iOS posted double-digit growth, but not enough to keep up with the overall market. Demand for Apple's flagship smartphone has cooled off now that the device has been available since October, and the rumors around the blogosphere have fueled speculation about a new design and features. Despite these trends, iOS remained the solid number two operating system behind Android worldwide, and greater than the total number of smartphones on the remaining platforms.
+
+BlackBerry, one of the pioneers and former leaders in the worldwide smartphone market, reached share levels not seen since the first quarter of 2009. BlackBerry has lost significant share to other operating systems in the consumer and enterprise segments. Now that RIM has delayed the release of new BlackBerry 10 smartphones out to 2013, BlackBerry remains vulnerable to the competition.
+
+Symbian, for years the world's most shipped OS, sunk to a new nadir last quarter. The 62.9% drop registered was its sharpest year-over-year drop ever. The decline of Symbian, precipitated by Nokia's decision to make Windows Phone its primary smartphone OS, has accelerated due to lower sales in key economically developing geographies such as China as well as Central & Eastern Europe and the Middle East and Africa.
+
+Windows Phone 7/ Windows Mobile narrowed the gap between itself and BlackBerry last quarter in its bid to become the number 3 mobile OS in terms of market share. The share gains it made last quarter are due mostly to Nokia, which almost doubled its Lumia/Windows Phone shipments sequentially. Though it's closing in on the third spot, Windows Phone is still a distant competitor to Android and iOS. Microsoft will need to generate additional momentum from Windows Phone 8 devices, which will be introduced this fall, if it is to narrow the share gap further between itself and the three mobile OS leaders.
+
+Linux, a category largely comprised of Samsung's Bada shipments, declined on a year-over year basis as Samsung's smartphone sales are increasingly Android centric. In addition, Linux OS dependent vendors such as Panasonic are also migrating to Android, which contributed to the year-over-year decline.

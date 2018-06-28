@@ -1,0 +1,30 @@
+Comparing the GPS capabilities of the Samsung Galaxy S, Motorola Droid X, and the Apple iPhone for vehicle tracking using FreeSim_Mobile
+
+
+In this paper, we present a comparison of the Samsung Galaxy Sвт [1], the Motorola Droid Xвт [2], and the iPhone 4вт [3] using the real-time vehicle tracking application FreeSim_Mobile [4,5]. 
+
+Using the built-in GPS receiver and the web capabilities of these smart phones, coupled with a V2I architecture, 
+
+we are able to send a continuous flow of location data to a central server for processing by FreeSim [6-8], a real-time traffic simulator. 
+
+The proportional model algorithm [9] is then used on this data to determine the time to traverse a section of roadway in order to report in real-time the current flow of traffic. 
+
+In this paper we analyze the capability of two different Android-based [10] phones, the Samsung Galaxy S and the Motorola Droid X, 
+
+on reporting accurate and reliable locations and compare them to a vehicle tracking device and the iPhone 4, 
+
+which has been previously shown to be as accurate as a vehicle tracking device [4,5]. 
+
+Drivers equipped with a Samsung Galaxy S, Motorola Droid X, iPhone 4, and vehicle tracking device manually timed how long it took to travel along a 0.98 mile/1.58 kilometer section of roadway. 
+
+All four devices reported their location and the vehicle tracking device also reported the current speed. 
+
+The amount of time to traverse the test section of roadway was determined using the proportional model algorithm [9]
+
+and compared to the actual amount of time it took to traverse the test section of roadway as manually timed. 
+
+The results of the vehicle tracking device had an average error factor of 0.79% from the actual time to traverse the section of roadway, 
+
+whereas the Samsung Galaxy S was 4.59%, the Motorola Droid X was 0.84%, and the iPhone 4 was found to have an error factor of 0.60%. 
+
+The case study furthers the feasibly that mobile phones can act as an alternative means for probe vehicles as the iPhone 4 and Motorola Droid X are relatively as accurate as a vehicle tracking device.

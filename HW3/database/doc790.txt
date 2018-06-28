@@ -1,0 +1,11 @@
+﻿
+If you're a PC gamer, you're unquestionably familiar with Nvidia, a company known for manufacturing powerful graphical processing units capable of playing the latest polygon-based games.
+In fact, according to data collected by Jon Peddie Research, Nvidia commanded 17.5 percent of the GPU market in 2017, just nudging out its dedicated GPU rival, AMD, which sat at 14.4 percent. In short, there are a lot of Nvidia GPUs in the hands of PC gamers—and, unfortunately, thirsty cryptominers.
+If you have at least one of Nvidia's gamer-centric Geforce GTX graphics cards installed in your gaming rig, you should do yourself a solid and download the Nvidia GeForce Experience desktop software. Nvidia GeForce Experience isn't a requirement for smooth gameplay, but the app has useful tools designed to enhance your PC gaming experience.
+Fun fact: I've had Nvidia GeForce Experience installed in my gaming desktop for approximately two years, and (sadly) didn't explore the depths of its offering until it was time to craft this article. I completely slept on the software, so I hope my discoveries will help you save the kingdom, knuckle down opponents, and blast your enemies into next week—and share those special moments with others.
+If you're in the mood to explore more PC gaming goodness, check out our picks for best gaming keyboards, gaming mice, gaming headsets, and gaming monitors. They'll treat you right.
+As for now, let's dig into the Nvidia GeForce Experience.
+
+
+
+	

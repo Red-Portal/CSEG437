@@ -1,0 +1,15 @@
+SCiO Molecular Sensor Added to Smartphone: Reads Chemical Composition of Materials
+
+I first saw Consumer Physics’ SCiO handheld scanner a couple of years ago and was impressed by its ability to identify materials by scanning and analyzing their chemical composition. In the intervening years, Consumer Physics has partnered with Analog Devices to increase the sensor’s accuracy and reduce its size, and at CES 2017, the company announced the first smartphone with an integrated SCiO sensor, making this technology even easier to carry and use.
+
+The Changhong H2 has a 6-inch 1080p display and a 16MP rear camera. Inside is an octa-core CPU running at up to 2.0GHz paired with 4GB of RAM and 64GB of internal storage, all powered by a 3000mAh battery. The H2’s standout feature, though, is the new sensor. 
+
+The SCiO sensor uses near-infrared spectroscopy to identify a material’s molecular content. By illuminating an object with a broadband light source and using the spectrometer, a type of optical sensor, to break the reflected light into its constituent components, SCiO’s signal processing algorithms compare the reflected light’s wavelengths to the original emission to create a spectral fingerprint. This technique works because molecules will only absorb photons at certain energy levels, which means specific wavelengths will be missing or attenuated in the reflected light.
+
+The Changhong H2’s sensor allows you to virtually “taste” food, measuring the sweetness of fruit for example, or measure how ripe fruits and vegetables are. It can identify specific liquids, tell you if the pills in an unmarked bottle are vitamins or a prescription pain killer, or even tell you if the Viagra you bought online from that sketchy website is real or fake. You can even use it to measure body fat and analyze the nutritional content of food.
+
+The SCiO sensor module sits next to the camera on the back of the Changhong H2. Scanning an object involves opening an app and placing the sensor close to its surface, within 0.5-2.0 cm. It takes about 1.5 seconds to collect data. The app then compares the material’s spectral fingerprint to thousands of others stored in a cloud-based database for identification, as shown in the demonstration below.
+
+Consumer Physics is working with companies to integrate its sensor into other products as well, such as the DietSensor scale—it also makes an app for the Changhong H2—that scans and weighs food to determine the calorie count and ratio between carbohydrates, fat, and protein. There’s also an SDK for third-party developers to develop apps that leverage the sensor’s capabilities.
+
+The Changhong H2 will be available in China for 2999 RMB starting in June 2017 and will come to the US and other regions later in the year.z

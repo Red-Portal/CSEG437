@@ -1,0 +1,17 @@
+BuildBox
+
+Buildbox is a 2D game development engine that allows users to build simple games without any code. 
+It offers a clean user interface where you can simply drag and drop design elements to create your very own game in no time. 
+This can be used for both Android and iOS platform thus, it works perfectly as a cross-platform game development engine. 
+It is a bit pricey costing $99/month or $1008/year.
+It is ideal for designing simple games like ColorSwitch, The Line Zen, SKY etc. 
+In fact, all these games were designed using BuildBox. On the contrary, 
+the engine lacks 3D capabilities and you will have constraints in implementing features which are not available in the development console. 
+Whether or not to choose this toolkit largely depends on your needs. Overall it is a good solution for non-programmers to create games. 
+Note that you will need a graphic designer to create design elements in most of the cases.
+Kicking off a game from scratch requires high-level technical knowledge. 
+Hiring a mobile game development company makes sense for every person who has limited technical knowledge to begin development on their own. 
+Creating a team from scratch also drains a lot of resources which could otherwise be spent on game marketing and further improvements. 
+If you are looking for a mobile game development company then feel free to contact us. 
+With a vivid experience of working with both 2D and 3D game development kits, we are ready to take a project of any scale. 
+Contact us today for a POC or project discussion.

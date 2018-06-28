@@ -1,0 +1,98 @@
+﻿ECTION IINTRODUCTION
+Since its original application in graph processing GPU has been applied by other fields that require massive parallel computing. The ability of parallelism has benefited multiple applications across the internet [1]. In addition, GPU is uti-1ized by researchers to solve minimum specific AI (Artificial Intelligence) problems successfully [2]. This practice shows that to solve complex computing problems of AI GPU has become beneficial due to its SIMD architecture. By offloading compute-comprehensive portions of the application to the GPU it offers extraordinary application performance, while the remainder of the code still runs on CPU. Furthermore, considering the important role of GTS in AI, GPU should undergo detailed study, to improve performance of GTS algorithms. From users perspective, application simply runs faster.
+
+Cuda™
+CUDA ™ is programming model designed by NVIDIA ™ Corporation. NVIDIA ™ creates CUDATM, a parallel processing architecture or model is designed on the basisof GPU. Programmers get direct access to the memory banks and instruction set which is been provided in CUDA ™ architecture. In this module, we will see some related implementation of GPU based GTS Algorithms.
+
+Figure 1
+Fig. 1. Nvidia GPU accelerator block diagram
+View All | Next
+
+SECTION IILITERATURE REVIEW
+As per existing system [1], a GTS is a classic problem in the field of artificial intelligence and game theory. The massive capacity of parallism of GPU is been grabbed in a study the main focus of our system is to accelerate the GTS algorithm to its limit. We focus on how to grip massive parallelism capabilities of GPU. Comparison can be done with pruning and without pruning through the standard CPU based game tree algorithms. The purpose is to identify possibilities of tasks parallelization when searching and assess game search trees that would perform better on SIMD processors of graphics cards. As the searching of GPU is in BFS manner it exceeds a single CPU if high level of parallelism is achieved in a GTS, but CPU does not produce improvement; because CPU precedes BFS approach. The high flexibility of GPU facilitates tree searching effectively and extends its capacity to process complex computing nodes in parallel. Serial implementation of GTS can be compared with results of parallel implementation. Also paper presented by Ahmed A. Elnaggar [2], describes analysing and comparing various parallel and sequential algorithms of gaming tree is the main objective of this paper, including some enhancement for them. As per the paper [3], by utilizing the standard CPU based game tree algorithms with pruning and without pruning comparison can be done. The zero-sum computer game was effectively and extensively survey on GTS method to find the best move between two competitive players. As per the research [4], three different parts of common GTS algorithms are identified that can be parallelized and that are game nodes generation, end nodes evaluation and game tree levels backwards evaluation. Although small overhead is needed to find positions of stones on the game board at the algorithm start, as the best alternative it has proved to be parallel processing of stones. From the game tree as many nodes as possible are pruned by every game tree algorithm. In aspect of solution tree a cut-off pattern will be composed. The understanding of strategy or solution tree has pushed aside the MINIMAX function due to Stockman's theorem. In paper of author Damjan Strnad and Nikola Guid [5], parallel implementation of the alpha-beta algorithm running on the GPU were found. The speed of both, the parallel system player and standard serial system player is compared by this system using reverse game having different sized boards. It is been observed that the maximum efficiency of GPU is not utilized for small sized boards whereas the efficiency of GPU is utilized to its maximum in large size boards. The outcome suggests that the alpha beta implementation would be better for games with higher complexity (e.g. hex and go) in their standard form. They demonstrated that as the board size increases substantial speedups can be achieved with the GPU-based algorithm inreversi game. One of our priority tasks for the future is the expansion of research to these games. In the research of author ReijiSuda JST CREST and KamilRocki [6], they found that the performance aspects and parallelization scheme are discussed, focusing on data transfer size and warp divergence problem. Moreover, a method of minimizing warp divergence and performance degradation is described. The paper contains both the results of test performed on multiple CPU and GPU. Additionally, it discusses parallel pruning implementation. The article [8], shows asynchronous GTS algorithms can be as capable as synchronous methods to determine the MINIMAX value. APHID yields better than synchronous methods for Othello and checkers program. The theoretical foundation is been proposed by the paper [9] to centres parallel processing for alpha-beta MINIMAX algorithm. As per the paper [10], the main result is: (I)A simple non-directional algorithm for searching binary revalue game trees is analyzed and presented. (2) Cascading technique for game tree model is presented for four multiple nodes. GPU performance is compared to bothmulti -core and single-core and CPU performance, with multi -core CPU implementations written using OpenMP [11].
+
+SECTION IIIPROPOSED WORK
+In practice, it is critical to reduce computing time of GTS algorithms for applications requesting for real-time response, e.g., online game, decision tree, expert business and user system and etc. Parallel processing technologies were introduced to improve overall the performance of GTS algorithms.
+
+Various GTS algorithms are model to find minimal moves. Commonly, GTS algorithms will vitally generate the structure of trees from the current position, traverse the tree, review all possible moves, and find the best and effective move. Generally, GTS algorithms consist of two key functions: tree search and node calculation.
+
+The search function focuses on traversing the game tree to find minimal moves (i.e. searching the tree.) for computer games with high search difficulty and technologies such as historic knowledge and pruning to escape unnecessary visiting definite nodes. Node calculation function exists for leaf calculation and branch calculation (i.e. move generation function).The scores would be distributed and nodes will be calculated by functions. The best move would be selected on the basis of highest score. Different games have different policies for node calculation and score calculation is rule specific.
+
+In figure 2, input of the system is tree, which shows some position in Game. Then it is given to the CPU as input, which divide the problem into matrix and generate different nodes. Then particular node is assign to different thread. GPU then executes that different thread in parallel and return to best path to the CPU. Finally the solution is return to root node. In this way the best path is finding out in small period of time.
+
+Figure 2
+Fig. 2. GTS on GPU working principle
+Previous | View All | Next
+
+Maxs chosen move on his turn. man times we are writing machine player to the game, we would like a way of determining the best feasible move for machine. At a start, by the research this ignore that how long it would take to enumerate such a move. First of all it come up with an algorithm to do so and then try to enhance it. Enumerations of all the feasible moves are required to determining the best feasible move. Until the game is over user have to recursively generate all possible moves for each turn because, just mentioning the next move may not result in the game completion. Users are most interested in turn-based games. They can easily determine which move to pick for the machine during its turn, but we also need to determine what move the opponent will pick during his turn. To be safe, we assume the opponent is brilliant and he will choose the best possible move for himself. There are three possible conditions either machine win, human win or draw, after reaching at the end of the game.
+
+Lets distribute the values 1, 1, and 0, correspondingly, to these situations. Then the machine player will try co maximize game score and human player will try to minimize it. Player can irrelevantly score the final boards in our list, but what about intermediate boards between the current move and the final move? If each player is perfect, at the any particular move, the move that will result in a board with the best possible score for them will choose. So player might as well assign the board at that move the best value out of any of the boards that can result from making the next move. By starting at the final boards and propagating their values upwards this is done recursively. Figure 3 is an example using tic-tac-toe. This reproduction is carried out by MINIMAX algorithm, but it only traverses on one sub tree at a time. So it will recursively score the left sub tree at first, then the middle, then the right, and return the best move of them at the end.
+
+Figure 3
+Fig. 3. Example of MINIMAX algorithm
+Previous | View All | Next
+
+The MINIMAX game tree improve exponentially with depth, so the algorithm runs in O (2d) time. Running MIN-IMAX to completion is very slow even in tic-tac-toe. In practice, after a certain depth player stop calculating. However, not all boards at that depth will be game over boards, so we have to come up with some way of assigning a value to it. They can use continuous instead of distinct values, and then when we think players are winning, they can assign the board a value between 1 and 0, and when they are losing, they can assign it a value between 0 and -1. The MINIMAX algorithm will still work fine.
+
+As shown in figure 4, we can describe the game tree in the main system.
+
+The user or actor initiates the process starting a game.
+Then CPU assigns symbols to players.
+The user alternate there turn and select a square, one after another
+Then GPU create a thread for each node.
+Then it blocks the thread which goes to winning node.
+The GPU create double thread of remaining thread.
+Then CPU looks for 3 in line.
+If 3 symbols are in line then declare current player as winner.
+Figure 4
+Fig. 4. Proposed activity diagram for the system
+Previous | View All
+
+SECTION IVALGORITHM
+Algorithm 1
+SECTION VMATHEMATICAL MODEL
+Let the system ‘S’ can be represented as a collection of 7 tuples.
+FormulaTeX Source Where,
+
+Q=	Finite set of states in game tree. i.e.
+M=	Finite set of possible moves.
+B=	Best move.
+N=	Number of Nodes.
+X(n) =	Possible moves of X
+O(n) =	Possible moves of O
+FormulaTeX Source
+
+q0 can be represented as starting state of the game as shown in equation 2.
+
+q0=	Starting state. i.e. Board State
+FormulaTeX Source
+
+Execution of finding best moves in game tree search directly corresponding to finite set of possible moves.
+FormulaTeX Source
+
+FormulaTeX Source
+
+For the finding of best path or the minimum path the tree correlate to the number of nodes.
+FormulaTeX Source And equation 7 define as:
+FormulaTeX Source Where,
+
+The equation 8 represents the process to calculate moves(M) and find the maximum of M.
+FormulaTeX Source
+
+Hence, the speed of finding the best minimum path can be accelerated by the system using GPU.
+
+SECTION VICONCLUSION
+In this system, to improve the performance we propose the use of GPU in Game Tree Search Algorithm. The explanation of impact and work is provided by a simple mathematical model.
+
+The new feature of dynamic parallelism in CUDA ™ v6.5 allows recursion based algorithms to run faster on the GPU, by eliminating the CPU initialization time of each kernel. Furthermore, the unified memory in CUDA ™ 6.0 creates a pool of management memory that is shared between the CPU and GPU, which make the development of complex games easier.
+
+The speedup of current AI game tree searching algorithms can improve by the dynamic parallelism and unified memory features. To improve performance and efficiency of a system, we are actively working on research of this model and exploring new ideas and algorithms. The main goal of this system is on the previous methods and technology used to bring GPU in Game Tree Search along with different approaches.
+
+FOOTNOTES
+No Data Available
+REFERENCES
+1. Liang Li, Hong Liu, Hao Wang, Taoying Liu and Wei Li
+
+“A Parallel Algorithm for Game Tree Search Using GPGPU”
+
+(IJACSA) International Journal of Advanced Computer Science and Applications, vol. 5, no. 5, 2014

@@ -1,0 +1,46 @@
+The Vulkan Graphics API Is Here?and Your NVIDIA GPU Is Ready
+
+If you're a GeForce gamer, you already have what you need to take advantage of what the Vulkan API can do. 
+
+If you're a developer, you will now have the choice of a new tool that will give you more control, and greater performance, on a broad range of devices.
+
+Our support for Vulkan, on the day it launches, not just on multiple platforms, but in cutting-edge games such as The Talos Principle, has some of the industry's most respected observers taking notice.
+
+"To be able to play a game like The Talos Principle on the same day an API launches, is an unheard of achievement," said Jon Peddie, president of Jon Peddie Research. NVIDIA's multi-platform compatibility and fully conformant driver support across many operating systems is a testament to the company's leadership role in Vulkanos development."
+
+Vulkan is a low level API that gives direct access of the GPU to developers who want the ultimate in control. 
+
+With a simpler, thinner driver, Vulkan has less latency and overhead than traditional OpenGL or Direct3D. 
+
+Vulkan also has efficient multi-threading capabilities so that multi-core CPUs can keep the graphics pipeline loaded, enabling a new level of performance on existing hardware.
+
+Vulkan is the first new generation, low-level API that is cross platform. 
+
+This allows developers to create applications for a variety of PC, mobile and embedded devices using diverse operating systems. 
+
+Like OpenGL, Vulkan is an open, royalty-free standard available for any platform to adopt. 
+
+For developers who prefer to remain on OpenGL or OpenGL ES, NVIDIA will continue to drive innovations on those traditional APIs too.
+
+vulkan-transparent-webVulkan was created by the Khronos Group, a standards organization that brings together a wide range of hardware and software companies, including NVIDIA, for the creation of open standard, royalty-free APIs for authoring and accelerated playback of dynamic media on a wide variety of platforms and devices. 
+
+We're proud to have played a leadership role in creating Vulkan. 
+
+And we're committed to helping developers use Vulkan to get the best from our GPUs.
+
+Why You Should Care
+Vulkan is great for developers. 
+
+It reduces porting costs and opens up new market opportunities for applications across multiple platforms. 
+
+Best of all, the NVIDIA drivers needed to take advantage of Vulkan are already here. On launch day we have Vulkan drivers available for Windows, Linux, and Android platforms. 
+
+See our Vulkan driver page for all the details.
+
+Here's what Vulkan will mean for you:
+
+For gamers with GeForce GPUs: Vulkan's low latency and high-efficiency lets developers add more details and more special effects to their games, while still maintaining great performance. 
+
+Because a Vulkan driver is thinner with less overhead, application developers will get fewer performance surprises. This translates to smoother, more fluid experiences.
+
+NVIDIA is shipping fully-conformant Vulkan drivers for all GeForce boards based on Kepler or Maxwell GPUs running Windows (Windows 7 or later) or Linux. 

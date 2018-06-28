@@ -1,0 +1,7 @@
+Wi-Fi
+
+Wi-Fi is a trademark of the Wi-Fi Alliance that refers to a range of connectivity technologies including wireless local area network (WLAN) based on the IEEE 802.11 standards, device to device connectivity [such as Wi-Fi Peer to Peer AKA Wi-Fi Direct], and a range of technologies that support PAN, LAN and even Wide Area Network (WAN) connections. IEEE 802.11 has been used interchangeably with Wi-Fi, however Wi-Fi has become a superset of IEEE 802.11 over the past few years. Wi-Fi is used by over 700 million people, there are over 750,000 hotspots (places with Wi-Fi internet connectivity) around the world, and about 800 million new Wi-Fi devices every year. Wi-Fi products that complete the Wi-Fi Alliance interoperability certification testing successfully can use the Wi-Fi CERTIFIED designation and trademark.
+
+Not every Wi-Fi device is submitted for certification to the Wi-Fi Alliance. The lack of Wi-Fi certification does not necessarily imply a device is incompatible with Wi-Fi devices.
+
+Wi-Fi devices are installed in many personal computers, video game consoles, MP3 players, smartphones, printers, and other peripherals, and newer laptop computers.

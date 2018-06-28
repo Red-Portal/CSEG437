@@ -1,0 +1,1 @@
+Bluetooth is an open wireless technology standard for exchanging data over short distances (using short wavelength radio transmissions) from fixed and mobile devices, creating personal area networks (PANs) with high levels of security.

@@ -1,0 +1,39 @@
+Wii U launch: Software and battery life woes, and more hardware details emerge
+
+This is it, ladies and gentlemen: Following this weekend¡¯s release of Nintendo¡¯s Wii U console, the eighth generation of video game consoles is finally here. It¡¯s been a long time coming ? seven years, to be exact; the longest generational gap ever in the history of games consoles ? but hopefully the wait will be worth it. With the Wii U selling out across the US, and games retailers seeing record numbers of pre-orders, early reports are generally good, with a handful of negative caveats that mostly involve the Wii U¡¯s tablet Gamepad and a beefy, hours-long firmware update.
+
+CPU, GPU, and RAM
+
+With video game consoles, their exact hardware specifications are always a bit mystical. Prior to their actual launch, console makers rarely tell us more than the absolute minimum, such as ¡°it will be backwards compatible¡± or ¡°it will be much faster than its predecessor.¡± As soon as the console goes on sale, though, we can finally tear the thing open and find out what¡¯s actually under the hood ? which is exactly what Anandtech did.
+
+We already knew that Nintendo had opted for an AMD GPU/IBM CPU multi-chip model (MCM) in the Wii U, but we now have the exact die sizes: 5.2mm x 6.3mm (32.76mm2) for the CPU, and 12.2mm x 12.7mm (156.21mm2) for the GPU. There is also a third, absolutely tiny (1.79mm x 1.48mm) die on the MCM, which Anandtech speculates is off-chip memory.
+
+
+Wii U logic board, showing the IBM/AMD multi-chip module, and Hynix RAM
+As for the exact specifications of the CPU and GPU, it¡¯s still a bit of a guessing game. From a previous teardown by Nintendo, we know that the Radeon-derived GPU has some on-chip memory, no doubt increasing the die size considerably. If we start with a 104mm2 Redwood core found in the Radeon HD 5670, then pile on some megs of eDRAM, we approach the 156.21mm2 die size of the Wii U¡¯s GPU. This assumes that a 40nm process is being used (and considering the relative cost/scarcity of 28nm production, it¡¯s almost certainly 40nm). A Radeon HD 5670 with on-die memory would be a fairly beastly GPU, far outstripping the Xbox 360 and PlayStation 3 ? but hey, those consoles are seven years old now.
+
+On the other hand, the tiny, multi-core Power-based CPU isn¡¯t going to win any performance prizes. Beyond the fact that it¡¯s manufactured on IBM¡¯s 45nm SOI process and has on-die eDRAM, we know very little about the CPU¡¯s exact specifications. Due to the fact that the Wii U is backwards compatible with the Wii (i.e. they have the same instruction set architecture (ISA)), the persistent rumor is that the Wii U simply takes the Wii¡¯s Broadway core, and multiplies it by three. Throw in a few tweaks and a few process node improvements (from 90nm down to 45), and the Wii U CPU should be fairly competent. Ultimately, though, as we all know, the CPU clock speed and core count are ultimately just footnotes: For the Wii U¡¯s new and shiny 1080p HD output, that beefy GPU is far more important.
+
+Rounding out the hardware spec, Wii U teardowns have revealed that there¡¯s a Samsung NAND flash chip for user storage (32GB or 8GB), a Toshiba NAND chip for non-user storage, and 2GB of Hynix DDR3-1600 RAM on a 16-bit interface surrounding the MCM, providing peak memory bandwidth of 12.8GB/s. This is twice as fast as the Wii, but for 2012 it¡¯s pretty slow ? though, with the on-die eDRAM, the DDR3 bus shouldn¡¯t see too much usage.
+
+Gamepad
+
+By all accounts, the Wii U Gamepad is the centerpiece of Nintendo¡¯s new console ? and yet, curiously, every tech publisher (including ET) has failed to report on a massively vital caveat: battery life. It turns out that the Wii U Gamepad, with its large, 6.2-inch resistive touchscreen display, only has a 5.6 watt-hour battery (1500mAh @ 3.7V). Early reports suggest that the Gamepad only lasts 3-4 hours between charges ? okay for casual gameplay, but it may put a serious dent in prolonged gaming sessions if you have to stop and recharge. The good news is that the battery is replaceable ? and we¡¯re sure it¡¯s only a matter of weeks until larger, third-party batteries are made available.
+
+As far as the Gamepad¡¯s wireless capabilities are concerned, reviews are almost universally positive. In essence, the Gamepad is a second display for the Wii U. It can either be the sole display for the Wii U (so you can play from bed while someone else uses the TV), a second mirrored display, or a second supplementary display for gameplay gimics, menus, and so on. This wireless functionality is provided via a high-speed 802.11n WiFi connection (possibly using some variant of Miracast), which should work flawlessly up to 25 feet (7.5m) away. Some reviews are saying that it will work from even greater distances, which is neat.
+
+Curiously, Anandtech¡¯s teardown reveals two WiFi antennae and controllers ? one for network connectivity, and one dedicated to the Gamepad, presumably to ensure that the Gamepad always works flawlessly. Early reports suggest that Nintendo¡¯s implementation is spot on, with no sign of lag or any other weird artifacts.
+
+Software, power consumption, firmware updates, and other errata
+
+Rounding out the Wii U launch, we now have data surrounding the console¡¯s software, power consumption, and a few other tidbits. Anandtech connected a power meter and found that the Wii U is rather efficient, drawing just 31.2 watts at the main menu, and 33 watts while playing Super Mario U. This suggests that IBM and AMD have performed some serious hocus-pocus to pare down their processor power envelopes.
+
+In a move that will upset Norwegian apologists and beardies everywhere, it seems like Nintendo and Opera have finally gone their separate ways. Like almost every smartphone and tablet on the market, the Wii U features a WebKit-based browser ? in this case, made by NetFront, the same company that provides a browser for the PS Vita, PS3, and Nintendo 3DS. As you¡¯d expect from WebKit, this means that the Wii U¡¯s browser has surprisingly good HTML5 support and JavaScript performance ? though early reports do suggest that, for anything other than very simple internet usage, the browser is just too basic.
+
+Finally, despite selling out in the US, not many Americans will have actually played on their Wii U due to a monstrous (5GB!) firmware update, which reportedly takes hours to install ? and, if you lose power during that time, which happened to at least one user, you¡¯ll have a bricked console on your hands. The firmware update adds online functionality (why isn¡¯t this included by default?), support for Netflix and Hulu, and other important features.
+
+Overall, the Wii U seems to be off to a good start ? but it has a major advantage in that it¡¯s the only eighth-generation console on the market. It remains to be seen if the Wii U can stand against the Xbox 720 and PS4, both of which will have significantly more power under the hood. As with the Wii sensor bar, the Wii U is relying on the dual-display Gamepad gimmick to sell consoles, which is enough for now ? but just as with Kinect and Move, Microsoft and Sony will probably have their own, multiple-display setups. The Wii U will undoubtedly do well in the short term, if only off the back of first-party titles such as Mario and Zelda, but can Nintendo drum up enough support from consumers and third-party developers to ensure another seven years of success? We¡¯ll see.
+
+Now read: Can Sony and Nintendo¡¯s next-gen consoles escape Japan¡¯s stifling cultural baggage?
+
+tag hardware software amd Cpus Games CPu Gpus lbm Gpu 

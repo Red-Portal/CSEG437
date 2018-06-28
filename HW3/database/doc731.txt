@@ -1,0 +1,21 @@
+Adoption of Under-display Fingerprint Sensor for Smartphones to Top 100M Units by 2019
+Published: Apr 26,2018
+Smartphone brands are expected to increase their adoption of under-display fingerprint sensors, which allow phones to have full-screen displays with an invisible fingerprint feature, according to IHS Markit.
+
+Shipments of smartphones using ‘under-display fingerprint sensor’ is forecast to reach at least 9 million units in 2018 and top 100 million units by 2019, according to the new Display Fingerprint Technology & Market Report -- 2018 by IHS Markit. The market will keep growing remarkably for the next three years, led by Samsung Electronics and Chinese smartphone brands such as Vivo, Huawei and Xiaomi.
+
+By integrating the fingerprint sensor under the display of a smartphone, the phone can offer an invisible and front-side fingerprint feature with 18:9 or higher ratio full-screen displays. Applications using under-display fingerprint sensors, including the Vivo X20 and X21 and the Huawei Mate RS, were finally launched in late March. More are expected to come to market in the second half of 2018.
+
+Apple was the first to introduce fingerprint recognition as major biometric identification. It launched Touch ID on the iPhone in 2013, followed in 2015 by Android system’s native fingerprint sensing support, which has contributed to the market’s dramatic growth for the past few years. Due to its convenience and intuitive use, fingerprint recognition was applied to more than 60 percent of total smartphone shipments in 2017.
+
+User preferences for a better viewing experience gave rise to larger, full-screen displays on smartphones, but earlier models were limited to having the fingerprint sensors being placed outside the screen boundary. The introduction of rear-side fingerprint sensing came as a compromise to overcome these limitations with full-screen smartphones. Now, the under-display fingerprint solution allows for the sensor to return to the front side of the smartphone.
+
+“With Vivo and Huawei recently launching several models with the under-display fingerprint solution, it is certainly rising as a new trend,” said Calvin Hsieh, director of touch and user interface research at IHS Markit. “This also pressures Samsung Electronics, which hasn’t decided whether or not to adopt the solution in its Galaxy Note 9.”
+
+If Samsung applies the solution to the Galaxy Note 9, shipments of smartphones with the solution will hike to more than 20 million units in 2018, from the currently estimated 9 million units, IHS Markit predicts.
+
+Almost all fingerprint IC makers are interested in developing under-display fingerprint solutions because the profit margin is much higher than discrete solutions. Leading solution makers include Synaptics, Goodix, Qualcomm and Egis, followed by Samsung LSI, FPC, VkanSee, CrucialTec, BeyondEyes and FocalTech.
+
+Among panel makers, Samsung Display -- with mature active-matrix organic light-emitting diode (AMOLED) panel manufacturing technology -- takes the leading role as the under-display fingerprint can be only applied to AMOLED for now, followed by BOE.
+
+CTIMES loves to interact with the global technology related companies and individuals, you can deliver your products information or share industrial intelligence. Please email us to en@ctimes.com.tw

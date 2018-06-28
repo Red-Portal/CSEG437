@@ -1,0 +1,62 @@
+Dragon Age: Origins - System Requirements, Benchmarks and Graphics Tuning [Top article of November 2009]
+RPG fans don't necessary need to upgrade their system for Dragon Age: Origins. PC Games Hardware has the system requirements, tests the visual quality and gives some tuning tips.
+2009 has come to an end and PC Games Hardware takes a look at the past year. What caught the attention of our users and the people on the web? To answer this question we checked our statistics and searched for the most popular articles of the year. Today we want to reveal the top article of November 2009. 
+
+Original article 
+
+  Dragon Age: Origins (85) [Source: view picture gallery]
+The new Eclipse Engine that Bioware developed for Dragon age: Origins delivers visual gimmicks like Bump Mapping, Ambient Occlusion, Material Shaders and effects like Bloom or heat haze. Furthermore the whole system has been deigned to scale well on multi-core CPUs. Initially this sounds like high system requirements, but those are quite moderate after all. 
+
+
+  Dragon Age: Origins (17) [Source: view picture gallery]
+
+  Dragon Age: Origins (20) [Source: view picture gallery]
+
+  Dragon Age: Origins (32) [Source: view picture gallery]
+Dragon Age: Origins - System Requirements
+Minimum (XP): Core 2 Duo with 1.4 GHz or Athlon 64 X2 with 1.8 GHz, 1024 MB RAM, Geforce 6600 GT or Radeon X850 with 128 MB, 20 GB disc space 
+
+Minimum (Vista): Core 2 duo with 1.6 GHz or Athlon 64 X2 with 2.2 GHz, 1536 MB RAM, Geforce 7600 GT or Radeon X1550 with 256 MB, 20 GB disc space 
+
+Recommended: Core 2 Quad with 2.4 GHz (or comparable AMD CPU), 2048 MB RAM (XP), 4096 MB RAM (Vista), Geforce 8800 GTS or Radeon HD 3850 with 512 MB
+Dragon Age: Origins - More cores, better performance 
+The processor is the most important component for a lag free Dragon Age: Origins experience. The CPU shouldn't just run at least 2.8 GHz but also have four cores. In our test the performance was increased by 29 percent when we replaced our C2D E6600 (dual-core) with the C2Q Q6600 (quad-core) which also runs at 2.4 GHz. Thus we recommend the C2Q Q8400 or the Phenom II X4 940 BE - both processors cost about 150 Euros. Detailed CPU benchmarks will follow as soon as possible. 
+
+Update: Dragon Age: Origins CPU benchmarks - 75 percent boost for quad-cores 
+
+Dragon Age: Origins - Lower Middle Class GPUs are enough 
+Although the graphics are looking quite good, the game doesn't stress the graphics card too much. For 1280 x 1024 pixels (no FSAA, 16:1 AF) a Geforce 9800 GT or Radeon HD 4770 is enough. Higher settings like 1680 x 1050 with 4x/8x FSAA require a GTS 250 or HS 4870 (512 MiByte). Since the launch file already needs 1.3 GiByte system memory, your system should have 2 GiByte (XP) respectively 4 GiByte (Vista) RAM at least. For Windows 7 you should also have 4 GiByte. 
+
+Dragon Age: Origins - Tuning 
+The biggest tuning capabilities are offered by the graphics options. Up to 42 percent more can be squeezed out of the engine. For our tests we used a Core 2 Duo E6320, a Geforce 8800 GT and 4 GiByte RAM. 
+
+Options and settings	Max benefit	Frame benefit
+Resolution: 1.280 x 1.024 instead of 1.680 x 1.050	9 percent	3 (33 to 36 Fps)
+Details: Medium instead of Very High	21 percent	7 (33 to 40 Fps)
+Details: Low instead of Very High	42 percent	14 (33 to 47 Fps)
+Anti-Aliasing: Off instead of 4x	10 percent	3 (30 to 33 Fps)
+Texture details: Low instead of High	3 percent	1 (33 to 34 Fps)
+Frame Buffer Effects: deactivated	12 percent	4 (33 to 37 Fps)
+Multiple Render Targets deactivated	3 percent	1 (33 to 34 Fps)
+
+
+Click to select settings
+  Details very high     Details low  
+
+
+
+Click to select settings
+  Framebuffer on     Framebuffer off  
+
+
+
+  Dragon Age: Origins (86) [Source: view picture gallery]
+
+
+Dragon Age: Origins - Which Windows is running faster? 
+Dragon Age: Origins runs fastest under Windows XP. In the most popular resolution of 1680 x 1050 pixels our test system (Core 2 Quad Q9650, P45, Geforce GTX 285, Geforce 191.07 WQHL, 2x 2048 GiByte DDR2-1066) reached 65 frames per second. With Windows 7 61 fps were reached. On the last place is Vista with 59 frames per second. This means: Like most DX9 games Dragon Age: Origins runs best under windows XP. In direct comparison Windows 7 is about 3 percent faster than Vista 64. 
+
+Dragon Age: Origins - Conclusion 
+You don't need highest-end hardware to play Dragon Age: Origins smoothly. With any graphics card better than a Geforce GTS 250 or Radeon HD 4870 the processor becomes the limiting factor. In matters of system memory you shouldn't be too tight fisted. Even if 2 GiByte are enough for Windows XP you should nevertheless use 4 GiByte for all operating systems since this reduces the necessary hard drive operations. 
+
+All this makes it clear that Dragon Age: Origins is not a graphics miracle but convinces with the intensive atmosphere. In our gallery you can find new screenshots that have been released by Bioware. 

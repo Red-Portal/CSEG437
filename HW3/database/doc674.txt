@@ -1,0 +1,13 @@
+Apps are the new model of application software that originally developed for the software distribution to
+mobile devices, is emerging also in the other categories of devices. User finds the apps in a custom website
+called the store, whereas apps in the form of an auto-installing software package can be downloaded freely or
+after paying a fee, and easily installed and configured. The mobile platform environment shows a plethora of
+systems considering the large number of mobile hardware and software manufactures. The apps regardless of the
+type of category they belong (i.e., social, educational, games), are distinguished in native, web or hybrid apps
+depending on the tools and technologies used to develop. The paper analyzes mobile operating systems from a
+software developer perspective focusing on cross-platforms tools in order to propose actual and future platforms
+where to deploy apps. The work is part of a research aimed at designing and developing apps for science
+outreach and education. The selection of mobile platforms target influences the tools needed to develop apps.
+Cross-platforms development tools allow greater distribution to different platforms, but have some limitations
+and cannot be the only methodology adopted. The choice of mobile development framework depends both on the
+type of the app and the mobile platform.

@@ -1,0 +1,20 @@
+NVIDIA Tegra 3 quad-core mobile processor revealed and detailed
+
+Chris Burns, Nov 9th 2011
+
+
+The next generation of mobile processors has arrived in the form of the NIVIDA Tegra 3, formerly known as Project Kal-El, a quad-core chipset with aspirations to dominate the Android landscape in 2012 as the Tegra 2 dual-core processor dominated the majority of 2011. Though many of the details have already been revealed by NVIDIA before today on how Tegra 3 functions and is able to bring you the consumer more power, less battery consumption, and more effective workload distribution, this marks both the official naming of the chip as well as the official distribution of easy to process videos on how Tegra 3 will affect the average mobile device user.
+
+NVIDIA¡¯s Tegra 3 chipset has been gone over in full detail by your humble narrator in two posts here on SlashGear just a few weeks ago in two posts, one on how there are actually [five cores, not just four], and another all about [Variable Symmetric Multiprocessing] aka vSMP. Note that back then NVIDIA had not yet revealed that the final market name for the processor would be ¡°Tegra 3¡È at the time these posts were published, instead still using the codename ¡°Project Kal-El¡± to identify the chipset. The most important thing you should take away from these posts is this: your battery life will be better and the distribution of power needed by your processor cores will be handled more intelligently.
+
+NVIDIA has provided a few videos that will explain again in some rather easy to process detail what we¡¯re dealing with here in the Tegra 3. The first of these videos shows visually what cores use which amount of power as several different tasks are performed. Watch as a high-powered game uses all four cores while browsing a webpage might only use a single core. This is the power of Variable Symmetric Multiprocessing in action.
+
+Next there¡¯s a demonstration of an upcoming game that would never have been able to exist on a mobile platform if it hadn¡¯t been for NVIDIA¡¯s new chip architecture and the power of a quad-core chipset ? along with NVIDIA¡¯s twelve GPU cores of course. We had a look at this game back earlier this year in the first Glowball post ? now we go underwater:
+
+Finally there¡¯s a lovely set of videos showing you exactly what it means for game developers and gamers to be working with the Tegra 3 chipset. The first video shows off how next-generation games are being made specifically for this chipset, developers working hand in hand with NVIDIA to optimize their games for the Tegra 3 so that gamers can get the most awesome experience in mobile history. Devour this, if you will:
+
+You can also see several examples of the games in the video and how they¡¯ve been improved in the Tegra 3 world. Riptide GP as well as Shadowgun have been reviewed and given hands-on videos by your humble narrator in the past ? can¡¯t wait for the enhanced visions! Next have a look at these games running side-by-side with their original versions. Make sure you¡¯re sitting down, because you¡¯re going to get pumped up.
+
+Down to the frames per second, this new chipset will change the world you live in as far as gaming goes. Of course it doesn¡¯t stop there, but in that gaming is one of the best ways to test a processor on this platform, one made with gaming in mind of course, you¡¯ve got to appreciate the power. Have a peek at this tiny chart to see what we mean:
+
+Then head over to the post from ASUS on what the very first hardware running the Tegra 3 will look like. It¡¯s the ASUS Eee Pad Transformer Prime, a 10.1-inch tablet from the makers of the original Transformer, a device made to pummel the competition and usher in a whole new age in mobile computing. We look forward to the future, NVIDIA, bring on another year of complete and total annihilation of the competition!

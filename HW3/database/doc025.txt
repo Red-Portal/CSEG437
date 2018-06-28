@@ -1,0 +1,110 @@
+
+Universal Mobile
+Telecommunication System
+
+UMTS is the evolution of the GSM network to go
+from 2G to 3G networks
+
+¡¤Based on 3GPP standard
+¡¤Wideband radio access solution supporting
+multimedia applications
+¡¤Personalized services for the masses
+UMTS is based on GSM air interface and architecture.
+It allows for services up to approximately 115 bits per
+second and is based on Wideband Code Division
+Multiple Access (WCDMA). UMTS is designed for high
+service flexibility.
+UMTS supports multimedia services up to 384 kilobits
+per second in wide area coverage and up to 2 megabits
+per second in short range coverage.
+GSM and UMTS provide access to an evolved GSM
+core network and allow mobile access to Internet
+services.
+WCDMA is rapidly emerging as the leading global thirdgeneration
+(IMT-2000) standard, providing simultaneous
+support for a wide range of services with
+different characteristics on a common 5 MHz carrier.
+The current WCDMA specification fully satisfies the IMT-
+2000 requirements, including support for data rates of up to
+2 megabits per second in indoor or small-cell outdoor
+environments, wide-area coverage at rates of up to 384
+kilobits per second, and support for high-rate packet-data
+and circuit-switched services. Thus, the introduction of
+third-generation cellular systems allows operators to offer a
+vast selection of services to meet subscriber demands.
+Ericsson¡¯s WCDMA products are positioned to guarantee
+cost-effective delivery of these services.
+Ericsson, the world¡¯s leading supplier of
+3G mobile systems
+UMTS/WCDMA is a reality and commercially available now.
+Ericsson has been named as vendor in 37 out of 72 publicly
+announced WCDMA agreements announced to date and
+has a global market share of 40 percent. Through these
+contacts, Ericsson has shipped over 20,000 3G WCDMA
+base stations across the globe.
+UMTS requirements
+Multimedia Service Requirements
+? High data rates
+? At least 384 kbps wide-area coverage
+? Up to 2 Mbps indoor and low-range outdoor
+coverage
+? High service flexibility
+? Packet- and circuit-oriented services
+? Wide range of bit rates with high granularity
+? Multiple services on one connection
+Additional requirements
+? Improved capacity/coverage compared to GSM
+? Easy deployment, e.g. no frequency planning
+? Dual-mode/coexistence with GSM
+? Terminal implementation/Harmonized parameters
+? Handoff between UMTS and GSM
+UMTS services:
+¡¤ World wide roaming will be enabled.
+¡¤ Satellite positioning => Location-based services.
+¡¤ Access to an involved GSM network.
+¡¤ Packet- and circuit-oriented services.
+¡¤ Multiple services on one connection.
+¡¤ WAP based internet browsing
+UMTS products:
+¡¤ Dual-mode phones UMTS / GSM (including GPRS and
+HSCSD).
+¡¤ Multi tasking Communicators
+WCDMA Trial System
+Ericsson has created a WCDMA trial system which is
+essentially ¡®3G in a box¡¯. The box contains a complete,
+end-to-end solution housed in two standard containers -
+everything from real, commercial core network and radio
+access network systems, to application and handsets.
+Ericsson has worked with its partners to develop a
+portfolio of 3G applications for the WCDMA trial system
+that demonstrate the unique features and benefits of
+WCDMA and the possibilities of Mobile Internet.
+The WCDMA trial system is standards-based, preconfigured
+and pre-tested - ready for you to get working in
+a matter of days, rather than weeks.
+The Sony Ericsson Z1010 dual-mode 3G
+phone
+The Z1010 focuses on easy-to-use multimedia messaging,
+taking advantage of the capacity and capability of 3G
+networks. For this, the clamshell Z1010 features two
+displays and two cameras. The main display is a full
+graphic 65K color display and a gray scale status display
+is located on the front panel of the phone, for easy access
+to information when the phone is closed.
+The integrated camera is easy to use for capturing still
+images and video, which can then be sent as MMS or email.
+There is also a dedicated video call camera placed
+below the main display, so while the camera is filming the
+user, he or she can watch the other party in the display. To
+be able to easily move information between the Z1010 and
+other devices, as well as for memory extension, the phone
+features Sony Memory Stick Duo¢â technology which
+makes it easy to transfer images, video clips and music
+files to and from the phone.
+Ericsson
+www.ericsson.com
+government.space@ericsson.com
+EUS/RL/W-03:0075
+(C) Ericsson AB 2003
+Ericsson¡¯s WCDMA Trial System
+Sony Ericsson¡¯s Z1010

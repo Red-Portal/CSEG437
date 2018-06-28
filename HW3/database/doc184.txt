@@ -1,0 +1,19 @@
+The Receiver
+The audio/video (a/v) receiver and amplifier assembly in a home theater does the same job as the receiver and amplifier assembly in any stereo system: It receives signals from various input devices, like a VCR, DVD player or satellite dish. It interprets and amplifies those signals and then sends them to output devices -- your television and sound system. 
+A home theater a/v receiver and amplifier assembly actually combines several different components. Some even have a DVD or other media player built in. You can generally assemble a superior home theater system by buying the components separately, but most people buy one unit that does all these jobs because it is more cost effective. 
+
+The receiver's components are: 
+Audio/video inputs for video sources (DVD player, DVR) 
+Preamplifier 
+Surround-sound decoder (aka signal processor) 
+Power amplifiers for each sound channel 
+Outputs for speakers and television 
+
+
+The path of the audio and video is pretty straightforward. The source component (DVD player, DVR, etc.) feeds a signal to the receiver unit. You choose which input component you want to feed to your output unit, and the preamplifier selects this signal and amplifies its line level a little bit. 
+The receiver sends the video on to your television and sends the audio to the decoder. The decoder sorts out the different sound channels from the video signal, and then sends the information to amplifiers for each sound-channel output. These amplifiers are connected to the appropriate speaker or speakers. 
+Digital decoders and analog decoders handle the job differently. Digital surround sound is quite simple: When a company is producing a Dolby Digital¢ç program, for example, they encode six separate audio channels, specifically balanced for a Dolby Digital speaker setup. A Dolby Digital surround-sound decoder recognizes these different channels and sends them to the appropriate speakers. 
+Analog surround sound is something else altogether. The different analog surround-sound channels are actually extracted from the two standard audio channels that make up any ordinary stereo signal. This is commonly called 4-2-4 processing because the encoder essentially takes the rear and front channels and works them into the ordinary stereo channels, and a surround-sound decoder separates the four channels out again. See How Surround Sound Works for more information. 
+There are a wide range of audio/video receivers available. These receivers are often sold with all the speakers you need, as a complete home theater system. These systems run as low as $250 and as high as $2,500. 
+One of the most important differences between audio/video receiver models is what surround-sound formats they support. In the next section, we'll find out what the different formats are and see what they offer. 
+ 

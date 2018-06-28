@@ -1,0 +1,18 @@
+
+The Most Important New Technology Since the Smart Phone Arrives December 2012
+
+ Even if you've seen the Leap Motion before, this is a demo you've got to watch. 
+
+
+By now, many of us are aware of the Leap Motion, a small, $70 gesture control system that simply plugs into any computer and, apparently, just works. If you've seen the gesture interfaces in Minority Report, you know what it does. More importantly, if you're familiar with the touch modality -- and at this point, most of us are -- the interface is entirely intuitive. It's touch, except it happens in the space in front of the screen, so you don't have to cover your window into your tech with all those unsightly smudges.
+ 
+To understand how subtly revolutionary Leap will be, watch the video below, shot by the folks at The Verge, where you'll also find more juicy details on the device's specs and inner workings.
+ 
+
+Unlike a touchscreen interface, with the Leap, there's no friction. That sounds trivial, but it isn't. It's the difference between attempting to conduct a symphony with a wand and attempting to conduct the same symphony by sketching out what the orchestra should do next via chalk on a blackboard.
+ 
+Plus, Leap operates in three dimensions rather than two. Forget pinch-to-zoom; imagine "push to scroll," rotating your flattened hand to control the orientation of an object with a full six degrees of freedom, or using both hands at once to control either end of a bezier surface you're casually sculpting as part of an object you'll be sending to your 3D printer.
+ 
+The fact that the Leap can see almost any combination of objects - a pen, your fingers, all 10 fingers at once, should make every interface designer on the planet giddy with anticipation. If you thought that the touchscreen interface on the iPhone and subsequent tablets opened up a whole new way to interact with your device, imagine something that combines the intuitiveness of that experience with the possibility of such fine-grained control that you could do away with the trackpad or mouse entirely.
+ 
+The number of emergent properties that are inherent in an interface like Leap is mind-boggling. In their demos, its creators are fairly casual about its potential, preferring to show off its precision rather than imagine radical new applications for it. Judging by Leap Motion's indications that it's going to open an app store just for Leap, it's clear they're aiming these demos at least in part at the developers who will see the technology's potential and, like the thousands of coders who poured countless hours of effort into the iOS App store, create a panoply of applications so desirable that the Leap will become a must-have.

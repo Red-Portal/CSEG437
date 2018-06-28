@@ -1,0 +1,24 @@
+Microsoft's Kinect for Xbox 360 at a glance
+
+LOS ANGELES--Microsoft on Monday gave its Kinect for Xbox 360 motion control system its coming out party, and there's a lot to be excited about. 
+
+The device will be released on November 4 in North America, but the company has not yet announced pricing.
+Rumors have the price in the $100 to $150 range, and Microsoft clearly wants to make Kinect accessible to the mass market 
+so it can successfully take on Nintendo's Wii in the coming battle for the whole family. 
+
+The company hasn't talked much about its specifications, but it has unveiled the first six launch titles, 
+some of which are being developed in-house and some which are being made by third-party developers. 
+Kinect, which was formerly known by its code name Project Natal, is a motion control system that sits between the user and their Xbox and TV. 
+
+The special sauce of the system is that it can both sense motion in 3D using 3D depth sensors and recognize user's speech, via a multi-array microphone. 
+That means that it can react both to what a user does with any part of their body, and to their spoken commands. 
+
+As a result, users can activate Kinect by waving their hand, and get things like game and movie playback to stop, pause, or resume with nothing more than a voice command. 
+The device also features an RGB camera, and motorized tilt in its base. 
+Those two elements will allow the camera to enable video chat, and to automatically follow a person if they move within a small space so that a chat can continue uninterrupted even if one party moves a bit. 
+The six launch titles are: Kinectimals, a kids game that allows players to control and interact with a series of baby big cats, like tigers; Kinect Sports, which includes sports like soccer, bowling, track, and more; Kinect Joy Ride, a car-racing game; Kinect Adventures, a full-body take on river rafting, riding down, rails and trying to knock off a series of coin-like targets; Your Shape, an exercise game; and Dance Central, a full-body dancing game. 
+All told, there are expected to be 15 launch titles, but the other nine are not yet known. 
+There will also be a Star Wars game created in conjunction with LucasArts and a new Forza Motorsports title, both planned for 2011. 
+
+Another big element of the device is how it fits in with the many elements of Xbox Live. One new feature will be the result of an exclusive arrangement with ESPN, under which 3,500 live and on-demand sporting events, from Major League Baseball to professional soccer to college football and basketball, will be available through Xbox Live. And using Kinect will allow people to control the interface for the ESPN content with nothing but their hands. 
+

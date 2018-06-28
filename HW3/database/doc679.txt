@@ -1,0 +1,56 @@
+﻿Smartphone screen with resolution million times higher than iPhone: 
+Chinese researchers make technology breakthrough
+
+A breakthrough in rare earth display technology could increase the resolution of smartphone screens by a factor of over a million; 
+
+but consumers will need to open their eyes widely, and their wallets, to see the difference.
+
+By putting six different types of rare earth elements in a nanoscale capsule and beaming lasers onto it, 
+
+Chinese researchers obtained for the first time the full spectrum of visible light, according to a paper published in the journal Angewandte Chemie.
+
+Apple's top of the range retina displays – used in iPhones, iPads and Macbooks – currently boast around 300 pixels per square inch (PPI).
+
+By comparison, the rare earth display could reach 850 million PPI.
+
+The study opens up a new direction for the future development of display technology utilising rare earth materials, 
+
+according to Zhang Zhongping, a professor at the Chinese Academy of Sciences' Hefei Institute of Physical Science and lead author of the study.
+
+But it could take a long time before the displays are seen by consumers, he said.
+
+"Pixels are only one part of display technology. 
+
+When pixels go down in size, it requires laser beams to become extremely fine as well," Zhang said.
+
+"To generate and control laser beams at a nanoscale [level] is a problem that has not been solved."
+
+Pixel-wise however, the rare earth display has some significant advantages over present technologies such as plasma and light-emitting diode (LED) screens. 
+
+All display devices for consumer use today generate colours by mixing red, yellow and blue.
+
+While the three-colour approach was instrumental in the invention of colour displays, problems emerged as the resolution increased. 
+
+For decades, scientists have searched for a method of displaying the full-spectrum of visible light in a single point without colour blending or filtering.
+
+In the rare earth screen, the pixels have a ball-like structure with six layers of different elements such as Thulium and Erbium. 
+
+By changing the wavelength of the laser beam, they can produce different colours.
+
+Though there are a number of emerging technologies – such as quantum dot or nanocrystal displays – 
+
+that also claim to solve this problem, their production either requires poisonous materials or is too sophisticated at present for mass production.
+
+Rare earth displays on the other hand are simple to produce, Zhang said.
+
+"The biggest challenge is to find the right rare earth elements and control their precise composition," he said.
+
+The team has spent three years on the project. 
+
+After many failures, they finally achieved a formula that could be mass produced in chemical plants.
+
+The issue of price, however, remains. 
+
+Though China is the world's largest rare earth producer and the price of ore has dropped in recent years, 
+
+Zhang said a smartphone display using rare earth elements could be quite expensive.

@@ -1,0 +1,17 @@
+Apple's new Siri Shortcuts in iOS 12 could get annoying fast
+Commentary: That said, it's got one knockout feature.
+
+I have a thing about companies like Google and Apple trying to make out like digital assistants are our friends. Although I love the technology, I find the implication of making them more human pathetically desperate and ridiculously self-serving. But to me the biggest offense is that in becoming more communicative, Google Assistant and Siri are eating up more of our time.
+
+I'm wary that new features designed to make Apple's Siri voice assistant more useful in iPhones and iPads running iOS 12 will prove to become more of a timesuck than it already is.
+
+Siri shortcuts are a set of features centered around a new app, Shortcuts, that uses a combination of tools to predict what you want to do. It also lets you customize commands that run through a series of steps, like simultaneously launching a navigation app, texting your ETA, heating up your house and playing your podcast. 
+
+All of this sounds great on paper, but watching it unfold during Apple's demo at WWDC 2018, all I can see is how invasive and irritating Siri's proactive suggestions could be throughout your day if you don't keep a tight rein on what it suggests.  
+
+Scenario 1: Lock screen shortcut
+The first scenario imagines the presenter, Kim Beverit, a leader in Apple's shortcuts project, getting ready to leave for the day. She sees from her lock screen the suggestion to use the Philz Coffee app to place a mobile order for her "usual" drink. Kim says yes, presumably placing the order at just the right time so her drink's still fresh when she gets there.
+
+Potential problem: If Siri decides to turn common tasks into daily ones, and then clutters your lock screen when you don't actually want to see the suggestion -- if it's for a mobile order like this, it could start to feel like Philz Coffee is getting rather pushy. Also, this from my colleague Patrick Holland: "I think I know when I want a coffee."
+
+If you're able to quickly edit which apps are allowed to make suggestions, or what kind of suggestions you'd like (e.g. no lock screen suggestions at all), we might be in business.

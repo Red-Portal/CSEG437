@@ -1,0 +1,10 @@
+With iOS 12 and AirPods, you can turn your iPhone into a remote mic
+Apple's wireless earbuds are getting a feature previously found only in Made for iPhone hearing aids.
+
+Apple's AirPods are about to get a feature that helps you hear better. 
+
+The next version of Apple's mobile operating system, iOS 12, will include the capability to turn your iPhone into a directional microphone. The feature, called Live Listen, has been offered in Made for iPhone hearing aids for years and has let people with hearing problems better pick up conversations being held around them. 
+
+With Live Listen, your iPhone works as a remote microphone to home in on sound in noisy environments. You can place your iPhone at the other end of a conference table or the other side of a crowded room and then pipe the sound directly to your ears. Some hearing aid companies, like Starkey, even enable the microphone feature to record conversations.
+
+Apple didn't provide more details about the feature, which will launch with iOS 12 later this year. The software is currently available in beta for developers. A public beta will launch in the coming weeks, followed by a full release this fall with the next crop of iPhones.

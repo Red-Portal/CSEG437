@@ -1,0 +1,74 @@
+PhyreEngine
+Developer(s)	Sony Interactive Entertainment
+Stable release	
+3.5.1 / January 2012; 6 years ago
+Operating system	PlayStation 4, PlayStation 3, PlayStation VR, PlayStation Vita, PlayStation Portable, Xbox One, Xbox 360, Microsoft Windows, Nintendo Switch, Google Android, iOS[1]
+Type	Game engine
+License	Proprietary
+Website	develop.scee.net/research-technology/phyreengine/
+PhyreEngine is a free to use game engine from Sony Interactive Entertainment. Despite its origins under Sony it is compatible with more than just PlayStation platforms, with support for PlayStation 4, PlayStation 3, PlayStation VR, PlayStation Vita, PlayStation Portable, Microsoft Windows (for OpenGL and DirectX 11), Nintendo Switch, Google Android and Apple iOS.[1] PhyreEngine has been adopted by several game studios and has been used in over 200 published titles.[1]
+
+Contents 
+
+Features
+PhyreEngine is distributed as an installable package that includes both full source code and Microsoft Windows tools, provided under its own flexible use license that allows any PlayStation 3 game developer, publisher or tools and middleware company to create software based partly or fully on PhyreEngine on any platform. The engine uses sophisticated parallel processing techniques that are optimized for the Synergistic Processor Unit (SPU) of the Cell Broadband Engine of PS3, but can be easily ported to other multi-core architectures.
+
+PhyreEngine supports OpenGL and Direct3D,[2] in addition to the low level PS3 LibGCM library.[3] It provides fully functional ¡°game templates¡± as source code, including support for Havok Complete XS, NVIDIA PhysX and Bullet for physics.
+
+History
+The development of PhyreEngine was started in 2003, to create a graphics engine for PlayStation 3.[4] The first public demonstration occurred in 2006.[4]
+
+PhyreEngine was launched during GDC 2008.[2] PhyreEngine was a finalist in the European Develop Industry Excellence Awards in 2008[5] (in the "Technical Innovation" category) and 2009[6] (in the "Game Engine" category).
+
+New features (including Deferred rendering) were showcased during GDC 2009.[7] Version 2.40, released in March 2009, included a new ¡°foliage rendering¡± system that provides tools and technology to render ultra-realistic trees and plants to be easily integrated into games.[8]
+
+A PSP version of the engine was announced by Sony at GDC 2010.[8]
+
+Version 3.0, released in 2011, has a new and powerful asset pipeline, combining enhanced versions of the already robust exporters, with a powerful processing tool to generate optimized assets for each platform. Also new is the rewritten level editor, which permits a far more data-driven approach to authoring games using PhyreEngine. Version 3.0 of the PhyreEngine adds support for the PlayStation Vita.[9]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

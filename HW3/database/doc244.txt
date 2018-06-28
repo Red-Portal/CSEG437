@@ -1,0 +1,16 @@
+'Dark silicon' to improve smartphone battery life
+September 1, 2010 
+
+
+(PhysOrg.com) -- A new smartphone chip prototype under development at the University of California, San Diego will improve smartphone efficiency by making use of "dark silicon" - the underused transistors in modern microprocessors. On August 23, UC San Diego computer scientists presented GreenDroid, the new smartphone chip prototype at the HotChips symposium in Palo Alto, CA.
+Ads by Google
+
+New EMCCD Camera - iXon X3 High Performance EMCCD Camera. Request a Quote Here - www.andor.com/emccd
+ 
+Dark silicon refers to the huge swaths of silicon transistors on today¡¯s chips that are underused because there is not enough power to utilize all the transistors at the same time. The new GreenDroid chip prototype from computer scientists at UC San Diego will deliver improved performance through specialized processors fashioned from dark silicon. These processors are designed to run heavily used chunks of code, called ¡°hot code,¡± in Google¡¯s Android smartphone platform.
+Computer science professors Michael Taylor and Steven Swanson from the Department of Computer Science and Engineering (CSE) at the UC San Diego Jacobs School of Engineering are leading the project.
+¡°This is an exciting time for UCSD. Our students are designing a real multicore processing chip, in an advanced technology, that is simultaneously advancing the state-of-the art in both smartphone and processor design. This marks the first of what I hope is many such chips that will come out of the UCSD research community,¡± said Taylor.
+While chip makers can now make similar types of specialized processors by hand, the UC San Diego computer scientists developed a fully automated system. It generates blueprints for specialized processors, called conservation cores, from source code extracted from applications.
+GreenDroid conservation cores use 11 times less energy per instruction than an aggressive mobile application processor. Accounting for code running outside the conservation core still results in an increase in efficiency of 7.5 times compared to an aggressive mobile application processor, according to the computer scientists¡¯ HotChips presentation.
+¡°Smartphones are a perfect match for our approach, since users spend most of their time running a core set of applications, and they demand long battery life. As mobile applications become more sophisticated, it¡¯s going to be harder and harder to meet that challenge. Conservation cores offer a solution that exploits a resource that will soon be quite plentiful - dark silicon,¡± said Swanson. 
+Conservation cores also incorporate focused reconfigurability that allows them to adapt to small changes in the target application while still delivering efficiency gains. 

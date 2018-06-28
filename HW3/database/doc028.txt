@@ -1,0 +1,47 @@
+Nokia and Oracle collaborate on next generation telecommunication subscriber registers
+2006-02-15 09:35:54
+
+Nokia, the world leader in mobile communications, and Oracle, the world's largest enterprise software company, today 
+
+announced an agreement under which Nokia can use Oracle's Carrier Grade Framework product offering in its next generation 
+
+telecommunication subscriber register solution. Subscriber registers are essential to maintain real-time information about 
+
+mobile and converged network users.
+
+ Nokia plans to incorporate Oracle's technologies into Nokia's next generation telecommunication subscriber register 
+
+solution. Nokia is today one of the leading suppliers of Home Location Register (HLRs), providing extremely reliable systems
+
+and the highest transaction capacities for the subscriber database needs of telecom networks.
+
+Nokia will build on its strong HLR capabilities and enhance its existing register solutions to cover all requirements for 
+
+real-time subscriber data demanded by existing and new services in both mobile and converged networks.
+
+"Nokia is already the world leader in 3GPP Release 4 mobile softswitches, HLR, and IP multimedia solutions," said Christian 
+
+Fredrikson, Vice President, Networks, Nokia. "And developing a single on-line subscriber register solution is the natural 
+
+next step in the evolution of our register offering. With this cooperation, we and Oracle join forces to establish a winning solution for mobile and converged operators. The solution will provide greater flexibility in creating new subscriber services, enhanced capabilities for subscriber provisioning, and increased savings in operational costs."
+
+"Collaborating with Nokia on its single on-line subscriber register solution enables us to provide telecom operators and 
+
+service providers with a cost-effective foundation for bringing exciting new services faster to market," said Lars 
+
+Wahlstrom, Vice President, Telecom & Media, Oracle Europe, Middle East and Africa. "The data management solution of Oracle 
+
+Carrier Grade Framework is based on Oracle 10g and Oracle TimesTen In-Memory database technologies. It highlights the 
+
+carrier grade features and options of these Oracle products, ideally suited for today's Network Element Providers and ISVs 
+
+developing next generation network solutions for the telecommunications industry."
+
+About Oracle
+Oracle (NASDAQ: ORCL) is the world's largest enterprise software company. For more information about Oracle, visit our Web site at http://www.oracle.com.
+
+About Nokia
+Nokia is a world leader in mobile communications, driving the growth and sustainability of the broader mobility industry. Nokia connects people to each other and the information that matters to them with easy-to-use and innovative products like mobile phones, devices and solutions for imaging, games, media and businesses. Nokia provides equipment, solutions and services for network operators and corporations.
+
+- Nokia
+

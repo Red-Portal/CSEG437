@@ -1,0 +1,15 @@
+Grand Alliance (HDTV)
+
+Consortium created in 1993 at the behest of the FCC to develop the American HDTV specification, with the aim of pooling the best work from different companies. The Grand Alliance (or GA) consisted of AT&T, General Instrument Corporation, Massachusetts Institute of Technology, Philips Consumer Electronics, David Sarnoff Research Center, Thomson Consumer Electronics, and Zenith Electronics Corporation.
+
+Recognizing that earlier proposed systems demonstrated particular strengths in the Advisory Committee on Advanced Television Service (ACATS) testing and evaluation process, the Grand Alliance system was proposed to combine the advantages of all of the previously proposed terrestrial digital HDTV systems. At the time of its inception, the Grand Alliance HDTV system was specified to include:
+
+Flexible picture formats with a header/descriptor approach, allowing the inclusion of both 1050 and 787.5 raster formats. 
+Progressive scanning and square pixel capabilities in both raster formats. 
+Interlaced scanning and rectangular pixel formats. 
+Video compression based on MPEG-2, with additional syntax elements that represent contributions from each previously proposed system. 
+A packetized, prioritized data format, providing flexibility of services and extensibility. 
+Audio and transmission systems had not been decided at the time of the GA agreement. Five channel audio was specified, but a decision among the Dolby AC-3, multi-channel MUSICAM, and MIT "AC" systems had not yet been made. Candidate transmission approaches included QAM, Spectrally-Shaped QAM, 6 VSB (with trellis code) and 4/2 VSB. A thorough analysis of service area, interference characteristics, transmission robustness and system attributes would be performed to determine the "best approach."
+
+In the end, 1080- and 720-line resolutions were implemented, together with 8-VSB modulation and Dolby AC-3 audio.
+

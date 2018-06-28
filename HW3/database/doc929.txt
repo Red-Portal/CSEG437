@@ -1,0 +1,49 @@
+Apple introduces the AI phone
+
+At Apple¡¯s WWDC 2018 ? an event some said would be boring this year with its software-only focus and lack of new MacBooks and iPads ? the company announced what may be its most important operating system update to date with the introduction of iOS 12. Through a series of Siri enhancements and features, Apple is turning its iPhone into a highly personalized device, powered by its Siri AI.
+
+This ¡°new AI iPhone¡± ? which, to be clear, is your same ol¡¯ iPhone running a new mobile OS ? will understand where you are, what you¡¯re doing and what you need to know right then and there.
+
+The question now is will users embrace the usefulness of Siri¡¯s forthcoming smarts, or will they find its sudden insights creepy and invasive?
+
+Siri Suggestions
+
+After the installation of iOS 12, Siri¡¯s Suggestions will be everywhere.
+
+In the same place on the iPhone Search screen where you today see those Siri suggested apps to launch, you¡¯ll begin to see other things Siri thinks you may need to know, too.
+
+For example, Siri may suggest that you:
+
+Call your grandma for her birthday.
+Tell someone you¡¯re running late to the meeting via a text.
+Start your workout playlist because you¡¯re at the gym.
+Turn your phone to Do Not Disturb at the movies.
+And so on.
+
+These will be useful in some cases, and perhaps annoying in others. (It would be great if you could swipe on the suggestions to further train the system to not show certain ones again. After all, not all your contacts deserve a birthday phone call.)
+
+Siri Suggestions will also appear on the Lock Screen when it thinks it can help you perform an action of some kind. For example, placing your morning coffee order ? something you regularly do around a particular time of day ? or launching your preferred workout app, because you¡¯ve arrived at the gym.
+
+These suggestions even show up on Apple Watch¡¯s Siri watch face screen.
+
+Apple says the relevance of its suggestions will improve over time, based on how you engage.
+
+If you don¡¯t take an action by tapping on these items, they¡¯ll move down on the watch face¡¯s list of suggestions, for instance.
+
+AI-powered workflows
+These improvements to Siri would have been enough for iOS 12, but Apple went even further.
+
+The company also showed off a new app called Siri Shortcuts.
+
+The app is based on technology Apple acquired from Workflow, a clever ? if somewhat advanced ? task automation app that allows iOS users to combine actions into routines that can be launched with just a tap. Now, thanks to the Siri Shortcuts app, those routines can be launched by voice.
+
+Onstage at the developer event, the app was demoed by Kim Beverett from the Siri Shortcuts team, who showed off a ¡°heading home¡± shortcut she had built.
+
+When she tells Siri she¡¯s ¡°heading home,¡± her iPhone simultaneously launched directions for her commute in Apple Maps, set her home thermostat to 70 degrees, turned on her fan, messaged an ETA to her roommate and launched her favorite NPR station.
+
+Machine learning in photos
+AI will further infiltrate other parts of the iPhone, too, in iOS 12.
+
+A new ¡°For You¡± tab in the Photos app will prompt users to share photos taken with other people, thanks to facial recognition and machine learning.  And those people, upon receiving your photos, will then be prompted to share their own back with you.
+
+The tab will also pull out your best photos and feature them, and prompt you to try different lighting and photo effects. A smart search feature will make suggestions and allow you to pull up photos from specific places or events.

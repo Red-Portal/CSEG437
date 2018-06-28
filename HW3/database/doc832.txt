@@ -1,0 +1,1064 @@
+Mobile learning with a mobile game: design and
+motivational effects
+Gerhard Schwabe & Christoph Go¨ th
+University of Zurich, Zurich, Switzerland
+Abstract Mobile technologies offer the opportunity to embed learning in a natural environment. This
+paper describes the design of the MobileGame prototype, exploring the opportunities to
+support learning through an orientation game in a university setting. The paper first introduces
+the scenario and then describes the general architecture of the prototype. The main
+part of the paper focuses on the evaluation of design issues and the effects observed in two
+trials. Design issues include: Supporting work on the move poses difficult interface questions,
+the accuracy of current outdoor, and indoor positioning systems is still problematic and
+the game requires near real-time response time. The evaluation of the effects shows that
+features such as ‘map-navigation’ and ‘hunting and hiding’ lead to excitement and fun. The
+participants immerse into a mixed reality that augments both physical and social space. The
+game success is based on the motivating design of the game itself. The paper concludes with
+open issues for future research, especially with the need to thoroughly evaluate the learning
+benefits.
+Keywords computer supported cooperative learning, computer supported cooperative play, E-learning,
+mobile & wireless games, mobile learning, positioning systems
+Introduction
+Currently, there is a growing amount of research
+concerned with applying mobile technology to learning.
+This research can be technology driven, such as
+the idea to broadcast a lecture on the cellphone
+(Lehner & No¨sekabel 2003) or it can be pedagogically
+driven, such supporting students’ field data collection
+with mobile devices (Roschelle 2003). Sharples et al.
+(2002) point out that there may be a particular opportunity
+for mobile learning outside the traditional
+formal learning settings. The objective of the Mobilearn
+project (www.mobilearn.org) is to explore the
+potential and the architectures of mobile learning both
+in formal and informal learning settings. Specifically,
+there are three application scenarios:
+1. Health,
+2. Museum,
+3. Executive education.
+The work presented here grew out of the executive
+education scenario. For executive students as for all
+other students it is a particular challenge to get acquainted
+with the university as a learning environment
+in order to make best use of its resources as fast as
+possible. This includes team building with fellow
+students. Our idea for supporting their initial learning
+is based on the concept of game learning.
+This paper has two objectives:
+1. To discuss design issues of a mobile game
+system with a focus on issues specific for mobile
+Correspondence: Gerhard Schwabe, University of Zurich, Zurich,
+Switzerland.
+Email: schwabe@ifi.unizh.ch
+Accepted: 14 March 2005
+204 r Blackwell Publishing Ltd 2005 Journal of Computer Assisted learning 21, pp204–216
+Original article
+learning and the motivational value added by mobile
+games.
+2. To present data on the effects of a mobile game on
+participant motivation and on the features causing
+those effects. This data focuses on motivational
+effects (fun, excitement etc.).
+The next section will review the related literature. The
+third section will introduce the mobile game learning
+scenario and the mobile game system. The fourth
+section will introduce the general research design. The
+fifth section presents the results of two trials. The sixth
+section discusses technical design issues and the section
+after that the effects observed in a user trial. The
+last section closes the paper with some conclusions
+and an outlook to further research.
+Literature review
+Computer science, information systems, and educational
+research contribute to knowledge on mobile
+learning games. As is typical for information systems
+research, this paper strives to discuss these areas in an
+integrated way, but because of space limitation the
+literature review focuses on the educational aspects.
+Lepper and Malone (1987) propose a relationship
+between learning and intrinsic motivation. Their research
+is based on an investigation of students who
+played computer games. They identify seven key
+factors for creating an intrinsically motivating instructional
+environment: challenge, curiosity, control,
+fantasy, cooperation, competition, and recognition. In
+a set of experiments, Lepper and Cordova (1992) show
+that computer games raise the efficiency of learning if
+they increase the intrinsic motivation and link the
+goals ‘winning the game’ and ‘learning the material’.
+In these games, mathematical problem solving is
+embedded in an artificial game context. With the new
+mobile technology it is now possible to situate problems
+in their natural context without losing the motivational
+benefits of games.
+How do computer games engage players? Prensky
+(2001) proposes that six structural elements characterise
+games. There are:
+1. rules, that organize the game,
+2. goals and objectives, the players strive to achieve,
+3. outcome and feedback, which measure the progress
+against the goals,
+4. conflict, competition, challenge, and opposition
+leading to players’ excitement,
+5. interaction, the social aspect in the game, and
+6. the representation or story exaggerating interesting
+aspects of reality.
+These elements need to be carefully designed and
+combined to create a fun and engaging game. We will
+use those factors to discuss design issues and the effects
+of the MobileGame.
+In a thorough literature review on game-based
+learning, Mitchell and Savill-Smith (2004) show that
+these elements can be used to analyse games For example,
+games for teaching basic skills, like reading
+and foreign languages (see Schwartz 1988 or Herselman
+1999), teaching society skills, like self-efficacy in
+HIV/AIDS prevention (Thomas et al. 1997), and social
+learning such as encouraging successful dialogue
+(Ravenscroft & Matheson 2002). It should be possible
+to use these elements to carefully design and analyse
+mobile games, but so far this has not been done yet.
+There are already a few mobile systems that integrate
+playing and learning, such as the Cooties Game
+or Geney (Savill-Smith & Kent 2003) or Savannah
+(Facer et al. 2004). They focus on role-play or simulation.
+Prototypes and commercial products of location-
+based games in a real life environment, like
+CYSMN (Benford et al. 2003), Pirates (Bjo¨rk et al.
+2001) or Mogi (Hall 2001), show that people like to
+play with the new options, but these games focus
+purely on entertainment.
+With mobile game learning still in its infancy a
+deeper understanding of its design principles as well
+as of arising opportunities and limitations is paramount.
+We therefore started to develop the locationbased
+learning game MobileGame in 2002 (Go¨th
+2003).
+The mobile learning scenario and system
+This chapter introduces the MobileGame through a
+usage scenario and then briefly describes the system
+architecture. The usage scenario is needed to understand
+the effects, and the system architecture is needed
+as a basis for the discussion of design issues.
+Mobile learning with a mobile game 205
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+Mobile learning scenario
+The MobileGame is used to support the orientation
+days at a university. The traditional orientation rally is
+electronically supplemented with handheld devices.
+The orientation rally is a fun event intended to get to
+know the university and its surroundings. Therefore,
+the rally will lead all participants through a parcours
+with several tasks to carry out at certain spots. The
+students play individually or in small groups (one to
+three persons) against other individuals/groups.1 Each
+group receives a handheld computer.
+During the orientation rally, each group gets different
+tasks referring to significant places, people and
+events. The handheld device shows the current position
+of the group on the digital map of the university.
+When the group enters a building the outdoor map
+switches to an indoor map of the building the group
+just entered. The whole rally is structured as a cooperative
+and competitive game. Competition is based
+on hunting rules: Each group tries to catch another
+group and, equally, is hunted by a third group.2 The
+handheld device shows each group where its hunter
+and its prey are located. Cooperation rules force group
+members to meet members from other groups as well
+as teachers and to exchange information with them –
+again they are supported with location-based information
+on their displays. The tasks given to them
+provide them with basic information on University
+life. There are the following types of tasks:
+ Significant place tasks: The students have to find
+important places such as the library, the cafeteria or
+the laboratories. At each location, they have to
+perform a typical task (find a book, have lunch,
+etc.). The specific tasks are context-dependent (they
+depend not only on the location, but also on the time
+of the day or they build on the activity of some
+previous group). The task execution is supported by
+the handheld device (e.g. serving as a frontend to
+the library information system or providing them
+with needed information).
+ Significant people tasks: The students have to find
+important people of the university and have to interview
+them on their activities (the president, the
+study coordinator, the caretaker . . . These people
+either participate in the game or are played by other
+students). If those people are typically mobile they
+can be located by a mobile device.
+ Significant event tasks: The significant events can
+be scheduled or come as surprise. Scheduled events
+include introductory lectures and courses. Here,
+tasks relate to the organization of studies (e.g. set up
+a course schedule or how to find important information)
+and some initial content. Unscheduled
+events include ‘spontaneous’ welcome parties by
+student groups, but also the signup of each group
+member to important University services (e.g.
+computer account, library card).
+Each task requires the group to answer one or two
+simple questions displayed on the handheld device.
+For example, one task might be to find the cafeteria.
+There they get the question ‘What is the price of an
+apple pie?’. They won’t get the next task until the
+correct answer is given.
+In addition to the game, the students can annotate
+real objects with virtual ‘post-it’s’. Other groups can
+read these short messages and answer with their own
+post-it’s.
+Mobile game system
+The scenario describes a synchronous collaboration
+between the people. Thus, the architecture of the
+mobile game prototype is derived from a generic architecture
+for synchronous collaboration (Schu¨mmer
+& Sackmann 2001; a more detailed discussion can be
+found in Go¨th et al. 2004).
+The architecture provides clients with their own
+private state of the ongoing game: All relevant data are
+stored on the client side so the player can act even if
+there is no connection to the server available, e.g.
+when playing in an offline area. The server works as
+the central coordination point for the whole game. Any
+changes in the game are transferred to the server
+which distributes the data to all clients.
+The architecture integrates three components: the
+mobile client on the PDA,3 the web client for a
+browser, and the server. PDA and server communicate
+1In order to simplify the text, this scenario assumes that a there is a group
+of players.
+2The didactic reason for hunting rules is to keep the groups moving. Of
+course there need to be hunting free areas and times, e.g. during courses. 3PDA: Personal digital assistant: A small handheld computer.
+206 G. Schwabe & C. Go¨ th
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+over a Wireless LAN (WLAN). The web client exchanges
+data with the server over HTTP. The positioning
+information is provided by the Ekahau
+positioning engine. This engine calculates the position
+of each client from the strengths of the WLAN-signals
+it receives from several WLAN base stations. The
+accuracy is from one to three meters, if the Ekahau
+client can ‘hear’ four access points. The Mobile Game
+prototype can also use GPS for positioning information.
+However this positioning information is too inaccurate
+and only works outside buildings.
+Research design and framework
+The overall design of the MobileGame research follows
+the pilot study research approach (Schwabe &
+Krcmar 2000). The basic idea is to develop sociotechnical
+innovations in close collaboration with the
+field site and to iterate between development and
+evaluation activities. Sharples et al. (2002b) adapted
+these ideas and applied them to the educational area.
+Both approaches leave the starting point of the development
+activities somewhat vague. While it is
+possible to gather requirements to support an established
+(educational) activity, it is difficult to gather
+those requirements for a radically new activity. It was,
+therefore, decided to use a scenario as a starting point
+(for scenario-based design see Carrol 1995). This
+scenario was described in third section. Such a scenario
+should be coherent enough to allow a shared
+understanding and to guide the development process.
+It should also be general and colourful enough to allow
+the developers to creatively interpret and advance
+the scenario. The basic design and architecture of the
+MobileGame is described in fifth section. The main
+objective of the evaluation was to inform design and to
+understand the educational value of the game as an
+example of mobile learning.
+As many components of the MobileGame are
+leading edge technology we have evaluated the system
+in several steps: We based our evaluation on Taylor’s
+(2003) recommendation. In the context of the Mobilearn
+project (www.mobilearn.org), she proposes to
+first test the usability of the technology and in a second
+step the pedagogy. After each step, the software is
+adapted to the newly surfacing requirements. The first
+test of October 2003 focused on the usability and only
+offered a few insights into pedagogic questions. After
+this test, we noticed how large the step is from a basically
+usable software to a system that allows a
+thorough evaluation of its pedagogy and its pedagogic
+value. It appeared not advisable to leave the development
+of the software without guidance for such a
+long time, as some usability questions were (also)
+open. We then decided to split the future development
+and evaluation process into two parts: First, we focused
+on the motivational aspects of the game and its
+relationship to the usability of the system. Second we
+will include the content and systematically test the
+effects on learning. This final test of the learning
+benefits is still outstanding. In retrospect, this two-step
+approach turned out to be very helpful: although we
+did not focus on content issues we now know much
+better how to prepare appropriate content than before.
+Method of evaluation of the first trial
+The first version of the software was evaluated in a
+user test at the University of Koblenz in October 2003.
+The test was part of a presentation day by the faculty
+of computer sciences. The first evaluation only tested
+the technology in a very crude game: we hid a PDA in
+a room of a university building and asked seven interested
+visitors (mostly students) to find it with the
+help of the game. Then they completed a short questionnaire
+concerning their experience. In the first
+section participants evaluated technical aspects of the
+game and in the second section the participants provided
+feedback regarding the game. The complete
+questionnaire is available in the Internet4 or by contacting
+the authors. Additionally the participants were
+observed during the game.
+Method of the evaluation of the second trial
+The second evaluation of the MobileGame was located
+at the Koblenz Campus of the University of
+Koblenz-Landau in Germany. The location was chosen
+because Koblenz as a partner of the Mobilearn
+project has a campuswide wireless LAN and both
+authors have very good knowledge of the campus (one
+used to study there and the other was a professor
+there). The game covered two office buildings, the
+central campus facilities (cafeteria, lecture halls, li-
+4http://www.ifi.unizh.ch/im/imrg/index.php?id=194
+Mobile learning with a mobile game 207
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+brary) and the space in between, all in all an area of
+about 150 000m2.
+Participants
+A total of 22 students volunteered to participate in one
+of the two games (one with 13 participants and the
+other with nine). Eighteen participants played the
+game on their own and each participant was equipped
+with their own device. Four participants played the
+game with a partner and they shared one device. The
+participants were videotaped while playing the game.
+Six participants were in their first year, nine participants
+were in the second year and four participants
+were in the third year or above. They were aged between
+19 and 25 years old (average age 21.6 years).
+There were 17 male students and five female and most
+of them considered themselves experienced computer
+users.
+Procedure
+The students were given 10 tasks, each consisting of a
+location they had to find and a location related question.
+The question was answered by filling in a multiple-
+choice question or using sliders to specify a
+number. The task was given to each student (specifically:
+to each PDA) in a random order. The 10 questions
+are as follows:
+1. What is the first word on page 396 in the book
+with the code INF/Wi 1999–93? (Multiple
+Choice)
+2. What is the number of the room of Prof. Ebert?
+(Slider)
+3. What is in this room? (Multiple Choice)
+4. How many secretaries work for the institute of IS
+research (Multiple Choice)
+5. How many computers are in this room? (Slider)
+6. When does this office close on Tuesday? (Multiple
+Choice)
+7. What is the correct link to the web form for getting
+a network access? (Multiple Choice)
+8. In this room you can return your re-registration.
+What is the number of the room? (Slider)
+9. What is the Menu 1 on Friday in the cafeteria?
+(Multiple Choice)
+10. How many copy machines are located on this
+floor? (Slider)
+Before the game, the students were given a short
+training session with the PDA. They also received a
+short printed information document. One game lasted
+approximately 40min, the other approximately
+30 min. In this time, the students had the opportunity
+to answer the questions and to catch other groups. At
+the end of each game, each player was given a questionnaire.
+The questionnaire contained 12 questions
+that can be clustered into four sections: the first section
+asked the students how satisfied they were with their
+introduction to the game; the second section collected
+data on the motivational aspects of the game; the third
+section focused on the usability of individual functions
+and the final section collected data about the users.
+The completed questionnaire is available in the Internet
+5 or by contacting the authors.
+Discussion framework
+The MobileGame can be described in terms of Prensky’s
+six structural elements. The scenario describes
+the global rules. The players have the goal to solve the
+tasks (and ultimately learn). The real time technique
+gives you direct feedback on the current status in the
+game and on the outcome achieved so far. Conflicts
+and competition are realised through the opportunity
+to gain points (by solving tasks or catching others). By
+playing in groups there is interaction in the game. This
+effect is additionally supported by the chat function.
+The representation is realized through the orientation
+on the digital map and the augmentation of the reality
+with digital objects (e.g. the task or the virtual postits).
+These structural elements characterised our game
+and should engage the player.
+Results
+Results of the first trial
+This section contains the major results of the first trial.
+This trial focused on the technology of the first prototype.
+The test persons have to rate seven technical
+issues of the game and the general impression. The
+scale ranged between 05unserviceable over 35acceptable
+to 55excellent (Table 1).
+5http://www.ifi.unizh.ch/im/imrg/index.php?id=194
+208 G. Schwabe & C. Go¨ th
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+Screen size and accuracy of the position scored
+least. A number of participants commented that they
+liked the idea but would have liked a better technical
+realisation of the game. They would have liked to have
+a zoom; auto-scroll and improve the update time of the
+client. These features were built into the system for the
+second trial.
+Results of the second trial
+This section contains the major findings from the
+second trial. Since the experiment was designed to test
+the motivational aspects of the game we will present
+most data on this issue.
+We asked the participants whether it was fun to play
+the game. A large majority of students (17 of the 22)
+indicated that they liked it and would play it again any
+time. Five participants liked it, but thought playing it
+once was enough. Nobody chose the options ‘It was
+ok’, ‘No, but it could be fun if some details were
+changed’ or ‘No, it was a waste of time’. Positive
+(sometimes even enthusiastic) comments in the open
+questions supports these findings. So the game is entertaining
+and students like to play it.
+Afterwards we asked, which elements of the game
+the student liked best. Each of the 22 students were
+allowed a maximum of two choices. Two students had
+to be taken out of the evaluation because they had
+selected more than two choices. However, this does
+not change the overall picture as these two had similar
+preferences as the others. Nine students selected
+‘Hunting and hiding’, seven ‘Orientation with the
+map’ and six ‘Playing as a group experience.’ ‘Solving
+the tasks’ and ‘Technical aspects of the game’ were
+selected by five participants, and four chose ‘Own
+position on the map’. Only one students selected
+‘Learn something about the university’, ‘Collection of
+game points’, and ‘Orientation on maps by icon links’.
+Each participant was asked to rate how often he
+used key features of the game. They could respond
+15not at all, 25rarely, 35normal, 45often, and
+55very often (Table 2).
+‘Orientation on map’ was used most often. In response
+to the open questions, many students asked for
+the map to be simplified. As we used architects’ maps
+of the building, they included irrelevant information
+(such as numbers or outdated plans for furniture).
+They wanted this information to be replaced by relevant
+information, such as more information concerning
+other players and the location they were
+currently at (e.g. the name of the building) and their
+achievements in the game in comparison with others
+(achievements5correctly answered questions). However,
+there were quite a few students who were happy
+with the map as it was.
+The frequency of looking up question was rated
+‘normal’ or ‘often’ by the majority of the participants.
+There were a lot of positive comments concerning the
+multiple-choice questions; the comments on the sliderbased
+questions were mixed. The tasks were presented
+in a random order. Ten participants rated that the order
+of the tasks was ‘very good’, 12 rated it as ‘good’, but
+some more intelligence in the ordering would be desirable’
+(nobody chose ‘Useless). The uncoordinated
+distribution of tasks was very demotivating’).
+The use of the catching function varied widely. In
+the open comment questions quite a few students reported
+difficulties in handling this function, mainly
+because of difficulties with imprecise navigation and a
+somewhat confusing interface. Chat was rarely or not
+at all used by most participants.
+Only one of the 22 participants agreed with that
+opinion ‘that the game could have been played without
+a PDA’) and even s/he was unsure as s/he made two
+Table 1. Rating of the technical aspects of MobileGame
+M SD
+Size of screen to read while walking 2.9 1.1
+Weight while carrying in hand 3.9 1.1
+Size of device to hold in hand 4.0 1.2
+Display of maps 3.3 1.1
+Handling of software 3.3 0.9
+Accuracy of display of own position 1.9 1.1
+Input of text with pen 3.6 0.8
+General impression of functions 3.7 1.4
+Table 2. Usage of key game features
+M SD
+1. Orientation on map 4.5 0.5
+2. Look-up questions 3.7 0.8
+3. Chat 2.0 0.8
+4. Catch others 3.3 1.2
+Mobile learning with a mobile game 209
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+selections (the other was with the majority). The other
+21 thought the electronic support increased the excitement
+of the game; 10 of these thought the electronic
+support significantly added value to the game
+experience, 11 thought the electronic support increased
+excitement but thought the technology was not
+mature enough.
+Table 3 shows the most important positive and negative
+aspects of the game in the eyes of the participants.
+6 Each student could select up to three positive
+and three negative items. Many students selected only
+one or two aspects.
+The majority of the participants selected the navigation
+as a major positive aspect. Half the participants
+saw a considerable value added to a traditional guided
+tour. A third selected the opportunity to individually
+explore the university and to communicate over
+messages with other groups. A small minority regarded
+the interface as a major positive aspect and
+nobody selected the s/he learned about the university.
+The four most frequently selected negative aspects
+are related to the interface design (each selected by a
+third of the participants): imprecise display of the
+position, delay of position tracking information, difficulties
+in typing text, and difficulties in reading the
+display in unfavourable conditions. Only a small majority
+selected the control of the game flow, difficulties
+in using the PDA when moving or keeping an overview
+over different maps.
+Technical design issues for the MobileGame
+prototype
+An appropriate game design cannot be reduced to individual
+features. Rather, general technical design
+issues need to be solved and an appropriate infrastructure
+set up. This section discusses four key
+technical design issues: Accuracy of positioning, play
+on the move, offline areas and response time, and interface
+design.
+Accuracy of positioning
+Other mobile games like ‘Can you see me now?’
+(Benford et al. 2003) already reported problems with
+inaccurate position information, particularly with
+GPS. Our prototype uses WLAN for positioning with a
+resulting accuracy of three to five meters. An accurate
+location of the player is required to solve the task, to
+hunt other groups and to orient on the digital maps.
+The players in the first trial told us that the accuracy
+was quite good as long they only needed to know their
+approximate position. As soon as they had to know the
+exact position of an object the accuracy was not sufficient.
+They had to search in up to three rooms to find
+the hidden PDA in the first trial and the participants
+reported difficulties catching and solving location-
+Table 3. Most important positive and negative aspects of the game
+Most important positive aspects (maximum three choices)
+The dynamic position tracking on a map is a significant value added for an orientation game 17
+The game is a considerable value added compared with a traditional guided tour 11
+The opportunity to independently explore the university is a significant value added 8
+The opportunity to send messages to another group is a significant value added for an orientation game 7
+The clarity of the user interface helped to play 4
+I got to know the university better through the game 0
+Most important negative aspects (maximum three choices)
+The display of the position on the map was so imprecise that the flow of the game and the motivation to
+play has considerably suffered
+9
+The 3 s delay in the position tracking was very irritating for me 8
+The difficult typing of text on a PDA has effectively hindered me to send messages or make annotations/notes 8
+In unfavourable conditions (e.g. in the direct sun) the display on the screen could not be read 7
+The control of the game software has interfered with the flow of the game and the motivation to play 2
+I consider it extremely hindering that the PDA cannot be used when I am walking or running 2
+I had great difficulties to keep an overview over different maps 2
+PDA, personal digital assistant.
+6The list was created on the basis of the results of the first trial.
+210 G. Schwabe & C. Go¨ th
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+dependent tasks in our second trial. In the second trial,
+the low accuracy of the location information was reported
+as the single most important negative aspect.
+There were two parts to this problem: The low precision
+of the location information and the representation
+of this low precision on screen. The first issue
+could be tackled through better infrastructure. The
+second problem could be solved through better representations
+of the imprecision of the location rather
+than the jumping arrow provided by Ekahau position
+engine.
+Play on the move
+In the first trial, even in straight corridors the participants
+reported difficulties in moving and navigating at
+the same time. If they wanted to check their current
+position they had to stop and look at the PDA comparing
+the map on the screen with their surroundings.
+The size of the maps does not appear to be the major
+problem, as they covered half the PDA screen and the
+participants did not have problems reading when
+standing. Rather, they did not succeed to synchronize
+their heads to the movements of the device in the hand.
+Furthermore the cognitive load of translating an abstract
+two-dimensional map to into a three-dimensional
+building was high.
+In the MobileGame, the players have to locate their
+position constantly, in order to locate their next task or
+to hunt other groups. A constant stop-and-go hinders
+the flow of the game. At least half the game players
+complained about this problem during the first evaluation.
+In the second trial the participants again reported
+difficulties with the precision of position
+information (see Table 3), but the majority did not
+regard having to stand still while using the computer
+as major negative aspect of the game.
+Still, it would be useful to enable the players to play
+when walking. One solution could be an audio interface,
+which gives the user the needed location information
+through headphones. Bjo¨rk et al. (2001)
+have experimented with using audio for providing
+status information in their game Pirates! However, the
+information could often not be heard because the noise
+level within the gaming area was too high. So therefore
+transmission of information through transient
+audio and persistent visualisation on the PDA screen
+each have unique advantages and disadvantages.
+Offline areas and response time
+One of the players reported that updating their position
+took too long. Their position was updated every 3 s,
+but in this time the players could move five or more
+meters. Frequent updating of position is one most
+important requirements of mobile games. Mostly, you
+do not have an area-wideWLAN, so the mobile clients
+are not always connected to the server. But the players
+want a near real-time reaction of the client, e.g. if they
+are solving tasks, hunt other groups, chat with others,
+or just walk across the campus and use the digital map
+for orientation. Game objects, which are changing all
+the time, like the position of the players, have to be
+updated by the client as fast as possible. This means,
+the mobile game has to have both a good caching algorithm,
+and an efficient data transmission strategy.
+In our prototype all static information, such as the
+game maps, were stored on the PDA. Only the dynamic
+information, such as a new position or a new
+task, were transmitted. The PDA receives all the information
+from the server that was needed for offline
+work, like the answer of the current task, so that the
+players could interact even if they were in an area
+without WLAN. Additionally, they received information
+concerning their network status and the
+status of other players they wanted to interact with.
+Interface Design
+Besides response time, the user interface was the most
+important design issue of the MobileGame. The interface
+enables the players to use the game features,
+enables a group to interact with the system over one
+device and communicate with other groups.
+Figure 1 shows the old interface and the new one,
+which has been implemented after the test. The first
+interface used drop-down menus like desktop programs.
+The basic idea was that the players needed a
+‘tool’ (Zu¨llighoven et al. 1998) that they could use to
+call functions in a random order. Observation of the
+players showed that navigation with the drop-down
+menu and using the pen of the PDA was not really
+intuitive. The use of the PDA was much more like the
+use of an ‘automat’: A player prefers easy access to a
+service to the freedom of using the system in an innovative
+way. So we redesigned the user interface and
+substituted the old menu with a button bar. Now all
+Mobile learning with a mobile game 211
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+functions can be reached by one or two clicks.We also
+used symbols instead of text because they are smaller
+than text and the users understand symbols much
+better.
+One remaining problem is the interface for answering
+the open questions. They offer the game designer
+a broad range of possible tasks. However, the
+users have to write down the answer with the pen and a
+little virtual keyboard on the PDA, which is difficult to
+use. Multiple-choice questions restrict the game design,
+but users can answer with a simple click. In the
+tested version we supported open questions, multiplechoice
+questions and questions with sliders for numeric
+input. We think an audio interface could help
+here too. A high-tech approach would translate audio
+input into text input; in a simple approach the players
+just communicate with a human tutor synchronously
+or asynchronously (voice-mails).
+Discussion of the effects
+The game was thought to be fun by most of the
+players. Thus we can conclude from the experiment
+that this type of game can engage participants. Prensky’s
+structural game characteristics will be used to
+discuss what features of the game contributed to engaging
+the participants. This discussion includes implications
+for designing mobile learning games.
+Conflict, competition, challenge, opposition
+There were two features in the game which were could
+be described as competitive. They were hunting other
+players and answering the highest number of questions.
+Almost half of the students selected ‘Hunting
+and hiding’ as the most interesting feature in the game,
+which was all the more interesting because there were
+several complaints in the open section of the questionnaire
+about this feature: The latency of the positioning
+software was too long and the interface was
+regarded to be somewhat confusing: It was not always
+clear to everybody whom they were hunting and
+whom they were running away from. On the other
+hand competing for points answering question was not
+seen as an important feature of the game. There are
+two possible interpretations for this evaluation: As the
+questions were not immediately relevant for the students
+(they already knew the campus), they may have
+had little interest to excel in answering them. Thus
+these comments could be an artefact of the experimental
+design. A second possible interpretation was
+that players were having difficulty competing in two
+tasks at the same time and chose to compete in the
+game that provided the more immediate feedback (see
+the discussion of real-time gaming). This interpretation
+is grounded on the personal experiences of the
+authors with similar conventional games: Participants
+tend to specialize either on gaining points by hunting
+or on gaining points by answering questions. If this is
+the case the hunting feature may even become dysfunctional
+for learning. A variant of the latter interpretation
+is that one task is more exciting than the
+other one.
+In a learning environment, a careful design is needed
+to balance the engagement for hunting with the
+engagement for working on tasks. Possible solutions
+are:
+Fig. 1 The new and the old user interface.
+212 G. Schwabe & C. Go¨ th
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+1. Make the competition for points more visible:
+currently the hunting feature is visibly dominant as
+players always see their competitors on the map. A
+similarly visible game task point counter could
+balance that dominance.
+2. Make the catching itself a learning experience: If
+hunters do not only receive points from their preys
+but rather an explanation of some task solutions,
+both preys and hunters would learn.
+3. Turn of hunting for part of the game: If the hunting
+is turned off for some time or some regions the
+players automatically get exposed only to the
+competition on tasks.
+In any case, the hunting is a surprisingly useful feature
+to keep participants interested and moving.
+Outcome and feedback
+The increased excitement has the potential to support
+students’ learning. The shared experience can also
+help to achieve ‘soft’ learning goals such as team
+building. The task-oriented features and its accompanying
+content have to ensure that the ‘hard’ learning
+goals are achieved. However, the task-oriented features
+of the game have not (yet) been systematically
+designed and as the participants were not the final
+target group (i.e. new students to the university), it is
+not surprising that the task-oriented features received
+only a medium rating: Five students liked the taskoriented
+features of the game best. But only one person
+thought that the most important feature of the
+game was that s/he learned something about the university
+and as nobody claimed that s/he got to know
+the university better through the game, even this
+evaluation is questionable. As the participating students
+were not new to the university, most of the
+presented information was not new to them.
+The provision of immediate feedback is a major
+difference between an electronically supported game
+compared with a conventional game. The importance
+of immediate feedback is supported by the participants’
+clear statement that the game could not have
+been replaced by a conventional game. The negative
+aspects reported as most important (see Table 2) also
+relate to limitations of the feedback mechanism. An
+interesting improvement in outcome and feedback
+would be automatically generated learning diaries that
+allow the players to reflect on their learning.
+Goals and objectives
+The MobileGame has primary and secondary goals
+and objectives. The primary goal of the MobileGame
+was to advance learning: Newcomers to the university
+would be able to orient on campus, getting to know
+significant places, events and people. For this purpose,
+a set of tasks was given to each student. The secondary
+goal of the game was to gain as many points as possible
+(through answering questions and catching others).
+As discussed above the set-up of the experiment
+did not allow us to analyse whether the primary goal
+was achieved. Therefore this section will focus on the
+secondary goals, i.e. on design of the tasks required to
+gain points.
+As discussed above, the mobile game was successful
+in providing good tasks. The design of the
+tasks was difficult: The questions have to be sufficiently
+difficult to challenge the participants, but they
+should not take too long in order to keep the game
+flowing. As any missed task is a missed learning opportunity,
+the participants should be able to tackle
+most tasks. On the other hand there have to be more
+tasks than participating individuals/groups in order to
+avoid the situation where two groups have the same
+task at the same time. Together with the limitations
+posed by technology (particularly a limited play
+duration because of battery limitations) there was only
+a relatively small design space for an appropriate
+number of tasks.
+The game presented the tasks to the participants in
+random order and their feedback indicates that they
+were happy with that. However the game area was
+limited. In a larger area or in a game with more advanced
+learning goals the designers are well advised to
+allow for a more sophisticated ordering. Either participants
+are allowed to chose any available question
+according to their preference, or they should be presented
+in a geographically or pedagogically meaningful
+order.
+In order to keep the complexity of the game design
+low, most tasks were presented as multiple-choice
+questions. Closed questions are typically less interesting
+than open questions and seriously inhibit the
+didactical design of the game. However, there are two
+good reasons to stay with multiple choice: first, it is
+still difficult to type in information with a PDA, particularly
+when one is on the move or still exhausted by
+prior movements. Some questions could be solved by
+Mobile learning with a mobile game 213
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+using a moving slider, which is a little more difficult
+than using multiple choice but less difficult than text
+input. There were significantly more negative comments
+on this feature than on the multiple-choice
+questions. Second, multiple-choice questions speed up
+the game, as answers are given quickly and the participants
+can then move on. In a competitive environment,
+speed is a prerequisite to excitement.
+Interaction
+The MobileGame offers plenty of opportunities for
+interaction. Six participants liked the group experience
+most. The opportunities to directly interact with other
+participants over the chat were rarely used, because
+participants reported that typing on a PDA is too difficult.
+Thus a future system may be well advised to
+improve the chat input or to include other channels for
+communication, e.g. a voice channel. The evaluation
+of the ‘Can you see me know’-game (Flintham et al.
+2003) shows how such a voice channel can also contribute
+to the excitement of the game. However, the
+high rating of group experience and the low level of
+electronic interaction raises the question what led to
+the positive group experience. One answer is intensive
+discussions between groups. Non-verbal interaction
+such as observing one another on screen or watching
+others from a distance may have played an important
+role.
+Representation or story
+The game and the learning environment were presented
+to the players on a digital map. The students
+also liked the navigation with the map (seven choices),
+although latency and lack of precision of the navigation
+software was a problem. The navigation features
+were at the centre of the discussion for the students,
+receiving the highest numbers of complaints and a
+very high level of interest. This supports our observation
+that a navigation system is a very powerful
+tool for situation learning in a natural environment.
+The game also included a simple electronic augmentation
+of physical objects: A task/question was attached
+to each object and only once a player comes
+near to an objects (is within its ‘aura’), the electronic
+attachment becomes visible to him.
+We conclude from the three favourite features of the
+game that the students liked the mixed reality experience
+of the game. Mixed reality means that the
+participants activities are partially represented in
+physical space and partially in digital space and both
+spaces stand in correlation to one another (as exemplified
+by the orientation with a map). The MobileGame
+allowed the participants to collectively
+immerse in such a mixed reality. Furthermore, the
+MobileGame contains new opportunities for social
+interaction (e.g. chatting or catching) and they have to
+adhere to new rules (i.e. the game rules). Thus, participants
+were not only immersed in a augmented
+physical environment, but, at the same time, they were
+immersed into an augmented social environment.
+This interpretation is supported by the fact that the
+participants reported that weaknesses in the technology
+reduced their experience. This immersion into a
+mixed reality environment appears to be a major reason
+why it is not the same to play the game without IT
+support, i.e. why the students see a significant value
+added in the game. Immersion is particularly interesting
+if there is movement and action, both in augmented
+physical and social space. The students appear
+to be more willing to accept low performance in
+augmented physical space (e.g. imprecise navigation)
+than in augmented social space (e.g. for chatting): In
+contrast to the group in the first evaluation, the lack of
+usability of the PDA during walking or running did not
+appear to be a major issue for participants in the
+second evaluation. The participants disliked insufficient
+support for collaborative features. Written
+communication is difficult with the PDA. So there is
+still a need for other communication channels.
+Conclusions and outlook
+The design and evaluation of the MobileGame is one
+more case for the dual role of information technology
+(Giddens 1986; DeSanctis & Poole 1994). Mobile
+Technology enables immersion into a mixed reality
+environment and more motivating learning experience.
+However it also severely limits some activities.
+For many purposes, mixed reality environments are
+much more apt to augment learning than purely physical
+or purely digital environments. However current
+technology still has some serious limitations particularly
+regarding the mobile user interface and the accuracy
+of positioning systems.
+Still, the current state of MobileGame already indicates
+its potential to enhance learning: The partici-
+214 G. Schwabe & C. Go¨ th
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+pants enjoyed the game and most would have liked to
+play it again. We have attributed this finding to their
+exciting mixed reality experience. The game at least
+moves them into a state where they are mentally ready
+for learning, where they are in the right environment
+for learning and where they also already experience
+some socially oriented learning. We cannot yet support
+our claim that the MobileGame will really enhance
+‘hard learning’. The tested user group was
+unsuited for this test. Furthermore, the tasks and the
+accompanying content have not yet been carefully
+designed. This will be our next objective. A further
+challenge will be moving the concept of the Mobile-
+Game and the prototype into new domains. We have
+already run a very simple version of the game in the
+Zurich Zoological museum and have given it to children.
+Here we were able to use professionally prepared
+content. However, the users still liked the gaming
+features best. There appears to be something in gaming
+that deeply touches people of all ages and can lead
+through immersion to fun. We have demonstrated in
+the MobileGame prototype, how one can embed
+learning into this experience. If we can systematically
+succeed in this, the classical dichotomy between fun
+and learning may be closed. Then one case for the
+value added of mobile learning is made.
+Acknowledgements
+We would like to thank Urs-Peter Ha¨ss for helping to
+implement the game in his diploma thesis and as a
+junior research assistant. Urs-Peter Ha¨ss also helped to
+run the experiment in Koblenz and contributed to a
+prior conference paper on early experiences. We also
+acknowledge Dirk Frohberg’s contribution to this
+publication: He designed the questionnaire and also
+helped to run the experiment and collect the data in
+Koblenz. The MobileGame has been developed in the
+context of the EU 5th Framework project Mobilearn.
+Our efforts have been funded by the Swiss research
+authorities (BBW).
+References
+Benford S., Anastasi R., Flintham M., Drozd A., Crabtree A.,
+Greenhalgh C., Tandavanitj N., Adams M. & Row-Farr J.
+(2003) Coping with uncertainty in a location-based game.
+IEEE Pervasive Computing Journal 2, 34–41.
+Bjo¨rk S., Fals J., Hansson R. & Ljungstrand P. (2001) Pirates!
+Using the physical world as a game board. Paper at
+Interact, IFIP TC.13 Conference on Human-Computer
+Interaction, July 9–13, Tokyo, Japan.
+Carrol J. (1995) Scenario-Based Design: Envisioning Work
+and Technology in System Development. John Wiley &
+Sons, Indianapolis.
+DeSanctis G. & Poole M. (1994) Capturing the complexity
+in advanced technology use: adaptive structuration theory.
+Organization Science 5, S. 121–S. 147.
+Facer K., Joiner .R., Stanton D., Reid J., Hull R. & Kirk D.
+(2004) Savannah: mobile gaming and learning? Journal
+of Computer Assisted Learning 20, 399–409.
+Flintham M., Benford S., Anastasi R., Hemmings T., Crabtree
+A., Greenhalgh C., Tandavanitj I., Adams M. &
+Row-Farr J. (2003) Where on-line meets on the streets:
+experiences with mobile mixed reality games. Proceedings
+of the Conference on Human factors in Computing
+Systems, Ft. Lauderdale, Florida, USA.
+Giddens A. (1986) The Constitution of Society. University of
+California Press, Berkeley.
+Go¨th C. (2003) Prototypische Implementierung einer
+mobilen Spielumgebung fu¨ r den PDA. Diploma Thesis
+at the University of Koblenz-Landau, Koblenz,
+Germany.
+Go¨th C., Ha¨ss U.-P. & Schwabe G. (2004) Requirements for
+mobile learning games shown on a mobile game prototype.
+Proceedings of the MLearn2004 Conference,
+Rome.
+Hall J. (2001) Mogi: Second Generation Location-Based
+Gaming. Available: http://www.thefeature.com/article?
+articleid=100501&threshold=-1. Last access 06.12.2004
+Herselman ME. (1999) South African resource-deprived
+learners benefit from CALL through the medium of
+computer games. Computer Assisted Language Learning
+12, 197–218.
+Lehner F., No¨sekabel H. & Bremen G. (2003) M-Learning
+und M-Education – Mobile und drahtlose Anwendungen
+im Unterricht, Working Paper, Universita¨t Regensburg.
+Lepper M.R. & Cordova D.I. (1992) A desire to be taught:
+instructional consequences of intrinsic motivation. Motivation
+and Emotion 16, 187–208.
+Malone T.W. & Lepper M.R. (1987) Making learning fun: a
+taxonomic model of intrinsic motivations for learning. In
+Aptitude, Learning, and Instruction: III. Conative and
+Affective Process Analysis (eds R.E. Snow & M.J. Farr),
+pp. 223–253. Erlbaum, Hillsdale, NJ.
+Mitchell A. & Savill-Smith C. (2004) The Use of Computer
+and Video Games for Learning. Learning and Skills
+Development Agency, London.
+Mobile learning with a mobile game 215
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216
+Prensky M. (2001) Digital Game-Based Learning. McGraw-
+Hill, New York.
+Ravenscroft A. & Matheson MP. (2002) Developing
+and evaluating dialogue games for collaborative
+e-learning. Journal of Computer Assisted Learning 18,
+93–101.
+Roschelle J. (2003) Keynote paper Unlocking the learning
+value of wireless mobile devices. Journal of Computer
+Assisted Learning 19, S. 260–S. 272.
+Savill-Smith C. & Kent P. (2003) The Use of Palmtop
+Computers for Learning, A Review of the Literature.
+LSDA, London.
+Schu¨mmer J. & Sackmann C. (2001). In Synchrone
+Softwarearchitekturen (eds G. Schwabe, N. Streiz
+& R. Unland). CSCW-Kompendium, Springer,
+Berlin.
+Schwabe G. & Krcmar H. (2000) Piloting a sociotechnical
+innovation. Proceedings of the 8th European Conference
+on Information Systems ECIS 2000, Wirtschaftsuniversita
+¨t Wien, pp. S. 132– S. 139.
+Schwartz S. (1988) A comparison of componential and traditional
+approaches to training reading skills. Applied
+Cognitive Psychology 2, 189–201.
+Sharples M., Corlett D. & Westmancott O. (2002) The design
+and implementation of a mobile learning resource.
+Personal and Ubiquitous Computing 6, 220–234.
+Sharples M., Jefferey N., du Boulay J.B.H., Teather D.,
+Teather B. & du Boulay G.H. (2002b) Socio-cognitive
+engineering: a methodology for the design of humancentred
+technology. European Journal of Operational
+Research 136, 310–323.
+Taylor J. (2003) A Task-Centred Approach to Evaluating a
+Mobile Learning Environment for Pedagogical Soundness.
+Presentation at the Mlearn, Birmingham.
+Thomas R., Cahill J. & Santilli L. (1997) Using an interactive
+computer game to increase skill and self-efficacy
+regarding safer sex negotiation: field test results. Health
+Education and Behavior 24, 71–86.
+Zu¨llighoven H., Ba¨umer D. & Bleek W. (1998) Das objektorientierte
+Konstruktionshandbuch. dpunkt, Heidelberg.
+216 G. Schwabe & C. Go¨ th
+& Blackwell Publishing Ltd 2005 Journal of Computer Assisted Learning 21, pp204–216

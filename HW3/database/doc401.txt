@@ -1,0 +1,27 @@
+IBM simulates business software in 3D game
+Call it "SOA" for the gaming generation. 
+IBM on Monday introduced a three-dimensional video game that puts a businessperson in a virtual office with the task of constructing a more efficient company. 
+The game, called Innov8, is meant to address a lack of skills in understanding and improving a company's internal business processes. 
+Process improvement is a critical component to service-oriented architectures (SOA), a way of designing software as a series of interlinked, modular business services.
+ The software for modeling and running this modular software is called business process management, or BPM. 
+Innov8 stems from a business school contest where students were asked to come up with good ways to educate business and IT people on BPM and SOA concepts,
+ said Sandy Carter, vice president of SOA and WebSphere strategy and marketing. 
+"To get business and IT people (to understand BPM), you need to look at a simulator or game. 
+
+It's the way people learn today--it has to be visual and they want to have fun. And the businesspeople said they like to compete," Carter said. 
+In the game, a person is given a series of tasks from the CEO, including understanding a single business process, then finding the bottlenecks that slow it down. 
+Participants use a joystick to navigate around a virtual office where they can speak to other employees--say, in the call center operation--and report back to executives. 
+In the end, workers are assessed with a score on how well they did. 
+
+IBM showed off a prototype of Innov8 at its Impact 2007 conference in Orlando, Fla., where software executives also introduced enhancements to SOA-related products and services. 
+Carter said she expects the first version of Innov8 to be done in September. 
+
+IBM intends to make online versions for gaming environments like Second Life, which will allow people to share scores and compete with people online. 
+A lack of skills in modular system design and process analysis is a problem for IBM, which is relying on its software business for the bulk of its earnings growth. 
+
+Customers' knowledge of their business and technical environment is integral to sales of IBM's software and services, according to IBM. 
+When undertaking an SOA project, companies typically do a survey of their business processes and write software so that individual services, such as checking a customer's credit score, can be combined more easily with other processes. 
+Although IBM sells almost exclusively to business customers, its technology directors have heartily embraced virtual game environments. 
+Over the past year, employees have been holding virtual meetings in Second Life, for example.
+Other applications of immersive 3D gaming environments in business include design simulation of physical goods, like cars, according to IBM executives. 
+

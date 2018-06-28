@@ -1,0 +1,13 @@
+Goodix Ships Optical In-Display Fingerprint Sensor for Smartphones
+
+Goodix this month introduced its first optical in-display fingerprint reader for smartphones featuring rigid or flexible AMOLED screens. The company claims that performance of the sensor is higher when compared to traditional capacitive fingerprint solutions. The reader is already used inside Vivo’s X21 and Huawei’s Porsche Design Huawei Mate RS smartphones.
+
+Goodix calls its new product as “Optical In-Display Fingerprint Sensor”, which emphasizes that this is the company’s first product of this kind and it does not have any special brands or model numbers for it - it is just called the 'IN-DISPLAY FINGERPRINT SENSOR' in the materials (it is even trademarked as such).
+
+The sensor sits up to 1.6 mm below the surface of the display and captures reflected fingerprints between and through the OLED pixels. Goodix does not disclose resolution of the reader, but claims that it has less than 0.002% false acceptance rate as well as less than 2% false rejection rate, which probably means that its resolution is high enough to enable comfortable operation. We have requested more information from Goodix, however repeated requests seem to get no new information.
+
+The manufacturer says that its sensor is outfitted with an “optical stack design” and various software enhancements that ensure rapid capture of fingerprints under direct sunlight as well as take into account changes of minutiae when fingers get too dry or too cold. Goodix further says that its optical in-display fingerprint sensor works faster than conventional capacitive fingerprint readers and therefore usage of the OIDFS improves user experience of modern smartphones.
+
+In addition, the company claims that its optical in-display fingerprint sensor can work with both rigid and flexible OLEDs and thus can take into account lamination techniques used to make flexible screens.
+
+Modern smartphones with displays featuring a 18:9 or even 20:9 aspect ratio are now being fitted with fingerprint readers that sit below their AMOLED displays assembly. Late last year Synaptics introduced its in-display fingerprint sensor and commercialized it in early 2018. Being one of the largest suppliers of fingerprint readers, Goodix cannot ignore the new trend and is rolling out its in-display sensor this month. Keeping in mind that the company has hundreds of clients, it is logical to expect that many of them will adopt the in-screen fingerprint sensors as well as AMOLED screens for premium products going forward.

@@ -1,0 +1,18 @@
+Which Surround-sound Format?
+In the last section, we saw that audio/video receivers decode the surround sound information encoded in video signals and drive the appropriate speakers. Different audio/video receivers are equipped to decode different formats. Today, there are two main sources for home theater surround-sound formats -- Dolby Laboratories and Digital Theater Systems. Dolby Laboratories formats include various versions of Dolby Digital¢ç and Dolby Pro Logic¢ç. Digital Theater Systems has created a range of DTS Digital Theater Sound formats. 
+Between the two companies, there is a dizzying array of sound options. So here's what you need to know:
+DTS encoding uses less compression than Dolby encoding. This means that DTS sound is clearer and sharper. 
+However, DTS encoding is also less commonly used on DVDs and television broadcasts. 
+Most DVDs have some Dolby sound options, and some also offer choices for DTS sound. 
+Fortunately, a lot of a/v receivers support a wide range of Dolby and DTS options. When you're choosing a receiver, you should decide two things: whether you want DTS support and how many speakers you want to use for your surround-sound setup. The most common options are 5.1, 6.1 and 7.1 surround, named for the number of channels. The ".1" indicates a channel for a subwoofer. The subwoofer channel carries low-frequency sound to give a bass boost and create a rumbling effect for certain special effects sounds, such as explosions and trains. These are the typical speaker setups and formats that will support them: 
+
+5.1 (5 speakers + subwoofer)
+A 5.1 surround-sound setup includes left, center and right front speakers. It also has left and right surround speakers. Dolby Digital, Dolby Pro Logic II and DTS 5.1 will all support this format. DTS 96/24 uses a 5.1 channel format to play audio at the same sampling rate at which it was recorded. 
+
+6.1 (6-7 speakers + subwoofer)
+A 6.1 setup takes all the speakers from 5.1 and adds a rear channel. Dolby Digital EX uses this format, splitting the one additional channel into left and right rear speakers. DTS-ES, on the other hand, uses a rear center speaker. DTS Neo:6 can also support a 6-channel format. 
+
+7.1 (7 speakers + subwoofer)
+Dolby Pro Logic IIx has separate channels for the left and right rear speakers, rather than splitting one channel and directing it to two speakers. 
+
+The sound system is what really makes a home theater experience complete, but the first thing you'll probably notice when you sit down in front of a theater setup is the television. In the next few sections, we'll see how televisions fit into the home theater. 

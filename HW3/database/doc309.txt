@@ -1,0 +1,7 @@
+android 2.2 platform
+
+api Level: 8
+android 2.2 is a minor platform release including user features, developer features, api changes, and bug fixes. For information on developer features and api changes, see the Framework api section.
+For developers, the android 2.2 platform is available as a downloadable component for the Android sdk. The downloadable platform includes a fully compliant android library and system image, as well as a set of emulator skins, sample applications, and more. The downloadable platform includes no external libraries. 
+To get started developing or testing against the android 2.2 platform, use the android sdk and avd Manager tool to download the platform into your sdk. For more information, see Adding sdk Components. If you are new to android, download the sdkStarter Package first.
+

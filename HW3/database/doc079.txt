@@ -1,0 +1,23 @@
+Sony Playstation Portable pics pop up on web
+
+Sony Computer Entertainment chief Ken Kutaragi yesterday revealed the company's prototype design for its upcoming Playstation Portable (PSP) handheld gaming console.
+
+He also hinted that the device may incorporate mobile phone technology.
+
+Speaking at Sony's Transform 60 conference, Kutaragi dubbed the PSP as the "Walkman of the future". And here it is, taken from Ken's publicly downloadable presentation foils:
+
+The PSP design certainly looks a league ahead of rival products, such as Nokia's new N-Gage and Nintendo's hugely popular GameBoy Advance. Of course, this is simply the concept design, and the final result may be less sleek, depending on such factors as ergonomics and manufacturing costs.
+
+The device in the top right corner is the PSP Universal Media Disc (UMD), a DVD-like dual-layer medium offering 1.8GB of storage. UMD comes with DVD-style region coding and copy-protection mechanism based on the Advanced Encryption System (AES). Each disc has a unique ID number too.
+
+Sony has already said that the PSP will be powered by a 90nm processor built from a MIPS 32-bit R4000 core. The chip will feature a SIMD vector processing engine along the lines of Intel's SSE 2 and PowerPC's AltiVec. It will feature 8MB of embedded memory clocked to 333MHz and operating at 1.2V. The memory bandwidth is quoted as 2.6GBps.
+
+A second MIPS R4000 core will be used as the basis for the PSP's media engine, with 2MB of embedded DRAM, and again fabbed at 90nm.
+
+Alongside these two chips will sit two dedicated graphics processors, one for high-level graphics manipulation, the other for the raw pixel shunting. This second core contains 2MB of embedded video memory operating across a 256-bit 5.3GBps bus. It can deliver a fill rate of 664 million pixels per second in 24-bit colour and churn out 33 million polygons per second with transform and lighting effects.
+
+The PSP will feature Dolby 7.1 multi-channel audio, with 3D sound. It will support MP3, AAC and Sony's own ATRAC3 sound formats. It uses AVC (H.264) and MPEG4 for video. The machine's UMD media can hold up to two hours' of DVD-quality video or four hours 'standard' quality, whatever that is. Either way, movies are displayed on the unit's 4.5in 16:9 widescreen ratio 480 x 272-pixel LCD, seen here.
+
+One of the key features of the PSP is 802.11b wireless networking for multi-player gaming. However, speaking at a news conference yesterday, Kutaragi said Sony will at some point add phone facilities, bringing the device even more into line with Nokia's console-cum-phone N-Gage.
+
+Kutaragi also said that PSP will not be a single device, but a range of machines targeting different users. He also stressed that the handheld's design has yet to be finalised. 

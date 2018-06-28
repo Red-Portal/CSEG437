@@ -1,0 +1,15 @@
+Smartphones to get DirectX 9 graphics
+
+  Imagination Technologies has added DirectX 9 capability to its PowerVR Series5XT graphics processors. PowerVR intellectual property (IP) licensed from the Hertfordshire firm provides 2D and 3D graphics processing within many smart phones and other portables. 
+
+ Imagination has introduced DirectX 9 in its SGX544MP multi-processor graphics IP, the second member of Series5XT. It can be implemented as a 4-pipe single core, or in configurations with between two and 16 cores (eight to 64 pipes).
+
+"As embedded and desktop application platforms continue to converge, Imagination has seen growing demand for DirectX 9 capabilities," said the firm. "SGX544 provides support for DirectX 9 Feature Level 3 with maximum hardware acceleration, making it ideal for tablets, computing devices and smart phones." 
+
+The IP also provides support for desktop OpenGL 2.1 (including X11 integration with DRI2, EXA and DRM support), OpenGL ES 1.1 and 2.0, OpenVG 1.1 and OpenCL 1.1 Embedded Profile. "It offers the widest ranges of supported APIs of any mobile or embedded graphics IP core available today," claimed Imagination. 
+
+Software configurations for Linux, Android, MeeGo, Palm's WebOS, Nokia's Maemo, Symbian, Windows Mobile, Samsung's Bada Nucleus, and a variety of other RTOS are available. Associated software stacks have passed Khronos and Microsoft conformance tests. 
+
+"We are delighted to announce our latest SGX544 DirectX 9 capable graphics core and complete driver stack," said v-p marketing Tony King-Smith. "This latest core builds on our MP technology, which already has five licensees." 
+
+Series5XT SGX cores are based on a second-generation universal scalable shader engine (USSE2), and upgrade on USSE that was used in the earlier Series5. 

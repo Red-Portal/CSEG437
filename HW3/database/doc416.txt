@@ -1,0 +1,14 @@
+Nokia gets its own WordPress app
+
+
+An official WordPress app for Nokia is now available in Nokia¡¯s Ovi Store for mobile apps.
+
+WordPress wants to make it easier for smartphone users to blog remotely. The popular blogging platform has been putting time and energy into making mobile applications to do just that. WordPress recently launched mobile apps for both Android and Blackberry users and have just announced that an open source WordPress app for Nokia phones is here.
+
+As mentioned in their blog post announcing the public beta, ¡°We are very excited to share with all of you that in the coming weeks we¡¯ll be opening up a beta test for the official Open Source WordPress for Nokia app. For developers who are interested in getting involved, we just opened-up a dev blog with details, links to the source code and trac tickets, and an early alpha build. We¡¯ll be leveraging the Qt framework which means will be able to support both the S60 and Maemo platforms.¡±
+
+While it is surprising to see WordPress continue to support S60, considering that even Nokia dropped Symbian, the support for Maemo is reassuring. Maemo could be the next big competitor to other smartphone platforms such as Android, iPhone and Blackberry.
+
+Since the project is open source anyone can feel free to go in and hack on the code to make modifications. The application currently supports WordPress version 2.7, but we can expect to see it updated with the newest version and more bells and whistles in the near future.
+
+Similar to the WordPress mobile applications for iPhone, Blackbery and Android, the Nokia app is offered free of charge. Unfortunately, it is not yet compatible with Symbian3 devices like the N8, C6, C7, but can be used on the N97 Mini and X6.

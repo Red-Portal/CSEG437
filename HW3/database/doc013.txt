@@ -1,0 +1,31 @@
+IP Telephony on Your Mobile Phone 
+
+IPdrum, a Swedish-Norwegian company making strides in the VOIP market, announced Tuesday the global launch of its flagship product, the Mobile Skype Cable.
+
+The new Cable essentially bridges Internet telephony with mobile phone networks to enable users to make worldwide calls, while on the go. 
+
+"Finally there is a telecom solution offering the best of both worlds; mobility and free Internet calls," Kjetil B. Mathisen, CEO of IPdrum, said in a statement. 
+
+The new cable, in conjunction with IPdrum software, utilizes the mobile phone as a gateway to grant users access to Skype Technologies' free Internet telephony services, the company said. 
+
+IPdrum's Mobile Skype Cable links a user's (retired) mobile, or base phone to USB and sound ports on their computer, while patent-pending software connects a second mobile device (the users current cell phone) to Skype's VOIP application, according to a recent news release. 
+
+Users can then access Skype's p2p phone service to make international calls (without incurring roaming charges) to other Skype users or non-subscribers, via the SkypeOut service. 
+
+Additionally, users can opt to forward all incoming Skype calls to a certain phone. 
+
+IPdrum Cable users with friends-and-family-esque wireless services (which allow them to make free calls to certain, pre-determined people) can use the Skype VOIP application to place free phone calls to anywhere in the world. 
+
+However, for users without that type of contract, international calls can be made at local call rates, the company said. 
+
+"Skype's recent acquisition by eBay is the software's natural ticket to the masses," said Jerry Pettersson, IPdrum founder, in a statement. 
+
+"IPdrum's technology automatically extends Skype's reach and triggers a welcome transformation to the ease and affordability of communication in the 21st century." 
+
+The IPdrum cable functions in virtually any location (no need to search for a "hotspot"), and currently supports Windows XP. 
+
+Plans to support additional operating systems in the future are under way. 
+
+The Mobile Skype Cable is compatible with Nokia and Sony Ericsson base phones and will soon become available to Motorola, Samsung and Siemens users. 
+
+The product retails for $69.95 plus tax, and is for sale online and in retail stores across Europe and Asia.

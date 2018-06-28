@@ -1,0 +1,35 @@
+Research in Motion (RIM) unveiled its first BlackBerry with both a touchscreen and a physical slide-out QWERTY keyboard at a New York City press event on Tuesday. 
+The phone is also the first BlackBerry to run 6 OS. The Torch 9800 will debut August 12 on AT&T for $200 with a two-year contract.
+
+Slider Design
+
+Like the Palm Pre, the Torch has a vertical slide-out keyboard. From what I can glean from images of the Torch, the keyboard looks fairly similar to the keyboards found on the BlackBerry 
+Bold models with sculpted, ergonomic keys. A little thicker than some of the other top-line smartphones out right now, the Torch measures 4.4 by 2.4 by 0.6-inches thick. 
+The 3.2-inch 360-by-480 capacitive touch display comes equipped with multitouch (for zooming in and out), which will be supported in the browser and photo gallery.
+
+[See Related: RIM BlackBerry Torch 9800: A Visual Tour]
+
+The front face of the phone has four buttons familiar to BlackBerry users: Talk, Menu, Back and Power/End. These buttons flank the square optical touchpad, 
+which can be used for navigation in addition to the touchscreen.
+
+Finally, RIM has caught up with the rest of the smartphone pack and upgraded the BlackBerry camera to a 5-megapixel camera. BlackBerry camera's generally have pretty dismal photo quality, 
+so hopefully the Torch steps up its game. The camera also has a flash as well as autofocus, image stabilization and geo-tagging.
+
+BlackBerry 6 OS: Major Upgrades
+
+From what I've seen of 6 OS, I can safely say that BlackBerry users will be pleased with this update. The whole user interface gets a facelift with crisper icons and visuals, new graphics, animations 
+and transitions. There's also a new homescreen with multiple views based on content type (all, favorite apps, downloads, media, etc.) as well as universal search.
+
+Perhaps the most exciting feature of BlackBerry 6 OS is the WebKit browser. One of the biggest weaknesses of the current version of the BlackBerry platform is its clunky, hard to navigate browser.
+ Webkit is the same technology behind Apple's Safari browser on the iPhone's OS. The Android Web browser as well as the Symbian S60 browser are also built around Webkit.
+
+And keeping with the trend of social network integration we've seen on other platforms, like HTC Sense for Android for example, BlackBerry 6 will have a "social networking feeds" app that 
+will combine status updates from Facebook and Twitter. You'll also be able to chat with your friends via a slew of different messaging services like Google Talk, BlackBerry Messenger and 
+AIM within one seamless application.
+
+RIM's CTO David Yach assured attendees at today's press conference that BlackBerry 6 OS will work with all previous BlackBerry applications. RIM is releasing new APIs that will let app developers
+ integrate BlackBerry 6 OS features into their apps, like the universal search feature for example.
+
+Can the Torch compete with the slew of enticing Android offerings, like the Motorola Droid X or the HTC EVO 4G? And how does it stack up against the iPhone 4, also on AT&T? 
+Stay tuned for a closer look at the Torch 9800 and BlackBerry OS 6 as well as a full review once we have the device in house.
+

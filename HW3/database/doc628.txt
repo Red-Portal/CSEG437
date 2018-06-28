@@ -1,0 +1,57 @@
+What is a Retina display?
+We explain the definition, pros and cons of Apple's Retina - and Retina HD, Super Retina HD, Retina 4K and 5K - displays. Plus: which iPads, iPhones, iPods, Macs and MacBooks have a Retina screen?
+
+Retina is an Apple marketing term for which there's no concrete definition: put simply, a Retina display is any screen Apple has decided to call that. There are however, features which set Retina displays apart from non-Retina screens.
+
+In this article we explain the features of Retina screens (along with their more advanced Retina HD and Super Retina HD cousins), list the Apple products which have them, and try to give an idea of whether these screens are worth the premium you pay for them.
+
+Basic Retina screens
+The first and most important criterion is pixel density: the statistic that generally gives the best idea of a screen's sharpness.
+
+When Steve Jobs launched the iPhone 4, and with it the first Retina display, he described it as having a screen with so many pixels packed so closely together (it was rated as 326ppi, or pixels per inch) that they were imperceptible to the human eye at a distance of twelve inches. You wouldn't see individual pixels: you'd just see whatever the pixels were showing.
+
+Since then, Apple has launched many more devices with Retina displays. Some have pixel densities of more than 326ppi, some with less. How can they all be called Retina?
+
+It's because there are two crucial elements to whether or not pixels are perceptible: density and distance. The further your eyes are from the screen, the lower the pixel density needed to make the pixels 'disappear'. Generally speaking, the bigger the screen, the further your eyes are likely to be from it and so the lower the pixel density required to 'qualify' as a Retina display.
+
+So, for example, each iPhone from 4 to 5s has a pixel density of 326ppi, while the 13in MacBook Pro has only 227ppi. But the latter also qualifies as Retina because you hold a phone closer to your face than a laptop.
+
+So you see that it's all a bit vague - but the rough idea is that a screen is rated as Retina if it is sharp enough for the human eye not to be able to see individual pixels at a typical usage distance.
+
+Icon sizes
+In simple terms, Apple 'converts' a device's display to Retina by doubling the number of pixels vertically and horizontal, meaning it has four times as many pixels as its non-Retina counterpart.
+
+If it did that and nothing else, however, there would be a problem. User interface elements like menus and icons would look tiny. To compensate for this, Apple created what it calls HiDPI mode, where each interface element is doubled in size vertically and horizontally and so appears at the same size as it would on a non-Retina display.
+
+How does a Retina display compare to non-Retina?
+The effect of a Retina display is to make everything look crisper. Text in particular benefits from Retina - it looks smoother, with the curves on characters looking like curves instead of jagged steps.
+
+Non-Retina (left) and Retina iPad displays: a small but noticeable difference on text
+
+Retina HD & Super Retina HD
+Steve Jobs painted Apple into something of a corner when he described the pixels in the iPhone 4 as imperceptible to the human eye. Where do you go from there? How do you describe a screen that's even better? Apple's answer has been to borrow terminology from the video and broadcast industries.
+
+When the iPhone 6 came out in 2014, it had a vertical resolution of 750 pixels, a little more than the 720 pixels which forms one of the standards for HD video. The iPhone 6 Plus had a vertical resolution of 1080 pixels, exactly the number of pixels needed for the higher of the two HD video standards.
+
+Never one to miss an opportunity for a catchy label, Apple labelled the iPhone 6 and 6 Plus displays Retina HD. It has continued to this label up to and including the iPhone 8 and 8 Plus in 2017.
+
+But the arrival of the iPhone X shortly after the 8-generation handsets, Apple took things one step further. With its 5.8in, 2436 x 1125, 458ppi screen, the X was deemed to deserve the latest version of the Retina branding: Super Retina HD.
+
+Content continues below
+Note that these enhanced versions of Retina are not necessarily defined by the pixel density/distance equation in the same way as Retina itself: you'll note that the Retina HD iPhone 6, 7 and 8 all have 326ppi screens, the same as the plain Retina iPhone 5 and 5s. The HD and Super HD labels are earned by having a higher resolution.
+
+Retina 4K & 5K
+HD is relatively old news in the world of video. Today, the highest-quality TV screens have 4K displays, which have 4,000 pixels horizontally.
+
+So when Apple launched a 27in iMac with 5,120 horizontal pixels in 2014, it used the same naming convention and called it Retina 5K. In October 2015, it launched a 21in iMac with a horizontal resolution of 4096 pixels (and a pixel density of 218ppi), and called its display Retina 4K.
+
+How does this compare to rival products?
+No other manufacturer uses the Retina branding - Apple's lawyers would soon have something to say if they did. But several makers of smartphones and tablets, in particular, have displays with pixel densities which are at least a match for Apple's devices, and in some cases far exceed it.
+
+Examples include Sony's Xperia Z5 Premium which has a resolution of 3,860 x 2,160 pixels - just shy of 4K - on a 5.5in screen, giving it a pixel density of a monstrous 806ppi. And Samsung's Galaxy S6 has a resolution of 1440 x 2560 pixels - known as Quad HD or QHD - on a 5.1in screen, giving it a pixel density of 577ppi.
+
+Whether there's any point in having 4K and QHD resolutions on a smartphone is debatable. If Steve Jobs' assertion was right and 300ppi on a smartphone is enough to make pixels invisible, then squeezing in more pixels would seem to be redundant.
+
+A Retina display, then, is not one with the highest resolution available, but may be the optimal balance between image sharpness and the power needed to provide those images.
+
+

@@ -1,0 +1,8 @@
+  StarCraft, one Blizzard's big games of all times, is now available for Windows Mobile phones. It has been spotted on Chinese website and after downloading and testing it I can confirm it is fully playable and is real joy to have this great strategy game on my windows phone. 
+
+  I played it on HTC Touch Diamond but they say it can be played on most devices, you just need to edit the configuration file to match your screen resolution. Here is the name and location of the file and the fields you need to change:
+\StarCraft\sc\preferences.lua
+Modify the parameters set on the screen:
+VideoWidth and VideoHeight 
+
+  Check out some screenshots I have taken from the game

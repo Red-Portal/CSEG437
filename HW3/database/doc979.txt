@@ -1,0 +1,50 @@
+Mobile data usage overtakes Wi-Fi, and CBRS threatens
+Wi-Fi could be in for a rough ride. It¡¯s getting hit by cellular data, plus a new chunk of data-friendly spectrum: the Citizen Broadband Radio Service (CBRS).
+               
+Mobile data usage overtakes Wi-Fi, and CBRS threatens
+Thinkstock
+
+
+RELATED
+cbrs 1a
+CBRS: Your ticket for building a private enterprise LTE wireless network
+cbrs 2a
+FAQ: What in the wireless world is CBRS?
+net neutrality now
+The loss of net neutrality: Say goodbye to a free and open internet
+
+VIDEO
+Mobile connectivity issues plague many enterprises
+
+Wi-Fi use has dropped in the United States. The reason: Consumers are shifting to cellular mobile networks that are providing new, unlimited data bundles. That¡¯s according to mobile network performance analyst OpenSignal.
+
+The testing-firm, which publishes an annual Wi-Fi-versus-mobile crowdsourced study, says consumers are taking advantage of unlimited data plans being offered by the major mobile network operators (MNOs) in the U.S. No longer are folks worrying about generating large bills using mobile data for media or having to work around limited, included-data buckets.
+
+¡°Users are likely becoming more confident about consuming data over cellular networks,¡± writes Peter Boyland in a blog post on OpenSignal¡¯s website.
+
+[ Find out how 5G wireless could change networking as we know it and how to deal with networking IoT. | Get regularly scheduled insights by signing up for Network World newsletters. ]
+OpenSignal¡¯s U.S.-only data study covered the 90 days from Dec. 1, 2017.
+
+¡°The ¡®big two¡¯ ? AT&T and Verizon ? saw the greatest drop¡± in time users spent on Wi-Fi as opposed to mobile data, Boyland reports. They were off 3 percent. AT&T users use fell from 52 percent to 49 percent, Verizon fell from 54 percent to 51 percent; T-Mobile dropped from 43 percent to 41 percent, and Sprint stayed even.
+
+¡°Customers appear less concerned about finding a ¡®free¡¯ Wi-Fi connection, leaning more on their ¡®unlimited¡¯ 3G and 4G networks for connectivity,¡± Boyland says.
+
+Citizen Broadband Radio Service threatens MNOs
+Why are the mobile networks providing this apparently altruistic unlimited data? The answer is that they¡¯re grooming customers. They¡¯re getting consumers used to the idea that they can rely on them and not have to search out alternative forms of internet connectivity.
+
+[ Take this mobile device management course from PluralSight and learn how to secure devices in your company without degrading the user experience. ]
+One reason: the upcoming Citizen Broadband Radio Service (CBRS) ? a potential alleviator of bandwidth-strain for mobile networks on the one hand, but serious competition on the other:
+
+CBRS is a massive frequency chunk about to be freed up by the U.S. military and is currently going through FCC approval discussions. Verizon and Ruckus are examples of two companies trialing it. It encompasses a whopping 150 MHz of contiguous spectrum at 3.5 GHz.
+
+The plan is that the military and other incumbents, such as satellite, will get always-available tier-one use, the FCC explains on its website. But through a geographically allocated ¡°dynamic spectrum access [automated] system,¡± other bidding users will share a priority second-tier flexibly when it¡¯s not being used by those incumbents. 3.5 GHz is suitable for small cell use, like 5G.
+
+The new priority users will include bidding MNOs and likely internet service providers (ISPs), too. ISPs want to get into mobile data as part of their triple-play offerings of TV, internet, and phones. CBRS will, along with already-deployed, customer broadband modems/routers acting as hotspots, give ISPs that.
+
+There will also likely be a ¡°General¡± non-priority third tier of CBRS that organizations such as sports stadiums or hospitals can use instead of Wi-Fi ? and indeed instead of MNO data networks.
+
+Consequently, the MNOs are concerned. While they¡¯ll have a swath of new spectrum to work with, their competitors ? the ISPs ? are going to jump in, too. Plus, they will have that third tier to deal with ? a kind of open block of new, bandwidth-friendly spectrum, usable by any enterprise, albeit without interference-free mandates like the second tier will have.
+
+¡°The new rules will provide a number of tangible benefits for consumers, businesses, and government users,¡± the FCC says of its CBRS rulemaking. ¡°We expect to see wide deployment of wireless broadband in industrial applications ? advanced manufacturing, energy, healthcare, etc. supporting innovation and growth throughout our economy.¡±
+
+Join the Network World communities on Facebook and LinkedIn to comment on topics that are top of mind.

@@ -1,0 +1,10 @@
+High-definition television
+From Wikipedia, the free encyclopedia
+(Redirected from High Definition television)
+Jump to: navigation, search
+ 
+projection screen in a home theater, displaying a high-definition television image. 
+projection screen in a home theater, displaying a high-definition television image.High-definition television (HDTV) is a television broadcasting system with a significantly higher resolution than traditional formats (NTSC, SECAM, PAL) allow. Except for early analog formats in Europe and Japan, HDTV is broadcast digitally, and therefore its introduction sometimes coincides with the introduction of digital television (DTV): this technology was first introduced in the USA during the 1990s, by the Digital HDTV Grand Alliance (grouping together AT&T, General Instrument, MIT, Philips, Sarnoff, Thomson, and Zenith)[1].
+
+While a number of high-definition television standards have been proposed or implemented on a limited basis, the current HDTV standards are defined in ITU-R BT.709 as 1080 active interlaced or progressive lines, or 720 progressive lines, using a 16:9 aspect ratio. The term "high-definition" can refer to the resolution specifications themselves, or more loosely to media capable of similar sharpness, such as photographic film.
+

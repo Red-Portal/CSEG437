@@ -1,0 +1,37 @@
+OpenGL GPU Sharing enables graphics processing unit (GPU) hardware rendering of OpenGL applications in remote desktop sessions. 
+
+The functionality can be used on bare metal or virtual machines to increase application scalability and performance.
+
+HDX 3D Pro allows graphics-heavy applications to render on the server's GPU. 
+
+By moving OpenGL rendering to the server's GPU, the server's central processing unit (CPU) is not slowed by graphics rendering. In addition, 
+
+the server is able to process more graphics because the workload is split between the CPU and GPU. The OpenGL GPU Sharing feature requires no special settings.
+
+You can install multiple GPUs on a server, either by installing a graphics card with more than one GPU, 
+
+or by installing multiple graphics cards with one or more GPUs each. 
+
+Mixing heterogeneous graphics cards on the server is not recommended.
+
+Note: Virtual machines require direct passthrough access to a GPU, which is available with Citrix XenServer or VMware vSphere.
+
+When HDX 3D Pro is used in conjunction with GPU passthrough, each GPU in the server supports one multi-user virtual machine.
+
+Most users do not require the rendering performance of a dedicated GPU, 
+
+so OpenGL GPU Sharing enables multiple concurrent sessions to share GPU resources. 
+
+This functionality does not depend any specific graphics card. When running on a hypervisor, 
+
+select a hardware platform and graphics cards that are compatible with your hypervisor's GPU passthrough implementation. The list of hardware that has passed certification testing with XenServer GPU Passthrough is available at http://hcl.vmd.citrix.com/GPUPass-throughDeviceList.aspx. When running on bare metal, the system distributes the user sessions across eligible GPUs. To guarantee that all installed GPUs are eligible, use identical GPUs.
+
+Scalability using OpenGL GPU Sharing depends on the applications being run, 
+
+the amount of video RAM they consume, and the graphics card's processing power. 
+
+For example, scalability figures in the range of 8-10 users have been reported on NVIDIA Q6000 and M2070Q cards running applications such as ESRI ArcGIS. 
+
+These cards offer 6 GB of video RAM. Newer NVIDIA GRID cards offer 8 GB of video RAM and significantly higher processing power (more CUDA cores). Other applications may scale much higher, achieving 32 concurrent users on a high-end GPU.
+
+Note: Some applications handle video RAM shortages better than others. If the hardware becomes extremely overloaded, this could cause instability or a crash of the graphics card driver. Limit the number of concurrent users to avoid such issues.

@@ -1,0 +1,117 @@
+How to choose a digital camera 
+The quality of a digital camera is mainly defined by four quantities: resolution, lens aperture, 
+lens zoom range, lens quality, and software. CCD sensitivity also varies somewhat.
+
+Resolution
+Nearly all digital cameras use CCD's as the sensing element. This is what takes the place of 
+film. The resolution is the number of pixels in the captured image. Computer images are divided 
+into little dots called pixels. The more pixels, the more detailed the image can be. Here is a
+guide to choosing resolution, estimating the size print you can make from each:
+
+1.3 Megapixel = 1280x960: Great 4x6's, acceptable 5x7's. 
+2 Megapixel = 1600x1200: Pretty good 8x10's. 
+3 Megapixel = 2048x1536: Great 8x10's, good 11x14's. 
+4 Megapixel = 2272 x 1704: Great 11x14's, and acceptable 16x20's. 
+5 Megapixel = 2560x1920: Pretty good 16x20's. 
+Casual photographers are satisfied with bigger prints from each size, while those who like to 
+look at 8x10's from a distance of three inches think I am being too generous in the above 
+evaluations.
+
+Lens aperture
+The aperture of a lens is its maximum opening. The bigger the aperture, the more light is 
+gathered, and the less light you need to take a good photo. This is the most overlooked lens
+ specification, but it very important, especially if you like to take photos indoors without 
+flash or from a reasonable distance.
+
+Lens aperture is measured in f/numbers, such as f/2.0 or f/3.5. An aperture of f/2.0 literally 
+means that the lens opening is half the focal length of the lens. Thus, smaller numbers mean
+ bigger lens openings. You would rather have a lens that is f/2.0 than a lens that is f/4.0.
+
+I really like have a fast (large aperture) lens. It means I can shoot photos indoors without 
+flash, and these look a lot more natural than flash photos. You can also take a lot of photos 
+less obtrusively without a flash. Digital photographers tend to shoot a lot of photos, and you 
+can drive people nuts if you shoot 20 flash photos in ten minutes. They will hardly notice your
+ shooting these twenty shots with flash disabled, and you will get much better candids.
+
+
+So, what is a good aperture? I would not buy a camera with a slower lens than f/2.8. My favorites 
+at the time of this writing (and this will get dated fast) are the C3040Z and C4040Z, with f/1.8
+ lenses. I might put up with a slightly slower lens (but not slower than f/2.8) to get smaller 
+size if pocketablity was important, or to get an extreme zoom lens.
+
+Lens zoom range
+A zoom lens has a variable focal length. The focal length determines the magnification of the 
+lens. A short focal length is a wide-angle lens, great for taking in large vistas. A long focal 
+length is a telephoto lens, allowing you to get a tight photo of a distant object or person. 
+A zoom lens lets you combine both of these and everything in between into a single adjustable 
+lens. If a camera has a 3X zoom, it means that the longest focal length is 3 times the shortest.
+
+In the subsequent discussion I am using 35-mm equivalent focal lengths.
+
+Most digital cameras have a 3X zoom, with a focal length range from around 35 mm to 105 mm. 35
+ mm is a modest wide angle, and 105 mm is a modest telephoto. A few cameras have extreme zoom 
+ranges of 8X or 10X. These generally have about the same minimum focal length of around 35mm, 
+but these usually have a much longer maximum focal length.
+
+Long focal lengths mean you can get a tight photo of your children's faces, or a shot on the 
+soccer field where you child is actually recognizable. Extreme focal lengths let you get in 
+real close to the action even from the sidelines of a soccer field.
+
+(Important: ignore "digital zoom" specifications in ads. Only pay attention to optical zoom. 
+Digital zoom is of no value. All it does is crop the image in the camera. You can always crop 
+an image in software after you have transferred it to your computer, and you have more freedom 
+at this time.)
+
+Long focal lengths present problems for photographers. It is hard to hold a camera sufficiently 
+stable at a focal length of 300 mm. Bright sunlight helps, and a tripod or monopod can do wonders.
+ A few cameras with extreme zooms have a stabilized lens, that compensates for camera shake. Good 
+stabilization can make a remarkable difference in sharpness of handheld shots at extreme focal lengths.
+
+If I were buying at the time of this writing, I would have trouble choosing between a camera with 
+a 3X zoom and a fast lens such as the Olympus C4040Z and a camera with a 10X stabilized zoom such
+ as the Olympus C2100, which is generally a smaller aperture.
+
+Lens quality
+Lenses with the same focal length and aperture can differ substantially in quality. A poor lens 
+is not as sharp, and it may exhibit chromatic aberration, which means that all colors are not brought
+ to the same focus. This usually shows up as colored fringes at high contrast edges.
+
+Unlike aperture and zoom range, you cannot read the lens quality of the camera box. The two best
+ approaches to getting a good lens are (1) read reviews, and (2) stick with reputable camera companies.
+ I tend to trust camera companies such as Olympus, Nikon, and Canon more than electronics companies 
+such as HP who only moved into cameras with the advent of digital photography. I think it is easier 
+of a camera manufacturer to incorporate good electronics than for a camera company to incorporate 
+good optics.
+
+In-camera Software
+Here I am not talking about photo software that comes with your computer, but rather the software 
+built into the camera. Taking a digital photo means a fair amount of computation. When you snap a
+ digital photo, the camera first grabs a "pre-photo" to determine the brightness and color balance 
+of the scene. It then shoots the real picture, based on the earlier information.
+
+This is an important calculation. The importance of brightness is obvious. Less obvious is how 
+radically the colors of different light sources are. Slide photographers no this. If you shoot 
+standard "daylight" film indoors under incandescent lights, everything is orange. Film photographers
+ see less of a problem, because the processing labs that print our photos correct for most of 
+these color shifts. With digital photography, you want the camera to do all of this color compensation 
+for you. This is not easy, since the camera needs to distinguish between incandescent illumination and
+ a daylight scene with a lot of red and orange colors.
+
+The good news is that some cameras do a remarkable job, giving you better color rendition than you 
+have ever seen short of expensive custom work by custom photo labs. My own sense is that Olympus does 
+the best, with Canon and Nikon very close seconds. Sony seems to lag behind in this regard.
+
+Media type
+Most digital cameras use Smartmedia, CompactFlash, or Secure Digital. The difference is not worth 
+worrying about unless you already have a good supply of one type. Some Sony cameras use their own 
+proprietary "memory sticks". I prefer to avoid proprietary solutions, as it restricts your future
+ choices considerably.
+
+One media type to avoid except for very unusual cases is the standard floppy disk. Sony Mavica's use 
+floppies for storage. The problem with floppies is how little they hold. At default compression for
+ most digital cameras, a floppy can hold only one to four images. At higher quality settings, it may
+ not even hold one image. Sony Mavica's get by with floppies by compressing the images horribly. I 
+know of only one person that has a legitimate use for floppy storage; he likes to send images out 
+of remote areas on the storage medium most likely to be supported by ten-year-old computers he finds
+ in third-world countries.
+

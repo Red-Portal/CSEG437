@@ -1,0 +1,29 @@
+Superaccurate GPS Chips Coming to Smartphones in 2018
+
+We’ve all been there. You’re driving down the highway, just as Google Maps instructed, when Siri tells you to “proceed east for one-half mile, then merge onto the highway.” But you’re already on the highway. After a moment of confusion and perhaps some rude words about Siri and her extended AI family, you realize the problem: Your GPS isn’t accurate enough for your navigation app to tell if you’re on the highway or on the road beside it.
+
+Those days are nearly at an end. At the ION GNSS+ conference in Portland, Ore., today Broadcom announced that it is sampling the first mass-market chip that can take advantage of a new breed of global navigation satellite signals and will give the next generation of smartphones 30-centimeter accuracy instead of today’s 5 meters. Even better, the chip works in a city’s concrete canyons, and it consumes half the power of today’s generation of chips. The chip, the BCM47755, has been included in the design of some smartphones slated for release in 2018, but Broadcom would not reveal which.
+
+GPS and other global navigation satellite systems (GNSSs), such as Europe’s Galileo, Japan’s QZSS, and Russia’s Glonass, allow a receiver to determine its position by calculating its distance from three or more satellites. All GNSS satellites—even the oldest generation still in use—broadcast a message called the L1 signal, which includes the satellite’s location, the time, and an identifying signature pattern. A newer generation broadcasts a more complex signal called L5 at a different frequency in addition to the legacy L1 signal. The receiver essentially uses these signals to fix its distance from each satellite based on how long it takes the signal to go from satellite to receiver.
+
+Broadcom’s receiver first locks onto the satellite with the L1 signal and then refines its calculated position with L5. The latter is superior, especially in cities, because it is much less prone to distortions from multipath reflections than L1.
+
+In a city, the satellite’s signals reach the receiver both directly and by bouncing off of one or more buildings. The direct signal and any reflections arrive at slightly different times, and if they overlap, they add up to form a sort of signal blob. The receiver is looking for the peak of that blob to fix the time of arrival. But the messier the blob, the less accurate that fix, and the less accurate the final calculated position will be.
+
+However, L5 signals are so brief that the reflections are unlikely to overlap with the direct signal. The receiver chip can simply ignore any signal after the first one it receives, which is the direct path. The Broadcom chip also uses information in the phase of the carrier signal to further improve accuracy.
+
+Though there are advanced systems that use L5 on the market now, these are generally for industrial purposes, such as oil and gas exploration. Broadcom’s BCM47755 is the first mass-market chip that uses both L1 and L5.
+
+Why is this only happening now? “Up to now there haven’t been enough L5 satellites in orbit,” says Manuel del Castillo, associate director of GNSS product marketing at Broadcom. At this point, there are about 30 such satellites in orbit, counting a set that only flies over Japan and Australia. Even in a city’s “narrow window of sky you can see six or seven, which is pretty good,” Del Castillo says. “So now is the right moment to launch.”
+
+Broadcom had to get the improved accuracy to work within a smartphone’s limited power budget. Fundamentally, that came down to three things: moving to a more power-efficient 28-nanometer-chip manufacturing process, adopting a new radio architecture (which Broadcom would not disclose the details of), and designing a power-saving dual-core sensor hub. In total, they add up to a 50 percent power savings over Broadcom’s previous, less accurate chip. 
+
+In smartphones, sensor hubs take the raw data from the system’s sensors and process it to provide only the information the phone’s applications processor needs, thereby taking the computational burden and its accompanying power draw off of the applications processor. For instance, a sensor hub might monitor the accelerometer looking for signs that you had flipped your phone’s orientation from vertical to horizontal. It would then just send the applications processor the equivalent of the word “horizontal” instead of a stream of complex accelerations.
+
+The sensor hub in the BCM47755 takes advantage of the ARM’s “big.LITTLE” design—a dual-core architecture in which a simple low-power processor core is paired with a more complex core. The low-power core, in this case an ARM Cortex M-0, handles simple, continuous tasks. The more powerful but power-hungry core, a Cortex M-4, comes in only when it’s needed.
+
+The BCM4775 is just the latest development in a global push for centimeter-level navigation accuracy. Bosch, Geo++, Mitsubishi Electric, and U-blox established a joint venture called Sapcorda Services in August, to provide centimeter-level accuracy. Sapcorda seems to depend on using ground stations to measure errors in GPS and Galileo satellite signals due to atmospheric distortions. Those measurements would then be sent to receivers in handsets and other systems to improve accuracy.
+
+Japan’s US $1.9 billion Quasi-Zenith Satellite System (QZSS) also relies on error correction, but it additionally improves on urban navigation by adding a set of satellites that guarantees one is visible directly overhead even in the densest part of Tokyo. The third of those four satellites launched in August. A fourth is planned for October, and the system is to come online in 2018.
+
+A version of this post appears in the November 2017 print issue as “Super-accurate GPS Coming to Smartphones in 2018.”

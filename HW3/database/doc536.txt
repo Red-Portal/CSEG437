@@ -1,0 +1,96 @@
+NVIDIA have released a GeForce 310.54 beta driver for it¡¯s graphics cards.
+
+
+
+This is what NVIDIA have posted on their blog:
+
+The new GeForce 310.54 beta drivers are now available to download. An essential upgrade for all GeForce GTX gamers, our new drivers are loaded with enhancements for over two dozen of your favourite games, including Call of Duty: Black Ops 2 and Assassin¡¯s Creed III, which receive performance improvements of up to 26% compared to your current driver.
+
+Today¡¯s driver also adds a new and improved version of TXAA anti-aliasing to Call of Duty: Black Ops 2 and Assassin¡¯s Creed III, allowing GTX 600 Series users to maximize image quality and eliminate unsightly temporal aliasing in two of the year¡¯s most popular games. Furthermore, there¡¯s a handy new Sparse Grid Supersampling feature for all GeForce GTX users that improves image quality when using the advanced anti-aliasing technique, and for SLI users there are new Hawken, Hitman: Absolution, Natural Selection 2 and Primal Carnage profiles.
+
+You can download the GeForce 310.54 beta drivers with one click from the GeForce.co.uk homepage; Windows XP, Windows 7 and Windows 8 packages are available for desktop systems, and for notebooks there are Windows 7 and Windows 8 downloads that cover all non-legacy products. If you have any feedback or comments please drop us a note via the comments section, or use the NVIDIA Display Driver Feedback Form.
+
+
+Performance Improvements
+
+In last month¡¯s GeForce 310.33 beta driver we improved performance by up to 15% in nine games, and this month we¡¯re improving performance by up to 26% in twenty games. Leading the charge in the 310.54 beta driver is a 26% boost for the upcoming and eagerly-anticipated Call of Duty: Black Ops 2, which hits stores tomorrow, followed by an 18% boost for The Chronicles of Riddick: Assault on Dark Athena, a 17.8% boost for Assassin¡¯s Creed III, which arrives in stores November 23th, and a 12.9% boost for Battlefield 3.
+
+Below, we detail the complete range of optimisations packed into the 310.54 beta drivers using the GeForce GTX 680 and GTX 660; at home you should expect to see performance improvements on any system utilizing a GeForce GTX 400, 500, or 600 series GPU, though obviously to varying degrees.
+
+
+
+Results & Benchmark Settings:
+
+Aliens vs. Predator: Performance increased by 3.4% at 1920¡¿1080 when using max settings, tessellation, and Advanced Shadows.
+Assassin¡¯s Creed III (Pre-Release Build): Performance increased by 17.8% at 1920¡¿1080 when using max settings and Normal Anti-Aliasing, by 7.1% at 2560¡¿1600 using the same settings, and by 9.8% at 1920¡¿1080 when using max settings and Very High Anti-Aliasing.
+Batman: Arkham City: Performance increased by 7.6% at 1920¡¿1080 when using Very High detail settings, Tessellation High, PhysX High and FXAA High. At 2560¡¿1600, using 4xMSAA, performance increased by 5.2%.
+Battlefield 3: Performance increased by 13% at 1920¡¿1080 when using Ultra settings in a single-player Paris benchmark; at 2560¡¿1600 an improvement of 7.9% was recorded. Using High settings, an improvement of 15.3% was registered at 1920¡¿1080.
+Borderlands 2: Performance increased by 5.3% at 2560¡¿1600 when using max settings and PhysX High. At 1920¡¿1080 performance increased by 3.3%.
+Call of Duty: Black Ops 2: Performance increased by 26% at 1920¡¿1080 when using max settings and 8xMSAA. At 2560¡¿1600 performance increased by 24.1%.
+Civilization V: Performance increased by 23.7% at 2560¡¿1600 in a late-game benchmark using max DirectX 11 settings.
+DiRT 3: Performance increased by 4.3% at 1920¡¿1080 when using Ultra DirectX 11 settings and 8xMSAA.
+Dragon Age 2: Performance increased by 8.5% at 2560¡¿1600 when using max settings.
+Hard Reset: Performance increased by 3.6% at 1920¡¿1080 when using Ultra settings and FXAA.
+Just Cause 2: Performance increased by 3.2% at 1920¡¿1080 when using max DirectX 10 settings and 8xMSAA.
+Medal of Honor: Warfighter: Performance increased by 5.7% at 1920¡¿1080 when using High settings.
+Metro 2033: Performance increased by 4.6% at 1680¡¿1050 when using max DirectX 11 settings, Depth of Field, and Advanced PhysX.
+S.T.A.L.K.E.R.: Call of Pripyat: Performance increased by 4.7% at 2560¡¿1600 when using Extreme settings. At 1920¡¿1080 performance increased by 4.2%.
+Shogun 2: Total War: Performance increased by 3.5% at 2560¡¿1600 when using max DirectX 11 settings, and by 3.3% at 1920¡¿1080.
+Sniper Elite V2: Performance increased by 3.5% at 2560¡¿1600 when using max settings, AA High, and 2.5x Supersampling. Without Supersampling, performance increased by 3.8%.
+StarCraft II: Performance increased by 6.2% at 1920¡¿1080 when using Ultra settings.
+The Chronicles of Riddick: Assault on Dark Athena: Performance increased by 18% at 2560¡¿1600 when using max settings.
+The Elder Scrolls V: Skyrim: Performance increased by 5% at 2560¡¿1600 when using Ultra settings in an indoor scenario, and by 4.7% at 1920¡¿1080.
+The Witcher 2: Assassins of Kings: Performance increased by 3% at 1680¡¿1050 when using max settings and anti-aliasing. At 1920¡¿1080 performance increased by 2.8%.
+Unigine Heaven 3.0: Performance increased by 3% at 1920¡¿1080 when using max DirectX 11 settings and Extreme Tessellation. At lower settings and resolutions performance increased by up to 4%.
+
+
+Results & Benchmark Settings:
+
+Assassin¡¯s Creed III (Pre-Release Build): Performance increased by 5% at 1920¡¿1080 when using max settings and Normal Anti-Aliasing.
+Batman: Arkham City: Performance increased by 3.9% at 1920¡¿1080 when using Very High detail settings, Tessellation High, and 4xMSAA.
+Battlefield 3: Performance increased by 9.8% at 1920¡¿1080 when using High settings in a single-player Paris benchmark; at 1680¡¿1050 an improvement of 10.3% was recorded. Using Ultra settings, improvements of 8.1% and 7.7% were recorded at 1680¡¿1050 and 1920¡¿1080, respectively.
+Call of Duty: Black Ops 2: Performance increased by 23.8% at 1920¡¿1080 when using max settings and 8xMSAA. At 2560¡¿1600 performance increased by 23.3%.
+DiRT 3: Performance increased by 3% at 1920¡¿1080 when using Ultra DirectX 11 settings.
+Dragon Age 2: Performance increased by 4.7% at 1920¡¿1080 when using max settings and 8xMSAA.
+Hard Reset: Performance increased by 4.5% at 1920¡¿1080 when using Ultra settings.
+Medal of Honor: Warfighter: Performance increased by 4.3% at 1920¡¿1080 when using High settings.
+The Chronicles of Riddick: Assault on Dark Athena: Performance increased by 8.7% at 2560¡¿1600 when using max settings.
+The Elder Scrolls V: Skyrim: Performance increased by 7.4% at 1920¡¿1080 when using High settings in an outdoor scenario; at 2560¡¿1600 an improvement of 7.3% was recorded. Using Ultra settings, improvements of 4.8% and 4.5% were recorded at 1920¡¿1080 and 2560¡¿1600, respectively.
+
+Call of Duty: Black Ops 2 & Assassin¡¯s Creed III TXAA Anti-Aliasing
+
+At the launch of the GeForce GTX 680 last March we announced a new form of advanced anti-aliasing called TXAA, exclusive to Kepler-based GTX 600 series video cards. Utilizing a custom anti-aliasing resolve, a temporal filter, and Multisample hardware anti-aliasing, TXAA is designed to remove almost all aliasing from a scene, and eliminate temporal aliasing, the distracting movement of aliased lines when the player¡¯s viewpoint is in motion in-game.
+
+In July we launched the TXAA-enabled GeForce 304.79 beta drivers, and in August The Secret World, Funcom¡¯s technologically-advanced MMO, became the first game to support the new anti-aliasing technique. Gamers and the independent press agreed that the result was super smooth, free of troublesome aliasing, but some felt the new TXAA-enhanced image was too soft. To that end, Timothy Lottes, NVIDIA¡¯s FXAA and TXAA mastermind, has improved the technique, making it sharper and more defined.
+
+With today¡¯s 310.54 beta driver installed, Kepler GTX 600 series users will be able to evaluate the fruits of Tim¡¯s labours for the first time, in Call of Duty: Black Ops 2 and Assassin¡¯s Creed III, which both feature full in-game TXAA support.
+
+For those without Black Ops 2 and/or a Kepler video card, we¡¯ve put together an anti-aliasing comparison video that demonstrates the benefits of TXAA compared to the shooters¡¯s other anti-aliasing options. For that, and more on Black Ops 2¡¯s tech, check back tomorrow. As for Assassin¡¯s Creed III, check back nearer November 23th for the full scoop on Ubisoft¡¯s impressive and technologically-enhanced PC version.
+
+
+NVIDIA Fullscene Sparse Grid Supersampling Anti-Aliasing Enhancement
+
+Several years ago Fullscene Sparse Grid Supersampling Anti-Aliasing was added to the GeForce drivers as an advanced anti-aliasing option for those with high-end systems. When enabled and correctly configured, SGSSAA significantly increases the quality of Multisample Anti-Aliasing, helping remove aliasing that even 8xMSAA struggles with.
+
+
+In this interactive example from Mass Effect 3 the benefits of SGSSAA are immediately obvious.
+
+Configuring SGSSAA to reach this level of detail can at times be tricky due to the need to counteract texture blurring that occurs when using the technique. With a Negative LOD Bias, applied via NVIDIA Inspector, texture quality can be restored, but unfortunately the correct value can only be ascertained through trial and error.
+
+Following repeated calls from users for a solution, we silently introduced an automatic LOD Bias feature in last month¡¯s 310.33 beta driver, which we¡¯re pleased to officially announce today. Now, users need only enable Sparse Grid Supersampling in the profile of a compatible game in NVIDIA Inspector, and the new feature will do the rest.
+
+
+Our recommended Mass Effect 3 settings improve the quality and definition of the game¡¯s textures with High Quality 16x Anisotropic Filtering, and all-but-eliminate aliased jagged edges through the use of 4xMSAA and 4x Sparse Grid Supersampling.
+
+
+New SLI Profiles
+
+As always, our new driver includes new profiles for today¡¯s top titles, increasing multi-GPU performance.
+
+Hawken ? Added SLI profile
+Hitman: Absolution ? Added SLI profile
+Natural Selection 2 ? Added SLI profile
+Primal Carnage ? Added SLI profile
+The GeForce 310.54 beta drivers also include a few new bug fixes, and a PhysX package compatible with older titles, such as Trine, Unreal Tournament III, and Metro 2033.
+
+For complete details about every change, check out the GeForce 310.54 beta driver release notes.

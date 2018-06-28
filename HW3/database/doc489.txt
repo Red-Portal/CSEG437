@@ -1,0 +1,22 @@
+Even Sleeping Smartphones Could Soon Hear Spoken Commands
+
+ Nuance is working with chipmakers on technology that would enable "persistent listening" apps. 
+By Rachel Metz on September 24, 2012 
+
+
+Speech recognition software company Nuance is working with chip makers on how to build a chipset for a mobile device that would let users get assistance from a smartphone without touching it?even when it's in power-saving "sleep" mode?by simply speaking to it.
+
+Vlad Sejnoha, Nuance Communications' chief technology officer, says the company is working with "a number of" chip companies who are "thinking very actively" about how to make this sort of persistent listening work in a low-power way.
+ 
+
+Burlington, Massachusetts-based Nuance is considered a market leader in speech-recognition, which has grown dramatically in importance in recent years as smartphones increasingly feature voice-powered personal-assistant capabilities that can do things like check the weather or find a sushi restaurant. Nuance, which makes a virtual assistant app called Dragon Go!, is also widely believed to be the voice provider for Apple's digital assistant, Siri. 
+
+Sejnoha believes that within a year or two you'll be able to talk to your smartphone even as it lies idle on a desk, asking it questions such as, "When's my next appointment?" The phone will be able to detect that you are speaking, wake itself up, and accomplish the task at hand.
+
+While we generally focus on the dramatic aspects of assistant apps, like artificial intelligence and speech recognition, every step between you and the outcome you want is a problem, Sejnoha says. "Just turning on the device is part of the problem, right? So we're going to be smoothing that out, eliminating those problems as well," he says.
+
+He also expects improvements in a mobile device's ability to listen to an ongoing stream of noise and distinguish its user's voice asking it to perform a task from background chatter.
+
+However, he cautions that software developers will have to be careful to avoid making services that are annoying or creepy, or else they'll create more "paper clip stories"?a reference to Clippy, the much maligned (and now extinct) digital helper in Microsoft's Office software. 
+
+Privacy and security are also concerns if you have software persistently "listening" in the background. While Sejnoha says Nuance could build a system that is private from an engineering perspective, it's still a big leap for users to become comfortable with something that's always paying attention at some level, and there may be concerns about where the data that's collected is going, and if it can be hacked into. 

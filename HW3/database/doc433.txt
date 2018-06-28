@@ -1,0 +1,13 @@
+PSP2 may count on Xbox-level power to trump iPod
+updated 10:20 am EDT, Fri October 29, 2010
+PSP2 leak hints Xbox 360 level power 
+Sony's often-rumored PSP2 may count on Xbox 360-level performance to give the company back the gaming crown it lost to Apple, a rumor mentioned today. The choice of processor wasn't mentioned, but the design is expected to have 1GB of RAM, or twice as much as Microsoft's TV console. Kotaku didn't have insight but was persuaded it was "much more powerful" than the current PSP. 
+ The existing design is virtually unchanged on the inside from its 2004 original, which uses a 333MHz MIPS processor and just 64MB of RAM. Reaching Xbox 360 performance may be difficult or impossible, as Microsoft is using a triple-core 3.2GHz processor and dedicated NVIDIA graphics. The fastest known mobile chip so far is NVIDIA's dual-core Tegra 2, which still trails well behind but would be much faster.
+ Purportedly, Sony is also maintaining its new approach of focusing on flash storage over UMD. The optical disc wouldn't make its way to the new model and would likely limit the PSP2 to downloads and Memory Sticks, although the design is said still up for debate. Some of Sony's more recent phones and other devices use some form of SD card rather than Sony's less used card format.
+ A bigger or higher-resolution screen, dual analog sticks and touchscreen or touchpad elements have also been mentioned, but Sony is still thought to be settling on the form factor. A launch isn't expected until later in 2011 and may use Android, since an upcoming PlayStation phone has surfaced in leaks.
+ Sony is under pressure to revitalize its handheld gaming business regardless of its exact strategy. It has routinely undersold compared to Nintendo's DS and has led to price cuts. Sony has tried to dismiss iPhones and iPods for gaming but has largely acknowledged that Apple's strategy has undermined much of the PSP's business.
+ Apple's hardware has been aggressively updated each year where Sony has rarely touched its platform, but it has often been credited for game prices just a fraction of what Sony charges and for being much more useful as a multi-role device where the PSP quickly falls apart beyond gaming. 
+By Electronista Staff iPhone, sony, industry, gaming, gadgets, Microsoft, NVIDIA, PSP, Xbox 360, Tegra, Apple, iPad, MIPS
+
+url : http://www.electronista.com/articles/10/10/29/psp2.leak.hints.xbox.360.level.power/
+tag : psp2 xbox processor sony game

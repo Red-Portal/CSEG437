@@ -1,0 +1,28 @@
+﻿Understanding Smartphone Storage : How much storage does your phone need?
+
+When choosing a new phone, the amount of internal storage space is often one of several key factors which influences the decision to buy one phone over another. But exactly how much of the promised 16, 32 or 64GB is actually available to use varies greatly between devices.
+
+There was plenty of heated discussion surrounding the 16GB version of the Galaxy S4 when it was discovered that as much as 8GB of that figure was already used up by the OS and other pre-installed applications (sometimes called Bloatware.) So should that phone be sold as an 8GB device? Or is it fair for manufacturers to assume that users believe that 16GB means the amount before any system software is installed?
+
+Internal Versus External Memory
+When considering the memory specifications of any phone, it is important to understand the difference between internal and external (or expandable) memory. Internal memory is the manufacturer-installed storage space, usually 16, 32 or 64GB, where the operating system, pre-installed apps, and other system software is installed.
+
+The total amount of internal storage cannot be increased or decreased by the user, so if your phone has only 16GB of internal storage and no expansion slot, this is all the storage space you will ever have. And remember, some of this will already be used up by the system software.
+
+External, or expandable, memory refers to a removable MicroSD card or similar. Many devices which feature a MicroSD card slot are sold with a card already inserted. But not all phones will have this extra storage space included, and not all phones even have the facility to add external memory. The iPhone, for example, has never given users the ability to add more storage space by using an SD card, neither have LG Nexus devices. If storage, for music, images, or other user-added files, is important to you, the ability to add another 32GB or even 64GB card reasonably cheaply should be an important consideration.
+
+Cloud Storage
+To overcome the problem of reduced internal storage space, several high-end smartphones are sold with free cloud storage accounts. This could be 10, 20 or even 50GB. Whilst this is a nice extra, bear in mind that not all data and files can be saved to cloud storage (apps for example). You will also be unable to access files stored in the cloud if you do not have a Wi-Fi or mobile data connection.
+
+Checking Before You Buy
+If you are buying your new mobile online, it is usually more difficult to check how much of the internal storage is actually available to use, than it is when buying from a store. Dedicated mobile phone stores should have a sample handset available, and it takes seconds to go into the settings menu and look at the Storage section.
+
+If you are buying online, and cannot see any details of usable storage in the specifications, do not be afraid to contact the retailer and ask. Reputable sellers should have no problem telling you these details.
+
+Clearing Internal Storage
+There are a couple of possible ways to create some extra space in your internal storage, depending on the phone you have.
+
+Disable Bloatware. Not all smartphones will let you do this, but if you have an Android phone running version 4.2 or later, the process is fairly easy. Although disabling a 100MB pre-installed app will not free up a corresponding amount of memory, it should certainly create some extra space.
+Backup and Clear Your Photos. This is a good practice to get into even if storage space on your phone is not a problem. Use the sync software that is relevant to your handset to backup your photos to your computer regularly. You are then able to move those photos to an SD card or delete them off of your phone (or at least some of them) to free up some space.
+Use a Cleaner App. Apps such as Cleanmaster are an easy way to clear unneeded or unwanted files from your phone, often at the touch of a button. Again, this measure won't free up huge amounts of space, but it can make some difference.
+Remove Some Apps. Check your apps list and uninstall those you no longer use. This is easily done through the settings menu of all types of smartphone, or by using an app like Cleanmaster.

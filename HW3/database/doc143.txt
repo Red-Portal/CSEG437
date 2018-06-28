@@ -1,0 +1,40 @@
+You Say Centrino, AMD Says Yamato
+
+Can AMD Overcome Intel's Mobile Marketing?
+The Yamato people were the rulers of ancient Japan, and AMD is hoping for the same type of dominance for its new mobile PC platform. "Yamato," AMD's next-generation notebook reference design, was unveiled at a company event in, appropriately enough, Japan in mid-December. The plan is a direct challenge to Intel's dominance of the mobile market, where the Centrino brand -- which encompasses Intel's Pentium M processors, integrated-graphics chipsets, and wireless network controllers -- enjoys top sales and phenomenal name recognition. 
+
+Currently, AMD offers a haphazard selection of mobile CPUs, including not only the Pentium M-rival Turion 64 but Mobile Athlon 64, Mobile Sempron, and desktop-replacement Athlon 64 products. Close examination shows that these chips do serve different markets to some extent, but the company really needs to eliminate the overlap and consolidate everything under the promising Turion 64 brand. Apart from processors, AMD also needs a real Centrino challenger in the mobile-platform market to woo third-party licensees and laptop OEMs as well as end users. 
+
+The Yamato Platform
+It's important to remember that Yamato, like Centrino, combines a processor with other components to certify both mobile performance and power savings. Both of these factors figure heavily in AMD's portable plans, especially battery life. 
+
+Current Turion 64 CPUs are actually more power-efficient than comparable Pentium Ms, but the surrounding components in the Centrino platform are more power-optimized than current AMD designs. This undercuts AMD's admirable CPU work and means briefer battery life for Turion 64 laptops. 
+
+Yamato looks to solve the battery-life riddle, with the reference design handling real-world tasks for a claimed five hours or more on a charge -- long enough to leave the average Centrino system in the dust. What's a bit weird is the chipset approach: Rather than the house-brand Centrino strategy, validated Yamato platforms offer several different chipsets to choose from, including parts from Nvidia, ATI, SiS, and VIA. Given the permutations possible, we'll take AMD's power-saving promises with a grain of salt for now. 
+
+The push for longer battery life doesn't mean a decrease in performance, as the Yamato reference platform includes a host of hardware advancements over current Turion 64 technology. Some of these are simply trickling down from the AMD desktop to the mobile market, while others are brand-new and have yet to reach the Athlon 64 line. 
+
+The first improvement is the Turion 64 DC (dual-core) processor, which will follow Intel's upcoming "Yonah" into the brave new world of dual-core notebook CPUs. This should not only provide Yamato with enhanced multithreaded performance and excellent multitasking, but will expand the dual-core user base considerably. Sooner or later, software developers will wake up to this market and release a true multithreaded "killer app." 
+
+Nor does the Yamato platform stop with the addition of dual-core processing -- it spices up performance with a dual-channel DDR-2 memory controller. Total memory bandwidth is estimated at up to 10.7GB/sec, which roughly translates to dual-channel DDR-2/667 and matches the Intel Yonah platform, which will support 533MHz or 667MHz DDR-2 memory in a dual-channel configuration. 
+
+AMD is also aiming at Microsoft Vista and support for the new operating system's Aeroglass interface from Yamato's integrated graphics, something Intel was unable to do with the Graphics Media Accelerator 900. The integrated graphics will reportedly support everything from a purely unified memory architecture -- i.e., shared with system memory -- to a dedicated display buffer. 
+
+The Dual-Core Turion 64
+The Turion 64 DC should feature virtualization as well as dual-core technology, as well as improved power and thermal management. Its architectural advantages are similar to those of AMD's desktop processors, including a high-speed integrated memory controller, a dedicated 1.6GHz HyperTransport link, and a system request interface and crossbar for data transfers and communication between the two cores. 
+
+The transition to DDR-2 means that not only has the Turion been redesigned for dual-core architecture, but the integrated memory controller has been totally revamped as well. The Turion 64 DC may even be the first DDR-2-compatible AMD processor out of the gate, but AMD is planning to move all its CPUs to higher-bandwidth DDR-2 memory during 2006. 
+
+The power-saving specifications have already been covered, but there are still some open questions regarding heat dissipation and which types of laptop design the Turion 64 DC will support. The heatsink/fan on the CPU at the reference-system unveiling looked to be pretty substantial, so we'll have to wait and see how well the Turion 64 DC will translate into the thin-and-light notebook market. 
+
+Yonah and the Whale?
+Meanwhile, Intel's Yonah should debut early in 2006 as the first dual-core processor for the portable market. It faces a tough challenger in the Turion 64 DC, however. In fact, AMD may attain the same relative advantage in notebooks that it now enjoys in the desktop market. Other things being equal, we'd give the nod to AMD, but Intel has one ace up its sleeve. 
+
+The Yonah CPU will boast 65-nanometer-process engineering, while AMD's Turion 64 DC will likely stick with 90-nanometer technology for at least the near future. Intel needs to ramp up clock speeds to remain competitive, which certainly seems possible with a 65-nanometer core, while AMD will need to keep an eye on overall thermals and not push the Turion 64 DC to the point of overheating. 
+
+Another factor is that the Turion 64 DC will naturally feature 64-bit software support, but Yonah will not include Intel's EM64T functionality. Intel has the "Merom" core waiting in the wings, which will not only add 64-bit capacity but double Yonah's Level 2 cache to 4MB. 
+
+The chipset question is a very important one, and could ultimately decide the mobile market in 2006. It doesn't get any easier for AMD in 2006, as Intel has a new set of powerful 945-series chipsets on the slate for 2006, including the performance-oriented i945PM and mainstream i945GM with integrated GMA 950 graphics. 
+
+The Turion 64 is arguably a more power-efficient design than the Pentium M; it's the chipset that currently holds it back, and we're not holding our breath for the Yamato platform to change that overnight. However, AMD has finally realized that promoting the entire platform is the key to winning over OEMs, and that itself is a step in the right direction. 
+

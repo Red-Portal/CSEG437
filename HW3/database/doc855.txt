@@ -1,0 +1,9 @@
+Google says a "language detection bug" led to that weird feature that shows Android users their recent personal texts 
+when typing "the1975..com" in the Google app. A Reddit user discovered the glitch earlier this week after typing "the1975..com" in the search bar on the default 
+Google Pixel launcher. Owners of other Android devices made by OnePlus, Samsung, LG and Huawei reported seeing the same thing. 
+Some people noted that typing "vizela viagens" into the Google search bar also showed their recent texts.
+"We are aware of a language detection bug in the Google Search app for Android which erroneously interpreted certain phrases 
+as a request to view recent text messages," a Google representative said. "A fix for this bug has been implemented and will 
+roll out over the next few days."
+You can normally call up a summary of your texts by asking Google to "show me my text messages" in the search bar. Also, 
+you're only able to see your texts this way (both with the glitch and intentionally) if you give the Google app permission to access your messages. 

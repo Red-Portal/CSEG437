@@ -1,0 +1,9 @@
+Video Games Can Now Have Hyper Realistic Characters Thanks to New Graphics Tech
+
+Video game characters look a lot more realistic than they did five years ago thanks to graphical advances, but a new technology has largely eliminated the gap between real and digital humans.
+
+Epic Games, makers of the hyper-popular Fortnite, is leading the consortium, debuting Siren at this year’s Game Developer Conference. Using it, game makers can instantly create digital facial animations, rather than having to animate those characters by hand, which is a considerable time saver. And improvements to eyes, skin, and hair help bridge the uncanny valley, a term used to describe how digital humans who appear almost, but not quite human, evoke a feeling of unease in viewers.
+
+Epic is working with CubicMotion, 3Lateral, Tencent, and Vicon on the technology, which allows a live actor to perform in real time and instantly be inserted into the onscreen environment. While it was created with video games in mind, the potential for Hollywood is tremendous as well, given the increased amounts of CGI used in films today.
+
+Kim Liberi, Epic Games’ CTO said, “When we began working on Siren, we knew from the beginning that it was going to push several boundaries. To make this possible we needed the best motion capture hardware and software.”

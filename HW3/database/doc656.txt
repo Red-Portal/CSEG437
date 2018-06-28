@@ -1,0 +1,27 @@
+Neural Nets Give Low-End Phone Pics DSLR Look
+By John P. Mello Jr. 
+Oct 31, 2017 12:16 PM PT
+
+Researchers have found a way to use neural networks to create DSLR-quality photos from snapshots taken with low-end smartphones.
+
+Neural Nets Give Low-End Phone Pics DSLR Look
+A team of scientists at the ETH Zurich Computer Vision Lab recently published a paper describing a deep learning approach that uses neural networks to translate photos taken by cameras with limited capabilities into DSLR-quality photos automatically.
+
+"We tackle this problem by introducing a weakly supervised photo enhancer -- a novel image-to-image GAN-based architecture," wrote Andrey Ignatov, Nikolay Kobyshev, Kenneth Vanhoey, Radu Timofte and Luc Van Gool.
+
+GAN, or generational adversarial networks, is a new type of algorithm that can produce artificial images and even video, explained Aditya Kaul, a research director at Tractica.
+
+"The technology is moving fast because the source code is open and people can experiment with the algorithm and improve it," he told TechNewsWorld.
+
+Network Foolery
+GAN technology uses a bit of trickery to get its results.
+
+"It uses two neural networks that try to fool each other," Kaul said. "One network generates images and tries to fool the other network that they're real. At the end, you get a set of images where you can't tell the difference between the real image and the artificially generated image."
+
+In their experiments, the researchers used two data sets -- one made up of images from a phone camera, the other composed of high-quality photos. Then they used several neural networks to bring the quality of the phone photos up to that of the high-quality images captured with a DSLR.
+
+The researchers posted a number of examples at the CVL website. The side-by-side shot comparisons show how the scientists' method improves the phone photos.
+
+What the researchers are doing is in the same vein as what photographers have been doing for years, said Rob Enderle, principal analyst at the Enderle Group.
+
+"It's not taking a better picture," he told TechNewsWorld. "It's rendering the picture so it's better than it would otherwise be without using artificial intelligence. That's what we've been doing in darkrooms and with Photoshop for some time."

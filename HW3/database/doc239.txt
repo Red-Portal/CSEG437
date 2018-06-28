@@ -1,0 +1,25 @@
+The problem with smartphone auto brightness
+by Eric Franklin
+ 
+The iPhone's auto brightness feature is simple to implement, but how well does it function?
+
+(Credit: Eric Franklin/CNET) 
+
+In the last year, ambient light sensors have become a popular feature not only on computer monitors, but on HDTVs and smartphones as well. 
+
+The purported function of an ambient light sensor is to detect the amount of ambient light intersecting with the display's screen, and then either increase or decrease the display's brightness. If there's too much ambient light, the sensor adjusts the brightness upwards, and in a minimal ambient light situation, the brightness is decreased appropriately. 
+
+For monitors and HDTVs, an ambient light sensor can help save on power and the amount of strain on your eyes. For smartphones, they help lessen eyestrain, but can also save on battery power if done right. And therein lies the rub. 
+
+Raymond Soneira, creator of DisplayMate--a display testing software package CNET uses for monitor reviews--is claiming that the Ambient Light sensors on the smartphones he's tested (iPhone 4, Samsung Galaxy S, and HTC Desire) are currently functionally useless. 
+
+In an article posted this week on DisplayMate's site, Soneira details--after exhaustive testing--exactly why these sensors have, so far, been pointless and more importantly, useless on smartphones.
+
+Soneira lays out quite simply how these sensors should function and how they instead function on current devices. The most revelatory detail from the article for me was how smartphone ambient light sensors are usually gathering the wrong information to determine the phone's brightness. 
+
+He states, "In a smartphone the light sensor is facing your head and is measuring the brightness of your face instead of the ambient light level that is behind and to either side of the phone, which is what actually sets your eye's light sensitivity and what should be determining the brightness level of the screen."
+
+The article is fairly long, but very informative. I implore anyone interested in smartphone display technology or simply the ins and outs of ambient light sensor technology, to check it out. 
+
+
+Read more: http://news.cnet.com/8301-17938_105-20020487-1.html?part=rss&tag=feed&subj=iPhoneAtlas#ixzz146KquBBI

@@ -1,0 +1,24 @@
+South Korea Will Debut "National App Store" and Open Public Data to Developers
+
+
+But will officials recant their hard line on "unauthorized use of public data" by independent developers? 
+
+Apple's successful iTunes store not only houses music and videos, but also provides all manner of applications for smart phones. Now the South Korean government hopes to launch its own "national app store" in the form of a universal API for public data, which would encourage private companies and developers to create and sell apps based on that data, the Korea Times reports.
+
+The ever-growing use of smart phones, laptops or tablet computers has driven demand for apps that not only enable news reading and gaming on the go, but also allow for mobile banking and identifying strangers on the street.
+South Korea's "app store" would be based on an open application programming interface (API), so that third party developers can access massive amounts of government data and create apps that can offer services such as real-time or predicted traffic conditions for buses and trains.
+
+The government API would launch sometime during the first half of 2010, and eventually expand from a website to mobile platforms.
+
+Related Articles
+ How to Make an iPhone App: Part One 
+ Creating Mobile Apps With a Point and a Click 
+ iPhone Banking App Automatically Deposits Checks Via Photos 
+
+Tags
+Technology, Jeremy Hsu, api, apple, apple store, applications, apps, Internet, itunes, south koreaBut as the Korea Times notes, South Korean officials have not always smiled so kindly on independent developers making "unauthorized use" of public info.
+
+The popular iKorail app on Apple's iTunes store shared real-time train status and schedule info, at least until state rail operator Korail blocked the app from accessing its Internet server. Another app called "Seoul Bus" ran into similar trouble with a provincial government for providing real-time status for buses.
+
+Whether or not the new government API would allow for unrestricted access to public data for anyone remains to be seen, although that sounds like the plan. Hopefully South Korea keeps an open mind on the apps that it allows, unlike Apple's rather draconian line.
+

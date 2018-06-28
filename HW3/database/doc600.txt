@@ -1,0 +1,14 @@
+PS5 Specifications May Include AMD Ryzen CPU Tech 
+
+While Sony isn't divulging a PS5 release date this E3 2018, that hasn't stopped possible PS5 specifications from being made public. Thanks to the Linkedin profile of a programmer at the company, it appears that it's working with AMD to integrated Ryzen CPU tech into the PS5. According to tech blog Phoronix, Simon Pilgrim is a principal programmer at Sony who has been working on AMD Ryzen microarchitecture support ¡°within the LLVM compiler stack.¡± 
+
+LLVM is a CPU compiler used in the PS4 development kit. With the PS4 using a semi-custom AMD Jaguar eight-core CPU and an AMD GPU, it's safe to say that AMD tech will form the cornerstone of the PS5. 
+
+¡°Taken at face value, the fact that the platform holder is improving a key part of the developer toolchain for a new processor line that none of its products currently support is compelling evidence that Ryzen will indeed form a key component of a new console,¡± claims Richard Leadbetter of Digital Foundry - a site focussing on technical performance of games on PC and consoles.
+
+¡°It is certainly the most logical choice for a new CPU architecture for both Sony and Microsoft as pre-production work on next-gen hardware continues behind the scenes," the post continues.
+
+However, team members of Sony¡¯s R&D tend to also ¡°work on various projects unrelated to hardware design,¡± a source familiar with Sony R&D told the site.
+
+¡°For example, they can work closely with game developers, or even with other companies associated with Sony but not necessarily working on PlayStation products,¡± said Leadbetter. ¡°The news adds further weight to the assumption that PS5 will continue to use AMD technology, but isn¡¯t quite a smoking gun that confirms the spec.¡±
+

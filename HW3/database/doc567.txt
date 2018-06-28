@@ -1,0 +1,110 @@
+Linux's Brilliant New Gaming Career
+
+ 
+By Katherine Noyes
+LinuxInsider
+Part of the ECT News Network
+08/30/12 5:00 AM PT
+ 
+Will gaming prove to be a key to increased usage for Linux? Valve's decision to cater its gaming platform to the OS could be a step in that direction. "Linux-based games consoles are clearing the way to push Linux gaming into the mainstream," said Hyperlogos blogger Martin Espinoza.
+ 
+
+The legendary Mark Twain is said to have once observed, "If you don't like the weather in New England, just wait a few minutes," and much the same sentiment could just as well be applied to life here in the Linux world.
+ 
+To wit: Not so very long ago, gaming was held up as one of the big obstacles keeping PC users off of Linux and on Windows instead.
+ 
+Then, back in April, Valve announced that it was bringing its popular Steam gaming platform to Linux.
+ 
+A few short months later, Valve cofounder Gabe Newell decried Windows 8 as a "catastrophe" that's driving his own company to Linux.
+ 
+
+
+
+
+'The New Gaming OS?' 
+
+Fast forward to today, and it's becoming increasingly commonplace to see headlines like, "Valve cranks up Linux gaming, makes it faster than Windows" and "Will Windows 8 make Linux the new gaming OS?"
+ 
+Then, even more recently, an Open Ballot on TuxRadar asked readers, "Will Linux become the next gaming platform?"
+ 
+Oh, what a difference a day makes. The question now is, will it really happen? 
+
+'Ridiculously Logical' 
+
+"I seriously hope so," consultant and Slashdot blogger Gerhard Mack told LinuxInsider. "Gaming is one of the few things I actually miss since moving entirely to Linux."
+ 
+Indeed, "it seems almost ridiculously logical that Linux should become the basis for pretty much everything as time goes by and its price remains the same while its capabilities and support continue to increase," Hyperlogos blogger Martin Espinoza agreed.
+ 
+"Linux-based games consoles are clearing the way to push Linux gaming into the mainstream," Espinoza explained.
+ 
+'All the Technologies Needed' 
+
+In fact, "Android-based Ouya's ability to develop partnerships is especially encouraging for those who would like to see Linux-based gaming spread to the mainstream, although it is debatable whether Android really qualifies, even though it is Linux-based," Espinoza added.
+ 
+"Regardless, the least expensive hardware solutions tend to be Linux-based for somewhat obvious reasons, including the savings in cost of software development or licensing," he said.
+ 
+"Cost drives decisions -- free is a great price, and Linux has all the technologies needed for gaming," Espinoza concluded. "Sony has long used Linux as a development platform for PlayStation software, and even with the 'Other OS' flap, it would not be terribly surprising to see them use some form of Linux as the only operating system for an upcoming console."
+ 
+'We Just Might Have a Winner' 
+
+Linux " should be the next gaming platform," Google+ blogger Linux Rants opined.
+ 
+"Linux's ability to be adapted to virtually any hardware gives it a unique ability to run fast and stable with minimal work," Linux Rants explained. "The fact that it's freely available to anybody who wants to use it should make it an obvious choice for fledgling gaming systems.
+ 
+"Even adaptations of existing games have been shown to perform better on Linux than on Windows," he added. "Serious gamers who are always trying to eke out a few extra frames per second should be excited about this! Add to that the growing popularity of Linux in multiple areas (mobile and console gaming), and we just might have a winner here!"
+ 
+'Plenty of Options' 
+
+Google+ blogger Alessandro Ebersol took a similar view.
+ 
+"Linux has a great potential to become the de facto gaming platform, with enough game tools to create games -- and play them, of course," Ebersol told LinuxInsider.
+ 
+"Just to cite a few: Bennu Game Development, Torque 3D game engine, OpenAL, Allegro, Ogre 3D, Cube Engine, the open sourced Id software engines, and last but not least, Blender itself has a game engine embedded," he pointed out.
+ 
+"So, Linux has plenty of options to make games, and indie game developers already know this," Ebersol concluded.
+ 
+'The OS Gets Out of Your Way' 
+
+And again: "Gamers care about performance," noted blogger Robert Pogson. "Anyone who cares about performance should use GNU/Linux because the OS gets out of your way and lets your applications do what they need to do instead of requiring authentication for the OS, phoning home, re-re-rebooting, and being a haven for malware.
+ 
+"It also saves money that can be invested in video cards or input devices," Pogson pointed out. "HPC uses GNU/Linux. Why not, gamers?"
+ 
+Looking ahead, "gaming software developers are tired of being led around by the nose by M$," he added. "It will be a great day when ISVs and OEMs and retailers tell M$ where to go."
+ 
+'It Is Certainly Possible' 
+
+Linux could be the next gaming platform, opined Robin Lim, a lawyer and blogger on Mobile Raptor.
+ 
+"Looking at how far iOS and Android have come in just a few years, it is certainly possible for upstarts to wipe out the entrenched market leaders in a few years' time," Lim explained.
+ 
+"Gamers are usually a fairly technical bunch willing to go through a few hoops for additional performance," he added. "With how easy it is to dual boot Linux, I can see a fair number of gamers taking this route. I suspect many of them will like what they see on the other side of the pond."
+ 
+The problem, however, is, "will games really run better on Linux?" Lim pointed out. "Or, more accurately, which version of Linux will the hardware community rally around to make this possible?
+ 
+"Might be simpler if game developers simply developed their own dedicated version of Linux, flash the operating system and game on an SD card, and convert the PC into a console-like device for gaming purposes," he suggested.
+ 
+'More Pressure to Create Drivers' 
+
+Indeed, " I think the question is less whether Linux will be the next gaming platform and more whether hard-core techie-gamers will be willing to switch and thus bring over a lot of other things with them," agreed Chris Travers, a Slashdot blogger who works on the LedgerSMB project. "I suspect the current gaming platform already is a toss-up between iOS and Android, if we count smartphone games in with PC games."
+ 
+Still, Travers thinks Steam will have "a significant impact," he told LinuxInsider.
+ 
+"No longer will 'I can't give up games' be an excuse not to migrate, and with gamers moving over, there will be more pressure to create high quality video drivers for more chipsets," he predicted. "This brings over a group of desktop users and hopefully will continue to help expand the use of Linux on the home desktop."
+ 
+'It's TiVo for You' 
+
+Slashdot blogger hairyfeet wasn't convinced.
+ 
+"Let me ask these questions," hairyfeet began. "Do you like DRM? Do you like TiVoization? If the answer is 'yes' to both then you are in luck! Because if you think the publishers are gonna allow their IP without DRM, I have a bridge you might be interested in.
+ 
+"And if Gabe at Valve builds a SteamBox, it WILL have hardware-based DRM -- either the new AMD chip that has an ARM DRM core or perhaps Gabe will just buy the ARM DRM core himself, but either way it WILL be TiVo'd," he predicted.
+ 
+Why? "As we saw with the hacked [Xbox 360s] and PSPs, if you don't lock that sucker down good the next thing you know Craigslist is filled with hacked units loaded with games," hairyfeet concluded. "Publishers aren't gonna put up with that, so it's TiVo for you."
+ 
+'A Lot Can Happen' 
+
+Last but not least, Google+ blogger Kevin O'Brien took a more measured view.
+ 
+"I think it might be a little premature to take this as the triumph of Linux," O'Brien suggested.
+ 
+"I like how Gabe Newell is thinking here, but this is just a 'Plan B' at this point," he concluded. "A lot can happen." 

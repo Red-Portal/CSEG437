@@ -1,0 +1,70 @@
+Turning cell phones into lifelines
+
+
+Cellular phone networks have become key tools used by search and rescue teams as they try to locate people who've become lost in remote areas. 
+
+
+As has been reported in recent days, CNET Reviews editor James Kim and his family disappeared in Oregon during a Thanksgiving road trip. James' wife, Kati, and their two children, Penelope and Sabine, were found safe Monday afternoon. Searchers are still looking for James Kim, who left his family on Saturday in search of help.
+
+
+Authorities conducting the search said at a news conference Monday that a signal sent from the Kims' mobile phone to a tower in the region was key to locating the family.
+
+
+The search for the Kim family is the latest example of how important cell phone technology has become as a public safety tool.
+
+
+While other technologies such as global positioning system, or GPS navigation, may help people find their way out of trouble, it does little to help when people are stranded on the side of the road like the Kims were. Tracking devices that send beacons to rescuers could be helpful, but they are used mostly by wilderness backpackers and backcountry skiers. Few people carry them on road trips. And even though satellite tracking technology exists, even fewer people are likely to consent to having their whereabouts tracked on a daily basis in the off chance that they might get lost on a backcountry road. 
+
+
+At the end of the day, the technology that has proved the most valuable for locating lost or missing people has been cellular phones. 
+
+
+"Navigation tools may help someone if they need to understand where they are to get to safety," said Kiyoshi Hamai, director of sales and product management with Mio Technology, a company that sells portable navigation devices using GPS technology. "But in order for someone to find you, you really need a device, like a cell phone, that can provide two-way communication."
+
+
+Even General Motors' OnStar service, which provides GPS navigation and tracks cars when they are stolen, relies on a cellular network to communicate with the GPS receiver in the car.
+
+
+"We don't communicate with our in-vehicle OnStar device via satellite," said Steve Davis, Service Line Manager for the OnStar Personal Communications service. "We connect to the device through a cellular phone connection. And if we can't connect to it through the cellular network, then we can't retrieve the GPS location information stored in the device." 
+
+Always connected
+Cell phones are becoming important safety tools for a couple of reasons. For one, few of the nearly 230 million Americans who subscribe to a mobile phone service leave home without their cell phone. And secondly, cellular networks were designed so that devices are constantly communicating with the nearest cellular transmission towers to update their location so that calls can be received.
+
+
+Consumers also seem to believe that cell phones are important for their safety. According to a recent Consumer Reports survey, about 29 percent of people buying cell phones in the last year did so for security reasons.
+
+
+As handset and cellular network technology improves, it will become an even more important tool, experts say. Federal Communications Commission regulations requiring cell phone operators to provide 911 operators with the approximate location of people calling for help will also improve the ability to pinpoint location. New commercial services that allow people to track their children or their friends could also prove helpful in getting people the help they need fast. 
+
+
+So how does it all work? Mobile devices are in constant communication with the network, constantly letting cell towers know of their location. Mobile operators don't typically store this information. So authorities are usually able to get information based only on the most recent "ping," or device communication, with a cell tower. 
+
+
+But when someone is missing, even this small bit of information can prove useful in determining the approximate location of a device. If the mobile subscriber is still within cell phone range, authorities can track the general movement by following the towers the phone has contacted or pinged. And if the cell phone goes out of range or runs out of battery power, the mobile operator will have a record of the last ping before the cell phone either lost its signal or lost power.
+
+
+This is how authorities were able to home in on the general area where the Kim family was found, according to a sheriff's department spokesman during a press conference on Monday. A cell phone tower operated by Edge Wireless, the local cellular provider in the region, received a signal from one of the family's cell phones at about 1:30 a.m. November 26 near Glendale, Ore.
+
+
+Embedded GPS
+
+
+Authorities said the cell phone signal indicated only that they had been within a 26-mile radius of Glendale, where the tower is located. But people at Edge Wireless took this information and mapped the area, providing an approximate location of the Kims' vehicle, the sheriff's department spokesman said. And using this information, authorities sent out rescue teams, which eventually located Kati Kim and her children.
+
+
+The E911 FCC regulations are likely to help rescuers find lost victims even more quickly, even if people are unable to reach a 911 operator for help. Phones sold today by Alltel, Verizon Wireless and Sprint Nextel have GPS technology embedded in them to fulfill the E911 government mandate. The GPS chips allow authorities to send signals or pings directly to these handsets to find an approximate location of the phone.
+
+
+Some cell phone operators, such as Disney Mobile, Boost Wireless and Helio, are using GPS-enabled phones to provide tracking services. Disney Mobile targets parents wanting to keep tabs on their small children, while Boost and Helio are marketing their services to appeal to young people who are looking to keep in touch with their friends.
+
+
+Services that allow people to be tracked either through the cellular phone network or by satellite introduce some obvious privacy concerns. But Joe Farren, director of public affairs for CTIA-The Wireless Association, a trade organization representing mobile operators, said that is why people must opt-in to services that allow tracking.
+
+
+Still, cell phones have their limitations. For example, cell phone battery life varies greatly. Some last for several days while others may lose power after only a few hours. And even though cellular network coverage has improved tremendously over the past several years, it is still not ubiquitous in the United States. Even some urban areas have dead zones, particularly in buildings or underground. Rural and remote areas suffer most from lack of coverage. And these areas also happen to be places where people are most often stranded or lost.
+
+
+With all that said, Farren believes that cell phones will continue to play an important role in providing safety and security for people.
+
+
+"Wireless phones are an incredible safety tool," he said. "They are the most valuable tool invented for some time. They save scores of lives. And they will continue to get better."

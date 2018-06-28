@@ -1,0 +1,43 @@
+University of Kentucky Communicator Mobile Installation And Configuration Guide 1
+Installing Communicator Mobile on your PDA or Smartphone
+This installation guide contains instructions for getting your Windows mobile device, either a PDA or Smartphone, setup for use in the University of Kentucky¡¯s OCS environment. If you currently use Microsoft Office Communicator on your desktop computer, Communicator Mobile will be familiar. You can access Communicator Mobile anywhere that you can connect your mobile device to your wireless or network service provider. Please note that Microsoft official documentation and quick reference guides on Communicator Mobile talk about installing required certificates. We use public certificates with our implementation of OCS at UK so this will not be necessary for you.
+Installation Prerequisites
+The following are prerequisites for installing the Communicator Mobile client:
+? You must remove all other versions of Communicator Mobile before installing Communicator Mobile (2007 release).
+? The folder to which you download the Communicator Mobile Windows Installer package(.msi) on your PC must not be encrypted.
+? Ensure that there is sufficient space on the mobile device to which you are trying to install. Installation of Communicator Mobile requires approximately 7.5 MB of space.
+? You must have a Windows Mobile powered device that is running Windows Mobile 5.0 or Windows Mobile 6.0.
+? Microsoft ActiveSync¢ç 4.2 or later is required on the computer that you use to install Communicator Mobile (2007 release).
+? In addition, to get the Communicator Mobile software to work in the University of Kentucky¡¯s OCS environment, you must have a valid Active Directory account in either the AD or MC domain with a non-expired password.
+Installing Communicator Mobile Software
+1. In order to install the Communicator Mobile software you will need to first download the software from the OCS wiki found at the following link http://wiki.uky.edu/ocs/Client%20Software/CommunicatorMobile.msi.
+2. Connect your mobile device to the computer running Active Sync.
+3. In Windows Explorer, double-click the CommunicatorMobile.msi Windows Installer file and follow the installation instructions.
+IMPORTANT: Please be aware that OCS is a data driven application and you may incur charges from your wireless provider. If you do not have an unlimited data plan, you should closely monitor your data usage to avoid overages.
+University of Kentucky Communicator Mobile Installation And Configuration Guide 2
+Configuring Communicator Mobile with a PDA
+To use Communicator Mobile, your Active Directory account needs to be enabled for Office Communications Server 2007. The server and account information that you use to connect with Communicator Mobile is the same information that you use with Communicator 2007. The following screenshots outline the steps necessary to configure your PDA for OCS.
+1. Find the installation of Communicator Mobile on your PDA and start the application.
+2. On the Account tab, enter your OCS Sign-in address, which is your userid@uky.edu and your Active Directory domain login information.
+University of Kentucky Communicator Mobile Installation And Configuration Guide 3
+3. On the General tab, check the option boxes that you want. We suggest that you always check the top two boxes.
+4. O n the Server tab, enter the information exactly as it is shown on the next screenshot.
+University of Kentucky Communicator Mobile Installation And Configuration Guide 4
+5. On the Alerts tab you can change these settings to your liking.
+6. The Help tab shows you the version of Office Communicator Mobile you have running on your PDA.
+University of Kentucky Communicator Mobile Installation And Configuration Guide 5
+Once you have everything setup and running, you can see your Communicator Mobile on the main PDA screen.
+Configuring Communicator Mobile with a Smartphone
+To use Communicator Mobile, your Active Directory account needs to be enabled for Office Communications Server 2007. The server and account information that you use to connect with Communicator Mobile is the same information that you use with Communicator 2007. The following screenshots, outline the steps necessary to configure your Smartphone for OCS.
+1. Launch the Communicator Mobile application on your Smartphone and then hit the Options menu
+University of Kentucky Communicator Mobile Installation And Configuration Guide 6
+2. On the Options menu, click the Account option.
+3. On the Account page, enter your OCS Sign-in address, which is your userid@uky.edu and your Active Directory domain login information. Click ¡°Done¡± when you are finished with the Account page.
+University of Kentucky Communicator Mobile Installation And Configuration Guide 7
+4. On the General page, check the option boxes that you want. We suggest that you always check the top two boxes. Click ¡°Done¡± when you are finished with the General page.
+5. O n the Server page, enter the information exactly as it is shown on the next screenshot. . Click ¡°Done¡± when you are finished with the Server page.
+University of Kentucky Communicator Mobile Installation And Configuration Guide 8
+6. On the Alerts page you can change these settings to your liking
+7. The Help page shows you the version of Office Communicator Mobile you have running on your Smartphone.
+UK OCS Wiki Site
+For future information and software regarding the Microsoft Office Communications Server environment at the University of Kentucky, please refer to the wiki site http://wiki.uky.edu/ocs.

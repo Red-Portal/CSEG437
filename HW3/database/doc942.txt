@@ -1,0 +1,23 @@
+How to optimize filter designs for 5G mobile front-ends
+Duration: 60 Mins 
+Thu, 21 Jun 2018 - 14:00 ET / 11:00 PT / 18:00 GMT
+Sponsored by  Register Here
+Filters for 5G networks must operate to 6 GHz and beyond. Filter technologies like FBARs, SMRs, and TC-SAWs will help enable these advancements and create a new $20B market. However, the traditional design and optimization practices that are heavily reliant on trial-and-error prototyping will not be sustainable in this new, fast-paced market.
+
+Consequently, industry leaders are adopting FEM approaches to virtually prototype devices and explore massive new design spaces to find optimal and robust solutions. In this webinar, we will discuss the overall 5G filter market, the need for new methods of design and optimization of RF filters, and demonstrate a technique to exploring expansive design spaces using OnScale Cloud.
+
+PRESENTERS:
+    
+Gerry Harvey, VP of Engineering, OnScale
+
+Dr. Harvey is a numerical scientist and engineer with 15 years of experience applying FEA/FEM approaches to complex engineering problems. An acoustics expert, Dr. Harvey supports hundreds of RF filter engineers who use OnScale every day for filter design optimization.
+
+  
+Ryan Diestelhorst, VP of Strategy, OnScale
+
+Dr. Diestelhorst is an accomplished MEMS expert who has taken new MEMS technologies from university research to smartphone design-wins in record time. His approach to FEA modeling and simulation of MEMS devices is largely responsible for this success. Ryan¡¯s passion is helping other engineers discover how to utilize the power of Cloud CAE to cut down cost, risk, and time-to-market of physical tape-outs.
+
+Attendees of this IEEE Spectrum webinar have the opportunity to earn PDHs or Continuing Education Certificates!  To request your certificate you will need to get a code. Once you have registered and viewed the webinar send a request to gs-webinarteam@ieeeglobalspec.com for a webinar code. To request your certificate complete the form here: https://fs25.formsite.com/ieeevcep/form112/index.html
+
+Attendance is free. To access the event please register.
+NOTE: By registering for this webinar you understand and agree that IEEE Spectrum will share y

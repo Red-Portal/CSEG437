@@ -1,0 +1,25 @@
+The ¡°Game Mode¡± destined to arrive in the Windows 10 Creators Update has been a tantalizing tease for months now, 
+
+but now Microsoft¡¯s pulling back the curtain?somewhat?on the performance-boosting technology.
+
+Game Mode¡¯s designed to focus your PC¡¯s resources on the game you¡¯re playing in order to increase frame rates. 
+
+It does so by tweaking how Windows handles allocating tasks to both your processor and your graphics card, 
+
+Xbox program manager Kevin Gammill revealed in a series of interviews.
+
+On the graphics front, Game Mode forces Windows to grant more of your GPU¡¯s processing cycles to your game, 
+
+rather than to background processes, Gammill told PC Gamer. The exact split will be different on every system, 
+
+depending on the hardware and software you¡¯re running, but Gammill made a point to stress that Game Mode will definitely reduce the graphics performance of background operations.
+
+If you¡¯re running intense Adobe Lightroom tasks in the background while you play a game with Game Mode enabled?why the hell would you do that??Lightroom¡¯s performance will suffer. 
+
+Into watching videos while you play? Game Mode could also make, say, Netflix or YouTube chug if your GPU¡¯s being maxed out, Gammill told Rock Paper Shotgun.
+
+Game Mode also follows in DirectX 12¡¯s footsteps by optimizing how your CPU behaves while gaming. When the feature¡¯s enabled,
+
+ Windows will dedicate a given number of your CPU threads to the game alone, forcing all background software and processes to fight over the scraps. 
+
+The baked-in overhead allows your game to run smoothly even if CPU demands suddenly ramp up, resulting in more consistent overall performance, Gammill told PC Gamer.

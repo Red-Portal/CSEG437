@@ -1,0 +1,125 @@
+HDTV resolution 
+explained By David Katzmaier
+(September 12, 2006)
+
+Resolution is the main reason why HDTV looks so much better than standard television. 
+On a high-def TV displaying a high-def source, a million or more pixels combine to create 
+images that appear sharper and more realistic than TV ever has before. Resolution isn't the 
+be-all and end-all of picture quality, however, and its numerous, well, numbers, can be 
+incredibly intimidating at first. In this article we'll try to demystify HDTV resolution
+and help you cut through the hype that surrounds all of those numbers.
+
+How important is resolution?
+Not as important as you might think. According to the Imaging Science Foundation, a group 
+that consults for home-theater maufacturers and trains professional video calibrators, the 
+most important aspect of picture quality is contrast ratio, the second most important is 
+color saturation, and the third is color accuracy. Resolution comes in a distant fourth, 
+despite being easily the most-talked-about HDTV spec today.
+
+In other words, once you get to high-definition, most people are perfectly satisfied with 
+the sharpness of the picture. All other things being equal--namely contrast and color--HDTV 
+looks more or less spectacular on just about any high-def television regardless of its size 
+or the HDTV signal's resolution itself. The leap from normal TV to HDTV is so big that 
+additional leaps in resolution--from high-def to higher-def, let's say--are tiny by comparison.
+
+Nonetheless the HDTV landscape is littered with resolution discussions, in regard to both 
+sources and displays, so a little knowledge of how they interact is a good thing.
+
+Native resolution: The fix is in
+For the rest of this article, we'll be talking about fixed-pixel displays. A fixed-pixel 
+display is any HDTV or monitor that uses pixels to produce an image, including flat-panel 
+LCD and plasma screens as well as rear-projection microdisplays and front projectors that 
+use DLP, LCD, or LCoS technology. We'll ignore non-fixed-pixel displays; namely, direct-view 
+and rear-projection CRTs, because they treat incoming resolutions differently than their 
+fixed-pixel cousins do--since they don't use discrete pixels, their specs are much more 
+difficult to pin down.
+
+All fixed-pixel displays have a native resolution spec that tells you how many pixels the 
+display actually has. Native resolution is the absolute limit on the amount of detail you'll 
+see.
+
+Fixed-pixel displays follow a few basic rules:
+
+No matter the resolution of the source material, whether VHS, DVD, or HDTV, a fixed-pixel 
+display will always convert, or scale, it to fit its native resolution. 
+If the incoming source has more pixels than the display's native resolution, you will lose 
+some visible detail and sharpness, though often what you're left with still looks great. 
+If the incoming source has fewer pixels than the native resolution, you're not getting any 
+extra sharpness from the television's pixels.
+
+
+HDTV source resolutions
+If you read those three axioms closely, you'll see that source is everything with HDTV. Or, 
+as some unknown wag once said, "Garbage in, garbage out." There are two main HD resolutions 
+in use today by HD broadcasters and other sources: 1080i and 720p. One is not necessarily 
+better than the other; 1080i has more lines and pixels, but 720p is a progressive-scan format 
+that should deliver a smoother image that stays sharper during motion. Another format is also 
+becoming better known: 1080p, which combines the superior resolution of 1080i with the 
+progressive-scan smoothness of 720p. True 1080p content is extremely scarce, however, and 
+none of the major networks have announced 1080p broadcasts. The term 1080p today appears 
+mostly in reference to the displays' native resolution, not the source.
+
+Source resolution name Resolution in pixels HDTV? Progressive-scan? Wide-screen? Networks/sources 
+1080p 1,920x1,080 Yes Yes Yes Blu-ray and future HD-DVD players; PlayStation 3 
+1080i 1,920x1,080 Yes No Yes Includes CBS, NBC, PBS, DiscoveryHD/Xbox 360 
+720p 1,280x720 Yes Yes Yes ABC, Fox, ESPNHD 
+480p 852x480 No Yes Yes Fox wide-screen; progressive-scan DVD players 
+Regular TV Up to 480 lines No No No All 
+
+Despite the obvious difference in pixel count, 720p and 1080i both look great. In fact, 
+unless you have a very large television and excellent source material, you'll have a hard 
+time telling the difference between any of the HDTV resolutions. It's especially difficult 
+to tell the difference between 1080i and 1080p sources. The difference between DVD and HDTV 
+should be visible on most HDTVs, but especially on smaller sets, it's not nearly as drastic 
+as the difference between standard TV and HDTV.
+
+HDTV display resolution
+Now that we've considered the source, let's look at the televisions. As we mentioned above, 
+all fixed-pixel HDTVs scale the incoming resolutions to fit the available pixels, throwing 
+away information if they have fewer pixels and interpolating information if they have more 
+pixels than the source.
+
+Native resolution ©ö Commonly called ©÷ Meets definition of high-def? ©ø Frequency Typical TV types 
+1,920x1,080 1080p Yes Rare but getting more common especially in larger TVs Flat-panel LCD; DLP, LCD, and LCoS projection; very high-end plasma 
+1,366x768 768p Yes Very common in all screen sizes Flat-panel LCD; 50-inch plasma 
+1,280x720 720p Yes Common in rear-projection but not flat-panels DLP, LCD, and LCoS projection 
+1,024x768 HDTV plasma Yes The most common plasma resolution 37- and 42-inch plasma 
+852x480 EDTV plasma No Increasingly rare 37- and 42-inch plasma 
+640x480 VGA No Increasingly rare Small LCD TVs 
+
+Technically speaking, all of these numbers are accurate and useful, but don't put too much stock
+ in them. In the real world, it's difficult to tell the difference between native resolutions 
+ once you get into high-def. For example, despite the fact that a 37-inch LCD with "only" 
+ 1,366x768 pixels has to throw away a good deal of information to display a 1080i football 
+ game on CBS, you'd be hard-pressed to see more detail on a similar 37-inch LCD with 1,920x1,080 
+ resolution.
+
+The truth about 1080p
+In the last couple of years, there has been a big influx of HDTVs with 1080p native resolution, 
+which typically cost a good deal more than their lower-resolution counterparts. But as we've 
+been saying all along, once you get to high-def, the difference between resolutions becomes 
+much more difficult to appreciate. We've done side-by-side tests between two 46-inch LCD HDTVs, 
+one with 1366x768 resolution and the other with 1080p resolution, using the same 1080i source 
+material, and it was extremely difficult for us to see any difference. It becomes even more 
+difficult at smaller screen sizes or farther seating distances--say, more than 1.5 times the 
+diagonal measurement of the screen. We've reviewed a 37-inch 1080p LCD, for example, where it 
+was impossible to see the separation between horizontal lines at farther than 45 inches away.
+
+Here are a few reviews where we compared 1080p displays directly to lower-resolution models:
+
+Sharp LC-46D62U (46-inch 1080p LCD) 
+Vizio GV46L HDTV (46-inch 1366x768 LCD) 
+Westinghouse LvM-47W1 (47-inch 1080p LCD) 
+Samsung LN-S4096D (40-inch 1080p LCD) 
+Sony KDL-40XBR2 (40-inch 1080p LCD) 
+Sharp LC-37D90U (37-inch 1080p LCD) 
+
+We're not telling you to ignore 1080p HDTVs. They technically do deliver more detail, which 
+can enhance the viewing experience for more eagle-eyed viewers. Also, many manufacturers build 
+other picture-quality benefits, such as better contrast and/or color, into their 1080p HDTVs 
+simply because those sets are the high-end models. And given the continuing march of technology, 
+we expect more and more 1080p models to become available at lower and lower prices. Today, 
+however, the premium for 1080p is still pretty steep, and unless you're getting a very large 
+set, say 50 inches or more, we don't recommend basing a buying decision on whether or not the 
+television has 1080p native resolution.
+

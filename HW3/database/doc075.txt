@@ -1,0 +1,102 @@
+Xbox 360: Feel the Power
+ 
+We all know that Xbox 360¢â blows the doors off today's consoles in the power department. But just how much power does Xbox 360 have, and why do developers and gamers agree that it's the system to beat? Glad you asked!
+
+By now you've already heard how Xbox 360 puts you at the center of the most powerful games on the planet?hence the "360," as in 360 degrees (geometry students will recognize that as the number of degrees in a circle). To accomplish this feat, Microsoft¢ç has brought together a full circle of powerful factors.
+
+
+
+Behold your future?Xbox 360 has the power!
+
+Processing Powerhouse 
+The custom-designed Xbox 360 central processing unit (CPU) runs at a breakneck speed, thanks to its three separate core processors that clock in at 3.2 GHz each. 
+
+Xbox 360 boasts a custom ATI graphics processor that clocks in at a blistering 500 MHz. If you want to get even more technical (and who doesn't?) Xbox 360 can take advantage of more than four times as many polygons as the original Xbox¢ç console, and more than four times (seeing a pattern here?) the number of pixels per second.
+
+"Xbox 360 is the best. So we should
+wait with a great anticipation."
+?Ninja Gaiden creator Tomonuba Itagaki
+The 512 MB of RAM in Xbox 360 is eight times more powerful than the original Xbox, in terms of simple arithmetic. The system RAM gives developers a unified memory architecture. Game creators decide how to partition it, and all of the hardware components (like the CPU and GPU) can access the memory.
+
+The HD Era
+High definition is upon us, and Xbox 360 is ready. Games are required to be authored for 720p and 1080i, and all games are optimized for the 16:9 widescreen viewing ratio. That doesn't mean you have to have an HDTV to play Xbox 360 games. Xbox 360 games always look good, but they look spectacular on your high-definition display.
+
+Hard Drive
+The elegantly styled hard drive is physically very small and detachable, but it still boasts a whopping 20 GB of space. The sheer amount of downloadable content that fits on such a hard drive is staggering, and now you can rip more music onto your hard drive and play your own tunes as a soundtrack in any Xbox 360 game.
+
+Smart Power
+Xbox 360 utilizes 48 parallel shader pipelines in the GPU that developers can optimize to get the performance they want.. A huge battlefield in Kameo¢â: Elements of Power¢â and a shadow-laden firefight in Perfect Dark Zero¢â look completely different and show the diverse ways just one developer, Rare¢ç, took advantage of the GPU's flexibility.
+
+"You know if you have a 360 it will look
+as good as it can possibly look."
+?Pete Hines from developer Bethesda
+Developers tell the smart Xbox 360 which graphics engines to use to make visuals as sharp as they can be. The console depicts the vastness of a space fleet engaged in a battle hundreds of miles across or a single human face with equal aplomb.
+
+More than Games
+Xbox 360 is first and foremost a gaming machine, and the number of amazing launch games and the intense focus on the gamer's experience cannot be denied. But Xbox 360 is also the center of your digital entertainment world. Not only will it play DVDs, but the system supports CDs, DVD-ROMs, DVD-R/RW, MP3s, JPEGs, and more.
+
+Xbox 360 Online
+Xbox Live¢ç, the premier console online gaming service with more than two million members, is getting even better, with a huge new center of online commerce called Xbox Live Marketplace, and best of all, Xbox 360 is always online with your high-speed Internet connection. 
+
+"It's the best development environment
+I've seen on a console."
+?id Software's John Carmack
+Xbox Live Silver, available to anyone with an Xbox 360 or Xbox 360 Core System console, a hard drive or a memory unit, and a broadband connection, provides many free features, including messaging and downloads. The second level of service?Xbox Live Gold, with the option to play multiplayer games online?costs the same as your original Xbox Live subscription. 
+
+USB? U Bet!
+Xbox 360 boasts three multi-purpose USB ports (two in front, one in back), so there is almost no end to the various accessories and other pieces of hardware that will connect to the console and interact with it. The keyword here is versatility. 
+
+You can connect and stream media from a wide range of portable music players and digital cameras, or stream your digital music, photos, and more from your connected PC with Microsoft Windows XP or Windows XP Media Center 2005 Edition. For more information go to www.xbox.com/media. 
+
+No More Wires
+Wireless integration is one of the most important aspects of Xbox 360. Right out of the box, the lightweight wireless controller?in fact, up to four lightweight wireless controllers?connect instantly to the console with no other peripherals needed. 
+
+Thanks to a cycling signal that avoids other wireless hardware in your house (such as telephones), there is never any delay between your thumb and the game. 
+
+The dedication to versatility even carries over to recharging your controller?with the Play & Charge Kit, you not only have a rechargeable controller battery, but a charge cable that actually recharges your battery pack while you're playing, or while Xbox 360 is in standby mode.
+
+The wireless Xbox 360 controller is actually lighter than the wired Xbox Controller-S. Carry the wireless experience over to Xbox Live by plugging in the pocket-sized Wireless Networking Adapter.
+
+Gamers First
+Lest there be any doubt, one of the sharpest aspects of Xbox 360 power is somewhat unquantifiable?and that is the slate of fantastic games you play on the system and the way the inner workings of the console are all dedicated to making Xbox 360 the ultimate gaming experience. In addition to eagerly anticipated Microsoft titles like Kameo: Elements of Power, Project Gotham Racing¢ç 3, and Perfect Dark Zero, you can also anticipate the exclusive QUAKE¢â 4, The Elder Scrolls IV: Oblivion¢â, and Call of Duty¢ç 2, to name a few?and that's just the beginning. 
+
+Xbox 360 with the hard drive is backward-compatible for an array of original Xbox titles too, which means both original and Xbox 360 gamers will be able to play in the same matches online with Xbox Live.
+
+The Competition? Meh.
+Don't want to take our word for it? Check out the GameSpot.com "Tech Head-to-Head" article published during E3, where they said, "The real power of the 360 is in its networking ability. We can't forget that Bill Gates's new system can also reach across the network to access media from local, Windows-based PCs."
+
+Then there's Major Nelson, who did a nifty comparison (with charts and everything) where he concludes, "When you break down the numbers, Xbox 360 has provably more performance than PS3."
+
+What the Developers Say
+Who could be better judges of hardware than the game developers themselves?
+
+"It's a wonderful machine to work with. I never lied about my impression of the hardware. It's definitely software-friendly hardware. From a developer's perspective, it's exactly the kind of hardware you want to work with."
+
+?Tomonobu Itagaki, leader of Team Ninja and creator of Ninja Gaiden¢ç and the Dead or Alive¢ç series, quoted at E3 2005.
+
+ 
+
+"It's the best development environment I've seen on a console."
+
+?id Software's John Carmack on Xbox 360, quoted at QuakeCon 2005 (reported on GameSpy).
+
+ 
+
+"The advantage of the Xbox 360 is that it's designed to run our game, period. You know if you have a 360 it will look as good as it can possibly look."
+
+?Pete Hines from developer Bethesda, quoted on 1up.com.
+
+ 
+
+"I can't speak much for Sony right now?yeah, we're working on stuff for the PS3 but honestly I'm so busy with Gears [of War] that it's all I'm seeing and I can tell you?Microsoft is giving you a hell of a system. This thing is a BEAST and is capable of MUCH GREATNESS."
+
+?Cliff "Cliffy B" Bleszinski, creator of the Xbox 360 shooter Gears of War¢â, on his 1up.com blog.
+
+That Indefinable Quality
+Talk about numbers all day?and without a doubt, the numbers on Xbox 360 show how powerful the new console is. But beyond simple numbers, there's the power of having one system that serves as the center of your entertainment lifestyle. 
+
+Xbox 360 isn't just about swinging its stats around like a club, it's about bringing you into the club. The Media Center Extender, wireless adaptability, an endless variety of USB-compatible hardware, and of course the greatest games in the world make the power of Xbox 360 crystal clear. 
+
+Welcome to the next generation of gaming with Xbox 360.
+
+Article by Danny Chihdo

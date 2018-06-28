@@ -1,0 +1,14 @@
+Connecting Your Desktop and Your Laptop
+Exchanging files between two computers is as old as computers themselves. You can do this exchange with wires, but you can also use disks. The term sneaker net once referred to folks exchanging files by using floppy disks and walking (in their sneakers) from one computer to another.
+You can still use floppy disks to exchange information from two computers - provided that the two computers still use floppy disks. Oh, you can also burn a CD-R and use it for exchanging files between your desktop and laptop. But - hey folks! - this is the twenty-first century. You can easily connect your desktop and laptop by using wires. Or if you're really slick, you can do it wirelessly!
+The easy way: Over the network
+The simplest way to connect between laptop and desktop is to place them both on the same network. Configured and connected properly, you can share and access both the desktop and laptop's hard drive to easily exchange files and whatnot.
+TIP - You should use this approach to connect two systems together if you can. Even if you have only a desktop and a laptop, you may still want to get networking hardware to make connecting the two a snap.
+That ugly wire thing
+Before a networking standard appeared, computer users would connect their desktop and laptop computers by using both systems' serial or parallel ports. To accomplish this, you had to use an ugly wire cable.
+You can still connect computers this way, if you must. Merely connecting the two computers isn't enough, however; you also need software to help make the connection happen. The software comes in two parts, one for the laptop and another for the desktop. You have to have both parts running simultaneously for the dang thing to work.
+WARNING - Not any old cable works for a direct connection. You may want to buy a cable setup designed specifically for connecting two computers. A standard printer or serial cable just doesn't work.
+Using the infrared port
+If both desktop and laptop have an infrared (IR) port, you can use that port to beam information between the two systems.
+The best way to connect your computers by using the IR port is to orient the laptop and desktop so that the IR ports do a Mexican Standoff with each other, eye to eye (or port to port). With this setup, nothing comes between the ports to break the connection.
+REMEMBER - Make sure that you have the IR port enabled before you proceed.

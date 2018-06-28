@@ -1,0 +1,43 @@
+Augmented reality: Apple and Google's next battleground
+
+The two biggest players in smartphone software are pitching to win the war for AR. But will Ikea and Pokémon Go be enough to get consumers on board?
+
+This year the next big battleground between the titans of the smartphone industry will be augmented reality, as both Apple and Google duke it out with new phones, cameras and systems designed to provide Terminator vision – or Pokémon Go on steroids – to the masses.
+
+Augmented reality (AR) is nothing new. Many people’s first experience of the concept was seeing through the eyes of Arnold Schwarzenegger’s T-800 Terminator in James Cameron’s 1984 blockbuster. The movie showed the Terminator’s vision overlaid with information about subjects, objects and objectives.
+
+But after failed attempts at making that concept a reality for the mass market, with Google Glass and others, AR was thrown back into the spotlight in July 2016 with the launch of Pokémon Go, which overlaid the mini-beasts bobbing about in the real world for players to catch.
+
+While Google has had AR systems in place with its Project Tango technology from 2014, which ended up in specialised tablets and smartphones from Lenovo and Asus, it was Apple which recently took the spotlight with its ARKit that is due to be released as part of iOS 11 in the coming weeks.
+
+While Apple’s system doesn’t rely on specialist hardware, as with Google’s Tango, and may lack some of the skills that dedicated sensors afford, ARKit is due to roll out to not only Apple’s anticipated next iPhone, but also on smartphones as old as the iPhone 6S from 2015.
+
+Geoff Blaber from analyst firm CCS Insight said: “Apple’s ARKit is what AR badly needs. With a sizeable addressable market consisting of iPhones and iPads with A9 or A10 chips (iPhone 6S and beyond), it offers developers immediate scale and incentive to invest.”
+
+For AR to become a thing that the mainstream actually enjoy and use requires scale. Because the majority of Apple’s iPhone users all update their smartphones to the latest versions of the company’s iOS almost in unison with its release, it, more than any other technology company, has the leverage to reach the scale required to make big investments in the software and apps by developers viable.
+
+Big investments, particularly in the early stages of a new technology, mean better products, greater penetration with consumers and a greater likelihood of success, if the big software houses buy into the idea and the user base expands to a critical mass.
+
+“AR is big and profound,” Apple chief executive Tim Cook told investors earlier in August. “And this is one of those huge things that we’ll look back at and marvel on the start of it.”
+
+Google isn’t resting on its laurels. While its Tango system may not be going anywhere, the Android maker announced a brand new system called ARCore that takes a similar approach to Apple’s ARKit in that it doesn’t require special depth sensors to operate.
+
+Google said that it expects to make ARCore available to at least 100 million users, starting with owners of Samsung’s top-end Galaxy S8 smartphone and Google’s own-brand Pixel phone. But the diversity of the Android ecosystem presents challenges for a unified platform that relies on a consistent experience. To spread its AR system beyond the Galaxy S8 and Pixel phone, Google will have to figure out how to account for the wide variety of Android phone cameras or convince phone makers to use specific parts – a tough sell given the unproven benefit of AR.
+
+“This is a classic example of where Apple’s ownership of the whole widget including both hardware and software is a huge advantage over device vendors dependent on Android and the broader value chain of component vendors,” said Jan Dawson, founder and chief analyst of Jackdaw Research.
+
+Neither Apple nor Google are pushing AR for the sake of technology. When Pokémon Go launched to great success it proved there could be a business case for some form of AR, with Apple expected to make $3bn from in-game purchases from Pokémon Go players made through its App Store over two years. And that’s just one platform. The riches are there for the AR platforms that succeed, which could provide another important revenue stream for both Apple and Google following a decline in smartphone sales as buyers hold on to existing handsets longer.
+
+While Apple will have the instant lead in smartphone-based AR come the autumn with the release of iOS 11, more advanced AR which involves pointing a smartphone at something and using the camera to overlay virtual objects or information on the real world still has yet to gain it’s “killer app”.
+
+Many have tried, from early pioneers Word Lens and Blippar, but other than feeding users additional ad experiences, none have really come close to a convincing must-have or at least must-try experience.
+
+Visualising objects in the home for shopping may come the closest in the near future. Michael Valdsgaard, a developer with the furniture chain Ikea, called Apple’s ARKit “rock solid”, noting that it could estimate the size of virtual furniture placed in a room with 98% accuracy, despite lacking special sensors, making an AR furniture catalogue viable for iPhone and iPad users in the millions.
+
+The fruits of Ikea, and other developers’ labour, is expected in the autumn. But smartphones are expected to be just a stop on the road to AR technology embedded in broader world around us.
+
+Blaber said: “The technology has clear scope to evolve into form factors such as a heads-up display and ultimately a head-worn device ... but like Google Glass, it faces an enormous hurdle of consumer acceptance.
+
+“Nonetheless, this is where the real potential lies. AR and VR are largely considered to be two distinct use cases, but CCS Insight believes they will ultimately merge. In this scenario, a single head-worn device would be able to seamlessly switch between an opaque screen for VR, to a transparent one for AR applications. It could become a converged solution that complements and potentially even replaces the smartphone, depending on the context.”
+
+Whether the general public will ever accept a piece of technology that has to be strapped to their face remains to be seen, but for the time being pointing your phone at your table to see a virtual lamp, war-torn landscape or animated character come to life will have to suffice.

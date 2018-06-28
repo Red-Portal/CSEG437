@@ -1,0 +1,109 @@
+As of February 2012, approximately 46% of American adults own a smartphone.  
+The graphics quality of these devices gets better each year.  However, they still have 
+many more limitations in graphics processing and storage space than desktop
+computers.  This means that applications on these devices should focus on optimizing 
+their file sizes and graphics quality in order to maximize the number of devices that can 
+run and store them.  Unfortunately, there is no defined metric for graphics resolution on 
+smartphones.  This thesis explores what users believe to be the minimum acceptable 
+graphics quality in smartphone games and graphics applications.  By using a testing 
+program we designed in OpenGL, we were able to find at what point in an image¡¯s 
+degradation users found it graphically unappealing and found the app unacceptable.  
+Participants gauged four images that degraded over time. For our two high frequency 
+images, participants found the minimum acceptable graphics quality to occur at 43
+pixels per inch (ppi), while in low frequency images they found minimum acceptable 
+graphics quality to occur at around 31 ppi, with the average minimum being 37 ppi.
+A Study on Graphics Quality in Smartphone Games
+INTRODUCTION
+The field of visual communications has been intriguing humankind from the time 
+we were painting cave walls.  With the rise of computers we have been striving to 
+display clearer and better images on our screens.  Unfortunately, not all screens are 
+created equally and many people use smartphones (46% of American adults own one 
+[Pew Internet 2012]), which have limited graphics processing power.  Smartphones have 
+issues with limited space and processing power or excessive cost.  These limitations
+make the goal of constantly present and excellent picture quality inaccessible to the
+common smartphone user.  Since not everyone will be able to have the best picture 
+quality currently available, where do we draw the line?  The average smartphone user 
+does not have the latest and greatest smartphone, but has a midrange Android 
+smartphone [comScore 2012] with a 4¡± screen of about 200dpi [Android Developers 
+2012a].  Given a smartphones limited space and processing power, our goal was to find 
+the lowest level of graphics resolution that users would find acceptable in a smartphone 
+game.  This would bring acceptable graphics to most users.
+In the following pages we explore what resolutions users found to be acceptable 
+and where the line between acceptable and unacceptable image resolution lies.  In 
+order to do this, we defined the problem and explored what is currently published 
+involving this problem.  We present the design of the data gathering tool and the data 
+collected, show its analysis and the conclusions we came to, and then look at what was 
+learned and how this study could be improved if repeated
+PROBLEM DESCRIPTION
+Each day smartphones are becoming better and closer to desktop computers,
+with respect to processing power and display quality, but they still have significant 
+limitations.  The two we are concerned about are storage space and graphics processing 
+power.  For the purpose of this paper we will be referring to the Android smartphone
+platform, since Android, as of March 12, 2012 holds a 51% share of all smartphone 
+subscribers in the United States (comScore).  Many smartphones have a set capacity 
+with no expansion slots or only support limited memory expansion.  For the purpose of 
+this paper, I will refer to a high-end smartphone that is popular, the Samsung Galaxy S2.  
+The Samsung Galaxy S2, according to Samsung¡¯s website, comes with either 16GB or 
+32GB of storage built in with an expandable MicroSD slot up to 32GB [Samsung 2012].  
+That gives us a total of 64GB possible, which depending on the user, may be acceptable.  
+Someone who streams their media online from sources such as YouTube and Netflix for 
+video and maybe Pandora for music would not need a significant amount of storage on 
+his or her smartphone.
+However, some users like to have media available when they have limited 
+service, so we can consider several movies or TV shows on their smartphone as well as a 
+few thousand songs.  Assuming a standard song size of 6MB and 7,000 songs with 15 
+movies of size 500MB and 30 shows at 200MB we get (6MB*7,000 + 500MB*15 + 
+200MB*30) 55,500MB or 55.5GB.   Using the same smartphone as above, we begin with 
+64GB and after we have added our media we have (64GB ? 55.5GB) 8.5GB left, which 
+still does not account for the Android Operating System space used.  The goal of this use
+case is to illustrate that minimizing the size of smartphone applications (apps) is good 
+practice in order to help users worry less about smartphone storage space. 
+The other reason we have for decreasing app size is that not everyone has access 
+to a wireless connection and could worry about data plans and how much data they 
+consume.  So an app developer should focus on making their apps a reasonable size to 
+maximize the amount of users that can use them.  Also, some of the lower-end 
+smartphones have less powerful graphics processors that could cause the game to run 
+at unbearably slow frame-rates.  One example of this is when I tried to run Angry Birds 
+on my Samsung Moment.  It took over two minutes to load the home page and made 
+the game unplayable on my smartphone.
+On the other hand, there is the problem of smartphone graphics apps that have 
+been optimized for space too well, and have become graphically unappealing, causing 
+users to stop using the app.  Our goal was to find the sweet spot where we can optimize 
+image resolution (reducing size) while keeping the fidelity users expect (keeping the 
+app¡¯s graphics appealing).  This ¡°sweet spot¡± could be used to set a standard minimum 
+resolution for graphics quality in smartphones apps, such as games, where there would 
+be a significant amount of images that are generated and this could help define the 
+minimum resolution needed.PREVIOUS WORK
+Many people have noted the limitations of smartphones and pointed out that 
+developers need to take these into account when developing for these devices.  
+However they only note that one should make sure to optimize image size in order to 
+speed up computation and not overload the system, they never note any standards or 
+give any guidelines.
+In a paper written in 2008 titled ¡°The State of the Art in Mobile Graphics 
+Research¡± the same limitations of smartphones I have noted above are listed and they 
+look at methods of compression of textures in order to save space and reduce the 
+quantity of data sent over a bus [Capin 2008 Pg. 76].  The paper notes that different 
+types of compression can be lossier than others, but does not give a standard of what is 
+good.
+In Romain Marucchi-Foino¡¯s 2012 book "Game and Graphics Programming for 
+IOS and Android with OpenGL ES 2.0," he makes a note about texture optimization, 
+stating that ¡°Portable-device GPUs have a limited amount of video memory compared 
+to desktop cards.  Always remind your artists to keep their texture resolution as small as 
+they can to save as much memory as possible" [Marucchi-Foino 2012 Pg. 84].  So once 
+again the need for optimization is there, but there is no clear definition of what a 
+correct size or optimized size is.
+By this problem being noted, but not solved, there was an opportunity for 
+research to find a minimum graphics quality acceptable to users that would create a 
+guideline for app creators.
+An important part of the testing process was being able to make sure each 
+participant was able to see the images clearly so that the only degradation they would 
+be noticing would be that which we were creating.  So we needed to make sure that the
+users would be far enough away from the screen so they would be unable to discern 
+single pixels of our LCD display.  From the paper ¡°Capability of the Human Visual 
+System¡± we found that ¡°for a human eye with a pupil diameter of 2.5 mm and light with 
+a wavelength of 555 nm (the wavelength at which photopic, or cone-mediatiated, vision 
+is most sensitive), the maximum resolution would be . . . about 0.92 arc-minutes¡± [Curry 
+2003].  We used this number to calculate at what distance a human with perfect 
+eyesight would be able to see individual pixels on the screen.  This number helped us 
+calibrate our Snellen chart, which we used to determine the distance at which each
+participant should stand.

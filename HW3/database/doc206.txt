@@ -1,0 +1,114 @@
+Transmission of HDTV over IP on an Optical Connection
+Managed with UCLP
+
+Sergi Figuerola (1), Eduard Grasa (1), Marisol Hurtado (1), Jesus Alcober (1), Joaquim Recio. (1), G. Junynet. (1), 
+Michel Savoie (2), Scoot Campbell (2), Hanxi Zhang. (2), Jing Wu (2)
+
+
+Introduction
+
+The transmission of high resolution video by Internet is at the moment receiving an increasing 
+interest in the community of Internet2 [1], mainly due to the study of the transmitted quality 
+and the analysis of the network requirements.  The revolution in the networks of the new optical Internet, on the other hand, makes viable begin to design networks with capacities of Ethernet Gigabit, able to offer services of great bandwidth to the end user.  The concept of customer-empowered networks [1], networks controlled by the user, represents a bet by a network architecture peer-to-peer [1] unlike the one of client-server, at the moment implemented by the network operators.
+
+Fruit of the investigation contributed by the Foundation i2CAT (by means of the Optical Communications group of the UPC and the MediaCAT), the Communications Research Centre Canada and Research Channel, has been made an international demonstration, where the interconnection of several networks of investigation outposts, pertaining to independent dominions of management, has been made successfully. 
+
+In this experience, a tri-continental connection for the transmission of high resolution contents settled down for the first time between Europe, America and Asia, through a connection dedicated between Korea and Barcelona.  The establishment of the optical connection was made by means of the User Controlled Ligthpath Provisioning (UCLP) system.  This technology, pioneer, will allow to interconnect faster the optical networks of investigation of the world.  The application, developed in open source code allows the users to create, to subdivide and to eliminate optical connections under demand and in real time, with the objective ensure communications and to accelerate the investigation in fields that they require of great bandwidth in his connections, like the astrophysics, genomic, the medicine and the transmission of high resolution video [5].  For the scientific community, the accomplishment of works in collaborative surroundings is very important, and that have applications based on technologies GRID and with great capacities of transmission.
+
+For this experience, have been used platforms of optical communications net based on technology WDM and SONET, with interfaces at level of client of GEth, along with the platform of digital video ¡®Mediacat¡¯ able to distribute the highest present audio-visual quality, HDTV, which requires a bandwidth of 1,5Gbps or 270 Mbps in compressed format.  It allows to transmit digital cinema directly by Internet and opens the possibility of a new digital audio-visual industry in network, cradle in local production but with a global distribution [4].
+
+The i2CAT Foundation has been pioneering in Europe in this type of transmission.  In 2002 it made in collaboration with Research Channel, the first transatlantic transmission of HDTV on Internet2 between Amsterdam and Seattle with a production of the Gaudi year recorded in HD by the Center of Audio-visual Productions of the UPC. Also in year 2003 was made the first European transmission of HD on IP between Barcelona and Brussels within the IPv6 Days organized by the European Commission and thanks to network GEANT.
+
+UCLP System
+
+The UCL system, proposes a network architecture totally distributed and decentralized cradle in OON (Object Oriented Networks).  Therefore, it presents/displays a new paradigm in the management and control of optical networks, by means of the use of technology Jini/Javaspaces, allowing to interconnect networks pertaining to different dominions from management by means of a philosophy of peering and under the same plane of control.
+
+This new architecture (initially developed by Communications Research Centre -CRC- from Canada and the University of Ottawa, it has been adapted to the surroundings of the optical communications net of the Fi2CAT) offers the control and management of the network to the end user or client grid, so that this one, settles down optical channels (ligthpath) end-to-end in bandwidth real time and with guaranteed.
+
+The establishment of optical channels is made through dominions of independent management of network (calls federations), without the necessity to have a supplier on watch that it qualifies this optical channel, considering itself thus, a mere extension of its local area network.  This system is oriented to networks that do not have an excessive number of nodes and is oriented the scientific community, the administration and the universities.  Also it offers the possibility of creating, of subdividing and of eliminating private subnetworks.
+
+The architecture of the system comes defined by the hierarchy from existing UCLP services [5] in each federation, Fig. 1.  This, is formed by a set of Jini services, that allow to make an abstraction of the physical levels of network so that these are transparent to the end user, so that the establishment of lightpath only requires of the IP¡¯s origin and destiny, capacity of the connection and technology of network used at level client.  Jini provides many advantages in the development of distributed applications, since it operates on Java and it uses Remote Method Invocation (RMI) to accede to remote services, a mature technology.
+
+
+Figure 1.  UCLP services for each federation
+The UCLP system has a mechanism of location of federations that allows to have all the data in distributed databases, where keeps the information from the federations and resources that compose the set of the interconnected networks.  With the objective ensure communications by means of a client based on Web Services and system UCLP, the service GSAP has been defined, which accepts requests of users by means of Simple Object Access Protocol (SOAP).  The GSAP announces their services by means of a Universal data base Description, Discovery and Integration (UDDI).  The communication with the clients grid fulfills Open Grid Service Architecture (OGSA).
+
+The interaction between the layer of access grid and the Jini services is made by means of the JSAP service, which decides that federations must be used to establish an e2e connection between two final points.  The Jini services of the federation, operate in same subnet, and they are registered with the JLS of the federations by means of multicast discovery.
+
+The services represented in gray in Fig. 1 are services of standard support:
+
+?	The JLS is a registry of distributed Jini services, that allows to find services without knowing its location beforehand.
+?	The Javaspace is a persistent database to maintain the existing states of links between the federations.
+?	Transaction to manager, groups distributed invocations of services in a single transaction.
+
+The SCS service is the one in charge to create and to eliminate connections in switch (by means of TL1, SNMP, CLI) or through a federation by means of GMPLS or the O-UNI interface.
+
+Establishment of a connection
+
+When a federation origin makes an e2e connection request, based on the information of routing of the JSAP, the LPOS of this federation will make invocations of services to Javaspaces and SCS of all the existing federations to them long of the established route.  So that a discovery at Inter-federation level, can be established and without having to be bound to a rank multicast, the concept of Federation Manager is introduced, that consists of a cluster of JLS services.  This service, fruit of an extension of the standard Jini JLS service, it allows that a federation JLS registers with him via a Jini discovery unicast, and automatically is registered yet the set of federations JLS of dynamic form.
+
+Configuration of the Spain ? Korea connection 
+
+The Test-bed realized, consisted of the establishment of an optical channel between Gwangiu-Daejeoan-Seattle-NewYork-Barcelona, by means of a server-to-peer/peer-to-server connection between i2CAT-GEANT and GEANT-KREONet2.
+
+In order to resolve the nonexistence of an optical connection between NY and BCN, Dante, with the collaboration of RedIris and CESCA they provided a tunnel MPLS, so that a virtual point of peering between the platforms CA*net 4 and i2CAT was offered.  These platforms, not only have different equipment optical (OpteraMetro 5200 and ONS 15454) but that also work with different technologies of network based on WDM and SONET.
+
+The communication dedicated for this transmission was established by means of the UCLP system from the optical communications net of i2CAT, the CA*net 4 network and KREONet2, happening through CESCA, RedIris, GEANT, Internet2, thus to arrive to BEXCO Busan Korea, as it acquires knowledge in Figure 2.
+
+ 
+
+Figure 2.  Topology of the dedicated Spain ? Korea connection 
+
+
+Once established the connection between Spain and Korea were made a set of network tests to verify the quality of the tri-continental connection, observing mainly jitter and the loss of packages in transmissions UDP, by means of the Iperf software [6], see Figure 3.  The behavior of these parameters is critical for the transmission of high resolution video, with studio quality to 270 Mbps, since this system is not oriented to the recovery of errors, on the contrary, estimates a service of trustworthy network.
+
+ 
+
+Figure 3.  Network tests results
+
+
+As it is observed in Figure 3, the tests were made increasing the bandwidth to transmit with the purpose of exercising the connection.  The average values of jitter and loss of packages are quite acceptable in transmissions between 100 and 500 Mbps and offer sufficient reliability for the high resolution transmission 270 to Mbps.  The maximum bandwidth supported in the tests was of 560 Mbps, nevertheless the limitation in this case this given by the operating system WindowsNT4 installed in the emitting equipment but that by the yield of the network connection.
+
+Since the only reflected previous table values average, is interesting to observe in detail the behavior of jitter and loss of packages that acquire knowledge in them  Figure 4 and Figure 5.
+
+
+ 
+
+Figure 4.  Jitter measurements
+
+
+As it is observed in Figure 4, jitter does not present/display an important variability, in spite of the increase of the bandwidth in each test, practically the values oscillate between 1 ms, the described values average previously were affected by atypical values.  A similar phenomenon took place when observing the loss of packages, that was increased slightly as it was transmitted greater bandwidth, staying between 0,07% and 0,4%, getting to reach the 9,32% at the moment for transmitting the bandwidth maximum tolerated by the emitter.
+
+
+ 
+
+Figure 5.  Packet loss measurements
+
+
+Transmission of high resolution
+
+In quality diffusion has transmitted high resolution to 19,2 Mbps MPEG2 mp@hl (main profile high level) in 720p @ 60 Hertz format.  The contents were captured directly from a JVC camera towards a PC, from where they visualized and they transmitted by means of software Videolan towards Korea [7][8].
+
+The high resolution contents with studio quality were transmitted at 270 Mbps in compressed format, through HDTV platform of i2CAT.  The transmission system is made up of transmitting equipment which by means of a video card and specialized software packets with the high resolution contents in compressed format (SDTI) so that they can be transmitted on IP, this flow was transmitted from i2CAT towards KREONet2.
+
+In reception an equipment similar to the transmitter unpacks SDTI frames sending them to a of decompression Codec, which is in charge of receiving the SDTI signal at 270 Mbps and to pass it to 1.5Gbps, the compression-decompression process is made without loss.  Finally the 1,5 Gbps signal can be visualized in the laboratories of ANF Korea.  In reception a very good quality of the contents transmitted from i2CAT of high resolution to was perceived as much 19 Mbps as of high resolution with studio quality.
+
+Conclusions
+
+We can conclude that one has been able to transmit high resolution contents through a tricontinental optical connection of high benefits.  Also the optical connection provided the necessary benefits so that the high resolution contents are visualized in Korea with the sufficient quality.
+
+Acknowledgements
+
+This experience was made thanks to the collaboration between the Foundation i2CAT, CRC, ANF Korea, CESCA, RedIris, CANARIE, Dante-GEANT, KISTIy Research Channel.  
+
+References
+
+[1]	University of Washington. Internet HDTV. http://www.washington.edu/hdtv/
+[2]	Jing Wu, et all ¡°User Managed end-to-end lightpath provisioning over CA*net 4¡± NFOEC Tech.Proceedings 2003
+[3]	Jing Wu, J. Michel Savoie, Bill St. Arnaud. ¡°Peer-to-peer optical networking architecture, functional requirements and applications. World Scientific April 2002
+[4]	I2CAT. HDTV sobre IP.  http://www.i2cat.net/i2cat/servlet/I2CAT.MainServlet?seccio=21_12
+[5]	H. Zhang, J. Wu, S. Campbell, M. Savoie, G Bochmann, B. St. Arnaud. ¡°A distributed Testbed for a UCLP system using Jini /javaspaces Technologies. ECOC 2004
+[6]	Iperf. http://dast.nlanr.net/Projects/Iperf/
+[7]	ANF Advance Network Forum. Korea http://www.anf.ne.kr/ 
+[8]	ANF HDTV http://hdtv.nm.gist.ac.kr/ANF 
+

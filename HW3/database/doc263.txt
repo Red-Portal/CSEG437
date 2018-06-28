@@ -1,0 +1,74 @@
+Recently, I blogged that I was going to be given the opportunity to review the Nokia N900. I¡¯ve now had the phone for a couple of weeks and am going to set out my thoughts on it below. 
+Before I do so, I would firstly like to say thanks to the staff at Womworld/Nokia for giving me a chance to participate in this trial. It has been a pleasure and a privilege.
+
+I should mention that I don¡¯t own a smartphone, nor have I used one extensively prior to this experience. (I¡¯ve played about with other people¡¯s iPhones a little, but never for long.
+ iPhone owners guard their toys jealously!) My usual phone is great for phone calls and text messages (naturally), and works pretty well with web sites which are optimized for mobiles. 
+It will often choke on a regular web site however. I also use a neat little Gmail app from Google, which is a joy to use on even the simplest of phones. This is about the sum total of my mobile 
+phone computing experience.
+
+Going from that relatively humble background to the Nokia N900 is quite a leap. Somehow, to call this device a ¡°phone¡±, even a ¡°smartphone¡±, doesn¡¯t quite do it justice.
+ This really is a mobile computer ? which also happens to make phone calls!
+
+In many ways, I feel that I only scratched the surface of what the phone can do (unfortunately it came during an insanely busy time at work, 
+when I was putting in all sorts of extra hours on a new project). I didn¡¯t really have time to get into the more esoteric features, but I¡¯ll try to cover the basics below.
+
+The phone¡¯s operating system, named Maemo, is Nokia¡¯s own (mostly) open-source creation for high-end smartphones, based on Debian Linux. Just as I received the phone,
+ it was announced that Maemo was merging with Moblin (originally Intel¡¯s mobile computing system, now under the auspices of the Linux Foundation). The new joint operating system will be known
+ as Meego. Although I have zero prior experience with Maemo, I have used Moblin on my EEE PC. It was still in very early development when I tried it, and I ultimately replaced it with something else, 
+but it¡¯s interesting to speculate where this venture will go. Nokia seems to be embracing open source software freely these days, as they¡¯ve already open-sourced their Symbian software too.
+ I would guess that they want to create a strong contender to Google¡¯s (also open-source) Android platform. It pleases me greatly to have choices like this in the mobile market. I¡¯ve mentioned 
+several times on this blog that I won¡¯t buy an iPhone (although they are delicious), as I won¡¯t be subject to Apple¡¯s capricious decisions on what features their users can have this week. 
+And you can cross the iPad off my Christmas list for the very same reason. How incredibly arrogant is Steve Jobs to decide that his customers don¡¯t need Flash or USB ports!?! But I digress ¡¦
+
+Upon opening the box, my first impression of the N900 was that it was large. It¡¯s much larger than my usual phone and a good bit thicker too. This isn¡¯t necessarily a criticism, merely an observation. 
+Obviously a larger footprint offers a significantly larger screen size and I¡¯d say a resolution of 800¡¿480 pixels is none too shoddy! The phone has a slide-out qwerty keyboard, which again contributes
+ somewhat to the phone size. Flipping the phone over reveals the camera lens. The phone has a 5 megapixel camera with Carl Zeiss optics. It has built in flash, auto-focus, as well as
+ several other capture modes such as landscape, macro etc. Inside, the phone runs off an ARM processor and has up to 1Gb RAM available to applications. It has 32Gb internal storage,
+ which can be increased with a memory card. Software includes a built in media player for music and video, email, web browsing, instant messaging, PDF reader, calendar, maps, games, 
+contact management, RSS reader, plus a whole host of other goodies from the App store. In short, it does everything my netbook does on a smaller scale. Oh, and did I mention it makes phone 
+calls too!
+
+For first time users, there is a very useful ¡°Getting Started¡± link on the desktop. This launches a little video which gives a short overview of the phone¡¯s main features. I found this very helpful 
+and had the phone connected to my home wi-fi within seconds (it was ridiculously easy!) This allowed me to play about and surf on my internet connection rather than eating into my phone data plan. 
+The video also shows the four virtual desktops that the phone offers. Multiple desktops are no new thing to Linux users, so this was a no-brainer too. The touchscreen interface made
+ it very easy to navigate, as you just dragged your finger from left to right (or vice versa) and it would move on to the next screen. The web browser and media player are easy to locate 
+and (once I figured it out) it was easy to add shortcuts for these, or any frequently used application, to one of the desktops for quick launch.
+
+Connecting the phone to my PC was super easy too. I plugged the cable into my PC¡¯s USB port and selected USB Mass Storage on the phone¡¯s screen, and it showed as an extra drive in Nautilus
+. No messing, no software installations required. This is the way it should be! I dragged a bunch of music and video files over onto the phone without a hitch.
+
+During the trial, I principally used the phone for text messaging, web browsing and the media player (oh, and the odd phone call or two!) Everything worked well and responded snappily.
+ I can¡¯t criticize the performance of the phone at all. It played video seamlessly, sound quality for MP3 files was pretty decent, and surfing on the built-in browser (a customised Mozilla browser) 
+was responsive. Texts and Instant Messages (which I didn¡¯t try) are under the ¡°Conversations¡± icon. This would thread all messages between yourself and a contact on the one screen,
+ which I found very useful. I hate it when you have to scroll back through 20 text messages to find out what you said to someone a couple of days back!
+
+Overall, I¡¯m very pleased with the software on the phone (and no, I¡¯m not just saying that because it¡¯s Linux!) It was intriguing to me to spot regular Linux components within the operating system,
+ like virtual desktops or, gulp, the Terminal! (I was too scared to do anything with the terminal, in case I borked the system. I¡¯m happy pushing the limits of my own equipment and I¡¯ll try 
+anything knowing that if I do break it, I can fix it. But this was someone else¡¯s property and I couldn¡¯t stand the guilt if I¡¯d had to send it back with a contrite note saying ¡°Sorry, I¡¯ve bricked your phone!¡± )
+
+There are a couple of things I wasn¡¯t too happy with. Firstly, battery life. Now to be fair, short battery life is the bane of all smartphones. This is not a problem exclusive to the N900. But, boy, 
+did it have a poor battery life. I listen to music going to and from work (approx. 45 mins each way). I have an iAudio 7 MP3 player, and this thing runs forever! I get about 30 ? 
+40 hours from one charge, so 1.5 hours of music listening doesn¡¯t even make a dent in the battery. On the N900 however, 1.5 hours of music would use up nearly a quarter of a fully charged battery.
+ Throw in a few text messages and a couple of phone calls and your battery is fast running out. I¡¯m quite bad for remembering to charge things, which is why I appreciate products 
+with a long battery life. The Nokia N900 was particularly bad in this aspect.
+
+
+Nokia N900 casing
+The other thing that bugged me hugely relates to the design. The camera lens on the back of the phone sticks out slightly (I¡¯m talking maybe 2 or 3mm here). This doesn¡¯t sound much, 
+but it means that the phone won¡¯t sit flat. If you press one end, it wobbles slightly.  You have to sit the phone with the camera-side down in order to interact with the screen, 
+and every time you press the screen the phone tilts slightly. I could live with this for the occasional screen tapping, but where it becomes really annoying is when you are using the 
+slide-out keyboard. The keyboard is small, but you quickly get used to it and could probably build up a reasonable typing speed. But, every time you press a key, the phone tilts slightly. 
+Two-fingered typing was just too annoying. I ended up holding the phone steady with one hand, while typing with the other. You can of course hold the phone in both hands and type 
+with your thumbs, but I would have preferred to use my hands for typing and not steadying the phone. It just seems like incredibly bad design to me. Surely they could have recessed the 
+camera ever so slightly, so that it sat flush with the rest of the casing and you could sit the thing flat on the table. It does have a little stand which will prop the phone up at an angle, 
+but I felt this was more for watching video. It was too awkward to use with the stand, particularly when you had to press and hold either the shift key or the function key for entering numbers
+ or other punctuation. I can¡¯t help but compare this to the Apple ethos of design (which I admire greatly). This casing design wouldn¡¯t have been allowed out the door at Apple.
+
+I also found the touchscreen to be a bit hit and miss. There is usually a knack to these things and practice makes perfect, but sometimes I would tap something and the phone will buzz slightly, 
+so you know it has registered the input, but then nothing would happen. Maybe (probably!) I¡¯m just a goof with idiot fingers, but it¡¯s frustrating to have to tap 2 or 3 times before anything happens.
+
+So, to summarise, I feel this is an excellent piece of kit, ideal for people who need serious computing on the go, but don¡¯t want to be lumbered with even a netbook-sized computer.
+ It can easily handle most day to day computing tasks, and is speedy, generally responsive and easy to use. With the power of Linux behind it, I¡¯m sure it could be customised and 
+tweaked to suit any power-user¡¯s needs. The main shortcomings are poor battery life and they need to fix that casing!
+
+I¡¯d give the phone 10 out of 10 for software (with absolutely no Linux bias here!) Hardware gets 6 out of 10 and battery 4 out 10.

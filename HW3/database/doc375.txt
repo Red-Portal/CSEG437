@@ -1,0 +1,10 @@
+Microsoft Project (or MSP or WinProj) is a project management software program developed and sold by Microsoft which is designed to assist project managers in developing plans, assigning resources to tasks, tracking progress, managing budgets and analyzing workloads.
+
+The application creates critical path schedules, and critical chain and event chain methodology third-party add-ons are also available. Schedules can be resource leveled, and chains are visualized in a Gantt chart. Additionally, Project can recognize different classes of users. These different classes of users can have differing access levels to projects, views, and other data. Custom objects such as calendars, views, tables, filters, and fields are stored in an enterprise global which is shared by all users.
+
+Microsoft Project was the company's third Windows-based application, and within a couple of years of its introduction it became the dominant PC-based project management software.
+
+Although branded as a member of the Microsoft Office family, it has never been included in any of the Office suites (Like Visio). This was also the case with Office 2010. It is available currently in two editions, Standard and Professional. MS Project's proprietary file format is .mpp.
+
+Microsoft Project and Microsoft Project Server are the cornerstones of the Microsoft Office Enterprise Project Management (EPM) product. Microsoft Project 2010 features the Ribbon user interface.[1]
+

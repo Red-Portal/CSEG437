@@ -1,0 +1,17 @@
+The ProfileGPU command allows you to quickly identify the GPU cost of the various passes, sometimes down to the draw calls. 
+
+You can either use the mouse based UI or the text version. 
+
+You can suppress the UI with r.ProfileGPU.ShowUI. 
+
+The data is based on GPU timestamps and is usually quite accurate. 
+
+Certain optimizations can make the numbers less reliable and it is good to be critical about any number. 
+
+We found that some drivers tend to optimize shader cost a few seconds after using the shader. 
+
+This can be noticeable and it might be useful to wait a bit or measure another time to get more confidence.
+
+It makes sense to look at the high level cost in each frame and get a feel for what is reasonable (e.g.
+ 
+draw call heavy, complex materials, dense triangle meshes, far view distance)

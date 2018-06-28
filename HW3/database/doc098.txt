@@ -1,0 +1,38 @@
+					MP3
+
+(MPEG Audio Layer 3) An audio compression technology that is part of the MPEG-1 and MPEG-2 specifications. MP3 compresses CD-quality sound by a factor of roughly 10, while retaining most of the original fidelity; for example, a 40MB CD track is turned into a 4MB MP3 file.
+
+MP3 files are played via media player software in the computer, such as iTunes or Windows Media Player, as well as in countless iPods and other handheld players that use flash memory or hard disks for storage (see digital music player). MP3 sound quality cannot fully match the original CD, but millions of people consider it "good enough" especially because they can pack thousands of songs into a tiny pocket-sized player.
+
+
+Ripping
+
+Converting a digital audio track from a music CD to the MP3 format is called "ripping," and ripping software is available as a stand-alone program or a function in a software-based media player such as iTunes and Windows Media Player.
+
+
+Bit Rates
+
+While 128 Kbps (kilobits per second) is considered the norm for good quality MP3 files, MP3s can be ripped to bit rates from 8Kbps to 320 Kbps. The higher the bit rate, the better the sound and the larger the file. The sliding lever in the following dialog box, taken from Windows Media Player 10, is used to select four bit rates for encoding MP3s: 128, 192, 256 and 320 Kbps.
+
+
+ 
+VBR and mp3PRO
+
+MP3 VBR (variable bit rate) is an enhanced format that adjusts the compression based on the complexity of the music (see MP3 VBR). The mp3PRO format generates a file half the size of a comparable MP3 file, but maintains compatibility with many MP3 players (see mp3PRO).
+MP3 Shook Up the Industry
+By the end of the 1990s, music fans discovered that a CD song title converted to MP3 would still sound pretty good even though it was only 1/10th the size of the original CD track. Smaller files meant faster downloading. At an average of 4MB, it took less than 15 minutes to download a file over an analog modem. With a broadband connection on a college campus, it took seconds.
+
+MP3 created a worldwide auditioning system for new musicians who could freely distribute their music to gain an audience. It also let people swap copyrighted titles with impunity. File sharing services such as the original Napster and Kazaa made it a global phenomenon, and the record industry went into a frenzy over violations of its copyrights (see Napster). Today, copyrighted MP3 files are still shared over the Internet. However, online music stores, including the resurrected Napster, sell tunes for a fee, legally and successfully. See peer-to-peer network and DRM.
+
+
+Developed in Germany
+
+MP3 was developed in the late 1980s by the Fraunhofer Institute in Germany. It uses perceptual audio coding to compress the data by eliminating frequencies that would not normally be heard because they overlap and cancel each other. See ID3 tag, iPod, AAC, perceptual audio coding and cuckoo egg.
+
+  
+Proof of the Pudding 
+In this example, a music CD was "ripped" to both MP3 and Wave formats. The 12 original tracks took up 509MB on the CD, while the MP3 files use only 53MB. The Wave files are a bit larger than the CD tracks, but they are both uncompressed digital audio at the same quality level. They both represent digitized versions of all the original sound waves without further analysis of the content to compress the data as is done in MP3, AAC and other formats. 
+
+
+
+Find the latest news, features and reviews relating to "MP3" from CMP's TechSearch.

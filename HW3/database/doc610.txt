@@ -1,0 +1,3 @@
+App Store Connect is a suite of web-based tools for managing apps sold on the App Store for iPhone, iPad, Mac, 
+Apple Watch, Apple TV, and iMessage. As a member of the Apple Developer Program,
+ you¡¯ll use App Store Connect to submit and manage apps, invite users to test with TestFlight, add tax and banking information, access sales reports, and more.

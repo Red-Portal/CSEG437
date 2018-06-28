@@ -1,0 +1,319 @@
+The Development of Location Based Services in Mobile Commerce
+
+Charles Steinfield
+
+Department of Telecommunication Michigan State University
+
+
+
+Abstract
+
+With the more than one billion cellular phones in the world in 2002, joined by other wireless handheld computing devices like personal digital assistants (PDAs) and pocket PCs, there are significant opportunities for mobile commerce growth. Although mobile commerce enables access to goods and service regardless of the location of either buyer or seller, in many situations the specific location of the buyer and seller is critical to the transaction. A host of new location-aware applications and services are emerging with significant implications for the future of e-commerce. Much like the experience with the dot.com era, however, the development of location-based services has fallen somewhat short of expectations. In this chapter, we attempt to provide a realistic assessment of the potential for location- based services, examining the market opportunity, technological origins, likely services, emerging policy issues, and potential future directions.
+
+
+Introduction
+
+Since the dawn of the Web, online shoppers have mainly experienced electronic commerce through personal computers connected to the Internet via some form of fixed line. In the near future this may change, as many e-commerce transactions are expected to occur via a wide assortment of wireless and handheld devices (Economist Intelligence Unit, October 15, 2001). Wireless e-commerce is more commonly known as mobile or m-commerce, and, as noted in other chapters in this volume, is expected to develop into a significant market opportunity in the coming years throughout the world.  Mobile operators in particular view m-commerce as a critical means of increasing average revenue per user (ARPU), since increasing competition has driven down prices for voice services at the same time that costs related to the transition to the next generation digital wireless infrastructure have risen (D'Roza and Bilchev, 2003).
+  Just as with e-commerce, m-commerce can be defined narrowly or broadly. Narrow definitions focus on the ability to complete transactions involving the exchange of monetary value through wireless telecommunications networks (Barnes, 2002; Clark, 2001). Broader definitions, on the other hand, point to "the emerging set of applications and services people can access from their Internet-enabled mobile devices" (Sadeh, 2002, p. 5). The more inclusive definition incorporates a wide range of communication, information, and entertainment, services, as well as alternative business models (e.g. advertising) that do not fit the narrow, transaction-dependent view. Within this set of emerging applications and services is a type of m-commerce that many in the industry feel represents the "killer" application: applications that take the user's location into account in order to deliver a service (VanderMeer, 2001). Examples of such "location-based services" (LBS) include those that identify nearby options, such as when a cellular telephone user seeking information about restaurants is provided only the set of choices in the immediate vicinity. In the next stage of e-commerce and m-commerce development, location-based services (LBS) are expected to play an increasingly important role in helping to differentiate one service provider from another ((Fielt, et al., 2000; Van de Kar and Bouwman, 2001). For this reason, this chapter provides an overview of this emerging class of mobile services, examining the LBS market potential, its technological
+
+
+1    To appear in Priessl, B., Bouwman, H. and Steinfield, C. (eds.), Elife after the dot.com bust, Berlin: Springer, forthercoming.
+
+bases, the potential services, the industry value chain and likely business models, significant policy issues, and potential future directions.
+  Among the conclusions we draw from a review of recent work on LBS, is that while the market potential is great, there are significant barriers to overcome. Technological barriers result from the diversity and cost of approaches to location determination, creating a complex set of choices for operators and a potential interoperability problem that can limit users. The lack of any standard approach to location determination and provision of location data to service providers may hinder market development, especially in the United States. We further find that, despite the promise of LBS for consumers, high costs, standards problems, and privacy concerns may limit the near term market to internal business applications among larger firms. LBS standards, privacy protection, quality of service, and conditions by which third party service providers access location information represent several of the more critical policy issues to be resolved. Finally, in the area of potential future directions, it is evident that location is merely a starting point for personalization and context-aware services that use other relevant information when constructing service offers. Moreover, the rapid deployment of alternative wireless technologies, such as Wireless Fidelity (WiFi or 802.11) is both a threat and an opportunity for cellular operators, and will likely shape the future development of LBS.
+
+
+Contrasting Location Awareness with the Anytime-Anyplace View of M- Commerce
+
+Researchers exploring m-commerce often point to its ubiquity and convenience as the primary sources of subscriber value (Anckar and D'Incau, 2002). The stationary nature of PC and Internet based e-commerce connections limits usage to those moments when a consumer is at home or at work in front of their PC. Potential buyers who are away from their PCs are unable to access information and services, or complete transactions. The anytime-anyplace potential of commerce through wireless devices can overcome this limitation, allowing information to be disseminated and transactions completed when the need or desire arises, even when buyers are in transit and away from their desks or home PC connections. In this conception of m-commerce, the location of buyers and sellers is irrelevant. Rather, a key motivation is to enable access to goods and service regardless of the location of either buyer or seller. Indeed, providing access to distant sellers has often been heralded as an important benefit of e-commerce. The lower search costs and electronic access afforded by the network allow connections to non-local sellers as easily as to local ones, giving rise to such clich? as the 'death of distance' (Bakos, 1997; Cairncross, 1997).
+  Contradicting to this common conception of e-commerce in general, and m-commerce in particular, is the view that in most economic transactions, the location of the buying and selling parties are relevant. In most traditional business-to-consumer (B2C) transactions, for example, buyers normally only consider purchasing goods at retail outlets that are within driving distance of their homes or offices. Even for catalog and network-based transactions, the concept of the location has meaning for at least some aspects of the transaction (Steinfield and Klein, 1999). Obviously, location is required for physical goods delivery, and may influence such transaction elements as the choice of source of supply and delivery mode, shipping costs, relevant taxes, the language for associated information services, available promotions, after-sales service considerations, and so forth. The importance of location in e-commerce has been linked to the relative success of click and mortar e-commerce business models compared to digital pure plays (Steinfield, Bouwman and Adelaar, 2002; Steinfield, Adelaar and Lai, 2002b). Clearly for m-commerce, there are many types of services, such as those providing navigation, directory search, and ticketing/permission for entry, where the location of the consumer is of prime importance. Hence, localization and personalization are additional dimensions of m-commerce value creation (Anckar and D'Incau, 2002).
+
+
+The Emerging LBS Market
+
+As with the early years of Internet-based e-commerce, the initial experiences with m-commerce were somewhat disappointing. This was particularly true in Europe where the first generation of Wireless
+
+Application Protocol (WAP) telephones and services did not meet with much success in the marketplace. Slow connection speeds, high airtime charges, poor quality screens, awkward user interfaces, and limited content and services all were likely contributors to the lower than anticipated usage of such services. Nonetheless, interest in m-commerce remains strong, due to 1) the sheer number of mobile subscribers worldwide, and 2) the increasing proportion of mobile users with mobile data capability. Worldwide there are far more cellular telephones than personal computers in service. The ITU estimates that there were more than 1.1 billion cellular subscribers in 2002 compared to 615 million personal computers. Moreover, the ITU estimates that the number of cellular subscribers surpassed the number of fixed lines for the first time in history in 2002 (ITU, 2003). Increasingly, these cellular handsets are capable of connecting to the Internet, and in some countries such as Japan and South Korea, mobile Internet use is growing rapidly. NTT Docomo reports, for example, that the number of i-mode subscribers now exceeds 38 million, which is nearly half of all cellular phone subscribers in Japan (NTT Docomo, 2003). The i-mode service is NTT Docomo's cellular service that incorporates wireless packet-switched connections for data services, including mobile Internet access. The Korean Network Information Center (KRNIC, 2003) reports that nearly a third of the more than 32 million cellular subscribers in South Korea are mobile Internet users. Meanwhile, European cellular subscribers have demonstrated amply that SMS messages can enable many forms of m-commerce, and both i-mode and second generation WAP services have been introduced. One consulting report pegged the global number of wireless data subscribers at 170 million in 2000, with a forecast for this number to rise to 1.3 billion by 2004 (Wireless Today, 2001).
+  Market estimates and forecasts specifically for location-based services have also been provided. A forecast from the ITU suggested worldwide revenues from LBS would exceed $2.6 billion in 2005, and reach $9.9 billion by 2010 (Leite and Pereira, 2001). A recent report on the CyberAtlas Web site refers to an ARC Group study indicating that LBS will account for over 40 percent of mobile data revenues worldwide by 2007 (Greenspan, 2002). This optimistic forecast further goes on to predict that there will be 748 million worldwide users of LBS as early 2004, up from an estimated 72 million in 2001. The ARC Group believes that by the end of 2004, nearly all wireless-enabled computing devices will use some form of location service. The same article also describes another marketing study by Ovum predicting that the Western European market for LBS will reach $6.6 billion by 2006, and that as much as 44 percent of cellular subscribers will be using LBS (Greenspan, 2002).
+  Although these projections seem overly optimistic, there is some reason to expect that even without an explicit subscription to a location service, most cellular subscribers in the near future will unwittingly be using a location determination technology. This is due to the fact that regulators in most industrialized countries have initiated rules requiring cellular operators to deliver information about the location of a subscriber to public safety answering points in the event of an emergency. In the United States, the Federal Communications Commission issued the E911 mandate requiring every cellular operator to be able to detect the location of subscribers within 50 meters for 67 percent of emergency calls and 150 meters for 95 percent of calls (Federal Communications Commission, 2003; Millar, 2003). This requirement is being implemented in a phased process that began in October 1, 2001 and is to be completed by December 31, 2005. Although virtually all operators have received extensions to their required implementation dates due to technical difficulties, the process is still ongoing. The European Union is similarly developing requirements for cellular operators for their e112 emergency services (D'Roza and Bilchev, 2003). These are not meant to be e-commerce services, per se, but have had the effect of pushing mobile network operators to build out the location detection infrastructure which can then be exploited for other commercial  purposes.
+
+
+Approaches to Determining Location
+
+In wireline-based e-commerce, users are normally asked to input their location (e.g. in the form of a postal code) in order to filter service options based on the users' whereabouts. In the more current conception of wireless LBS, the user's location is determined automatically, without requiring him or her to explicitly provide it. There are many different techniques that have been developed for automatic location identification: some more appropriate for outdoor environments, and some better for indoor locations. In this section, we first overview the major technical approaches to determining location, and then review a taxonomy of LBS technology characteristics.
+
+  Most discussions of positioning technology focus on the task of locating users in outdoor environments, and can be divided into three broad categories: those where the mobile unit calculates its own location, approaches where the cellular network calculates the location, and hybrid approaches that combine two or more techniques (Djuknic and Richton, 2002; D'Roza and Bilchev, 2003; Levijoki, 2000; Millar, 2003). The basic attributes of these approaches, including strengths and weaknesses are summarized in Table 1.
+
+Table 1. Alternative Positioning Technologies for Location-Based Services
+
+
+
+
+
+Handset Based
+
+Basic positioning approach	Strengths	Weaknesses
+
+GPS	Triangulation method using timing signals from 4 satellites out of a system of 24 satellites.
+
+highly accurate no new network infrastructure required enhanced privacy for user
+
+no indoor service, poor coverage in urban "canyons" new handsets required
+power requirements bulky size of receivers
+delay in calculating location
+
+Forward Link Trilateration
+
+
+
+Observed Time Difference and Enhanced Observed Time Difference
+
+The mobile unit times the arrival of signals from multiple base stations, but sends the time differences to a location processor to determine location through triangulation
+Timing signals are sent from multiple base stations and software in the handset performs triangulation calculations to determine location
+
+reduced complexity, and cost for handset
+
+
+
+enhanced privacy for user
+
+some modification to handset
+network investment required
+
+some modification to handset
+some network investment
+
+Cellular Network-Based
+
+Cell ID (also calledUses the location of the base stationavailable nowlower accuracy,Cell of Origin)currently handling a call to represent theno handsetespecially in largesubscribers location. Accuracy can bemodificationsrural cellsincreased by sectorization (usinglow costloss of privacy fordirectional attennas at the base station)userTime of ArrivalTriangulates the location of thegreater accuracyinferior accuracy(TOA) and Timesubscriber using timing of signals sentthan Cell IDfor TDOA inDifference offrom the mobile unit to at least threecan determineanalog andArrival (TDOA)different cell sites. TDOA requiresvelocity and headingnarrowband digitalsynchronization among base stations andin addition tosystemsuses differences in arrival time.positionnew equipmentTOA does notneeded at baserequire any handsetstationsmodificationsTDOA requiresmodification tohandsetloss of privacy foruserAngle of ArrivalCalculates the position of the subscriberno handsetproblems caused by(AOA)based upon the direction (angle) of themodificationsmultipath receptionarriving signal into two or more basespecial antennasstationsand receiversneeded at basestationsloss of privacy foruserMultipath analysisDetermines location by comparingno handsetnew receivingpattern of reception from subscriber withmodificationsequipment neededprevious reception patterns stored in aat base stationsdatabasedevelopment and
+
+
+
+
+Hybrid Approaches
+Assisted GPS	GPS receivers are embedded in the
+cellular network which assist a partial GPS receiver in the handset, reducing the calculation burden
+
+
+
+
+
+
+eliminates many of costs imposed by GPS on handsets (e.g. can be smaller, longer battery life, etc.)
+reduces the delay in calculating location offers some control to user
+
+updating of database
+loss of privacy for user
+
+new handsets required
+
+Other combinations,
+e.g. TDOA/AOA
+
+use multiple techniques to extend coverage and improve accuracy
+
+increased accuracy more robust
+
+cost of network infrastructure needed
+loss of privacy for
+
+ 	user 	
+
+  Other than GPS, most of the techniques depicted in table 1 are not yet widely implemented and require significant investment by either network operators, mobile subscribers or both. Moreover, GPS-bases solutions do not work in indoor settings, as there is no line of sight with satellites. A number of quite different techniques for the provision of location specific services to users in indoor environments have been studied. These indoor techniques are more rooted in the work on pervasive computing than cellular telephony, and are more likely to target users with laptops and personal digital assistants than cellular telephones.  In general, most indoor approaches determine a users location simply by virtue of the fact that a device is within range of a low power transmitter or receiver (e.g. a wireless LAN base station), making them conceptually similar to a cell of origin approach in a GSM network. Table 2 lists the primary indoor LBS technologies.
+
+Table 2. Indoor Techniques for Location Specific Services
+
+
+
+Technical Approach	Description
+
+Infrared		Infrared sensors placed in throughout a building (e.g. in the ceilings) can be used to detect a person wearing a device (e.g. a badge), that periodically emits an ID code via an infrared transmitter (Want, Hopper, Falc? and Gibbons, 1992). The location of the badge wearer is determined by proximity to the sensor receiving the badge ID. It requires visual line of sight to function, and normally does not have very high accuracy (known as resolution). Moreover, it cannot work when the device (e.g. a PDA) is in a user's pocket.
+Ultrasound		Ultrasound transmitters known as beacons send signals to a receiver, allowing the device to calculate its location based on proximity. These systems also send reference radio signals, and using timing differences between the ultrasound and radio signals to achieve very high accuracy, even to the point of determining the orientation of the target (Harter, Hopper, Steggles, Ward and Webster, 1999; Priyantha, Chakraborty and Balakrishnan, 2000).
+Radio Frequency (RF)		A target with a reflector or transmitter emitting a low power radio frequency signal can be detected by receivers strategically placed around a building. The target normally transmits some sort of ID information, and its location is determined either by proximity to a receiver, or triangulation from received signal strengths to multiple receivers (Levijoki, 2000). It doesn't require line of sight, but signal strengths are very sensitive to conditions (e.g. furniture, people) and so resolution is limited. RF tags known as RFIDs are being widely implemented for asset tracking in warehouses as a replacement for bar coded tags, and so costs are such systems are dropping.
+Wireless LAN (WiFi)		Although primarily used to provide Ethernet connections and Internet access to laptop computers equipped with wireless LAN cards, such systems can provide gross location information simply by virtue of determining which users are being served by a particular
+
+
+base station. Given that such stations have ranges of roughly 50 meters, this provides some degree of location information. As more mobile devices such as Pocket PCS and other PDAs support the 802.11b standard, it is possible to use such systems for location- aware service provision. For example, Carnegie Mellon University uses a campus-wide 802.11b wireless network to provide guided tours to visitors of the campus.2 Visitors carrying handheld computers receive location-specific information as they walk from area to area around the campus. As more commercial 802.11 networks are rolled out in public settings, this may prove to be a low cost method for location bases service provision.
+Bluetooth		Bluetooth is a radio frequency standard for very short range (10 meters) ad hoc networking to support what are called personal area networks (PANs). Although mainly conceived for wire replacement (e.g. between headphones and a portable music player), such systems could also be used for proximity-based location services when a Bluetooth
+ 	device comes within range of a service point. 	
+
+  As noted in Table 2, many of these approaches exist in campus or laboratory test environments, although wireless LANs, Bluetooth, and radio frequency ID tags (RFID) have been widely implemented for other purposes. Such systems, especially because they are largely operating in the unlicensed spectrum, can be quite low in cost since they are mass-produced and there is no cost to the "airtime."
+  A useful taxonomy of LBS technology attributes is given by Hightower and Borriello (2001). They note six attributes that can usefully distinguish techniques for determining location. These include:
+
+Physical versus symbolic location. Some systems, like GPS, provide a physical location in terms of latitude, longitude and elevation. Other systems offer a symbolic location, such as the target being in a particular room or in a certain neighborhood. Intermediate service providers can take the supplied physical coordinates and convert them into symbolic references that are more meaningful to users.
+Absolute vs. relative location. GPS, cellular systems and many indoor systems mentioned above provide an absolute location, either in terms of a common coordinate system (e.g. latitude and longitude) or a symbolic name. Other location systems are best considered to be proximity systems and report the relative location of people or objects compared with some reference (e.g. how far one device is from another). Again, location service providers might calculate proximity from absolute location data of different objects, enabling, for example, people to know who else from a set of contacts is nearby.
+Localized location computation. In some systems, such as GPS or the observed time difference approaches in cellular systems, the handheld device uses information supplied by the network to calculate its own position. This means that the network does not know where the subscriber is unless the subscriber is willing to reveal this information, affording more privacy protection. The alternative systems that rely on network-based calculations, such as the timing of arrival or multipath approaches automatically reveal a subscriber's location yielding lower privacy.
+Accuracy and Precision. The varying location systems offer different resolutions, ranging from the few centimeters possible with ultrasound to several kilometers in rural cell ID approaches.  Precision refers to how often a degree of accuracy can be expected.
+Scale. This characteristic refers to the size of the area within which location of objects is feasible. GPS systems, for example, work worldwide, a cellular system might focus on a country or a city, an 802.11 wireless LAN network might locate objects in a campus or large building, and an infrared system might locate objects in a room or a building. Hightower and Boriello (2001) recommend assessing scale in terms of the coverage area per unit of infrastructure and the number of objects that can be located per unit and time interval.
+Recognition. This feature refers to the ability of the location system to recognize specific aspects or identities of the object being located. It involves more than knowing the location - it can include recognition of object data that will trigger specific actions by the system. Hightower and Boriello (2001) use the example of a baggage handling system that, upon recognizing destination codes on baggage, route bags to one place or another. GPS systems do not have this attribute, but cellular operators will likely want to be able to at least recognize valid LBS customers.
+Cost. Obviously, the various approaches all have quite different costs. A full assessment would examine how much infrastructure investment is required to implement the system as well as how much it
+
+
+2   http://www.esite-cmu.org
+
+would cost users to acquire the necessary handset equipment.  Systems might also have quite variable maintenance costs, such as the database updating required by multipath systems.
+
+  Clearly there are a wide array of approaches, and many features upon which systems may be compared. This diversity, although good for innovation and choice, may actually be inhibiting LBS development, since there are not yet fully agreed upon standards. This topic will be addressed as one of the policy issues related to location-based services.
+
+
+Applications
+
+A wide range of services that rely on users' location information have been conceived, although the markets are not yet mature. The main point is to remember that location is simply a useful bit of data that can be used to filter access to many types of geographical information services (GIS). There are numerous ways to exploit location to provide more relevant information, or derive new services. It can be particularly powerful when combined with other user profile information to offer personalized and location sensitive responses to customers (Searby, 2003). Van de Kar and Bouwman (2001) distinguish between emergency services, mobile network operator services, and value-added services (VAS), focusing on the latter category as the primary e-commerce opportunity. In the VAS category, they describe a number of different service areas, including information, entertainment, communication, transaction, mobile office and business process support services. Levijoki (2000) offers a simpler categorization scheme, distinguishing between billing, safety, information, tracking and proximity services. D'Roza and Bilchev (2003) classify services into two broad categories: those that are requested by users once their location is determined, and those that are triggered automatically once a certain condition is met (e.g. a boundary is crossed). We might consider the former set to be "pull" services and the latter to "push" services. In addition, D'Roza and Bilchev (2003) identify five groups of application areas: communication, fleet management, routing, safety and security, and entertainment. We can also classify services according to whether they apply to consumers, business customers, or employees in a firm. Some of the most commonly discussed services are briefly described below.
+
+
+Emergency, Safety and Medical/Health Services
+
+As noted earlier, many governments are moving to require cellular operators to develop the capability to automatically identify subscribers' locations in the event of an emergency. This data would then be forwarded to the appropriate public safety answering point (PSAP) to coordinate the dispatch of emergency personnel. These are not necessarily revenue producing services in their own right, but it is possible to conceive of medical and safety services that would be offered on a commercial basis, particularly if LBS were combined with telemedicine techniques that would allow physiological data to be transmitted back to health care providers.
+
+
+Information  Services
+
+Mobile users can be provided with a wide range of localized information. Weather forecasts, tourist attractions, landmarks, restaurants, gas stations, repair shops, ATM locations, theaters, public transportation options (including schedules) are just a few examples of the types of information that would be more useful if filtered by the user's location. Gazetteer services link current and historic geographic names to spatial data. More sophisticated services will depend on the development of richer geographical information systems. For example, a query about local theaters might be extended to focus only on those playing a specific movie. Or, rather than look for particular types of businesses, a customer may input a specific product, and ask for all businesses in the area that carry it. If the database includes other product information, such as prices and other terms, then real time comparison shopping may be feasible en route or even inside stores.
+
+Navigation/Routing
+
+In addition to identifying the location of various destinations, location-based services can also be employed to guide users along the best routes. Automobile manufacturers are already offering services such as GM's Onstar, using vehicle-based GPS receivers and mapping/route guide services in selected cars. Collectively these types of services are often referred to as telematic services and automatic vehicle location services by the automotive companies. If integrated with real time traffic data, such route guide services may also make routes contingent on current traffic conditions.
+
+
+Transactions and Billing
+
+Cellular operators are beginning to offer different rates based on the location of callers (e.g. in a designated home area). E-commerce services might include use of the wireless device to make payments for tickets at theaters and on public transportation, vending machines, and for goods in shops to speed up checkouts. Often this capability requires that wireless devices exchange payment information with local POS devices. In the US, for example, a company called Merchant Wired is putting wireless LANs into shopping malls so that small stores can have this capability (Brewin, May 30, 2001).
+
+
+Asset Tracking and Fleet Management
+
+Location services can be used to track the locations of people, pets, objects, vehicles, etc. Trucking companies are putting in their own systems, for example, that not only track the location of vehicles, but also the contents inside delivery trucks using an onboard wireless LAN. Last minute delivery changes can be made based on truck inventory and location (Brewin, June 11, 2001), enhancing efficiency and customer service. Tracking can also be combined with navigation services to help with route optimization for deliveries. Tracking services can also aid in preventing theft of valuable items, and even in locating people (e.g. lost children), or pets.
+
+
+Mobile Office
+
+Many applications are targeted to employees that are out of their offices. In general, these will be internal information systems applications, but may involve partnering with location-based service providers for their implementation. Some applications have to do with the provision of location sensitive information, such as updates or changes to customer account information when field representatives are in proximity to specific customers. Given the limited screen space of mobile units, even emails might be filtered so that only those that re critical or relevant would be forwarded to a field agent, while others remain on the server. Scheduling applications might also take into account the location of workers.
+
+
+Entertainment
+
+  There are many possibilities for location-specific entertainment services using a mobile device. One of the more well-known location services now in use is a game called BotFighters, developed the gaming company It's Alive and offered by Telia Mobile (Norris, 2003).3 In this game, subscribers use the location determination capability of the network and SMS messages sent from their mobile phones to locate and "shoot" imaginary robots (other players). They must be close enough to the target to be able to "hit" them. New versions using Java-equipped handsets have even more functionality, and the game is spreading to other markets like the UK (Norris, 2003). Other entertainment applications that have been discussed include dating services, DJ requests in clubs, person-to-person messaging in a closed setting like a concert.
+
+
+
+
+3 see http://www.botfighters.com and http://www.itsalive.com/ for more information.
+
+Proximity Services
+
+Another category that overlaps with many of the above application areas is that of proximity services. These services inform users when they are within a certain distance of other people, businesses, or other things. Examples include those discussed in the information category, such as when users are informed of the closest desired business (e.g. in response to queries about the closest gas station or ATM), or the BotFighter game mentioned under entertainment. Other services have been introduced based on knowledge of the proximity to other mobile devices (and, hence, the people that are carrying them). For example, NTT DoCoMo offers a "friends finder" service on its iMode system (Levijoki, 2000). Users predefine which friends are allowed to know their location.
+
+
+The LBS Value Chain and LBS Business Models
+
+There are many different players that may be involved in bringing location-based services to the market (Pearce, 2001; Sadeh, 2002; Spinney, 2003a). Among the parties involved are:
+
+Geographic information service (GIS) and other content providers who offer a range of mapping services and geographically oriented content, often accessed via a server known as a geoserver.
+Service providers who aggregate GIS and other content to create services Application vendors who package services for mobile operators
+Location middleware providers who provide tools to facilitate mobile operators' use of various applications from different providers.
+Mobile operators who manage the infrastructure, collect the position data, offer the service to end subscribers, and perform billing and collection services
+Location infrastructure providers who sell the mobile location centers and other hardware and software to network operators
+Handset manufacturers who sell devices capable of interacting with location-based services
+
+  Each of these parties stands to earn revenue from location -based services, but the whole chain requires standard data formats and interfaces to work effectively (Spinney, 2003a). If each individual application has its own proprietary format, the costs to launch a suite of services for consumers would be prohibitive for mobile operators.
+  The business models for LBS will most likely vary considerably across services. Sources of revenue for service providers may include subscription fees for a bundle of service available via a portal, subscription fees for specific services, advertising, connection and airtime fees, fees for content, transaction fees or margins on the price of products ordered (D'Roza and Bilchev, 2003; Sadeh, 2002; Van de Kar and Bouwman, 2001). In some cases, such as for emergency 911 services, the operators may collect revenue to pay for the services through regular phone subscription fees. Another source of revenue may come from businesses that pay a fee in order to be included in location-based business directories, even if the service does not include any push-based advertising. Indeed, many privacy advocates have expressed opposition to the use of advertising that is pushed to the client, rather than specifically requested, suggesting that this is unlikely to be a viable revenue stream.
+  Most likely, LBS will use various combinations of revenue models. For example, customers may be offered the choice between advertiser and non-advertiser supported services, with the former provided at no cost and the latter provided for a fee.
+  In addition, many location-based services will be offered as a business service to companies, targeting their employees. In these cases, the service will resemble something like a private network, with bulk or volume discounts offered to large business clients. Individual employees will not be charged. For firms, the motivation will be to enhance employee productivity and make particular business processes more efficient. Some analysts, in fact, believe that this will be the primary early market for location-based services (Economics Intelligence Unit, October 17, 2001; November 1, 2001).
+
+LBS Policy Issues
+
+The emergence of location-based services raises many important policy questions. We briefly highlight four issues in this section, including the potential dangers due to loss of privacy, the issue of who controls location information, problems associated with quality of service, and the need for standards.
+
+
+Privacy
+
+A great deal has already been written about the potential privacy problems of location-based services (Beinat, 2001; Clarke, 2001; Hamblin, 2001; Levijoki, 2000; Thibodeau, 2000). One of the biggest concerns is that it can be possible to compile a very detailed picture of someone's movements if they are carrying a wireless device that communicates its location to network operators. The potential for abuse of this information ranges from the mildly irritating (a shop sends an unsolicited advertisement when a mobile user approaches) to the more serious (firms use location information on field employees to impose strict performance measures, or potentially embarrassing information is released) and even dangerous or repressive (criminals determining the right time to intrude on a subscriber's house, or an improper conviction made based on circumstantial location information) (Beinat, 2001; Clarke, 2001). Firms may find themselves facing ethical questions when using location information of customers, such as an insurance company that charges higher rates for clients that drive in dangerous areas.
+  The industry response to these concerns has been to conceive of all services as requiring customer "opt- in." That is, location information would only be released to those service providers offering a service that a customer has chosen to receive. In the US, federal legislation considers location information to be customer network proprietary information (CPNI), and can only be released with prior customer authorization except for emergency situations.
+  Despite this general opt-in policy, the dangers to privacy and personal freedom remain, as noted by Clarke (2001). This is because users may not realize all of potential privacy implications at the time they consent to use such services. Moreover, even without consent, the transfer of such information to third parties or law enforcement officials may be forced through court orders or subpoenas.
+  The ownership of location information is also troublesome on systems that use WiFi or technology relying on unlicensed spectrum. The main problem is that normal methods of enforcement of good behavior by the service provider, such as licensing, may not available.
+  To help deal with these concerns, privacy advocates have compiled a set of principles to guide the provision of online services in general, and LBS in particular. These principles, elaborated in Beinat (2001) and Langheinrich (2001) include:
+Notice. Users need to be provided with complete information about what information is to be collected, how it will be used, how it will be stored, who will have access, and what options they have regarding their location-based information.
+Choice. Users should be able to decide when information about their location and use of location-based services will be released, and whether they wish for it to be released or not. They should also be allowed to remove or change the information about themselves to maintain accuracy.
+Consent. An explicit written contract indicating consent to use location information should be signed, rather than an operator simply declaring that this information is being collected.
+Anonymity. If users' identities can remain anonymous, operators should be able to collect location information for statistical or planning purposes.
+Access. There should be enforceable controls over who has access to user location data, and third party service providers should only be able to access that data required to provide their service.
+Security. Information that is stored must be accurate, and users should be protected from loss, misuse or unauthorized access or alteration. In addition, the data should not be stored any longer than necessary, and if transferred to another party that is required for a service, it should be under secure conditions.
+
+Economic Control of Location Information
+
+In the value chain for the provision of location-based services, depending upon which method of determining location is used, service providers may be dependent upon cellular network operators for access to customers' location data. If the network operator had a competing location-based service, then they may have an incentive to either not make this information available, or to make it available on terms that place the competing service provider at a disadvantage.  Policy makers will need to make clear exactly what the obligations are for the provision of location data, in addition to ensuring that informed consent is enforced.
+  Analysts have also cautioned network operators to avoid the "walled garden" approach to location-based service provision (Economics Intelligence Unit, October 15, 2001). Operators might be lured by the opportunities for a larger share of the revenue if they provide their own restricted and branded set of services to users. Experience with WAP portals, and earlier generations of information services suggest that this strategy will fail. On the other hand, the fastest growth of wireless data services appears to be in Japan's iMode system, which does not restrict customers' access to third party services that are independent of the operator's brands (FCC, 2001). I-mode also offers a full complement of location-based services known as i-area (Sadeh, 2002).
+
+
+Quality of Service
+
+Operators have chosen different methods for determining location, and with varying costs and accuracy. Some location-based services may require more accuracy than others (Fielt, et al, 2000). For example, driving directions may require an accuracy of 30 meters, while location-sensitive billing or mobile yellow pages may only need to locate a user within a range of 250 meters (Sadeh, 2002). Moreover, if operators are using a GPS solution that requires a minute or more for the time to first fix, then such delays might result in quite inaccurate positioning in fast moving vehicles. Customers may not be able to obtain the requisite quality of service on a particular provider's network.
+  A more serious quality of service issue faces service providers who use the unlicensed spectrum. The introduction of wireless LANs in public settings, with fee-based access, creates an expectation for a certain quality of service. However, service providers might have little control over others' use of the same spectrum in that area, since it is unregulated and services might suffer from interference.
+  Another related issue is the extent to which location-based services will interoperate with different user terminal equipment. If a user roams, for example, to another state, region, or country, will their terminal equipment still be able to work with the available network infrastructures to determine location and provide LBS? Manufacturers and operators are working together in the Location Interoperability Forum to help avoid fragmented supply of services4.
+
+
+Standards
+
+The ability to rapidly create and implement services, maintain service quality and enable roaming across different mobile networks depends on the development of industry-wide standards. The lack of standards, especially in positioning technologies, is stifling industry development. This is especially a problem in the United States where there are many competing cellular networks using different air interfaces and network infrastructures with pockets of coverage on a market by market basis rather than with national licenses.  In a report to the FCC on the status of wireless E911 implementation, Hatfield (2002) notes that such services require an unusually high degree of coordination among the stakeholders, and will depend on standards. He sees the lack of such standards as key problems likely to cause delays in meeting the commission's objective.
+  Many organizations are involved today in the development of location based services. The global Third Generation Partnership Project (3GPP), through which the various standards bodies around the world are attempting to create a smooth transition to third generation wireless networks, deals with location-based
+
+
+4 The Location Interoperability Forum is now a part of the Open Mobile Alliance.  More information is available at http://www.openmobilealliance.org.
+
+services primarily in its Services and Architecture Working Groups (Adams, Ashwell and Baxter, 2003). The Location Interoperability Forum (LIF) is another venue where industry players gather to achieve consensus on technical standards in the location infrastructure. The Open GIS consortium focuses on standards for expression of geospatial data. They, along with the WAP Forum and LIF have now all joined together into a new association called the Open Mobility Alliance. Standards are required not only for the position determining technologies, but also for the services and interfaces among content and application providers, for privacy-related procedures, and for the testing of system accuracy (Adams, et al., 2003; Hatfield, 2002).
+
+
+Future Directions
+
+It may seem a bit premature to discuss the future of the location-based service industry given its relative state of immaturity. Nonetheless, the extensive work in the computer science community on pervasive and context-aware computing further suggests that future systems will incorporate more than location information and data drawn from personal profiles in the provision of services. Rather, embedded sensors are likely to enrich the services with a wide range of additional context data. Additionally, the proliferation of unlicensed wireless and the rapidity with which both wireline and cellular operators have moved to integrate 802.11b options into their portfolio of services suggests that convergence across between indoor and outdoor systems is likely to occur.
+
+
+Context Awareness
+
+Up to now, most service providers are focusing their attention on location as the primary type of information to use when customizing services for subscribers. However, researchers active in the area of mobile computing consider location to be only one aspect of a users' context. Over the past decade, computer scientists have been exploring a variety of ways to make computer-based applications sensitive to location as well as other contextual information (Abowd, et al., 1997; Harter, et al., 1999; Hightower and Borriello, 2001, Schmidt, 2000; Schmidt, et al., 1999; 2000; 2001; Want, et al., 1992). Context may include both user provided profile information, as well as other aspects of context that may be detected by the system. One trial WAP application, for example, involved the provision of a context-sensitive phonebook to users before they made a call.  The system used certain icons to depict the status of names in a user's phone directory, such as whether a person's phone was on, whether their line was engaged, and so forth.  With this status information, callers may decide to forego a call that will only result in a connection to a message system (Schmidt et al., 2001). Such information can be enriched with user-provided context information, such as "I'm in a meeting right now" or "I'm not busy and would be happy to take a call (Schmidt et al, 2000). While these are not e-commerce applications, per se, it is easy to imagine how interactions between customers and businesses could be enriched by such approaches.
+  Researchers also have explored the use of various sensors in mobile devices to provide other types of context data. Schmidt, et al., 1999 define context as "that which surrounds, and gives meaning to something else." They developed a framework for considering various contextual features, including human factors and physical environment factors. Human factors include information about the user (e.g. habits, emotional state, biophysical conditions), social environment (co-location of others, social interaction), and the user's tasks (what they are doing at the moment). Physical environment factors include the  physical conditions at  the  moment (such as  light, temperature, noise.), infrastructure (surrounding resources such as computers or phones that might be used) and, of course, location (including absolute location and relative location). Applications of such data can range from changes in the system's output depending upon context (e.g. notifications or alerts may be contingent on whether others are around), to simple interface improvements (e.g. turning up the volume in noisy environments, or providing a backlight on the screen in low light conditions).
+  Some of the research on context-aware computing has quite direct implications for e-commerce. First, much of the research has been completed in indoor environments, using such location and context detection technologies as infrared, ultrasound, and low power radio (Schmidt, 2000; Schmidt, et al., 1999; Want, et al., 1992).  Hence, it has the potential to fill in an important gap in the coverage afforded by GPS and some
+
+public cellular network-based location services. Unlike straight wireless LANs, which generally do not determine the location within a building or room, these systems do provide precise positioning indoors. Retailers, for example, may be interested in helping shoppers find products once they are already inside malls or stores, and providing highly local navigation aides (Duri, Cole, Munson and Christensen, 2001, Eklund and Pessi, 2001). Depending upon the granularity of the position detection, as well as user preference information, changing information could be provided to PDAs as shoppers moved about a store or mall. Such systems have obvious application in museums and other tourist areas (Abowd et al, 1997).
+  Other types of context information may come from sensors deployed on machines. Automotive firms talk about "telematic services" as including data about the state of particular components on vehicles, such as their need for repair. This information can be sent from vehicles to car dealers, setting up preventative maintenance appointments prior to breakdowns (Varshney and Vetter, 2001).
+
+
+Convergence Between Location Sensing Technologies
+
+As WiFi systems proliferate, it is possible that they may supply many location-based services simply by virtue of being able to assume that connected parties are within range of a particular base station. This may threaten the viability of some services offered by mobile operators, since increasingly, WiFi hotspots are either free or very low in cost.5 On the other hand, seamless provision of location and context-aware services require a mix of technologies (Duri et al., 2001; Spinney, 2003b). A consumer may initiate a request from his or her car for all businesses in the local area using a GPS equipped PDA or cellular phone. The service provider may provide navigational services to direct the consumer to the appropriate location. Upon entering the business, a local WiFi network may provide additional information, and guide the consumer to their desired product. Some method for handover of such applications is needed, without requiring consumer to re-input product preferences. Spinney (2003b) discusses handover methods that rely on both the location of the mobile phone user and the location of the indoor "hotspot." He further sees future handsets incorporating both cellular and 802.11 capabilities. These connections need to be seamless and without effort, especially if users are paying for access to services.
+  Many applications lose their value if customers, or business users are out of reach once they enter indoor environments. For this reason, we may see greater efforts to integrate applications across the variety of technologies for location-based services.
+
+
+Conclusions
+
+Our overview of location-based services reveals that the market potential is thought to be significant, driven in part by the deployment of automatic location identification systems for emergency response. There are, however, significant barriers to overcome. Technological barriers result from the diversity and cost of approaches to location determination, creating a complex set of choices for operators and potential interoperability problems that, if unsolved, are likely to stifle development. There are many exciting services under development, and some have been operating successfully in such markets as Japan for several years. Innovative applications such as location-based games have achieved a following in Sweden and been introduced into other markets. Despite the promise of LBS for consumers, however, privacy concerns, quality of service problems, fair access to location information, and the lack of standards for technology and service providers may hinder market development and represent critical policy issues to be resolved. Finally, in the area of potential future directions, it is evident that location is merely a starting point for personalization and context-aware services that use other relevant information when constructing service offers. Moreover, the rapid deployment of alternative wireless technologies, such as Wireless Fidelity (WiFi or 802.11) is both a threat and an opportunity for cellular operators, and will likely shape the future development of LBS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

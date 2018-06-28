@@ -1,0 +1,80 @@
+How AMD and Nvidia lost the mobile GPU chip business to Apple ? with help from Samsung and Google
+
+Between 2006 and 2013, AMD & Nvidia fumbled the ball in mobile chips, losing their positions as the world's leading GPU suppliers by failing to competitively address the vast mobile market, enabling Apple to incrementally develop what are now the most powerful mainstream Application Processor GPUs to ship in vast volumes. Here's how it happened, the lessons learned and how Apple could make it happen again.
+Building upon How Intel lost the mobile chip business to Apple, a second segment examining how Apple could muscle into Qualcomm's Baseband Processor business, and a subsequent segment After eating AMD & Nvidia's mobile lunch, Apple Inc could next devour their desktop GPU business, this article examines: 
+
+How AMD & Nvidia lost their mobile GPU business, just like Intel
+
+Apple developed its own mobile GPU without help from AMD or Nvidia, much the same way it created mobile CPUs without help from Intel. In both cases, Apple's silicon design team adapted existing, licensed processor core designs: CPU cores from ARM, and PowerVR GPU cores from Imagination Technology. 
+
+In a sort of bizarrely parallel fashion, both PowerVR and ARM originated as desktop PC technologies 20 to 30 years ago, then jumped into the mobile market after a decade of struggling for relevance in PCs. Both subsequently flourished as mobile technologies thanks to limited competition, and both were selected by Apple as best of breed technologies for the original iPhone in 2007. 
+
+Due in large part to rapid technology advances funded by heavy investment from Apple (thanks to its profitability and economies of scale), both ARM and PowerVR have now become mobile technology leaders capable of shrugging off the competitive advances of some of the same vendors that previously had squeezed them out of the desktop PC market. 
+
+Intel's parallel failure to foresee the potential of Apple's iPhone and adequately address the mobile market--which allowed ARM to jump virtually unimpeded from basic mobile devices to sophisticated smartphones and tablets--has so much in common with the history of mobile GPUs that it's valuable to compare How Intel lost the mobile chip business to Apple's Ax ARM Application Processors, which also details how Apple rebuilt its silicon design team after the iPhone first appeared. 
+
+Looking at the evolution of GPUs provides similar insight into the future and helps to explain how Apple leapfrogged the industry over the past decade--particularly in mobile devices--in the commercial arena of specialized graphics processors that were once considered to be mostly relevant to video games.
+
+
+The origins of GPUs to the duopoly of ATI and Nvidia
+
+
+The first consumer systems with dedicated graphics processing hardware were arcade and console video games in the 1980s. Commodore's Amiga was essentially a video game console adapted to sell as a home computer; it delivered advanced graphics and video the year after Apple shipped its original Macintosh in 1984. The Mac opened up a professional graphics market for desktop publishing and CAD, among the first non-gaming reasons to buy expensive video hardware. 
+
+While Apple and other early PC makers initially developed their own graphics hardware, two companies founded in 1985--ATI and VideoLogic--began selling specialized video hardware, initially for other PC makers and later directly to consumers, to enhance graphics performance and capabilities.
+
+By 1991 ATI was selling dedicated graphics acceleration cards that worked independently from the CPU. By enhancing the gameplay of titles like 1993's "Doom," ATI's dedicated video hardware began driving a huge business that attracted new competition. In 1993, CPU designers from AMD and Sun founded Nvidia, and the following year former employees of SGI created 3dfx; both firms (along with several smaller competitors of the era) targeted the rapidly growing market for hardware accelerated graphics.
+
+Microsoft identified video games--and diverse video card support--as strategic to driving sales of Windows 95. Competition between Microsoft's hardware-abstracted DirectX (and SGI's existing OpenGL) and faster, bare metal APIs driving graphics cards like those from 3dfx initially gave an advantage to the latter, but as abstracted graphics APIs improved there was a brutal shakeout among video card vendors that mirrored the mass extinction of alternative computer platforms (apart from Apple, barely) when Windows arrived.
+
+Two early casualties of that consolidation were 3dfx and VideoLogic's unique PowerVR technology. VideoLogic licensed its technology to NEC to develop graphics for Sega's 1998 Dreamcast games console, and the success of that arrangement prompted the company to exit the PC video card business and pursue a strategy of licensing its technology to other companies instead. In the process, it changed its name to Imagination Technologies. 
+
+Conversely, after 3dfx lost that Dreamcast contract, Nvidia bought up its remains of the once-leading but now struggling company, leaving just two major PC video card vendors by the end of the 1990s: ATI and Nvidia. In 1999, Nvidia marketed its new GeForce as "the world's first GPU," and while ATI attempted to call its own advanced, single chip "visual" processor a "VPU," the label coined by Nvidia stuck. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

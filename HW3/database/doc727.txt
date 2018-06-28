@@ -1,0 +1,18 @@
+In-display fingerprint sensors are here, but not from Apple or Samsung
+
+The first smartphone with an in-display fingerprint sensor is kinda sorta here, and it's probably not from whom you'd expect.
+
+It's not an iPhone, it's not a Samsung Galaxy device: instead, it's a Vivo. (In fact, rumors had already predicted that this would be the case last month.)
+
+The China-based company's device works through a "Clear ID" optical sensor from Synaptics that's hidden below the phone's OLED display. Scanning between the OLED display's pixels, it effectively does the same job as the old direct-contact fingerprint displays (if a tad more slowly).
+
+It does require that you put your finger in an exact spot in order to work, but fortunately a fingerprint image pops up on the spot when needed so you're not fumbling blindly across the display.
+
+Only the beginning
+Up until now, discussion of Synaptics' in-display sensor has mainly revolved around Samsung as it's widely believed that the still-unannounced Samsung Galaxy S9 will have Synaptics' sensor inside it as well.
+
+And technically, it's possible that Samsung will still beat Vivo to the punch, as Vivo didn't actually reveal what smartphone would first include the technology.  There was a display unit on hand at CES 2018 for visitors wanting to try it out for themselves, but it's not clear if this was the actual phone that will ship with the technology.
+
+In a statement, the company said we'll see it sometime in the first half of this year, which may give Samsung plenty of time to get its own device out. On the other hand, China's CNMO site claims we may see it announced as early as tomorrow. 
+
+Synaptics claimed last month that it will have around 70 million of its in-display sensors ready to go this year, so it's possible that Vivo and (possibly) Samsung mark only the first steps in a much wider adoption rate.

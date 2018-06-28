@@ -1,0 +1,38 @@
+Pokemon Go Maker Niantic Plans to Build AR Maps With Users' Help 
+
+Niantic, which developed hit mobile game Pokemon Go, plans to map the world in 3D with its players' help, its chief executive told Reuters, establishing the startup as a frontrunner in a new facet of digital mapping.
+
+What the company describes as an "AR map" is viewed as crucial to advanced augmented reality apps. But how to efficiently collect and process data for it has been a vexing problem that Alphabet's Google, Apple and dozens of startups also have been trying to solve.
+
+Niantic's previously unreported effort relies on its users' smartphone cameras.
+
+"We want players to build out the game board they want to play on," CEO John Hanke, a mapping veteran who worked on Google Earth and Google Street View, told Reuters last week.
+
+
+Google incubated and invested in Niantic.
+
+The technology industry has closely monitored the startup's strategy since Pokemon Go took augmented reality mainstream by enabling users to collect virtual creatures on their smartphones. The game has been downloaded more than 800 million times, according to Niantic.
+
+Camera apps today can digitally render a Pokemon or a new swing set at a playground. But with an AR map as bedrock, an app could raze the entire playground in the augmented reality, enable someone to anchor new virtual structures and allow other users to view the same layout.
+
+AR maps would enrich the "new kind of social activity" Niantic has fostered, Hanke said.
+
+Mapping will start with public spaces such as parks and plazas, he said, declining to specify when. Nor did he disclose how AR maps would fit into Niantic's games, which also include the upcoming Harry Potter: Wizards Unite.
+
+But based on existing features, players would turn on their cameras to visualise characters among their surroundings. Software would generate a map by automatically identifying contours and objects in the scene as a user plays.
+
+They then could compete on a revamped game board shared with nearby players, maintaining a cycle of switched-on cameras and fresh data while helping Niantic overcome the chicken-or-egg dilemma that has slowed map makers lacking a commercial application.
+
+Earlier this year, Niantic acquired startup Escher Reality to advance its effort.
+
+It appears to be more than a side project. Hanke said Niantic would allow third-party developers to use its AR map, which industry executives estimate could become part of a multibillion-dollar global business.
+
+Some rival startups are focused on extracting data from laser scans, while others are emphasising indoor mapping.
+
+Google Maps said Tuesday it would launch an augmented reality feature later this year in some cities that compares live images from a phone to its Street View imagery database to provide directions when GPS is insufficient.
+
+"It's early days but we're excited about the potential for these types of world-scale AR experiences," Google spokeswoman Mara Harris said.
+
+Privacy and data rights may present hurdles, said Brendan Wallace, managing partner at investment group Fifth Wall Ventures, which connects landlords and tech firms.
+
+Pokemon Go has spurred ongoing litigation that it contributed to public nuisance. Businesses are reluctant to cede potentially valuable virtual space and are scared about big companies misusing collected data, Wallace said.

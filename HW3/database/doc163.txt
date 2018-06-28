@@ -1,0 +1,20 @@
+Adding Wireless to Your Older Laptop.
+Almost every new laptop now includes a wireless transceiver built in to the motherboard or attached to it through a special port in the case. However, if your older laptop doesn't include wireless facilities, you can easily upgrade and update.
+
+Holding the card
+Check the instruction manual or consult the manufacturer's telephone support service or Web site to see if your laptop has a built-in compartment for holding a small wireless card. The good news is that this compartment (if your laptop has one) gives you a neat solution to upgrading your computer. The bad news comes in two parts:
+1.The wireless card is almost certainly a proprietary part, meaning that you have to purchase the manufacturer's card at whatever price the manufacturer sets.
+2.Some manufacturers don't encourage users to install cards in this special slot themselves. The manufacturer may have some concern that an improperly installed or poorly shielded card can interfere with other devices that use radio frequencies.
+
+On the transceiving end
+You can purchase a PC Card wireless transceiver, if you want to. These devices, which you can get from a number of competing manufacturers, are plug-and-play upgrades to a laptop.
+Here are some of the disadvantages of using a PC Card for wireless:
+1.Your laptop may have only one or two PC Card slots available, and you may want to use those slots for other things. To counter this problem, some manufacturers combine a wireless transceiver with a network interface card (NIC) adapter, which lets your computer connect to either a wireless network or a wired Ethernet by using this one card.
+2.PC Card wireless transceivers usually include a small antenna that projects from the side of the laptop; you may find the nub of an antenna an unattractive nuisance which you may easily break off, destroying the card or even the PC Card slot itself.
+TIP - If you plan to use a PC Card wireless adapter, get into the habit of removing the card every time you turn off the machine, before you put the laptop away in its case. You may also want to find a small carrying case for the adapter - a box about the size of a deck of playing cards should fit the bill.
+
+Buddying up to USB
+To expand a laptop for wireless capabilities, you can add a device that connects to the USB port. Like PC Card devices, the USB-port approach is a plug-and-play solution. Most USB wireless adapters are about 2 inches long, about two-thirds the size of a tube of lip balm.
+Like PC Cards, you can get USB wireless adapters from a number of manufacturers, which helps keep prices down and features improving over time. And although USB devices do project from the side of the laptop (actually sticking out a bit more than PC Cards), they're less likely to damage the computer if you accidentally dislodge them somehow; the USB port is close to the edge of the case. You still may want to remove and store the little wireless devices when you put the laptop away in a case, though.
+You can install USB devices directly in the port on the laptop, or you can attach them to a hub that connects by wire to the computer. Adding a hub lets you use multiple USB devices.
+

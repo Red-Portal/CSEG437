@@ -1,0 +1,19 @@
+Apple on Monday spent a couple of hours walking developers through the latest bits and bytes of the company's upcoming 
+operating systems. From MacOS Mojave and WatchOS 5 to a TVOS update and, of course, iOS 12.
+The full public release of Apple's latest wares is still a few months out, but if you just can't wait and insist on using 
+iOS 12 right now, here's what you need to know.Apple is releasing iOS 12 in beta form to developers first. The first release is usually the roughest, 
+and bound to have bugs and lead to app incompatibility. This is why Apple takes a cautious approach to the first release.
+Those with a paid Apple Developer account can download and install iOS 12, along with WatchOS 5, MacOS Mojave and the 
+latest TVOS beta through the developer portal.The process involves installing a provisioning profile and downloading 
+the update over-the-air or downloading the full builds and loading through iTunes or Xcode.
+An Apple Developer membership costs 100 per year, and unless you are planning on creating and selling apps, 
+isn't worth signing up for just to get early access to iOS 12.Apple will release iOS 12 as part of its public beta program 
+at some point in June. The official iOS 12 press release simply states the update will join the public beta "later this month,
+" meaning some time in June. Last year, Apple released iOS 11 public beta less than two weeks after the keynote. 
+When the public beta goes live, you'll need to visit beta.apple.com to sign up. Just be sure to make a backup of your device 
+first. Before you even think about installing iOS 12, especially while it's in beta, do your future self a favor and create a
+backup right now. Don't rely on iCloud, but preferably use iTunes on a computer.
+With your iOS device connected to iTunes, select "Backup to this computer" and check the box to create an encrypted backup. 
+Set a password, and let iTunes do its thing.
+Creating an encrypted backup saves all of your account and app passwords. If you should need to restore your iOS device, 
+you can use this backup and not have to enter passwords.

@@ -1,0 +1,31 @@
+﻿Your next phone could have USB Type-C (and that's a good thing)
+
+These powerful, reversible charging ports are all the rage, and are coming to a phone near you. Here's everything you need to know as new USB-C phones rush out.
+
+There's a tiny-but-terrific change happening in phoneland. USB Type-C, or USB-C is a new protocol for the charger port phone makers are embracing in droves. You can learn more about it here, but the bottom line is that the USB protocol for phones, tablets, laptops and accessories is changing for the better.
+
+Reversible and interchangeable
+USB-C basically describes the plug's shape. If you use an Android phone, for example, the connector shape of the previous standard is USB-B and the flat one on your computer is called USB-A. Apple's Lightning port is completely proprietary and won't work with USB-C, despite their similar shapes.
+
+USB-C is reversible, which means that unlike the Micro-USB plug you used on your last phone (a USB-B shape), you can stick in a USB-C cable any which way; either side is "up." No more fumbling around or swearing under your breath when you have trouble plugging in.
+
+Since USB-C will affect the entire electronics spectrum, your USB-C phone can soon share charging cords with other devices, too. A bonus.
+
+Best features slowly coming
+USB-Connector ports also support the USB 3.1 standard, and this is where things get a little confusing. In addition to charging your phone, USB 3.1 will quickly transfer data and videos through the cable. You can also charge other gadgets using your phone's reserves.
+
+But phones with USB-C charging don't automatically support USB 3.1's nifty features (wahhh!). Right now, phones are mostly adopting the plug type, but not the other perks. The rest of the USB 3.1 features will happen eventually, but if your phone already has the USB-C connector, you'll be prepared to take full advantage when other protocols come into play.
+
+In order to take in USB-C's full USB 3.1 bounty, the operating system really does make a difference. The software has to be coded to work with all those extra features other than plain-old charging. Android 7.0 Nougat supports USB-C 3.1 (and so did 6.0 Marshmallow), but even then, device makers have to opt in for their hardware to start using it.
+
+Google's two new headliner phones, the Pixel and Pixel XL use Android Nougat to showcase USB-C. When you plug your cable into the phone and then into your laptop or another device, you'll pull down a software menu that lets you choose the kind of connection you're making: for example, charging, or if you want to use the cord to power another device.
+
+Mo' cables, mo' problems
+Switching to USB-C means you'll have to remember to pack your new cable with you when you leave the house, or stock up on more. It also means you're launching into an awkward period where your gadgets might use different cables. That's a pain to mentally sort out, and a real hassle if you need to then buy a bunch of adaptor cables to make sure your new phone still plugs into your old laptop.
+
+You may need: USB-C-to-USB-C, USB-C-to-USB-B and USB-C-to-USB-A. Many of these extras won't come with your phone in the box.
+
+Coming to flagships first
+It'll take some time to get there, but USB-C is the future. It's already joined devices since 2015, and will feature on almost every phone, major or minor (iPhones excluded). Flagships generally took the lead, although you won't find USB-C in the Samsung Galaxy S7 or S7 Edge (it debuted in the now-defunct, fire-prone Galaxy Note 7).
+
+As the parts become cheaper over time, look for the midrange and entry-level handsets to start getting Type-C, too. Since PCs use Type-C as well, "We should see price points come down fast enough to make it viable throughout the [phone maker's] portfolio," said Carolina Milanesi, chief of research and head of US business at Kantar Worldpanel.

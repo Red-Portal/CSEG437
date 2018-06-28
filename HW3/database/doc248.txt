@@ -1,0 +1,27 @@
+The Smartphone GPS Revolution
+Smartphones are opening the door to location-based services
+By Fred Zahradnik, About.com Guide
+
+
+
+Consumer electronics are in a constant state of evolution, and the status quo never stays in place for long. With the addition of GPS to its iPhone3G smartphone, and the launch of a mostly open developer platform and app store, Apple opened the door to a new world of location-based services via the smartphone. The competition, including Google's Android platform (now available on the T-mobile G1); the Blackberry Storm, and the Palm Pre came charging into the GPS-enabled smartphone market as well.
+
+A report released by electronics specialist firm ABI Research states that in 2009, sales of GPS-enabled phones will climb to 240 million units, an increase of 6.4 percent over 2008. That's even taking the economic downturn into account, and despite the fact that the firm anticipates non-GPS-equipped phone handset sales will decline by 4 to 5 percent.
+
+Meanwhile, makers of dedicated car GPS devices are meeting the challenge with real-time Internet connectivity, their own suites of location-based services, and increasingly powerful features not yet found on smartphones.
+
+Also, dedicated GPS makers are jumping into the smartphone market with their own software products, such Garmin with its Garmin Mobile product for mobile phones.
+
+Blackberry Storm
+Research in Motion (RIM) has released its contender in the smartphone touchscreen category, the BlackBerry Storm. Like its established rival, the Apple iPhone 3G, the BlackBerry Storm features a large (3.25-inch diagonal) color touchscreen that automatically switches between vertical and horizontal views. The large screen makes the Storm a better platform for GPS applications than its more business-like BlackBerry predecessors.
+
+T-Mobile G1
+T-Mobile has unveiled the first mobile phone to be offered running the Google "Android" open operating system, the T-Mobile G1, and the phone includes a built-in GPS receiver and location-based apps, including Loopt.
+
+Palm Pre
+In the Palm Pre, GPS will provide the now smartphone-standard location information and basic directions, and linkage to the Pre's "universal search" feature, which includes Google, maps, and Wikipedia. Sprint Navigation (powered by TeleNav) will be on the phone when it launches. Sprint Navigation includes: turn-by-turn driving directions (by voice and on-screen); a "biz finder" with 10 million points of interest; traffic alerts and intelligent re-routing; fuel prices, and full-color maps nation-wide.
+
+Apple iPhone3G
+With more than 400 navigation apps in its store, the iPhone3G is still the champ in location-based services and apps availability. GPS apps recently covered here include Snocator, Groundspeak for geocaching, and GPS Lite.
+
+The customer is the winner in this ongoing battle to provide the best GPS and location-based services and open-platform apps.

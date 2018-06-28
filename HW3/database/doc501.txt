@@ -1,0 +1,23 @@
+-iPad Problems and Solutions
+
+Since its release in April, 2010, iPad has gone on to become one of the bestselling devices of recent times. This widely popular tablet computer released by Apple has revolutionized the computer world with its cutting-edge technology. However, a lot of users have been experiencing issues with the device. Apple, on its part has tried to resolve these issues by releasing a software update and to a certain extent, this has helped in addressing complaints, but there are still some users out there who haven't got rid of the glitches completely.
+
+Common iPad Problems
+
+With so many people all over the world using this tablet PC, there are bound to be some complaints from certain quarters. This is only natural, and here you will find some of the most commonly seen iPad problems. Issues with Wi-Fi, battery-life, syncing are some of the common issues.
+
+Wi-Fi
+According to users, even a strong Wi-Fi signal fails to get the machine working sometimes. This seems to be a problem with the design and network connectivity of the device itself. In order to fix this, it is recommended to carry out a hard reset of the device. This can be done by pressing and holding the Sleep/Wake button, and then sliding across the screen when the prompt comes up. Press the button again to restart the device, and this will solve Wi-Fi related issues, albeit on a temporary basis. Users will be glad to know that Apple has released a software update for iOS to fix this.
+
+Battery
+It is certainly no secret that the iPad uses the battery hungrily. This is a very heavily powered machine, and you need to ensure that it is charged properly. You must ensure that the iPad is plugged into a wall socket, rather than a USB port on a computer. This is the quickest way to charge the device. Also, you must always try to put the iPad in sleep mode when it is being charged, for quicker charging.
+
+iTunes
+You need to sync your iPad with Apple iTunes, and some people complain that iTunes does not recognize their iPad at times. To solve this, you should unplug all other devices connected to the USB ports on your computer, and then plug the iPad into a different USB port. It is also recommended that you plug the iPad straight into your machine, and do not use any adapters or connectors.
+
+Apps
+The App Store hosts thousands of great apps that can be used on the iPad. But the issue is that these apps cannot be bought by someone living in a country where the iPad has not been officially launched. This can be a major deterrent for a lot of people who use this device. To fix this, you can download the app on iTunes and then sync it to your iPad, or you can create a United States iTunes Store account. There are many reasons to get an iPad, but this is something that you must keep in mind if you live in a country where the iPad has not been officially launched yet. Also, with Apple's strict policy, you can download applications from The App Store only.
+
+Network and Syncing Issues
+Users may also experience other iPad problems like losing network connection after you put the iPad to sleep, and failure to sync Outlook calendar and contacts on the iPad. You can try turning the brightness up and down and you can reset the iTunes sync history on your computer respectively.
+Read more at Buzzle: http://www.buzzle.com/articles/ipad-problems-and-solutions.html

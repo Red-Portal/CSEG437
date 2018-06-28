@@ -1,0 +1,50 @@
+Mp3 Revolution
+Science World,  Jan 17, 2000  by Maia Weinstock
+Walk into Michelle Wild's room at the University of Pennsylvania and you'll see why the world is in the midst of a music revolution. "What do you want to listen to?" Michelle asks visitors. Her friends don't gravitate to her CD collection, but to her computer screen, which lists the titles of hundreds of popular songs. Why does her computer--not her stereo--hold the key to her music collection? "It's all about my MP3s," says Michelle.
+
+Welcome to the world of MP3, the fastest-growing music technology since the compact disc (CD). Available to anyone with Internet access, fans are touting MP3 as the most personalized music form ever created--and the form that will thrust music into the next millennium. "MP3s allow you to access almost any kind of song," Michelle explains. "You own the music."
+
+Originally developed in the early '90s for use in movies, MP3 was adopted as a music format, or type of music file. Now, you can store MP3s on CDs, computers, and handheld MP3 players.
+
+In 1997, 18-year-old Justin Frankel of Sedona, Arizona, created the first popular MP3 player. Called Winamp, the player is a computer program that converts MP3 audio (sound) files from computer numbers or digits into sound waves you hear through your computer's speakers. Today, listening to MP3s is so widespread, the most common word used on all Internet search engines (sites that find Web pages to match words you type in) is "MP3." And Frankel, a mere 20 years old, is a multimillionaire!
+
+Why are MP3s so hot? "You can zap an MP3 over to your friend's computer, listen to it in a car, or add your own computerized effects to make a song sound like you're in a dance club or underwater," says Ben Sawyer, co-author of the book MP3 Power! (Muska & Lipman, 1999.)
+
+HOW IT WORKS
+
+MP3s (which stands for Moving Picture Experts Group, Layer 3) are digital audio files that are compressed to about 1/10 the size of a CD recording. Your computer compresses files by scanning them for repeating patterns of digits. It then replaces these patterns with smaller codes that take up less space. So, you can compress a CD song that has 50 megabytes of data into an MP3 that has only 4 or 5 megabytes (1 megabyte = 1,000,000 bytes; 1 byte = the size of 1 computer character, like the letter "a"). As a result, MP3s are compact enough to send over the Internet with little difference in sound quality.
+
+To play an MP3 on your computer, you'll need to download (save from the Web onto your computer) an MP3 player such as Winamp (for Windows) or Macast (for a Macintosh). Both MP3s and MP3 players are available for free from Web sites like www.mp3.com. You can also create MP3s from CDs you already own using a CD ripper, a program that converts CD audio tracks into MP3 format. One ripper, AudioCatalyst, is available for free from www.xingtech.com.
+
+Several companies have also made it possible to listen to MP3s while you're walking around or riding in a car. Though expensive now (costing between $170 and $300), experts say player prices will drop as soon as consumer interest picks up. One consulting firm projects that 32 million portable MP3 players will be sold by 2003!
+
+THE CONTROVERSY
+
+One large group hasn't welcomed the MP3 uprising: the music recording industry. That's because trading copyrighted songs (songs that are labeled as an artist's and/or record company's "property") on the Internet is prevalent--and illegal.
+
+But it's perfectly legal to download non-copyrighted songs or make MP3s out of copyrighted CDs for yourself. Still, record companies say the unregulated distribution of illegal MP3s on the Web is costing them millions. So what's to be done?
+
+"Right now, record companies are trying to fight technology," says Sawyer. "But eventually, the companies will have no choice but to embrace the changes in the way music is made and consumed."
+
+And they already are. Last year, the recording industry made an agreement with companies that make portable MP3 players and CD-recording equipment. By January 2001, all digital music--including CDs and MP3s--must contain an invisible code packed into the CD or MP3. This code will limit the number of copies that can be made from any one prerecorded file (see diagram, left).
+
+But some experts think it's just a matter of time before CDs become obsolete altogether. "There's no way that anyone's going to want to buy a CD a hundred years from now," says Sawyer. It may take decades for the world to obtain and upgrade the computers and Internet connections necessary for MP3s--or their successors--to take over the music industry. But Sawyer thinks the crossover is inevitable. "It's not a question of if, it's just a question of when," he argues. "This is a revolution and we're all part of it."
+
+DO YOU KNOW?
+
+Thomas Edison created the first phonograph (sound recorder) in:
+
+* 1813
+
+* 1877
+
+* 1904
+
+This Issue's Answer
+
+p. 8: 1877
+
+RELATED ARTICLE: RECORDING MUSIC: THEN & NOW
+
+1980s Microphones convert sound waves into electrical pulses, which are recorded as magnetic patterns on a strip of tape. Music on cassette tapes degrades with each duplication.
+

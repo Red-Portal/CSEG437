@@ -1,0 +1,108 @@
+Smartphone app puts you beyond bar code
+
+By BETH RANKIN
+Beaumont Enterprise
+Published: Thursday, October 28, 2010 10:42 AM EDT
+BEAUMONT, Texas ? Most of Dennis Shaeffer¡¯s world is digital.
+
+But Shaeffer, a self-professed technology junkie with a tech job at the Department of Defense, has a very analog hobby: rebuilding cars.
+
+Last year, while reading a magazine about Japanese drift auto racing, a small black and white square on the page caught his attention.
+
+The text directed him to download a barcode scanner on his smartphone before hovering the phone¡¯s camera over the small square, known as a QR, or ¡°quick response¡± code.
+
+As soon as his phone scanned the QR code, a YouTube video of the race he was reading about began to play.
+
+And with that brief clip of a Japanese car race, Shaeffer found himself standing on a new bridge between the analog and the digital world.
+
+Now, everyone from city councils in rural towns to major corporations to small business owners are picking up on a technological innovation that can do everything from share YouTube videos and product data to up-to-date-bus schedules and information about on-going city maintenance projects.
+
+The first commercial usage of barcodes in the late 1960s revolutionized how we collect data. Instant identification and data collection suddenly made everything easier, from cataloging pieces of history in the Library of Congress to buying a loaf of bread from the corner store.
+
+But there¡¯s only so much data that a one-dimensional barcode can hold.
+
+In 1994, Denso Wave, a Japanese barcode and industrial robot company, released the quick response code, a two-dimensional box that, unlike standard barcodes, contains data in both vertical and horizontal directions. QR codes can not only store more data than barcodes, but can be easily interpreted by simple scanning equipment.
+
+Most people carry this scanning equipment in their pockets every day.
+
+Downloading a free barcode-reading application can instantly turn any smartphone into a tool not unlike the scanner in the grocery store checkout line.
+
+Consumers can use these apps to scan barcodes at the store and cross-reference an item¡¯s price online against other retailers¡¯ prices.
+
+But widespread implementation of the QR code takes instant information gathering to the next level.
+
+¡°It¡¯s not just price-finding, it¡¯s getting a display or an example,¡± Shaeffer explained.
+
+For instance, Best Buy recently started to print QR codes on almost all of their price displays.
+
+Scan the QR code and it opens an item¡¯s Best Buy web page, giving consumers a wealth of product information at their fingertips.
+
+Clothing retailer The Gap added the QR code to a recent print campaign for a new fall denim collection. Scanning the QR code directed cell phones to a video of The Gap¡¯s head of design discussing the new jeans.
+
+The company also recently used in-store QR codes to promote a new line of pants. Scanning the code led customers to a web page with styling ideas and customer reviews.
+
+The QR code¡¯s commercial possibilities are endless.
+
+At South by Southwest, Austin¡¯s annual music, film, and interactive conference, business cards have gone the way of the dinosaur.
+
+Attendees need only add a QR code to their conference badge that, when scanned by a cell phone, can instantly share their web site, online resume or contact information.
+
+Once the contact information pops up on a smartphone, buttons beneath it give the user the ability to instantly add that information to their contact list, call the person or get step-by-step directions to the person¡¯s home or business address.
+
+One of the QR code¡¯s most popular features is one that it lacks entirely: a price tag.
+
+Apps to read the codes ? and take about 30 seconds to locate and download ? are free, and the Internet is riddled with free QR code generators that even the most tech-averse person can understand.
+
+¡°You can make them for free,¡± said Stephanie Molina, marketing director for the Beaumont (Texas) Convention and Visitors Bureau. ¡°That got my attention real fast.¡±
+
+After encountering QR codes recently at a conference, Molina has added them to CVB advertisements and will soon unveil them in promotional material.
+
+Scanning a CVB QR code in an advertisement can lead users to content ranging from coupons to travel information to a mobile version of the CVB website.
+
+Once she scanned her first QR code, Molina was hooked.
+
+¡°My brain just like went alive at that point and I got so excited,¡± she said. ¡°¡®Oh my gosh, this is like the rediscovering fire for marketing purposes.¡¯ ¡°
+
+But marketing and sales aren¡¯t the only ways to utilize two-dimensional barcodes.
+
+Some of the most innovative uses for the QR code have in fact come from an unexpected place: a tiny central Texas town.
+
+Assistant City Manager Dustin Haisler was just looking for a way to manage documents for the City of Manor, about five miles east of Austin.
+
+What he found was a brand new way for city government to interact with the city¡¯s residents and visitors.
+
+He was originally attracted to QR codes because he could implement a barcode system without purchasing expensive scanners, he said.
+
+But he and his team began to brainstorm more ways for the system to serve Manor, a town of 6,500.
+
+¡°This could be used far beyond just document management but to tag physical objects in the real world,¡± he said.
+
+And so, having to only pay the price of the material the tags were printed on, the city mounted eight aluminum QR tags around the city in 2008 at places like the downtown district, the historic Bloor mansion and locations used in the filming of the movie ¡°What¡¯s Eating Gilbert Grape.¡±
+
+The response to the tags was slow, Haisler said. Until he showed the new technology in local schools.
+
+¡°The kids really got it,¡± he said. ¡°They installed the reader on their parents¡¯ phone and it¡¯s grown enormously since then.¡±
+
+There are now 24 locations in Manor where residents and visitors can get in-depth information by scanning the tags.
+
+At the sewer lift-station, for instance, the QR code takes the user¡¯s cell phone to a page with a step-by-step display of how the system works. Even the ¡°Welcome to Manor¡± sign is scannable.
+
+¡°The beauty of that is not only can we track our assets better but our residents can see what we see and get more information about¡± our assets, Haisler said.
+
+Now, what was meant to supplement tourist attractions has become a tourist attraction itself.
+
+¡°People from all over the world fly out to see these barcodes mounted on metal signs,¡± he said. ¡°They¡¯re fascinated with them.¡±
+
+Now the city, which has Manor Labs, its own research and development division, that sources ideas from residents, has become famous for something other than as the set of ¡°What¡¯s Eating Gilbert Grape?¡±
+
+Manor labs was recently deemed a ¡°bright idea¡± by The Ash Center for Democratic Governance and Innovation at Harvard¡¯s John F. Kennedy School of Government, and they¡¯ve started sharing their ideas with cities across the country.
+
+¡°It¡¯s kind of an amazing, surreal thing,¡± Haisler said of the program¡¯s success.
+
+There¡¯s still more innovation up Manor Labs¡¯ sleeves.
+
+Soon, QR codes on city trucks will allow residents to see what city workers are doing at that moment by scanning the truck and being taken to the employee¡¯s work order.
+
+The city also plans to make QR code pet tags. Anyone who finds a lost dog will need only to scan the tag and press a single button to call its owner.
+
+The possibilities, Haisler said, are endless.

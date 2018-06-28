@@ -1,0 +1,4 @@
+blackberry os is a proprietary mobile operating system, developed by Research In Motion for its blackberry line of smartphone handheld devices. The operating system provides multitasking and supports specialized input devices that have been adopted by rim for use in its handhelds, particularly the trackwheel, trackball, and most recently, the trackpad and touchscreen.
+
+The blackberry platform is perhaps best known for its native support for corporate email, through midp 1.0 and, more recently, a subset of MIDP 2.0, which allows complete wireless activation and synchronization with Microsoft Exchange, Lotus Domino, or Novell GroupWise email, calendar, tasks, notes, and contacts, when used in conjunction with blackberry Enterprise Server. The operating system also supports WAP 1.2.
+

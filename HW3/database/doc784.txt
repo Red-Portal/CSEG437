@@ -1,0 +1,23 @@
+Evolution of Mobile Device Technology
+
+Since the revolution of the smartphone in 2005 the development progress in this field grows rapidly. It became a part of our life and played a big role to change the attitude of our life style. This technology (smartphone) didn't stop at that level but it spread everywhere to cover all sides of our daily activities. Even anew terminology appear to name this technology is Internet of Things (IoT) where this concept describe any device connected to the internet. All this technology convert our life to something called smart, so nowadays we have smartphones, smart home, smart car ext. These smart devices facilitate our daily tasks where no need to set on the front of the computer or trying to find an open Wi-Fi because you are expecting an important email you don't know when it will be delivered to your inbox. This technology gave the people almost everything they need which has made people ask for more and it became their partner or even addicted. Day by day people relay more and more on the smart technology and they share all information even sometimes the secrets. This information start attract some people for any reason either to sell this information to third party or to blackmail their victim. This bring a new challenge to everybody in the society and there are a new cases daily because of the smart devices. The device can be a tool to attack the victim data or it found in the crime scene in both scenarios can be consider an evidence.
+
+Mobile device technology
+
+The mobile devices evolution is linked to the mobile technology where each one effect on the other one. Because the mobile device technology required a specific features.
+
+First Generation
+
+By looking to the first generation and list it's features we can guess what kind of mobile device technology can be used in that period. According to (Agrawal, 2015)] the first generation was analog it was introduced in 1980. The technical specification was not that much where they focused on produce a mobile phone. The main feature of 1G mobile
+
+Speed up to 2.4 kbps so it was used for calling only
+It use analog signals (analog telecommunications standards)
+Poor voice quality
+Poor battery life
+Limited capacity
+No security
+Focusing on the last two points because they are related to the research paper. Regarding the security at that time 1G does not support the encryption. The security was limited where some phones (e.g. Mitsubishi MT-7) in 1993 has a pin code only. The memory as well didn't get that much attention, but later on in 1989 Motorola (8900X-2) add a small volume of memory which can store 20 telephone numbers in the address book. This generation is limited in everything even in the forensics user couldn't do bad things with it just verbally.
+
+Feature phones and smartphones
+
+From second generation the improvement obviously in the mobile device technology. (Qualcumm, 2014) Show the evolution on theses generations used digital signal compare to the first generation. This change took the mobile devices technology ahead with new features the users didn't experience them before in the previous versions of 1G mobile devices. In these generations there are basic features with different specifications. The diagram (DAS, 2015) show the different parts of the mobile phone.

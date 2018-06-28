@@ -1,0 +1,36 @@
+Learn About the Type of Wireless Products that Sony's PS3 Supports
+
+A Sony PlayStation 3 video game console isn't useful only for gaming. 
+With some software on your computer and a few settings changes, you can stream music and videos from your computer to your PS3 over your home network, as well as participate in the world of online gaming. 
+Many of the most popular games for the console operate entirely over online game servers. Other games usually have an online option. 
+To participate, you need a connection to your home network to reach the internet. 
+It can be either a wired Ethernet connection or a wireless connection. 
+All PS3 consoles can be connected with an Ethernet cable to the internet, but a wireless connection is more convenient for gaming.
+
+PS3 Wireless Capability
+
+With the exception of the original 20GB model, the PlayStation 3 video game consoles, the PS3 Slim consoles, and the PS3 Super Slim units all include built-in 802.11g (802.11b/g) Wi-Fi wireless networking.
+ You don't need to purchase a separate wireless game adapter to hook up a PS3 to a wireless home network.
+
+The PS3 doesn't support the newer Wireless n (802.11n) form of Wi-Fi that is included in PlayStation 4 consoles.
+
+PS3 vs. Xbox Networking Support
+The PS3 networking capability is better than that of the Xbox 360, which offers no built-in wireless networking at all.
+The Xbox has a built-in 10/100 Ethernet network adapter, but a wireless connection requires an 802.11n or 802.11g adapter that must be purchased separately.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+
+A few weeks after purging thousands of adult-themed 
+iPhone and iPod touch applications from its App Store, 
+Apple is again cleaning house, this time yanking 
+a series of apps developed to identify WiFi hotspots. 
+
+According to 3 Jacks Software, developer of the 
+WiFi-Where application, Apple lowered the boom on 
+Wednesday: "We received a very unfortunate email 
+today from Apple stating that WiFi-Where has been 
+removed from sale on the App Store for using private 
+frameworks to access wireless information," the firm 
+states on its blog. "It also appears that all other 
+competing WiFi enabled apps have been removed as well."
+
+Softpedia reports that the developers behind the rival 
+WiFiFoFum and yFy apps confirmed that Apple removed 
+their software. While the computing giant has not yet 
+commented on its decision, it appears that the company 
+is targeting only applications that scan for nearby WiFi 
+access, not those that enable users to search for hotspots 
+based on database information and their GPS-specific location.

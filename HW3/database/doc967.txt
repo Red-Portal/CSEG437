@@ -1,0 +1,11 @@
+Android P Beta 2 cooks your bacon, sets the table for dual cameras
+There are 157 new emoji in the new Android beta.
+
+Eager to see what Android P has in store for your phone? Google just announced its Android P Beta 2, previewing what's to come with the latest version of Android.
+
+The Android P Beta 2 marks the debut of multi-camera APIs. The API lets phones stream from two different physical cameras at the same time. This gives developers the chance to add on some cool seamless zoom, stereo vision or bokeh effects on dual-camera phones. Maybe we'll see more phones getting a portrait mode when they update to Android P. Kind of like how the Razer Phone got the feature months after its release.
+
+The beta also brings 157 new emoji, including a llama, lobster, bagel with cream cheese, superhero and a face with three hearts. Oh, and Google took out the egg in the salad emoji to make it vegan, changed the color of the bacon emoji to make it look more cooked, and added gender-neutral options for the family and couple-in-love emoji.
+
+You can download the Android P Beta 2 on your Google Pixel phone by enrolling here. Google says other phones in the Android P beta program will get Beta 2 in the coming weeks.
+

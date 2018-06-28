@@ -1,0 +1,10 @@
+The PS3 uses the Cell microprocessor, which is made up of one 3.2 GHz PowerPC-based 
+"Power Processing Element" (PPE) and six accessible Synergistic Processing Elements (SPEs). 
+A seventh runs in a special mode and is dedicated to aspects of the OS and security, 
+and an eighth is a spare to improve production yields. PlayStation 3's Cell CPU achieves 
+a theoretical maximum of 230.4 GFLOPS in single precision floating point operations and 
+up to 15 GFLOPS double precision.
+
+The PS3 has 256 MB of Rambus XDR DRAM, clocked at CPU die speed. 
+The PPE has 64 KB L1 cache and 512 KB L2 cache, while the SPEs have 2 MB local memory (256 KB per SPE), 
+connected by the Element Interconnect Bus (EIB) with up to 307.2 GB/s bandwidth.

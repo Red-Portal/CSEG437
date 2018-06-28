@@ -1,0 +1,19 @@
+unreal engine for android
+
+It seems that game publisher Epic Games has already started working on the development of their Unreal Engine 3 technology for the Android platform, even if nothing was announced officially until now. 
+
+
+This proves that Unreal Engine 3 can run on Android devices, and that it might not be too long before the first games using it would be submitted to the Android Market. 
+
+Here's what Mark Rein, Vice President and Co-Founder of Epic Games, tweeted recently: ¡°We've demoed Unreal Engine 3 on Android w/Tegra 2 before and at KCG today we showed it on a Samsung Galaxy S device.¡±
+
+Moreover, as a recent article on Andorid Central notes, he tweeted a link to a YouTube video in which we can see Trendy Entertainment's Dungeon Defenders running on a Tegra 2 powered device, video embedded at the bottom of this article. 
+
+Those of you who might have already encountered Unreal Engine 3 should know that Android users are about to get some great gaming experiences if the solution come to Google's mobile operating system. 
+
+Of course, it would still take some time before developers start licensing Unreal Engine 3 tech for Android, that's for sure, but it seems that the first steps in this direction were already taken.
+
+Recently, Epic Games announced that iOS support was included in the UDK (Unreal Developers Kit), and we've previously heard of webOS being added to the list too, so it would make sense that they turned to Android too with their solution. 
+
+Hopefully, they would make a formal announcement in the near future, and the first games would start emerging soon too, so stay tuned for more on this. 
+

@@ -1,0 +1,30 @@
+Coming soon: Hardware-accelerated Firefox on Mac
+
+Firefox for Mac OS X hadn't been Mozilla's top priority in the feverish race to give a hardware boost to the task of drawing Web pages on a screen, 
+but it looks as if the technology will arrive in time for Firefox 4. 
+Windows not only is more widely used than Mac OS X but also is where Microsoft has been touting its hardware-accelerated IE9 work. 
+
+So it wasn't a great surprise that Mozilla's first work for hardware acceleration arrived there. 
+But yesterday, the organization decided to try to squeeze in some Mac acceleration just before a critical Firefox 4 deadline. 
+The next Firefox beta, the seventh, is set to be the last for the addition of new features. 
+This feature-freeze stage is essential to give enough debugging time to meet the planned 2010 release of Firefox 4. 
+It's not certain the acceleration for the Mac will make it. 
+
+Mozilla programmers decided to build it into the developer versions of Firefox released nightly for more testing then reconvene later this week to decide how to proceed. 
+Firefox's Windows version includes some hardware acceleration using Microsoft's Direct3D 9 graphics interface, with Direct3D 10 support on the way. 
+
+The Mac version uses a competing interface, OpenGL, that's not as well-supported on Windows. 
+There are different ways to enable hardware acceleration; Firefox also is working on using another Windows interface called Direct2D that among other things can improve font display through hardware acceleration. The two approaches show up at different stages of producing a Web page; Direct2D comes later in the process. 
+Why use hardware acceleration? Performance. 
+
+"We expect this to provide a lot of benefit for some currently quite slow pages," according to Mozilla's Tuesday planning meeting notes. 
+
+It can help with various mathematically intense operations, such as converting video from its encoded color description to the red-green-blue values needed to display on screen. 
+
+It can also speed image, video, text, and vector graphics resizing. 
+It can be used to assemble--or "composite"--elements of a Web page into a whole. 
+And with the world of 3D Web graphics enabled by WebGL, graphics acceleration is essential.
+Unfortunately, though, it's not a panacea. 
+Mozilla programmers are concerned that their testing shows many pages load more slowly: On the organization's Tp4 test, which loads 100 top Web pages 10 times each, 
+turning on OpenGL layers in Firefox for the Mac slowed performance 10 percent. 
+That's down to 6 percent now, but that's still worrisome for a feature designed to improve performance. 

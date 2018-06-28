@@ -1,0 +1,20 @@
+4 smartphones with artificial intelligence to look out for in 2018 
+
+AI on smartphones is one of the big trends to look out for in 2018.
+
+While AI has numerous uses, on a handheld device, the benefits will be limited initially.
+
+Camera benefits
+This is one of the key areas phone makers are working on with respect to AI. Using AI, the phone’s camera interface can detect the subject in the camera frame (landscape, food, fireworks etc.) and accordingly adjust the settings for the best possible image. AI can also identify facial features and automatically enhance them for a superior portrait. 
+
+Language translator
+There are translation apps available that let you take an image with text in one language to another language. However, these apps use Internet to upload the image for analysis and then translation. With onboard AI, your phone will be capable of translating different languages in real-time without the need of an Internet connection. 
+
+User behaviour
+An AI system is designed to learn and adapt as it is used over time. On a smartphone, the AI will learn your usage pattern and start applying it on a day to day basis. You might be switching to silent when reaching office, switching on Bluetooth at home or closing background apps every few hours. AI will identify these patterns and automate these daily processes for you over time. 
+
+Improved security
+Apple iPhone X uses an AI based algorithm for its Face ID device unlocking system. Combined with Apple’s elaborate hardware, the AI system works to identify user’s face for security. Using AI processing, the iPhone X can identify face with changes such as spectacles or beard over time. Huawei has demoed its face recognition tech which they claim is superior to Apple’s. 
+
+Voice assistants
+Voice Assistants have been around for some time now. Siri, Google Assistant, Cortana and Alexa are all Voice Assistants that use AI to identify what you say and respond. Now , Voice Assistants have improved thanks to enhanced AI integration. They not just reply to queries but also performe tasks such as placing an online order, searching a particular song and typing a message.

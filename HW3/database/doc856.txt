@@ -1,0 +1,25 @@
+Apple is getting more serious about augmented reality.The company on Monday announced a new version of ARKit, 
+Apple's set of tools that let developers create augmented reality apps for iPhones and iPads. The updated version will have 
+multi-user functions, so more than one person can see the same AR experience at the same time.  
+For the uninitiated, augmented reality, or AR, overlays digital graphics over things you'd normally see in the real world 
+-- like the flower crown you'd see in a Snapchat filter or the wild pokemon running around in Pokemon Go. Apple made the 
+announcement during its annual Worldwide Developer Conference in San Jose, California. "AR is transformational technology," 
+Craig Federighi, Apple's senior vice president of Software Engineering, said on stage at WWDC. "We're on a relentless pace 
+of advancement." Other improvements for ARKit 2 include 3D object detention and better face tracking. Apple showed off the 
+software's new abilities with a demo from Lego that lets people build together. "Now with ARKit 2, we get to expand those 
+creative possibilities like never before and take things beyond the physical," said Martin Sanders, director of innovation 
+for Lego. Apple said it's also partnering with Adobe on a new file format for AR, called USDZ. Adobe's Creative Cloud 
+services will support the new format. Last year brought the first public efforts by Apple in augmented and virtual reality 
+when the company first unveiled ARKit. It also said it was working with Valve to bring the Steam VR platform to its desktop 
+Macs. Previously, VR rigs didn't work with Apple computers. Apple isn't the only tech giant investing heavily in AR. Google 
+has its own version of ARKit, called ARCore, that gives developers the tools to create AR apps for Android phones. Facebook 
+has its own platform that lets developers make AR apps for the social network, called Camera. VR and AR, while nascent markets 
+today, are expected to explode over the next several years. Consumers are expected to buy 22 million VR and AR headsets and 
+glasses this year, according to a report from CCS Insight. In 2022, the number should soar fivefold to 120 million units, 
+the analyst firm said, noting the market could be worth nearly $10 billion at that point. Apple CEO Tim Cook has nothing 
+but praise for augmented reality, saying it's a technology that's potentially as important as the iPhone. He has been more 
+quiet about virtual reality. Once touted as the next hot tech trend, VR has failed to resonate with consumers despite heavy 
+investment from companies like Facebook's Oculus, Google and Samsung. Apple has been working on a high-power headset 
+capable of running both AR and VR technology, CNET reported in April. Plans so far call for an 8K display for each eye 
+-- higher resolution than today's best TVs -- that would be untethered from a computer or smartphone. Instead, Apple's 
+headset would connect to a dedicated box using a high-speed, short-range wireless technology.

@@ -1,0 +1,38 @@
+Is Sony designing an Android-powered PSP smartphone?
+Aharon Etengoff | Wed 11th Aug 2010, 07:20 pm
+
+Sony is reportedly prepping an Android-powered PSP gaming smartphone that could launch as early as October 2010.
+
+According to Engadget, the device looks like a cross between the Samsung Captivate and PSP Go.
+
+"In other words, it's a landscape slider with game controls in place of the typical QWERTY keyboard. The D-pad is here, but instead of the small joystick, the device will have what was described as a 'long touch pad' for analog controls, along with standard PSP buttons and shoulder buttons," explained Engadget's Joshua Topolsky.
+
+"[It] has a large display, described as being between 3.7 and 4.1 inches with WVGA or better resolution, a 5 megapixel camera that we're told might not be final, and it'll likely have a 1GHz Snapdragon CPU on board."
+
+The phone - which is currently categorized as an Xperia device - will run Gingerbread (Android 3.0) and feature a "new area" of the Android Market specifically for games. 
+
+"Games will be graphically in the range of PSX or PSP games, meaning true 3D gaming is headed to Android," said Topolsky. 
+
+"Titles currently being shown off seem to be focused around some older PSX as well as new PSP offerings, with God of War, Modern Warfare, and Little Big Planet possibly on tap, and future plans for titles which incorporate augmented reality features."
+
+Wow! But here's the million dollar question: can Sony pull it off? 
+
+Well, as Phandroid's Kevin Krause notes, if the PSP-smartphone mashup is successfully brought to market, it would "score a major win" for both Sony Ericsson and Google. 
+
+"SCEA will bring along a large catalog of published games that can be ported to Android while also pushing for new gaming development. Sony gets to have the makings of a hit handset and possibly the first real break-out mobile Playstation device," wrote Krause. 
+
+"[And] Android gets one step closer to being the ultimate mobile platform. OK, we know it might conjure up thoughts of the flop that was the Nokia N-Gage, but that was a time before smartphones had really taken off as an avenue for mobile gaming, and with this SE device being only an off-shoot of Android it enters into an already richly supported ecosystem."
+
+Marin Perez of IntoMobile expressed similar sentiments. 
+
+"The move could be a big boost for Sony Ericsson, as the mobile gaming market is only going to grow and Android is also gaining traction.
+
+"[Yes], the rumor says the device will be put under the Xperia brand but I think that would be a mistake. Call this the PlayStation Phone, release some good games and watch the money pile up."
+
+However, Vlad Bobleanta of IntoMobile expressed skepticism over Engadget's report. 
+
+"No matter how good the source, I still find this hard to believe. After more than three years of PSP phone-related speculation, it seemed like such a thing would never exist. And now it turns out it may, and even this year?
+
+"Interesting, yes. Can Sony Ericsson pull off the hardware side? Sure. No one really understands why they haven't tried something like this before. 
+
+"But software? I'll believe it when their current flagship smartphone, the Xperia X10, gets at least Android 2.2 on board. Because as of now, they've scheduled the update to Android 2.1 [only] in Q4."

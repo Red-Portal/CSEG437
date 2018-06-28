@@ -1,0 +1,20 @@
+Smartphone Operating Systems
+The most important software in any smartphone is its operating system (OS). An operating system manages the hardware and software resources of smartphones. Some OS platforms cover the entire range of the software stack. Others may only include the lower levels (typically the kernel and middleware layers) and rely on additional software platforms to provide a user interface framework, or AEE. The smartphone operating systems are:
+Symbian
+Symbian OS is the operating system for more than 100 different models of phones. The operating system consists of the kernel and middleware components of the software stack. The upper layers are supplied by application platforms like S60, UIQ, and MOAP. Though it's dominant in the market right now, with an estimated market share of 51 percent [Source: LinuxDevices.com],the research firm, The Diffusion Group, estimates that Linux and Microsoft will hold more of the market share than Symbian by 2010.
+Linux
+ 
+The Linux Smartphone
+Photo courtesy of www.navigadget.com
+Linux is unique among the other operating systems in that its development is driven by a community of developers rather than by a central company. According to ARCchart, the Linux OS supports more processors than any other operating system on the market, though the most popular phone models still use the Symbian OS. There are some drawbacks to the system, however. Since Linux is an organic OS, with developers constantly changing and updating it even at the kernel level, platforms based on Linux code can be very different from one another. Some smartphone companies find the risk too great to invest in Linux. Six telecommunications companies are responding to this by forming the LiMo foundation, an organization that is attempting to create a standardized Linux platform.
+Windows Mobile
+ 
+The T-Mobile SDA Windows Mobile Smartphone
+Photo courtesy of ¨Ï 2007 Jupitermedia Corporation All Rights Reserved
+The Windows Mobile OS encompasses the entire software stack from the kernel to the application interface. The OS is based off of Window CE.NET. On February 12, 2007, Microsoft unveiled Windows Mobile 6, the latest version of the software platform. Much of the strength of this OS lies in the compatibility with the Microsoft Office suite of programs.
+Java
+Some smartphones have operating systems based on the Java programming language. The SavaJe OS is a Java-based system that includes everything from the kernel to the user interface framework and application suite. By using the Java language, the OS allows manufacturers or users to customize the interface as much as they like. Java-based phones have not made a huge impact in the marketplace so far, but some analysts think the operating system could gain ground while the big boys battle for the lion¡¯s share of the market.
+Garnet OS
+Formerly known as Palm OS, this operating system combines a Linux-based foundation with applications written for the old Palm OS. The Palm OS was mainly used in PDAs, though the Treo line of smartphones used it as well. Phones using the Garnet OS should become available in late 2007.
+Unique Operating Systems
+Apple¡¯s iPhone uses a variation of the Mac OS, known as OS X. The RIM BlackBerry has its own proprietary OS as well.

@@ -1,0 +1,18 @@
+iPad Quick Tip ? Managing iPad Memory
+
+Keep your iPad from Crashing:  The iPad doesn¡¯t have multitasking yet so memory management shouldn¡¯t be a problem, right?  You would think so but users can still run into situations where your iPad refuses to launch an app and pops up a message saying ¡°Your memory is low.¡±  So what causes this and what can you do?
+
+Well, the iPad already supports multitasking but it¡¯s limited to only a few Apple specific apps like the iPod, Mail and Safari.  For example, on the iPad you can start playing music in the iPod app,  return to the main screen, tap on the Mail app and then check your mail all without missing a beat in the music.  This basic multitasking can sometimes have an impact on your memory and apps.
+
+If you get a ¡°Your memory is low¡± warning message from your iPad while launching or using an app, you might have a background application at the root of your problem. If you¡¯ve been surfing the net recently and have multiple pages open in Safari, each of these pages takes up memory and could be to blame.  To free up memory, simply go into Safari and close any web pages you might have open.  In the Safari Task Bar tap the ¡°New Window¡± button and then close any web pages you have open from previous surfing sessions.  By simply closing any open Safari webpages you can save up to 40MB of memory.
+
+
+
+Safari Menu Bar with ¡°New Window¡± Button
+
+
+
+Safari ¡°New Window¡± Screen
+
+After you¡¯ve closed any open webpages, you should be able to launch the app that was giving you the low memory error message without a problem.
+Thanks to iPad app developer Jon Prial for sending us this tip. Send us your favorite iPad tips and we might include them in a future post.

@@ -1,0 +1,21 @@
+The Future of Your Mobile Phone 
+
+CANNES, France?In two days at the world's biggest mobile-phone show, we've learned a lot about the future of phones. Here's a quick peek at what's to come from handset manufacturers and technology providers in 2005 and 2006. 
+
+ADVERTISEMENT Your phone will be faster. Over the next year, ARM9 processors will begin to replace ARM7 processors in feature phones, and ARM11 processors will begin to replace ARM9s in smart phones. In terms of a sheer megahertz jump, that means smart phones will go up from roughly 200 MHz to as far as 500 MHz. But processor speed never tells the whole story with phones, because other components, such as memory and graphics processing, play a large role in performance. 
+ 
+ARM11 chips will allow new capabilities. For instance, we saw an amazing demonstration of a new TI OMAP phone chipset running two screens with two different video applications. On one screen, the size of a mobile-phone screen, the system played a game; on the other, a TV-sized screen, it played a movie. You can't do that with today's phones, but you'll be able to do that with tomorrow's. 
+
+Your phone will also connect on faster networks. We've already tested Verizon's EV-DO network, the current best in the US. At this show, we got to see a test of HSDPA, Cingular's new high-speed network, which is scheduled to arrive next year. Sierra Wireless also announced their first US HSDPA card, the AirCard 860, which is coming whenever Cingular decides to launch its network. A laptop using an HSDPA connection pulled down 1.4 Mbps of video. Cingular users won't see those kinds of speeds, because the bandwidth will be shared among users in a cell, but HSDPA is a reality and should provide competition to EV-DO. 
+ 
+Your phone will be smarter. Smart phones will get cheaper and more prevalent over the next year, as smart-phone OS providers make their software more affordable and smart-phone-quality chipsets start appearing in midrange phones. The "Peabody" reference design from Microsoft and Flextronics is one example of an affordable smart phone that may appear on U.S. shelves within the next year. 
+
+Your phone will store more. A Nokia music exec told us flatly that their phones will include hard drives in the near future, and nearly every major manufacturer backs that up. Many firms at 3GSM were selling memory-card components that supported everything from MMC and SD to TransFlash and Memory Stick. Over the next two years, expect to see more memory slots in phones. 
+
+Your phone will play music you bought elsewhere, or music you bought through your phone. Nokia, Motorola, and Sony Ericsson are all joining with major music-store and jukebox-software providers to let you seamlessly port your music from your portable player to your PC and, finally, to your phone. Of course, music-store formats are all still incompatible with each other: You'll have to choose between Apple's store and Motorola's phones, or a Microsoft store and Nokia phones, or Sony's store and phones. 
+
+Video phones won't look like baseball bats. The plug-ugly Motorola A845 is not the future of video phones. Much more attractive video phones are appearing in Europe now?like the Sony Ericsson K600. 
+
+TV is coming. Nokia, LG, and Samsung were all showing off digital?TV phones using various digital-TV standards, whether delivered over the air or through satellite. Nokia's 7710 handheld device is currently being tested in Pittsburgh, with an American firm, Crown Castle, showing live over-the-air digital TV programs?and the device will still have four hours of talk time. Digital TV phones are a reality in Asia, and they're coming soon to Europe. The bottleneck in the US is that broadcasters and phone manufacturers might not be able to settle on common standards and frequencies. 
+
+Phone manufacturers and carriers want to go beyond voice calling to convince you to pay extra for next-generation services. Here at 3GSM, we saw plenty of hints and suggestions about the phones that will provide those services. What will we see for real in 2005? Check back next month for our reports from CTIA, the big coming-out party for the upcoming year's U.S. handsets. 

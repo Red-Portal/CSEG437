@@ -1,0 +1,97 @@
+﻿The best graphics cards 2018: all the top GPUs for gaming
+
+These days, when it comes to the best graphics cards, we’ve faced a conundrum. While Nvidia is back to selling its graphics cards for normal prices, it’s still difficult to buy a graphics card in stores and online at MSRP due to cryptocurrency mining. For the uninitiated, many people are buying the best graphics cards in bulk to try and make a quick buck by mining Bitcoin, Ethereum or even Dogecoin.
+
+And, it’s certainly an odd time for the best graphics cards, as we’re left waiting to see what the next products from both AMD and Nvidia are going to look like, as AMD’s recently introduced Radeon RX 500X Polaris GPUs weren’t exactly exciting. We’ve even seen rumblings of Intel entering the GPU market.
+
+PC gamers are then faced with difficult choice. Now that the best graphics cards have fallen to a reasonable price, do we buy one now? Or do we wait for the Nvidia GTX 1180 and the rest of the Turing family? No matter what you choose, you can use the best graphics cards to play the latest, most demanding games like Far Cry 5 and Dark Souls Remastered.
+
+Keep in mind, however that the best graphics card come in a wide spectrum of solutions. That’s why we created this list of the best graphics cards, so you’ll be able to find exactly what you need. We’ve culled through the dozens of cards we’ve tested and picked only the ones that truly stood out. So, no matter who you root for in the constant war of Nvidia vs AMD, we’ve found the best graphics card for you.
+
+Best graphics card: Nvidia GeForce GTX 1060
+
+The best GPU to start PC gaming
+
+Stream Processors: 1,280 | Core Clock: 1,506MHz | Memory: 6GB GDDR5 | Memory Clock: 8Gbps | Power Connectors: 1 x 6-pin | Outputs: 3 x DisplayPort 1.4, 1 x HDMI 2.0, DL-DVI
+
+Brilliant 1080p performance
+As we’ve explained before, the best graphics card is going to be the one that offers the most bang for the buck. As such, it’s our consensus that the Nvidia GeForce GTX 1060 is far and away the best graphics card when it comes to sheer value. For a modest sum of cash, this GPU lets players experience full HD 1080p and – maybe with a bit of overclocking – 1440p and even 4K gaming. However, the GTX 1060 doesn’t support SLI, so you’re limited to just one card.
+
+Read the full review: Nvidia GeForce GTX 1060
+
+Best 4K graphics card: Nvidia GeForce GTX 1080 Ti
+
+Titan X performance without the Titan X cost
+
+Stream Processors: 3,584 | Core Clock: 1,480MHz | Memory: 11GB GDDR5X | Memory Clock: 11GHz | Power Connectors: 1 x 6-pin; 1 x 8-pin | Outputs: 3 x DisplayPort 1.4, 1 x HDMI 2.0
+
+Titan X-like gaming performance
+A pricey investment for most
+While the Nvidia GTX 1060 might give you the most performance per dollar, the Nvidia GTX 1080 Ti the ultimate one punch upgrade to 4K gaming. While it might seem like only a slightly tuned up Nvidia GTX 1080, this graphics card almost dethrones the Titan Xp as the world’s most powerful GPU, thanks to high-speed video memory and a dramatically higher CUDA core count. It’s still no match for two GTX 1080s in SLI, but this single card is cheaper and supports a larger pool of games. If you’re looking for a single part to run your games at 4K, the Nvidia GTX 1080 Ti is the best graphics card to do it.
+
+Read the full review: Nvidia GeForce GTX 1080 Ti
+
+Best QHD graphics card: Nvidia GeForce GTX 1070 Ti
+
+The all-around 1440p champion
+
+Stream processors: 2,432 | Core clock: 1,607 | Memory: 8GB GDDR5 | Memory clock: 8Gbps | Power connectors: 1 x 8-pin | Outputs: 3 x DisplayPort 1.4a, 1 x HDMI 2.0b, DL-DVI
+
+Vastly improved overall performance
+Significantly higher energy draw
+Gets hotter than the Nvidia GTX 1070
+Going down a few rungs in the graphics card hierarchy, the Nvidia GeForce GTX 1070 Ti is the best graphics card for QHD gaming. This card finds the happy medium between the GTX 1070 and GTX 1080. Whereas the 1080 is too expensive for 1440p gaming and the 1070 isn’t quite there, the GTX 1070 Ti perfectly drives a QHD experience. In our own testing, this piece of kit handles Forza Motosport 7 at upwards of 93 frames per second at 2,560 x 1,440. Likewise, it can manage Shadow of War at over 60 with the same ambitious resolution.
+
+Read the full review: Nvidia GeForce GTX 1070 Ti
+
+Best Full HD graphics card: AMD Radeon RX Vega 56
+
+Punchy graphics performance above its weight
+
+Stream Processors: 3,584 | Core Clock: 1,156MHz | Memory: 8GB HBM2 | Memory Clock: 800MHz | Power Connectors: 2 x 8-pin | Outputs: 3 x DisplayPort 1.4, 1 x HDMI 2.0
+
+ Maxed out 1080p performance
+The AMD Radeon RX Vega 56 is the best graphics card for Full HD gaming on the market right now. Our benchmarks prove it runs faster than the Nvidia GTX 1070. However, due to the Bitcoin mining craze, it’s going to be significantly more expensive. At least for now.The Vega 56 is arguably a little bit overkill for Full HD gaming, but that’ll come in handy for 144-to-240hz monitors and future-proofing against increasingly demanding games. Users can also expect a great 1440p experience with this graphics card.
+
+Best VR graphics card: AMD Radeon RX Vega 64
+
+AMD’s return to high-end graphics cards
+
+Stream Processors: 4,096 | Core Clock: 1,247MHz | Memory: 8GB HBM2 | Memory Clock: 945MHz | Power Connectors: 2 x 8-pin | Outputs: 3 x DisplayPort 1.4, 1 x HDMI 2.0
+
+Impressive benchmark results
+Higher energy draw than Nvidia Pascal
+It may be hard to find, due to its demand among cryptocurrency miners, but the AMD Radeon RX Vega 64 has the brute computing power to handle physics-heavy VR gaming. Boasting 4,096 stream processors, 256 texture units and 8GB of HBM2 memory, it’s every bit as competent as the Nvidia GeForce GTX 1080, and for a lower MSRP – even if you won’t find it for the suggested price. This truly is the AMD card to rule them all.
+
+Read the full review: AMD Radeon RX Vega 64
+
+Best mini graphics card: Zotac GeForce GTX 1080 Ti Mini
+
+Best mini graphics card: Zotac GeForce GTX 1080 Ti Mini
+
+Stream processors: 3,584 | Core clock: 1,506 | Memory: 11GB GDDR5X | Memory clock: 10Gbps | Power connectors: 2 x 8-pin | Outputs: 3 x DisplayPort 1.4, 1 x HDMI 2.0b, 1 x DL-DVI-D
+
+When you’re building a microATX – or, especially a mini-ITX – computer, you want to aim for the smallest parts you can find without compromising much on performance. Though it’s a given that you might have to sacrifice a few frames-per-second in favor of a more compact form factor, with Zotac’s GeForce GTX 1080 Ti Mini – the smallest of its kind at 211 x 125 x 41mm (8.31 x 4.92 x 1.61 inches) – there’s very little in the way of prodigious 4K gaming.
+
+Best budget graphics card: Nvidia GeForce GTX 1050
+
+The little GPU that could
+
+Stream Processors: 640 | Core Clock: 1,354MHz | Memory: 2GB GDDR5 | Memory Clock: 7Gbps | Power Connectors: PCIe | Outputs: 1 x DisplayPort 1.4, 1 x HDMI 2.0, DL-DVI
+
+Small form factor for tiny cases
+Maximum 2GB of video memory
+The Nvidia GTX 1050 might not look like much on paper, what with only 2GB of video memory onboard, but this affordable GPU plays games better than you would think. If you’re willing to drop settings to medium, you can play Overwatch, CS:GO and other popular competitive shooters well above the silky smooth 60fps mark. Thanks to its compact size, it’s also perfect for small builds and entertainment center-bound streaming PCs.
+
+Best eSports graphics card: Nvidia GeForce GTX 1050 Ti
+
+Competitive for both eSports and in price
+
+Stream Processors: 768 | Core Clock: 1,290MHz | Memory: 4GB GDDR5 | Memory Clock: 7Gbps | Power Connectors: PCIe | Outputs: 1 x DisplayPort 1.4, 1 x HDMI 2.0, DL-DVI
+
+Good overclocking potential
+Any eSports player will tell you that high frame rates are far more important than beautifully rendered graphical details – and that’s where the Nvidia GTX 1050 Ti shines. In a time where graphics cards cost as much as rent, it’s an affordable, but potent GPU that can play most eSports games well above 60fps. It’s a bit pricier than the lower-end Nvidia GTX 1050, but you’ll appreciate the extra power behind this card to play future eSports titles, as well as the odd AAA title.
+
+Read the full review: Nvidia GeForce GTX 1050 Ti
+
+These are the best gaming monitors to go with your shiny new GPU

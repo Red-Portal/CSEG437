@@ -1,0 +1,127 @@
+<Tablet PC>
+
+A tablet PC is a notebook- or slate-shaped mobile computer. Its touch screen or digitizing tablet technology allows the user to operate the 
+computer with a stylus or digital pen instead of a keyboard or mouse.
+
+The form factor offers a more mobile and productive way to interact with a computer. Tablet PCs are often used where normal notebooks are 
+impractical or unwieldy, or do not provide the needed functionality.
+
+
+
+Technology
+
+The tablet PC is a culmination of advances in shrinking notebook hardware and improvements in integrated digitizers as methods of input. 
+A digitizer is typically integrated with the screen, and correlates physical touch or digital pen interaction on the screen with the virtual 
+information portrayed on it. A tablet's digitizer is an absolute pointing device rather than a relative pointing device like a mouse or touchpad. 
+A target can be virtually interacted with directly at the point it appears on the screen.
+
+
+
+Inputting data
+A user can enter text using handwriting recognition, an on-screen (virtual) keyboard, speech recognition, or standard keyboard. 
+Shorthand-like entry methods, which enable pen-driven input at speeds comparable to touch-typing, and are unique to the Tablet PC, 
+include AlphaTap and Shark.
+
+Tablet PCs using Windows XP Tablet PC Edition may utilize the Ink object as a means of data input and storage. This is a data type created 
+as part of the Windows XP Tablet PC Edition API that allows one to manipulate and process handwritten data, including recognition results and, 
+in some cases, the pressure information for each part of the stroke. Properties of Ink can be changed in much the same way as properties 
+of other objects, and the data can be saved to allow future reference. Many applications referencing the Ink object also allow handwritten 
+notes to be filtered and searched through, based on the recognition results stored when Ink is saved.
+
+A popular use of the tablet PC form factor is to enable computerized manipulation, organization, and reading of large amounts of printed information. 
+In particular, casual readers may download electronic versions of their favorite books to read on their tablet PCs, or students may scan 
+in the pages of textbooks and just bring their tablet PCs to class in lieu of bulky textbooks.
+
+
+
+Handwriting recognition
+
+Modern day processors and advances in recognition algorithms make the conversion from handwriting to text far more practical now than 
+it was in early attempts of tablet PCs.
+
+Current handwriting recognition technology employed by tablet PCs focuses more on generic times recognition, rather than letter recognition. 
+Each block of handwriting is compared to a dictionary of words. The word with the closest spelling to its primary guess of the written word is chosen, 
+often with a list of alternatives presented to the user. On words in the dictionary, this method is more accurate than letter recognition. 
+However, this becomes a problem for words not in the computer's dictionary, such as email and web addresses, new slang terms, and proper names. 
+Handwriting recognition software often presents a letter recognizer option to better enable precise input.
+
+- Handwriting recognition in Windows
+
+The integrated handwriting recognition in Windows XP Tablet PC Edition 2005 can recognize print, cursive, or mixed writing. 
+Accuracy can be increased by configuring the recognizer to expect left-handed writing or right-handed writing. Recognition in a variety of 
+languages is available with the install of a recognizer pack. The handwriting engine cannot be trained in Windows XP, forcing the user 
+to retrain their handwriting to be better recognized by the system.
+
+The integrated handwriting recognition in Windows Vista is, however, trainable in a variety of ways. Vista offers the option for users 
+to correct specific errors in recognition, provide samples for a set of common characters, or to provide a large set of handwriting data 
+by providing handwriting samples for 50 distinct sentences directly on the computer. There is also the option to use personalized 
+handwriting recognition to watch what words the user emails, or what words they must correct most often, and automatically add those words 
+to the dictionary for improved recognition in the future.
+
+ 
+- Tablet PC Input Panel
+The original Tablet PC Input Panel (TIP) included a handwriting panel, an onscreen keyboard, and a write anywhere function which allowed 
+the user to literally write anywhere on the screen, after which the recognized data would then be sent to the currently focused input box.
+
+The enhanced TIP introduced in the Service Pack 2 update (Windows XP Tablet PC Edition 2005) includes improved handwriting recognition, 
+the option to correct a recognition error before it is sent to an application, and integrates the option to manually add a word to the 
+computer's dictionary to improve its recognition in the future. The TIP can also add inline correction functionality to applications 
+that support Advanced Text Input Services. This works by the TIP temporarily storing the recognition results from data that it inputs 
+into the application. This version of the TIP removed the write anywhere function in favor of a floating interface. 
+In applications which used certain supported text controls, an icon would appear when the pen was in proximity to the screen. 
+Tapping or hovering over this icon would open the floating TIP, which would expand horizontally and vertically as needed when the user 
+wrote to the edge of the window. For applications which could not pop up the floating TIP, the docked state was still supported, 
+in which the TIP would stick to the top or bottom of the screen, moving all other windows out of the way (expanding downward if docked at the top).
+
+
+
+
+Types of digitizers
+
+- Active digitizer
+An active digitizer, used in most tablet PCs, can track the position of the pen when it is in proximity to the digitizer. 
+This feature allows the user to "hover" over items on the screen. This can provide helpful functionality such as the ability to view 
+tooltips and auto-hidden items, and to navigate through menus without accidentally activating an item.
+
+Active digitizers can be installed behind the screen, allowing for maximum visibility, although most manufacturers install protectors 
+over the screen to decrease the risk of damage to the LCD.
+
+By using an active digitizer, the user's hand may rest on the screen without affecting the image or mouse pointer; only movement of 
+the stylus affects the mouse pointer.
+
+The most widely used digitizer, a Wacom digitizer projects electromagnetic signals that are reflected by the tablet's pen. The computer 
+then calculates the position of the stylus based on the point in the electromagnetic field the stylus interacts with. Electronic switches 
+inside the pen can change properties of the reflection. For example, a pressure-sensitive switch located behind the tip of the pen is a 
+capacitive change switch, and side switches change the frequency. These features allow the computer to calculate how hard the user is 
+pressing down on the screen and whether a switch is pressed. 
+
+Tablets relying on electromagnetic resonation suffer from "jitter", specifically around the edges of the screen. Because the metal at 
+the edges of the screen?as well as in other parts of the computer?changes the properties of the signal that is being reflected back, 
+the tablet digitizer cannot maintain a totally accurate sense of the pen's position. This can make some tasks difficult, e.g. slowly 
+drawing straight lines, aiming at interface elements at the edges, or writing small characters.
+
+UC Logic and Finepoint make other digitizers used in a few tablet PCs. Models incorporating these digitizers suffer from the lack of 
+support in many graphics applications.
+
+Averatec's C3500 line uses UC Logic digitizers. Compaq's TC1000 and Gateway's Convertible Notebook series use Finepoint digitizers.
+
+Finepoint's digitizer technology incorporates a battery-powered pen which actively transmits RF signals to be received by the tablet sensor. 
+This results in lower power usage of the tablet PC itself, but higher size and weight of the pen because of the battery. 
+The main advantage is that the accuracy problems related to interference from metal at the edge of the screen is not an issue.
+
+Early revisions of Finepoint's digitizer, used in Compaq's TC1000, specifically suffered from the use of obscure, non-rechargeable 
+AAAA batteries to power the pen, and did not support pressure sensitivity.
+
+Modern Gateway Convertible Notebooks (CX200/210, CX2600/2700, etc.) use Finepoint MP-800 digitizers. The batteries inside these pens 
+are recharged by an inductance coil while the pen is stored in its compartment. Concerns over the reliability of the pen are the main 
+problem with these models.
+
+
+- Passive digitizer
+A passive digitizer, used in a touchscreen based tablet PC, only knows where the position of the stylus or finger is when the user presses it. 
+This causes the pointer on the screen to jump to the location of the press and instantly "click". Passive digitizers are either capacitive 
+or resistive. They offer lower accuracy and a higher rate of error?e.g. when the user's hand rests on the screen surface?which makes them 
+less common in tablet PCs.
+
+
+

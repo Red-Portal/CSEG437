@@ -1,0 +1,12 @@
+Nintendo 3DS Specs: More Proof Smartphone Gaming is Better?
+By: Jamie Pert | September 22, 2010 | More In: Gaming, Nintendo 3DS
+
+In the last year or so smartphone gaming has really kicked off, this has had an obvious effect on handhelds from Nintendo and Sony, therefore I was very keen to see what Nintendo had up their sleeves with the 3DS.
+Recently the 3DS technical specs were revealed, personally I can¡¯t help but feel a little disappointed with hardware spec, especially when compared to today¡¯s high-end smartphones.
+The standard Nintendo DS features two ARM processors, one of which has a core speed of 67 MHz and the other runs at 33 MHz, the 3DS has two 266MHz ARM11 CPUs which shows a huge improvement, however still lacking when compared to the 1GHz chips we see in smartphones such as the iPhone 4 and HTC Desire etc.
+Obviously two 266MHz CPUs, 64MB of RAM, 4MB of VRAM and a 133MHz GPU dedicated to gaming is pretty good, especially as a smartphone¡¯s hardware has a lot of other background processes to handle, however with Qualcomm working on dual core 1.5GHz processors and other chip manufacturers working on competing chips I¡¯m worried that in a year or so the 3DS will be far inferior in terms of graphics and performance.
+Nintendo has proven that there is a niche in the market for gamers who do not care about cutting-edge graphics and instead would prefer great gameplay, I understand this, but gameplay on smartphones is always improving, which could perhaps result in the 3DS becoming inferior in terms of gameplay.
+We would love your feedback on this matter, do you think that the 3DS¡¯ hardware is sufficient? Or do you think that smartphones do/will offer a greater overall gaming experience?
+
+url : http://www.product-reviews.net/2010/09/22/nintendo-3ds-specs-more-proof-smartphone-gaming-is-better/
+tag : nintendo 3ds processor smartphone game 

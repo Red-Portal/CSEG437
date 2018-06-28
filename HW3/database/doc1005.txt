@@ -1,0 +1,15 @@
+The PS3 supports numerous SDTV and HDTV resolutions (from 480i/576i up to 1080p) and connectivity options
+(such as HDMI 1.3a and component video). In terms of audio, the PS3 supports a number of formats, including 
+7.1 digital audio, Dolby TrueHD, DTS-HD Master Audio and others; audio output is possible over stereo RCA cables (analog),
+optical digital cables, or HDMI. The PS3 slim features an upgraded HDMI chip that allows bitstreaming 
+of lossless audio codecs to an external receiver (earlier versions had to decode the signal internally
+before outputting it via LPCM). For the optical disc drive, a wide variety of DVD and CD formats are supported, 
+as well as Blu-ray Discs. A 20, 40, 60, 80, 120, 160, 250, 320, or 500 GB 2.5-inch SATA 150 hard disk 
+is preinstalled. In the early 60 GB and 80 GB configurations, flash memory can also be used, 
+either Memory Sticks; CompactFlash cards; or SD/MMC cards. All models support USB memory devices; flash drives 
+and external hard drives are both automatically recognized. However, they must be formatted with the FAT32 file system.
+For communication, the system sported four USB 2.0 ports at the front on the 20 and 60 GB models as well as 
+the NTSC 80 GB model, but the 40 GB and 80 GB PAL models only have two USB ports. 
+All models (80 and 160 GB) released after August 2008 have been reduced to two USB ports, 
+as well as dropping CompactFlash and SD card support. One Gigabit Ethernet port, Bluetooth 2.0 support, 
+and built-in Wi-Fi (except CECHBxx).

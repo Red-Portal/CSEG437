@@ -1,0 +1,10 @@
+Smartphone technology used for portable ultrasound imaging device
+
+MobiUS is a smartphone-based ultrasound imaging system that offers a convenient and affordable alternative to conventional ultrasound equipment.
+
+According to US company Mobisante, more than 70 percent of the world¡¯s population are without access to ultrasound devices, usually because they are too expensive and not portable enough. However, with the recently launched MobiUS ? a smartphone-based ultrasound imaging system ? they hope to offer a convenient and affordable solution. 
+
+The MobiUS device and abdominal probe are designed to allow medical professionals to take ultrasound images and videos wherever they are, and share information with remote providers via a mobile or wifi network. Measuring 5.1¡± by 2.75¡± the device can fit into a pocket, however a version compatible with Windows-based tablets is also in development with a bigger screen and higher image resolution. Users select what type of patient examination is taking place ? for example cardiac or vascular ? before starting the scan. Ultrasound images can then be adjusted in contrast and intensity, and the software can also calculate measurements and add text. A camera on the phone, meanwhile, can capture external images and video which can be shared via email or saved to a PC. Mobisante believe the device and probe ? costing USD 7,495 ? will facilitate quicker diagnosis, and will be ideal for disaster relief teams and mobile medical professionals. The video below explains Mobisante in more detail:
+
+
+It should be noted that the MobiUS device cannot be used to make and receive calls or text messages, nor can the probe be used on other smartphone devices. However, there¡¯s plenty of inspiration here for entrepreneurs hoping to make other medical tests more accessible using smartphone technology. 

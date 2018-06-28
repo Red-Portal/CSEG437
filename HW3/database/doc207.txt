@@ -1,0 +1,69 @@
+REAL-TIME HDTV BROADCAST FROM USA TO JAPAN ENABLED BY ADVANCED NETWORKS
+ 
+Japans JGN2 Symposium 2005 Features Keynote Speaker Larry Smarr of UCSD Broadcast Live from Seattle over Advanced Optical Networks
+
+January 18, 2005 -- Dignitaries and researchers attending the JGN2 Symposium 2005 in Osaka, Japan today listened and watched as Internet visionary Larry Smarr gave the keynote presentation on a large HDTV screen above the podium. Unlike traditional keynote talks, however, Smarr was 5,000 miles away in Seattle, Washington. And unlike traditional in-person talks, the quality, size and resolution was so great that the audience could see every detail of the speaker's face.
+
+Advances in transmitting live, uncompressed high-definition television (HDTV) signals over optical networks are enabling true tele-presence, in which participants feel they are together in the same room. The Internet HDTV broadcast system used for this event was developed by the University of Washington for the ResearchChannel. A server in Seattle transmitted uncompressed, real-time, high-definition digital video and digital audio at very high quality and low latency to a client system in Osaka. Professor Smarrs presentation originated on the University of Washington campus in Seattle and was transmitted without using any compression at 1.5 Gbps to the Pacific Northwest GigaPoP (PNWGP), then across a 10 Gigabits per second (Gbps) transpacific link from Seattle to Tokyo, and then via the JGN2 to Osaka. The transpacific link was provided by the Internet Educational Equal Access Foundation (IEEAF), and is managed by the PNWGP in Seattle and the WIDE project in Japan.
+
+Smarr, director of the California Institute for Telecommunications and Information Technology (Calit2) and principal investigator of the National Science Foundation-funded OptIPuter project, talked about the emergence of a new cyberinfrastructure based on dedicated optical paths, in which distributed clusters and instruments are tightly coupled using wavelengths of light, or lambdas, on single optical fibers. The ability to stream video at gigabits per second, like in this HDTV transmission, is enabling new modes of communication and collaboration. The clear crisp images and sounds that HDTV affords make for better dialogue and interaction with colleagues over distances, said Smarr, who is also a professor at the University of California, San Diego (UCSD) Jacobs School of Engineering. The goal is to make these sorts of communication technologies persistent, so that far-away colleagues appear to be just beyond the Looking Glass.
+
+In his talk, Smarr noted that Calit2 is incorporating advanced video-over-fiber networking technologies into its two new buildings at UCSD and UC Irvine. Facilities are slated to include a digital cinema and HDTV production facility, as well as dedicated meeting and public spaces with large-format displays to support tele-presence and collaboration. Said Smarr: Every type of research will benefit if we can tear down walls and let scientists and engineers talk and work together in real time as if they were in the same room -- even if theyre thousands of miles away.
+
+Tomonori Aoyama, a professor of Information and Communication Engineering at the University of Tokyo, chair of the JGN2 management committee, and chair of the Symposiums keynote session, expressed his sincere gratitude to all who contributed to its success. The goal of the Symposium was to present the research and development activities taking place using Japans JGN2, operated by the National Institute of Information and Communications Technology (NiCT), said Aoyama. I am very pleased that we used JGN2 and IEEAF broadband network technologies during the featured remote presentation by Dr. Smarr to explain the needs and applications for these technologies.
+
+JGN2, an advanced network testbed for research and development, is both a national and international testbed. It supports high-speed networking technologies and application advancements. Nationally, JGN2 is a 20 Gbps backbone network that has access points in all Japanese prefectures. Internationally, JGN2 connects Tokyo via a 10 Gbps link to the StarLight facility in Chicago, where it peers with the USA s National LambdaRail, Abilene and other advanced international, national, and regional research and education networks.
+
+This is a milestone both in the use of technology and the establishment of a new high-water mark in extraordinarily close international collaborations, explained Ron Johnson, Vice President for Computing & Communications at University of Washington. We are collectively managing dedicated lightpaths to carry uncompressed HDTV while at the same time supporting scientific research such as the Huygens Titan probe with a lambda-based network infrastructure that links Asia, Australia, Europe, and North America. Colleagues at JGN2, WIDE, IEEAF, PNWGP, StarLight, the University of Washington, the ResearchChannel and other like-minded entities worldwide are working together to create deterministic networks using multiple lambdas over optical fibers, to guarantee the bandwidth speeds and latency in order to do things like real-time HDTV transmission and remote steering of scientific instruments. We will continue to pursue this, to make applications like high-quality HDTV transmission both persistent and ubiquitous.
+
+# # # # 
+
+ABOUT ResearchChannel 
+ResearchChannel is a non-profit consortium of leading research universities and labs dedicated to creating a voice for research through both tradition broadcast, satellite and cable TV coverage, as well as via advanced on-demand video and Internet 'channels', while exploring new technologies for communication and collaboration. www.researchchannel.org <http://www.researchchannel.org/> 
+
+ABOUT JGN2 
+JGN2  is a new Japanese ultra-high-speed open testbed network for R&D collaboration between industry, academia, and government, operated by the National Institute of Information and Communications Technology (NiCT) of Japan. JGN2 was established in April 2004 with the aim of promoting a broad spectrum of research and development projects, ranging from fundamental core research and development to advanced experimental testing, in areas including the advancement of next-generation technologies for networking and diverse network-based applications. JGN2 provides nationwide Japanese IP networks, optical wavelength networks, and R&D environments for optical testbeds. JGN2 was extended internationally in August 2004 with the addition of a 10 Gbps transpacific link between Japan (Tokyo) and the USA (Chicago). http://www.jgn.nict.go.jp/e/ 
+
+ABOUT CALIT2 
+The California Institute for Telecommunications and Information Technology (Calit2) is one of four institutes funded through the California Institutes for Science and Innovation initiative to ensure that the state maintains its leadership in cutting-edge technologies. Calit2 is a collaboration between UC San Diego and UC Irvine. Its mission is to extend the reach of the current information infrastructure throughout the physical world -- enabling anywhere/anytime access to the Internet. More than 200 faculty members from the two campuses are collaborating on interdisciplinary projects, with support from more than 130 industry partners. http://www.calit2.net <http://www.calit2.net/> 
+
+ABOUT UNIVERSITY OF WASHINGTON 
+Founded in 1861, the University of Washington is a top research university with over 41,000 students on campuses in Seattle, Tacoma and Bothell, Washington.  http://www.washington.edu <http://www.washington.edu/> 
+
+ABOUT PACIFIC NORTHWEST GIGAPOP 
+The Pacific Northwest GigaPoP (PNWGP) is a not-for-profit corporation serving leading-edge organizations and Research and Education networks throughout the Pacific Rim. PNWGP provides robust, highest-speed access to current state-of-the-art Internet; Next Generation Internet services and technology; and the exclusive R&D testbeds where tomorrow s Internet technologies are being developed. PNWGP is built to be the highest caliber Research and Education networking services hub in the world and is the operator of the Pacific Wave distributed west coast international peering and exchange point with integrated PoPs in Seattle and Los Angeles. PNWGP is also the steward for the Seattle end of the IEEAF Pacific link. www.pnw-gigapop.net <http://www.pnw-gigapop.net> 
+
+ABOUT IEEAF 
+The Internet Educational Equal Access Foundation (IEEAF) is a non-profit organization whose mission is to obtain donations of telecommunications capacity and equipment and make them available for use by the global research and education community. The IEEAF TransPacific Link is the second 10 Gbps transoceanic link provided by IEEAF through a five-year IRU donated by Tyco Telecom; the first, the IEEAF TransAtlantic Link, connects New York and Groningen, The Netherlands, and has been operational since 2002. IEEAF donations currently span 17 time zones. http://www.ieeaf.org/ 
+
+ABOUT WIDE 
+WIDE, a research consortium working on practical research and development of Internet-related technologies, was launched in 1988. The project has made a significant contribution to development of the Internet by collaborating with many other bodies -- including 133 companies and 11 universities to carry out research in a wide range of fields, and by operating M.ROOT-SERVERS.NET, one of the DNS root servers, since 1997. WIDE Project also operates T-LEX (www.t-lex.net/ <http://www.t-lex.net/>) as an effort of stewardship for the IEEAF TransPacific Link in Tokyo. http://www.wide.ad.jp/ 
+
+
+PARTICIPATING ORGANIZATIONS 
+
+
+National Institute of Information and Communications Technology (NiCT) 
+NiCT/JGN II, NiCT/APAN 
+KDDI 
+NTT Group 
+WIDE Project 
+University of California San Diego/Calit2 
+University of Washington 
+Pacific Northwest GigaPoP 
+Pacific Wave 
+ResearchChannel 
+Pacific Interface, Inc. 
+StarLight (Argonne National Lab, Northwestern University, University of Illinois at Chicago) 
+Indiana University 
+Intel 
+
+CIRCUITS 
+JGN II, WIDE, KDDI, NTT Group 
+IEEAF, NLR (National Lambda Rail) 
+
+NOTE TO EDITORS: 
+
+1) A high-resolution photo of UCSD professor Larry Smarr can be downloaded from: http://www.calit2.net/gallery/lsmarr/images/highres/Smarr-06.jpg 
+
+2) A diagram of the  HD-over-IP" network can be downloaded from: http://www.pnw-gigapop.net/news/index.html

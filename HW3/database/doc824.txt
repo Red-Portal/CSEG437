@@ -1,0 +1,48 @@
+Samsung's new AI assistant will take on Siri and Alexa 
+
+A new voice is about to hit the tech scene.
+
+Samsung is preparing to launch a digital assistant called "Bixby," the latest product to result from the tech industry's obsession with artificial intelligence and the Internet of Things.
+
+Bixby will be featured on the new Galaxy S8, Samsung's head of research and development Injong Rhee said in a blog post.
+
+The S8 launches in New York next week.
+
+Samsung is banking on the S8 to help it recover from last year's embarrassing Note 7 debacle. The company killed off the flagship device after a recall and various fixes failed to stop some Note 7s from overheating and catching fire.
+
+It's also facing potential disruptions as de facto leader Lee Jaeyong's criminal trial begins in South Korea. Lee has been caught up in a corruption scandal and is facing a list of charges including bribery and embezzlement.
+
+Bixby will enter a market that is already crowded with competitors, including Apple's (AAPL) Siri, Amazon's (AMAZON) Alexa, Google (GOOG) Assistant, Microsoft's (MICROS) Cortana and IBM's (IBM) Watson. Even Facebook (FB) CEO Mark Zuckerberg has an assistant called Jarvis.
+
+Samsung, however, insists that Bixby is "fundamentally different from other voice agents or assistants."
+
+Related: What next for Samsung as chief's 'trial of the century' begins
+ The electronics giant said that Bixby's ability to work across supported apps sets it apart from Siri or Cortana. For example, you could direct BIxby to "find a photo of Jane and text it to Sally."
+
+Users will also be able to switch between using Bixby to issue voice commands and using smartphones the old fashioned way, via touch commands. That is a clumsier experience on existing assistants, which often start tasks over if you switch from voice to touch.
+
+Unlike its competitors, the S8 will come with a dedicated Bixby button, allowing users to fire up the smartphone digital assistant the same way they would a walkie-talkie. Samsung plans to make Bixby available on all its appliances, including air conditioners and TVs.
+
+"We believe Bixby will evolve from a smartphone interface to an interface for your life," Rhee said.
+
+Related: Roomba will now tell you what part of your home is dirtiest
+
+Tech firms are betting that an increasing number of people will soon use digital assistants to interact with various devices. Research firm Tractica predicts the market for virtual digital assistants will top $15 billion by 2021.
+
+Rhee said that Bixby would be "at the heart of our software and services evolution as a company."
+
+Ian Fogg, a mobile devices analyst with IHS Markit, said the statement represented a major shift for the hardware giant.
+
+"They've never made such a strong statement that they need to be a software and services company before," he said.
+
+Some analysts remain skeptical of Bixby because it doesn't play to the firm's strengths. The company's other digital assistant, the S Voice, launched in 2012 and was quickly outpaced by Siri and Google Assistant.
+
+"I am concerned about whether a traditionally hardware-centric company like Samsung can execute well on this, especially against ... heavyweights like Google," said Bryan Ma, a smartphone analyst with research firm IDC.
+
+However, Ma said that even Apple hasn't perfected its digital assistant.
+
+"It's still only the first inning of the ballgame right now," he said.
+
+Last year, Samsung acquired a startup called Viv Labs in an effort to build its expertise in the area. Viv Labs is helmed by a co-creator of Apple's Siri, and its assistant can handle complex queries from users.
+
+Bixby was reportedly developed using Samsung's in-house technology, but updates will incorporate Viv's features and tech.

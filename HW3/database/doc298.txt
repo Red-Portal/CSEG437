@@ -1,0 +1,10 @@
+iTunes Music Store Review
+
+
+Finding musicLayout
+You can only access the iTunes store via the iTunes application, which has gotten a lot of bad reputation for being slow. It used to be, and still isn¡¯t the fastest out there, but it¡¯s by no means as bad as it used to be just a year ago. The music store essentially works like a web browser as it fetches all the data online, which means the speed of it will rely on the speed of your connection. 
+
+iTunes was recently released as version 9, which included a major UI update for the music store. The main page has some rather flashy graphics showing off the new and ¡°hot¡± releases as well as lists with other new releases and top seller lists. There are also links to music videos, music movies, movies, videos etc but as only the music and podcasts are DRM free, all the video content will be ignored (since it only works on iPods and in iTunes). There is no direct link to genres on the main page as it¡¯s now hidden as a drop down menu accessible by clicking the arrow beside the music button on top. The genre pages aren¡¯t really any different from the main page, just filtering what to display in the various lists by the genre. If you click further into a list, you get a list of thumbnails. You can always see where you are in relation to the main page by the navigation bar on top, showing you what genre you¡¯re in if you click on an artist etc. This was something I really missed from Amazon MP3.
+
+Artist and album pages
+Artist and album pages got serious overhaul in iTunes 9 and as long as the artist is above average famous it will have a customized page and customized pages for the albums. Those that aren¡¯t privileged to such an honor only get the stock pages, which include the same list of songs and customer reviews as the fancy ones, just no special background or layout. If the album or artist you¡¯re looking at has the nice design it¡¯s a real treat to look at, but Amazon¡¯s more conservative artist info+picture design covers far more artists. Each artist page also contains links to add alerts for new releases as well as options to share via a link, Twitter or Facebook. 

@@ -1,0 +1,91 @@
+Smartphone location and navigation services
+Date: October 21st, 2010 
+Author: Debra Littlejohn Shinder
+
+I was so excited when I got my first Global Positioning Satellite (GPS) device. It was a little clunky and (compared to today) awfully expensive, but being able to enter an address and have it guide me to my destination seemed nothing short of miraculous. I would no longer have to rely on roadmaps that could never be properly refolded, friends¡¯ well-intentioned but often not-quite-accurate directions, or the kindness of strangers at gas stations. I soon discovered that those dedicated GPS devices weren¡¯t infallible, and that the devices could fall out of date just like printed maps.
+
+Over the years GPS devices got better, and I would be uncomfortable if I had to try to get around in a strange city without one. But I don¡¯t like carrying around yet another electronic device with me when I travel. The good news is that now I don¡¯t have to because navigation ? and more ? is built into many of today¡¯s smartphones.
+
+The evolution of smartphone GPSGPS navigation with a handheld computer has been possible for many years; I had that functionality with my iPAQ PDA way back in the early 2000s, but it didn¡¯t come built in; I had to buy a GPS receiver that plugged into the expansion card slot, install the navigation software, and download and install maps for the areas I expected to visit. It worked, but not as well or as conveniently as a dedicated GPS.
+
+When PDAs and cell phones mated and produced offspring called smartphones, location services soon became standard. In part, this was because phones needed to be able to detect their locations for 9-1-1 services. For years, many phones were only able to use GPS for emergency calling, but today most have full-fledged GPS functionality (although you can usually turn off the location service separately from the 9-1-1 functionality, as shown in Figure A).
+
+Figure A
+
+
+
+You can enable GPS for 9-1-1 and/or location services on modern smartphones.
+The GPS receiver can be used for navigation and accessed by applications to localize search results, or report your location on social networking sites, etc.
+
+The growing popularity of location-based servicesLocation-based services (LBS) identify where a mobile phone is geographically located and use that information for some purpose, such as discovering restaurants that are within close proximity or providing information about the weather in that location. The earliest LBS required you to enter your address or zip code, but today¡¯s services make use of the built-in GPS to obtain that information automatically and to update it as you move to a new location. Prior to inclusion of GPS in phones, approximate location would be determined by triangulation based on measuring the strength and direction of signals from two or three nearby cell phone towers.
+
+Social networking applications such as Foursquare (Figure B) use location information and report users¡¯ locations to their friends and allow them to ¡°check in¡± to different venues to earn points. Such location information allows people to know which of their friends are close by and thus when an opportunity exists to get together.
+
+Figure B
+
+
+
+Foursquare is one of many apps by which you can keep up with your friends¡¯ locations.
+Facebook has rolled out its own location-based feature, called Facebook Places, which lets you ¡°check in¡± to locations and tag people who are with you.
+
+Location-based services can also make it easier to get directions to a specified location from one¡¯s current location (even if you don¡¯t know where you are).
+
+Another use for location information is location-based advertising, which can target only those who are in the immediate vicinity. And a smartphone¡¯s built-in camera can add location information to the metadata for photos taken.
+
+In the business world, location-based services allow employers to track the locations of people or lost/stolen phones.
+
+Smartphone software that uses GPSThere are many mobile apps for popular smartphone platforms that use location-based information, such as:
+
+Google Latitude allows you to share location-based information with friends and see where your friends are on a map. You can also store your past location history, publish your location on your blog or web site, and/or share it with your GoogleTalk or Gmail chat contacts. 
+Brightkite lets you share locations and photos with friends via text message and engage in group conversations. 
+Gowalla is a travel game that gives you rewards for visiting different places. 
+Urbanspoon finds nearby restaurants, using a unique ¡°slot machine¡± interface. 
+Web search engines can also return results that relate to your location (Figure C).
+
+Figure C
+
+
+
+Mobile web browser search engines can tailor results to your location.
+Getting there, one turn at a timeThe premiere location-based service is turn-by-turn navigation. There are a number of ways you can use your smartphone as a stand-in for a GPS navigation device. The simplest ? but most expensive ? is to subscribe to your cell phone carrier¡¯s navigation service.
+
+Carrier-based navigation services
+
+Verizon¡¯s VZ Navigator service (Figure D) costs an extra $9.99 per month, but it has a slick interface and includes traffic information with spoken traffic congestion and incident notifications. The service builds in the features for which you might otherwise install individual apps, such as the ability to share your location with friends on Facebook, search for nearby points of interest (events, airports, ATMs, restaurants, shopping centers, and so on), and even integrates with the Roadside Assistance service to get help to you more quickly when you need it. If you don¡¯t need the navigation service often enough to justify paying an extra 10 bucks per month, Verizon offers VZ Navigator on a per-day basis for $2.99 for a 24-hour period. 
+Figure D
+
+
+
+Verizon¡¯s VZ Navigator is an example of carrier-based navigation services.
+AT&T Navigator is a similar service, for the same price, that also comes in a global edition for those who travel outside the United States. 
+Sprint Navigation offers the same type of service. 
+Through T-Mobile, you can get a smartphone made by Garmin, the popular maker of automotive and marine GPS devices.
+
+There are two gotchas to keep in mind when using the carrier-based navigation services: The charges carry the inevitable taxes and fees on top of the quoted daily or monthly pricing, and that airtime for downloading map updates and using certain features of the applications will go against your data usage allocation.
+
+Independent navigation apps
+
+If you prefer not to pay your carrier for GPS service, there are a number of independent navigation apps you can choose from, depending on your smartphone platform.
+
+Google Maps Navigation is in beta and is a free download, available through the Android Market. It includes search by voice, which is particularly handy when you¡¯re driving. You can view your route in the standard road map view or in satellite view, and it automatically switches to street view when you get close to the destination. There is a car dock mode, and you can also choose to get walking directions. (Figure E) 
+Figure E
+
+
+
+Google Maps Navigation is a free navigation service for Android phones.
+GPS maker TomTom offers a turn-by-turn navigation app for the iPhone, which uses actual speed data collected from millions of users to calculate the fastest routes. The cost is $49.99. 
+If you¡¯re using a Windows Mobile phone, TomTom also makes NAVIGATOR 7 for the HTC Touch Pros and HD2, Samsung i900 Omnia, Sony Ericsson XPERIA X1, and others. 
+BlackBerry Maps is a free app for GPS-equipped BlackBerry smartphones running BlackBerry Device Software v4.1 or later. With BlackBerry Maps, you can view maps, get directions to a destination, or locate points of interest that are nearby. 
+TechRepublic contributor Scott Lowe says that NAVIGON MobileNavigator for the iPhone is a great replacement for his GPS device. 
+All smartphone GPS are not created equalIf the GPS functionality is important to you, be aware that different smartphone models offer different quality or functionality in that regard. For example, in testing the Motorola Droid X and the Samsung Fascinate (both of which run Android 2.1), I found the GPS on the Droid X to be superior. The Fascinate intermittently failed to pick up satellite signals inside my home, whereas the Droid X had no problem with it. In addition, the Droid X pinpointed my location almost exactly on the map, whereas the Fascinate placed me several streets over from where I actually was. I haven¡¯t had the opportunity to test the Garminfone, but I would expect it to offer excellent GPS capability, given its maker¡¯s experience in that area.
+
+The point is that you shouldn¡¯t assume that just because a phone is advertised as having GPS, it will serve your needs, especially for driving navigation. Do some research and, if possible, test the GPS capabilities of the phone(s) you¡¯re interested in before making a commitment. Carriers often have a 30 day return policy, so you can switch phones if you find that the phone¡¯s GPS is a deal breaker for you.
+
+The dark side of location-based servicesBuilt-in GPS and location services make for some great apps that offer convenience and the cool factor, but keep in mind that this technology has its dark side. Smartphone GPS not only allows you to find people and things ? it also allows others to find you.
+
+Location apps are fun to use, and it¡¯s nice to be able to keep up with where your friends are, but announcing to the world that you¡¯re in a particular location can serve as an invitation to stalkers or a handy tip to burglars that your home is empty.
+
+A less ominous but irritating downside to GPS is that it can drain your phone¡¯s battery quickly. Plug it into the car charger when using it for turn-by-turn navigation, and turn the GPS off in your phone¡¯s settings when you don¡¯t need to use it.
+
+What navigation services do you use?Do you use location and navigation services on your smartphone? If so, are the services built-in to your phone, or do you use a GPS app? If you don¡¯t use these services, is it primarily because you don¡¯t want others to know where you are at all times?
+

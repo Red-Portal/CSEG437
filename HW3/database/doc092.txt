@@ -1,0 +1,89 @@
+			        Optoelectronics
+
+Flash module vs. LED as light source for mobile phone digital camera applications
+By Rick Yeo
+
+				Introduction
+
+The popularity of mobile phones with digital camera features is growing steadily and, as with other popular electronic devices, demand for higher quality by the consumer means manufacturers must constantly improve their product line. One improvement that PerkinElmer Optoelectronics is bringing to market is the replacement of light-emitting diodes (LEDs) with superior flash modules as the light source for high quality mobile phone cameras. 
+In Japan, the digital camera is already a common feature provided with mobile phones. As its popularity moves into
+other areas of the world, manufacturers must offer the highest quality available or be stifled by the competition. With
+that in mind, when it comes to the camera¡¯s light source, flash modules provide major benefits over traditional LEDs.
+With nearly 420 million people using mobile phones and only about 5% providing a camera feature, the market for
+mobile digital camera phones is poised for rapid growth ? and with it, a demand for higher-end products that will require
+the benefits only provided by these new flash modules.
+
+			LED vs. LED vs. flash flash
+
+The majority of mobile camera phones on the market today use LEDs. The LED is smaller in size and easily
+incorporated into the phone. The LED also eliminates any need for a charge delay before the light source is ready for
+the next shot, while flash modules require about six seconds to recharge. However, this is where the LED advantages
+leave off and the benefits of flash modules begin.
+The biggest and most obvious advantage of a flash module is shear light output. LEDs have very low light output, less
+than 5 Luxs at a distance of 0.2 meters with 2x4 LEDs. The flash module provides about 400 times the light output of
+typical LEDs with the same at 1.8 watts per flash.
+The allowable distribution of the flash module¡¯s light output can also be projected more evenly over the area being
+photographed. This light distribution has a direct impact on the photographic quality of the print. For the new higher end
+mega-pixel cameras demanded by today¡¯s technology-savvy consumers, only flash modules
+distribute enough light for high quality results.
+The angle of illumination and distribution is enhanced in flash modules by designing in a
+reflector and lens. Although there are some LED packages being sold on the market that
+include a reflector, the light output poor in comparison to flash modules.
+www. p e r k i n e l m e r. c o m / o p t o e l e c t ronics
+Flash module vs. Flash module vs. LED as light sour LED as light source f ce for mobile phone digital camera applications or mobile phone digital camera applications
+Page 2
+Flash modules also have the advantage of providing a pulse light, as opposed to an LED¡¯s continuous light. The pulse
+light acts like a shutter to sharpen the quality of the photographs. Continuous light, though better for streaming video, is
+not nearly as useful for photography. With a moving object, such as a vehicle being photographed by a traffic control
+camera, pulse light provides a very sharp picture of the motorist¡¯s license plate number.
+Another advantage of flash modules is the color temperature they provide. LEDs have a color temperature of about 8500
+K which results in a bluish light ? not ideal for taking still pictures. With a flash module, the pulse light¡¯s color temperature
+is closer to sunlight, or between 5500 K and 6000 K. This is the ideal color temperature for still photography.
+Cost is always a factor to be reckoned with when improving product lines. However, in the case of LED vs. flash light
+sources for mobile phone cameras, it¡¯s actually less expensive to buy the superior component. Currently, flash modules
+are less than half the cost of LEDs.
+
+			     Work in progress
+
+As the demand for higher quality surges in the mobile camera phone industry, the manufacturers must take steps to
+improve their products. Although some low-end products will still be in demand and satisfied by LED light sources,
+producing high-end, quality camera phones capable of producing sharp, clear, color photographs will require the use of
+flash modules.
+While last year¡¯s product offerings were mainly 0.3 mega-pixel cameras, the market is expected to progress towards 1.3
+mega-pixel cameras that can provide better quality pictures, but require higher light output that only flash modules can
+provide. With that in mind, companies like PerkinElmer Optoelectronics are working hard toward overcoming the few
+obstacles still faced by flash module technology.
+Miniaturization of flash products is making it possible to attain the size requirements for flash modules that will parallel
+those of the LED. Flashlamps and other components are gradually shrinking in size. PerkinElmer recently rolled out a 1.8
+mm diameter lamp. They also provide a flash module solution that includes the lamp as well as the circuitry to drive the
+lamp ? and the miniaturization efforts continue.
+
+				Conclusion
+
+As mobile phone digital camera manufacturers realize the benefits of flash module light sources over LEDs, high quality,
+high reliability products are sure to follow. For low-end phone cameras, an LED may be sufficient for photography. But as
+manufacturers move toward the higher mega-pixel products, flash becomes necessary for better lighting and sharper
+pictures.
+PerkinElmer Optoelectronics is leading the way in breaking down the technical obstacles to designing flash modules for
+mobile camera phone applications. Already bringing lower cost, more light output, better light distribution and better
+quality results to the table, work is continuing toward miniaturization, reducing power consumption, and educating people
+about the many benefits of flash modules. These components will enable manufacturers to set higher standards in
+quality and reliability in today¡¯s mobile camera phone market.
+
+
+¨Ï 2003 PerkinElmer, Inc. All rights reserved. PerkinElmer, the PerkinElmer logo and the stylized ¡°P¡± are trademarks of PerkinElmer, Inc. AN339-0703
+For more information e-mail us at opto@perkinelmer.com or visit our website at www.perkinelmer.com/optoelectronics
+All values are nominal; specifications subject to change without notice.
+North America:
+PerkinElmer Optoelectronics
+44370 Christy Street
+Fremont, CA 94538
+Toll Free: (800) 775-6786
+Phone: +1 (510) 979-6500
+Fax: +1 (510) 687-1140
+Asia:
+PerkinElmer Optoelectronics
+47 Ayer Rajah Crescent #06-12
+Singapore 139947
+Phone: +65-6770-4370
+Fax: +65-6777-2196

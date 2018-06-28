@@ -1,0 +1,35 @@
+Mobile video calling is not an entirely new concept. However the launch of FaceTime on iPhone 4 has rejuvenated this emerging market and now we are getting to see a lot of activity in this space.
+
+While Apple rivals like Google are rumored to be working on their own mobile video calling apps, third party developers too have been launching their own applications. 
+
+
+One such application that launched last week is Tango; a cross-platform software developed by a Palo Alto based startup by the same name. 
+
+The application presently works on iOS as well as Android platforms. Unlike FaceTime, Tango can be used to communicate with friends who do not own an iPhone 4 or iPod Touch 4G.
+
+Tango also comes with a number of other advantages over FaceTime. The application can work over Wi-Fi as well as 3G and also works over phones that do not come with a front-facing camera. 
+
+This would effectively make it possible for users of iPhone 3GS and iPhone 3G to engage in a video chat as well though these users may not be able to relay video from their end. It is also worth 
+
+noting that Tango lets users toggle the relay between the front-facing and rear-facing cameras and hence users may also point out to other objects using their rear camera while they are engaged
+
+ in a mobile video conversation just like FaceTime.
+
+According to Walt Mossberg from the Wall Street Journal, one of the most powerful aspects about the Tango app is its easy-to-use interface. The application does not require the user 
+
+to fill out lengthy profile forms like Fring and only requires the users' phone number and email address for registration. Also, the application periodically scans the users' address book 
+
+for information on other contacts who have installed the app on their mobile phone. These details are automatically added to the Tango address book for easy access. 
+
+The company however notes that these contact details are entirely secure since they are stored locally and not on the company's servers. 
+
+While this is definitely a must-have app for those of you looking to video chat with your friends, do note that the app leaves a lot to be desired as of now. Mossberg points out that
+
+ the video quality is pretty unreliable at times though it does appear to work well over Wi-Fi networks on most counts. Despite this, it may be noted that the application currently 
+
+supports over 25 different handsets and is hence pretty useful. 
+
+You can checkout the video demo of the iPhone app given by Eric Setton, co-founder and CTO of Tango:
+
+ 
+Tango app for iPhone (iTunes Link) is free to download. Do check the application out and let us know your views in the comments below.

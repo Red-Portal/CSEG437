@@ -1,0 +1,77 @@
+<Personal digital assistant>
+From Wikipedia, the free encyclopedia
+
+ (CDAs) are handheld devices that were originally designed as personal organizers, but became much more versatile over the years. 
+PDAs have many uses: calculating, use as a clock and calendar, playing computer games, accessing the Internet, 
+sending and receiving e-mail, use as a radio or stereo, video recording, recording notes, use as an address book, GPS and use as a spreadsheet. 
+Newer PDAs also have both color screens and audio capabilities, enabling them to be used as mobile phones (smartphone), 
+web browsers or portable media players. Many PDAs can access the Internet, intranets or extranets via Wi-Fi, or Wireless Wide-Area Networks (WWANs). 
+One of the most significant PDA characteristic is the presence of a touch screen.
+
+
+
+A typical PDA has a touch screen for data entry, a memory card slot for data storage and IrDA port for connectivity. 
+Wi-Fi and Bluetooth are often integrated in newer PDA's.
+
+
+Touch screen
+Many original PDAs, such as the Palm Pilot, featured touch screens for user interaction, having only a few buttons usually reserved for 
+shortcuts to often used programs. Touch screen PDAs, including Windows Pocket PC devices, usually have a detachable stylus that can be used on 
+the touch screen. Interaction is then done by tapping the screen to activate buttons or menu choices, and dragging the stylus to, 
+for example, highlight text.
+
+Text input is usually done in one of two ways:
+- Using a virtual keyboard, where a keyboard is shown on the touch screen. Input is done by tapping the letters. 
+- Using letter or word recognition, where letters or words are written on the touch screen, and then "translated" to 
+letters in the currently activated text field. Despite rigorous research and development projects, this data input method 
+still requires much patience from the user since it tends to be rather inaccurate. 
+
+PDAs for business use, including the BlackBerry and Treo, have a full keyboards and scroll wheels or thumb wheels to facilitate 
+data entry and navigation, in addition to supporting touch-screen input. There are also full-size foldable keyboards available that 
+plug directly into the PDA and allow for normal typing. BlackBerry also has additional functionality as push based email and applications
+
+
+Memory Cards
+Almost all PDA's have some form of memory card slot. A standard on modern PDA's is the SD (Secure Digital) slot. 
+Although originally designed for memory, in recent years the invention of the SDIO standard has allowed such things as Wi-Fi cards 
+and Webcam's to be used in the same slot. Compact Flash slots are used in many PDA's to provide extra expandability. 
+For example, one slot is used for memory and the other for Wi-Fi. Some PDA's also have a USB port, mainly for USB flash drives.
+
+
+Connectivity
+All PDA's have an IrDA port for connectivity. This allows communication between two PDAs, a PDA and any device with an IrDA port, 
+or between a PDA and a computer with an IrDA adapter. Most modern PDA's also have Bluetooth wireless connectivity, which is used by 
+many mobile phones, headsets and GPS devices.
+
+
+Synchronization
+An important function of PDAs is synchronizing data with a PC. This allows up to date contact information stored on software such as 
+Microsoft Outlook or ACT! to update the database on the PDA. The data synchronized ensures that the PDA has an accurate list of contacts, 
+appointments and e-mail, allowing users to access the same information on the PDA as the host computer.
+
+The synchronizing also prevents the loss of information stored on the device in case it is lost, stolen, or destroyed. 
+Another advantage is that data input is usually a lot quicker on a PC, since text input via a touch screen is still not quite optimal. 
+Transferring data to a PDA via the computer is therefore a lot quicker than having to manually input all data on the handheld device.
+
+Most PDAs come with the ability to synchronize to a PC. This is done through synchronization software provided with the handheld, 
+such as HotSync Manager, which comes with Palm OS handhelds, or Microsoft ActiveSync, which comes with Windows Mobile handhelds.
+
+These programs allow the PDA to be synchronized with a Personal information manager. This personal information manager may be an outside 
+program or a proprietary program. For example, the BlackBerry PDA comes with the Desktop Manager program which can synchronize to both 
+Microsoft Outlook and ACT!. Other PDAs come only with their own proprietary software. For example, some early Palm OS PDAs came only 
+with Palm Desktop while later Palms such as the Treo 650 has the built-in ability to sync to Palm Desktop and/or Microsoft Outlook. 
+Third-party synchronization software is also available for many PDAs from companies like Intellisync and CompanionLink. 
+This software synchronizes these handhelds to other personal information managers which are not supported by the PDA manufacturers, 
+such as GoldMine and Lotus Notes.
+
+
+Customization
+As with personal computers, it is possible to install additional software on most PDAs. Software can be bought or downloaded from the Internet, 
+allowing users to personalize their PDAs to their liking. Almost all PDAs also allow for adding some form of hardware. 
+The most common is a memory card slot, which allows the users to get additional and exchangeable storage space on their handheld devices. 
+There are also miniature keyboards that can be connected to some PDAs for quicker text input. PDAs with Bluetooth can also use Bluetooth 
+devices like headsets, mouse and foldable keyboards with their PDAs.
+
+
+
+

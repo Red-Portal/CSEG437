@@ -1,0 +1,23 @@
+AI chips may give you a real reason to upgrade your smartphone
+Processors with artificial intelligence will spread from today's top-end phones to cars, PCs, security cameras, smart speakers and mainstream phones.
+
+You've likely seen artificial intelligence technology spread into apps, devices and services, doing things like recognizing your friends' faces in photos and endowing smart speakers with human-sounding voices.
+
+Well, good news: The processor industry has noticed, too. That means we'll see a slew of new chips that should speed up AI tasks not just on your phone or laptop but also in your car or home security camera.
+
+It's just the latest development in AI. The seemingly catch-all term generally refers to technology called machine learning or neural networks that's loosely modeled on the human brain. Once you've trained a neural network with real-world data, it can, for example, learn to spot a spam email, transcribe your spoken words into a text message or recognize a cat. That's a profound change from the rigidity of traditional computer programming.
+
+And it's everywhere. Facebook CEO Mark Zuckerberg, for instance, name-dropped AI dozens of times during his nearly 10 hours of testimony before Congress last week when referring to potential solutions for problems like fake accounts and misinformation. AI is already a buzzword used by phone makers like Apple, Samsung and LG.
+
+"Most new high-end smartphones have an AI accelerator," including Apple's A11 chip in the iPhone X and Samsung's Exynos 9810 in the Galaxy S9, said Linley Gwennap, an analyst with the Linley Group. "We're already seeing it trickle down to mid-premium phones, and it'll probably continue to trickle down to lower-end phones over time," he said at the chip analysis firm's processor conference last week.
+
+AI-capable chips will spread much farther than smartphones, boosted by custom chip designs from startups and bigger efforts like the Trillium AI project from mobile chip power Arm. That'll mean today's revolution in computing smarts really is only just getting started. It could eventually help digital assistants from Amazon and Google spread into new devices, let your car recognize pedestrians and everything else around it, and make your PC a lot cleverer for things like photo and video editing.
+
+What AI chips will enable
+Take internet-enabled security cameras, which today can burden your home network and broadband connection with a constant stream of video. "What you really want is the camera to be able to look at the scene and say nothing's happening, I don't need to send the video up. When something changes, then it can send an image or a notification," Gwennap said.
+
+PCs can run AI on the relatively high computing power of their main processors, but they'll get AI chips too as more software arrives to use the technology, Gwennap predicted. Adobe Systems software, such as Photoshop and Premiere Pro, already pushes processors to their limits, and the company has introduced Sensei AI technology for speeding up tasks like photo editing.
+
+Cars will get AI brains as autonomous driving technology improves. One company, Synopsys, showed off its approach at the conference for managing the gargantuan flow of data from the radar, lidar, and cameras and other sensors packed into self-driving cars. "Apple put neural networks in the iPhone X. Now everybody wants to have neural network capabilities," said Synopsys marketing manager Gordon Cooper.
+
+Smart speakers like the Amazon Echo or Google Home today are at the cutting edge of AI, but they rely on network links for most of their brains. Built-in AI chips would let them understand your voice commands faster, an important improvement since nobody likes delays when ordering up new music or telling the lights to turn off, Gwennap said.

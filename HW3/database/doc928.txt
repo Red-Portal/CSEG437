@@ -1,0 +1,26 @@
+Your face can unlock your smartphone. But is it safe?
+
+Using facial recognition to unlock your smartphone is not as secure as a fingerprint scan or typing in a password, mobile phone makers admit.
+
+An inexpensive phone¡¯s facial recognition relies on just the front-facing camera and some not-so-advanced algorithms. Photo: iStockphoto
+New Delhi: Using your face as a password to unlock your smartphone has become a lot easier. All you have to do is look at the phone¡¯s front-facing sensor/camera to let it identify your face and instantly unlock the screen.
+
+Google rolled out its face unlocking feature in Android 4.0 in 2011 but it didn¡¯t click as the process was slow and inconsistent. The interest in face unlocking was revived in March 2017, with the launch of Samsung Galaxy S8 and Galaxy S8+. But it was the Face ID in Apple iPhone X, launched in September 2017, which has made face one of the most coveted unlocking tool in modern-day smartphones.
+
+How it works
+
+Apple¡¯s Face ID is powered by a True Depth camera system, which analyses 30,000 invisible dots on the user¡¯s face to create a unique 3D model that is saved in an encrypted enclave on the phone¡¯s chip. When a user wants to unlock the iPhone X, the infrared (IR) camera will read the dot pattern and capture an infrared image and send it to the secure enclave for verification. Apple even allows the face ID to be used for authentication during payments.
+
+Unlike the iPhone X, phones from companies like LG, Vivo, Oppo, Xiaomi and OnePlus rely only on the front camera and some facial recognition algorithms for authentication. OnePlus 5t and 6 use the front camera to analyse over 100 identifiers on a user¡¯s face such as the distance between the eyes or distance between nose and upper lip and then compare it to the face enrolled by user for authentication.
+
+According to Kaspersky Labs, ¡°an inexpensive phone¡¯s facial recognition relies on just the front-facing camera and some not-so-advanced algorithms. But a regular 2D camera without an IR sensor or dot projector can be easily fooled by photos snagged from a social media profile and printed on paper or shown on a screen.¡±
+
+Companies manufacturing Android smartphones have acknowledged that face unlocking is not as secure as a fingerprint sensor or typing a password. Samsung S9 runs a disclaimer that ¡°face recognition is less secure than other screen lock methods such as iris scan, pattern, PIN and password. Your phone can be unlocked by someone who looks similar to you, such as a twin.¡± Xiaomi offers a similar disclaimer on the Redmi Note 5 Pro. OnePlus, too, does not see its face unlocking as an alternative to fingerprint and considers it more of a convenience tool. It doesn¡¯t allow the face feature to be used for authentication for payments.
+
+Dealing with the issue
+
+Vivo recently updated its face unlock tool to make it more secure. Samsung has combined the less secure facial recognition tool with iris scanning to offer a two-layer protection to users. OnePlus CEO Pete Lau said in a blog post in November that the OnePlus phones would get an update to help them understand whether the subject is emitting light (a phone) versus reflecting (your actual face) by analyzing shadows, and bright areas.
+
+¡°After five unsuccessful attempts, Face Unlock is deactivated, requiring you to use the fingerprint sensor,¡± it reads. Huawei is said to be working on a 3D face mapping tool, similar to Apple¡¯s Face ID.
+
+Since users have consented to using a weak authentication factor, there is no way they can hold the phone firm liable because it also provides more secure options such as a pass phrase or pass pattern, says Sunil Abraham, executive director at the Centre for Internet and Society. Users can exercise caution and use the other password options till more secure versions are available.

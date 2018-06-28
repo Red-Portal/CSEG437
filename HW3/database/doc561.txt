@@ -1,0 +1,88 @@
+Nvidia's Ginormous Gift to Linux Gamers
+ 
+By Katherine Noyes
+LinuxInsider
+Part of the ECT News Network
+11/15/12 5:00 AM PT
+ 
+"This could sway game companies to make more games for Linux, meaning that gamers would have to boot into Windows less and less, eventually maybe not at all," said blogger Linux Rants. "Where go the games go the users. Other applications follow. If played correctly on the market, this could be the first step for Linux to more global acceptance on the desktop."
+ 
+
+
+
+What a difference a year makes.
+ 
+It used to be that gaming was Linux's "Achilles' heel" of sorts, cited by more than a few enthusiasts as justification for their reluctance to switch away from Windows.
+ 
+Fast forward to today, and gaming may well be the focus of more Linux-centered excitement than any other area.
+ 
+How did we get from point A to point B, you may ask? 
+
+
+
+
+Doubled Performance 
+
+Well, it all started when Valve announced back in April that it was bringing its popular Steam gaming platform to Linux.
+ 
+Soon afterward, Valve cofounder Gabe Newell declared Windows 8 a "catastrophe" that's driving his own company to Linux.
+ 
+The latest news? None other than Nvidia's announcement last week that its latest R310 Nvidia GeForce drivers "double the performance and dramatically reduce game loading times for those gaming on the Linux operating system," in the company's own words.
+ 
+'Music to My Ears, Baby!' 
+
+Hear that sound in the distance? It's the Linux masses, whooping and hollering with delight.
+ 
+"Hardcore video games have traditionally been one of the sticking points against getting PC users to adopt GNU/Linux," enthused tepples on Slashdot, for example. "But with big companies (Valve and Nvidia) committed to bringing hardcore video games to the GNU/Linux platform, what else is in the way of making 2013 the year of the Linux desktop?"
+ 
+Even more so: "Hear that, Microsoft?" wrote Type44Q. "That's the sound [of] one big motherf****** railroad spike being driven into your soft, worm-eaten coffin. Music to my ears, baby! :)"
+ 
+Fans down at the blogosphere's Broken Windows Lounge had similar sentiments to express.
+ 
+'It Could Be the First Domino' 
+
+"Better performance from Nvidia drivers is fantastic," exclaimed Thoughts on Technology blogger and Bodhi Linux lead developer Jeff Hoogland. "People have long said that 3D performance on Linux is sub-par to other operating systems.
+ 
+"Nvidia is working with Steam to change that -- Linux will become a full-fledged gaming platform if Steam has their way," Hoogland added.
+ 
+Indeed, "this is a really great sign," Google+ blogger Linux Rants agreed. "It could be the first domino."
+ 
+'Where Go the Games Go the Users' 
+
+Combine this latest news with the fact that "Valve has been able to get better gaming performance out of Linux than out of Windows, and you have a combination that could sway some of your high-end gamers to, at the bare minimum, dual boot their gaming rigs," Linux Rants explained.
+ 
+"This could sway game companies to make more games for Linux, meaning that gamers would have to boot into Windows less and less, eventually maybe not at all," he added.
+ 
+Meanwhile, "where go the games go the users," Linux Rants concluded. "Other applications follow. If played correctly on the market, this could be the first step for Linux to more global acceptance on the desktop.
+ 
+"We should send Linus a list of other companies to flip off and see if they'll improve their Linux support too," he quipped.
+ 
+'Open Keeps Winning' 
+
+"Valve has been pushing for better performance in all Linux graphics drivers, not just Nvidia," noted consultant and Slashdot blogger Gerhard Mack.
+ 
+"I am definitely happy with the work done so far, and will probably buy a game or three when everything comes out of beta," he added.
+ 
+"Nvidia is discovering that it needs to work with the free software community whether it wants to or not," suggested Google+ blogger Kevin O'Brien.
+ 
+"They recently lost a (US)$500 million contract in China rather than go open," he pointed out. "Now I think they are trying to find a way to be acceptable to the community without opening up. I don't know if they can manage that. Open keeps winning."
+ 
+'It's About Time' 
+
+Similarly, "Nvidia is finally catching up with better support for GNU/Linux," blogger Robert Pogson agreed. "It's about time. Most of the issues I have had with drivers over the years were with Nvidia. I have even used Vesa drivers to get around the obstacles Nvidia placed on the market.
+ 
+"I hope Nvidia has finally realized it is in Nvidia's best interest to be more helpful to FLOSS OS, which soon will dominate IT everywhere," Pogson added.
+ 
+Nvidia used to be "'the' video-card maker," observed Google+ blogger Gonzalo Velasco C. "Then, it fell a little, and other companies improved. Leaving Linux 'drivers' aside was a bad move, and now they are taking care of the lost time. Welcome back!"
+ 
+Meanwhile, "ATI and others look somehow stagnated, so Nvidia can get back to the top position in users' preference rankings," he predicted. "But watch out, Intel coming!"
+ 
+'Like Shifting Sand' 
+
+Last but not least, Slashdot blogger hairyfeet was less optimistic.
+ 
+"If the product is poor, doubling 'awful' gets you into 'okay,' not 'great'," hairyfeet said.
+ 
+"There have been too many fundamental changes to the subsystems in the past few years," he explained. "It seems like every time we turn around some major part is getting gutted and replaced, from the sound to the DEs, so I have no doubt Nvidia simply gutted most of it, tossed it over their shoulder, and built their own."
+ 
+The problem now is going to be "keeping it working, because again everything from the kernel on up is like shifting sand," hairyfeet concluded. "So congrats, Nvidia, let's see if you can build a system usable by Joe Average out of it." 

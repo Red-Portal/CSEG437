@@ -1,0 +1,22 @@
+The Galaxy S8's Quad HD+ SuperAMOLED panel is one of its standout features. Indeed, that big, almost bezel-free display features heavily in Samsung's ads for the phone. By default, though, it's not set to run at its full, native resolution of 2960x1440, instead it's downsampled to "Full HD+," or 2220x1080. And if you want, you can set it to go even lower, down to "HD+" ? 1480x720.
+
+Let's take a look at the Galaxy S8's resolution options, and examine which level you might want to pick.
+
+1. Open the notification shade by swiping down from the top of the screen.
+2. Tap the cog icon to open the Settings app.
+3. Tap Display
+4. In the menu that appears, tap the Screen resolution option.
+
+From here, you can adjust the slider to choose HD+, FHD+ or WQHD+. After selecting your option, tap Apply to set it, or Cancel to go back without changing anything.
+
+The resolution slider affects the sharpness on the screen appear ? the native WQHD provides the best picture quality, however setting a lower resolution may improve battery life. The default FHD+ resolution doesn't push the display to its limits, but may provide modest battery life improvements compared to WQHD.
+
+As you might expect, the jump from FHD+ to WQHD+ is more noticeable on the larger Galaxy S8+, thanks to its larger 6.2-inch display size. But it's worth switching and switching back to see how noticeable the change is to you. Depending on how you use the phone ? and which size of S8 you own ? the change may or may not be noticeable.
+
+So you may want to switch up to WQHD+ if you have a Galaxy S8+ and getting the very best possible picture quality is more important than the slight battery hit you may take. (We haven't noticed much of a reduction in longevity when running at the higher resolution on the S8+, for what that's worth.)
+
+On the smaller, S8, with a smaller screen and smaller battery, the increase in pixel density is harder to notice, and the dent in battery life slightly more apparent if you switch to WQHD+.
+
+As for the lower HD+ option, most of the time you'll want to leave this alone. In a pinch, you may want to switch to the lowest resolution option as a temporary measure to improve battery life. (The Galaxy S8 also has other battery-saving options under Settings > Device maintenance > Battery, by the way.) Another reason would be if you have reduced vision to the point where there's no visible difference between the three resolution settings.
+
+For the majority of Galaxy S8 and S8+ owners, the default FHD+ will be just fine, providing good display quality and balanced battery life.

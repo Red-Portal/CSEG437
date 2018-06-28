@@ -1,0 +1,35 @@
+Birth of the PowerBook: How Apple Took Over the Portable Market in 1991
+
+The PowerBook has consistently been one of the most respected and lusted after brands in the portable computing market.
+This wasn't always the case. Apple's first attempt at repackaging the Macintosh as a portable failed (the 15 lb. Macintosh Portable never caught on).
+In 1992, Apple scored a hit, and sales of the PowerBook line helped the company generate $7.1 billion in sales, its best year ever.
+Like the Macintosh, the PowerBook succeeded despite Apple's management.
+
+The PowerBook Project
+In the fall of 1990, Apple CEO John Sculley started a semiautonomous division to produce a successful portable computer. He later contracted with Sony to create a more svelte version of the Portable, dubbed Asahi.
+John Medica, Randy Battat, and Neil Selvin were the product managers for the new division, and they had all witnessed firsthand the inefficiency of Apple's corporate structure.
+Randy Battat had served as the product manager for the Lisa and watched as the future of personal computing was relegated to the few businesses that could afford such an overpriced computer. Battat was head of the PowerBook division and supervised the creation of the software used to make the PowerBook operate as efficiently as a portable.
+John Medica and Neil Selvin headed hardware design and marketing respectively and worked under Battat.
+The portable market of 1991 was very different from today's. Toshiba and Compaq were the front-runners. Their machines typically weighed well over 8 pounds and lacked many of the features found in even the least expensive desktop systems, like hard drives and mice.
+
+PowerBooks
+The trio managing the newly christened PowerBook project were determined to beat the existing manufacturers at their own game. The PowerBook would weigh less than 8 lb. and have all the same features that a comparably priced desktop system would.
+John Medica's team set to work creating the hardware designs. Apple would design two different machines: Tim LC and Tim. Tim would be identical to Tim LC, except with a faster processor and a more expensive active matrix screen (the first laptop from any vendor to use an active matrix display, something Apple had pioneered with the Mac Portable in 1989). Both would be housed in similar cases to the Asahi, which was being designed by Sony.
+However, the Tim hardware would be dramatically different. The Portable and Asahi both used 16 MHz 68000 processors, while the Tim designs used the 68030 processor, which allowed for more RAM, more speed, more processing power, and virtual memory.
+
+Novel Design
+The most striking difference between the PowerBooks and the PC portables was the presence of a built-in trackball. No other manufacturers included built-in trackballs or other pointing devices (although there were some clip-on trackballs), and when they began to offer built-in trackballs, they were often placed in awkward positions. Compaq's trademark design element was to position the trackball on the back side of the display, so a user could grasp the display and move the pointer. Others put the trackball on the side (like the Macintosh Portable) or relegated it to an attachment to the side of the keyboard.
+Tim and Asahi both put the trackball in front of the keyboard, in the middle of a large palm-rest. Tim and Asahi were not only easier to use, they were also much more comfortable.
+Incredibly, Medica's engineers were able to fit everything into a package much smaller than their PC counterparts. Both models were less than 2.5" thick (the smallest Compaq was 2.75" thick) and covered an area slightly larger than a letter-sized sheet of paper. Besides that, they both weighed in at 6.8 lb., making them truly portable and not merely luggable (like the Portable's 15 lb.. of heft).
+
+Software
+Most of the software from the Portable was carried over to Tim. Randy Battat's major changes mostly came under the hood. The major new feature in Tim's software was the ability to clock back the processor when the computer was running on battery power to improve battery life. The 68030 processor's higher RAM threshold allowed the developers to create RAM disks that could survive a restart, so users could turn the hard drive off altogether and run their programs and operating system from RAM.
+One of the PowerBook's biggest selling points originated outside of the PowerBook team. AppleTalk had been released in 1985 as part of the Macintosh Office, and it allowed users to create impromptu networks anywhere and exchange files.
+Elsewhere at Apple, a team of engineers was creating a version of AppleTalk that could operate over common phone lines with a modem (AppleTalk Remote Access), allowing users to log onto an AppleTalk network thousands of miles away. Neil Selvin managed to convince the team to delay the release of the software until the release of the PowerBook, which was scheduled for November 1991, at the Comdex computer show.
+
+Cheap Launch
+John Sculley was still very squeamish about portable computers. He did not want to invest money into what could be a flop like the Portable, so he gave Selvin an allowance of only $1 million, compared to tens of millions often afforded other project.
+Instead of creating an entire campaign to market the PowerBook, Selvin decided to buy one big-budget spot and rely on the buzz it generated to promote the PowerBooks. Chiat/Day, the company that created the 1984 spot for the original Macintosh, created an ad featuring basketball superstar, Kareem Abdul-Jabar, uncomfortably sitting in a cramped airliner seat. He pulls out a PowerBook and begins typing effortlessly, the screen fades to black and the caption appears: "At least his hands are comfortable.". 
+The PowerBook was a smash success. Apple released the Asahi, Tim LC, and Tim to an eager and excited market. They ranged in price from $2,300 to $4,300, though Asahi (released as the PowerBook 100) was soon slashed to less than $1,000 after disappointing sales.
+The two Apple-designed PowerBooks enjoyed incredible sales. The high-end Tim, named the PowerBook 170, was by far the best seller, and Apple was unable to keep up with demand. (Tim LC became the PowerBook 140.) Management had failed to anticipate the success of Tim yet had overestimated demand for Asahi. Because of shortages, customers were faced with a six month wait for their computer.
+In the first year on the market, PowerBooks generated over $1 billion in sales, and dethroned Compaq and Toshiba in the portable market. Even during Apple's darkest days during 1994, the PowerBook segment was successful. Not until the release of the flawed PowerBook 5300 in 1995 did Apple cede its position to PC manufacturers. 

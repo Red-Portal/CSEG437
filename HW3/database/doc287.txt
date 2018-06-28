@@ -1,0 +1,9 @@
+  Our mobile phones have become modern-day Swiss Army knives. An Android phone is a handheld computer, a music player, a notepad, a GPS navigation unit and more, all rolled into one sleek device that fits in your pocket. Today¡¯s phones do so many things for us that sometimes we don¡¯t even think about how we do them.
+
+  Even though our phones do all these new things, the most natural way of interacting with a phone remains what it always has been: speaking. And to that end, we¡¯re pleased to introduce Voice Actions for Android. Voice Actions are a series of spoken commands that let you control your phone using your voice. Call businesses and contacts, send texts and email, listen to music, browse the web, and complete common tasks, all just by speaking into your phone.
+
+  To use Voice Actions, tap the microphone button on the Google search box on your home screen, or press down for a few seconds on the physical search button on your phone to activate the ¡°Speak Now¡± screen. Let Mike LeBeau, the lead engineer for Voice Actions, show you in this video.
+
+  While we¡¯re at it, we¡¯re also releasing an updated version of the Google search widget for Android. When you type a local search query, like [italian restaurants] you¡¯ll see suggested restaurants with addresses and ratings. Also, as you type queries, you can refine them further by tapping the pencil icon that appears to the right of search suggestions.
+
+  Both Voice Actions and the new Google search widget require Android 2.2 (Froyo), and will be pre-installed with the new Droid 2 phone from Motorola and Verizon. Voice Actions are currently available for U.S. English speakers.

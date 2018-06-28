@@ -1,0 +1,24 @@
+AMD brings Android apps to PCs
+Goes public with its deal with Bluestacks, which allows Windows products to run products from Play store
+By CAROLINE GABRIEL
+
+Published: 1 October, 2012
+
+READ MORE: AMD | App Store | Android | Windows Phone
+
+
+ 
+AMD has been very hesitant to bid for a role in the smartphone processor world, but it has been quietly building an alternative Android strategy based around the PC. While Intel gets ever closer to Google and sees its Atom chips finally turning up in Android handsets, AMD has a partnership with BlueStacks, which has been bringing apps running the Google OS to AMD-based PCs and notebooks.
+
+The companies have now brought Google Play applications and content to Windows and these will run on Windows 8 when it debuts at the end of this year. This could give Android users the opportunity to run the same software on their handsets, tablets and PCs.
+
+
+Users can harness the free BlueStacks App Player to play items from Google Play (formerly Android Market), and in addition, AMD's AppZone store can be used with BlueStacks' Cloud Connect, which turns the PC into an extension of a phone. AppZone may be far smaller than Play, but it leverages AMD's graphics acceleration technology, especially significant in gaming. Both options mean customers can Android apps from their phones or tablets to an AMD PC, removing one of the advantages of Windows 8 - its closer integration with Windows Phone for a desk-to-pocket content experience.
+
+"By collaborating with BlueStacks, we are enabling software developers to more easily tap into the full capabilities of AMD's products, and providing millions of consumers with great experiences as they can now run Android apps on AMD-powered devices," said Manju Hegde, corporate VP of heterogeneous applications and developer solutions, in a statement.
+
+AMD's next push is to convince its PC partners to ship products with the AppZone preloaded to encourage uptake - though it's hard not to think that the strategy would be more powerful, in terms of competitive advantage for the x86 supplier, if AMD also had processors going into handsets. However, Asus is on board - in July it said it was teaming with BlueStacks to bring Android applications to its asus@vibe entertainment portal, which is preinstalled on all its products.
+
+BlueStacks first rolled out its App Player, and its Layercake emulator, last year and ported it to OS X in July, allowing Mac users to run Android software on a Mac. The company's Cloud Connect sync application has been downloaded more than 100,000 times from the Play store, and the new deal with AMD could boost that number. The apps run unmodified on the Windows or OS X devices, and the company says this will open up a host of free and low cost apps to PC users in emerging economies.
+
+CEO Rosen Sharma said in a recent statement: "The openness of Android is enabling innovation around the world. We are grateful to Google and others for their contributions. This is also a social equalizer in the US and countries like Brazil, India and China, where a large percentage of the population who can only afford smartphones can now enjoy and benefit from the ubiquity of apps on the Android platform."

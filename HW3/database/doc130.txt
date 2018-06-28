@@ -1,0 +1,45 @@
+Introduction to How Digital Cameras Work
+
+In the past twenty years, most of the major technological breakthroughs in consumer electronics 
+have really been part of one larger breakthrough. When you get down to it, CDs, DVDs, HDTV, MP3s 
+and DVRs are all built around the same basic process: converting conventional analog information 
+(represented by a fluctuating wave) into digital information (represented by ones and zeros, or bits).
+ This fundamental shift in technology totally changed how we handle visual and audio information -- 
+it completely redefined what is possible. 
+
+The digital camera is one of the most remarkable instances of this shift because it is so truly 
+different from its predecessor. Conventional cameras depend entirely on chemical and mechanical 
+processes -- you don't even need electricity to operate them. On the other hand, all digital cameras 
+have a built-in computer, and all of them record images electronically. 
+
+The new approach has been enormously successful. Since film still provides better picture quality, 
+digital cameras have not completely replaced conventional cameras. But, as digital imaging technology 
+has improved, digital cameras have rapidly become more popular. 
+
+In this article, we'll find out exactly what's going on inside these amazing digital-age devices. 
+
+Understanding the Basics
+Let's say you want to take a picture and e-mail it to a friend. To do this, you need the image 
+to be represented in the language that computers recognize -- bits and bytes. Essentially, a 
+digital image is just a long string of 1s and 0s that represent all the tiny colored dots -- 
+or pixels -- that collectively make up the image. (For information on sampling and digital 
+representations of data, see this explanation of the digitization of sound waves. Digitizing light 
+waves works in a similar way.) 
+
+If you want to get a picture into this form, you have two options: 
+
+You can take a photograph using a conventional film camera, process the film chemically, print it
+ onto photographic paper and then use a digital scanner to sample the print (record the pattern of 
+light as a series of pixel values). 
+
+You can directly sample the original light that bounces off your subject, immediately breaking that 
+light pattern down into a series of pixel values -- in other words, you can use a digital camera. 
+At its most basic level, this is all there is to a digital camera. Just like a conventional camera, 
+it has a series of lenses that focus light to create an image of a scene. But instead of focusing 
+this light onto a piece of film, it focuses it onto a semiconductor device that records light 
+electronically. A computer then breaks this electronic information down into digital data. All 
+the fun and interesting features of digital cameras come as a direct result of this process. 
+
+In the next few sections, we'll find out exactly how the camera does all this. 
+
+ 

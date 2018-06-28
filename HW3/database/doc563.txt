@@ -1,0 +1,53 @@
+Xbox Gamers May Get a New 7-Inch Playing Surface
+ 
+By Richard Adhikari
+TechNewsWorld
+11/07/12 5:00 AM PT
+ 
+Microsoft is reportedly getting ready to jump into the most hotly contested tablet space -- the 7-inch form factor, but it's doing so in its own unique way. The rumored 7-inch Surface tablet would be Xbox branded and gaming specific. "Xbox is the dominant game platform, and a 7-inch product focused on gaming should be even more popular if it's done right," said Rob Enderle, principal analyst at Enderle Group.
+ 
+
+Microsoft is working on a 7-inch Xbox Surface gaming tablet, The Verge reports.
+ 
+The 7-inch tablet has become a battleground of sorts lately, with Apple's iPad mini being the latest entrant.
+ 
+"We are seeing a shift in demand for 7-inch devices so it wouldn't be all that surprising," Ryan Reith, program manager at IDC, told TechNewsWorld, adding that things are still at the rumor stage.
+ 
+"Given the popularity of the 7-inch product for reading and entertainment, it would seem to be an obvious move to make. I've heard the rumors, but nothing more solid," Rob Enderle, principal analyst at the Enderle Group, remarked.
+ 
+"I was expecting Microsoft to move to the low end of the tablet market for several reasons," said Julien Blin, directing analyst at Infonetics Research. One is that the company's current Surface tablets are too expensive, which prevents them from competing with the 9.7-inch iPad at the high end.
+ 
+Microsoft spokesperson Katie Hamachek declined to comment for this story. 
+
+
+
+
+What Might Constitute the 7-inch Gamer 
+
+The 7-inch Xbox Surface tablet will likely include a custom ARM processor and high-bandwidth RAM designed for gaming, The Verge speculates, citing a document leaked in June. These specs could be altered to accommodate an as-yet announced Intel system on a chip. The device might support messaging and other tablet functions, but the focus will be on gaming.
+ 
+Gaming "is one of the largest drivers of performance," especially in mobile systems "where gaming prowess must be traded off against battery life," Jordan Selburn, senior principal analyst at IHS iSuppli, told TechNewsWorld. "As such, it would not be surprising to see a gaming tablet use custom chips." However, using such chips means the gaming tablet would be costly to produce.
+ 
+The Xbox Surface is being developed independent of specific hardware architecture, and it will run a custom Windows kernel, according to the Verge.
+ 
+"This is similar to [Microsoft's] approach with the Xbox, and it has proven successful in the past," Enderle told TechNewsWorld. "Basically, [the device] would be a handheld gaming system with additional benefits."
+ 
+Microsoft has developed a secret hardware production process for its Surface tablets independent of its traditional Xbox OEMs, The Verge reported.
+ 
+Making its own hardware will help Microsoft lower the materials cost for the new tablet, Blin suggested.
+ 
+Why a 7-Incher? 
+
+Further, wannabe major tablet makers "have to play at the low end" especially as competition will ramp up because of the advent of the iPad mini, Blin pointed out. He expects Apple to cut the mini's price by up to 33 percent next fall when it launches the second-generation update "as this is what they've done for the iPad and iPad 2."
+ 
+Will a 7-inch Xbox Surface Take Off? 
+
+It's possible that consumers will go for a 7-inch Xbox Surface. Demand for the 9.7-inch Surface tablet is strong, and it reportedly was already on backorder more than a week before its official launch date of Oct. 26.
+ 
+Further, the 9.7-inch Surface tablet is more profitable than the iPad, according to IHS's preliminary teardown analysis.
+ 
+The Surface tablet reportedly is being tested as a balloting device in Virginia.
+ 
+However, Slate has heavily panned the Surface tablet, saying it's too slow, it's buggy and it's not competitive with the iPad on price.
+ 
+"I'm [working] on a Surface tablet and I think Slate is full of crap," Enderle remarked. "Xbox is the dominant game platform, and a 7-inch product focused on gaming should be even more popular if it's done right." 

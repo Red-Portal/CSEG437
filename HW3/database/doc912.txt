@@ -1,0 +1,22 @@
+PSP Clone Plays Famicom, MegaDrive ROMs
+
+
+Called the PXP-900, this Mp5 player isn't merely a hardware emulator, but offers other features that should have come with Sony's PSP in the first place.
+
+But don't let its appearance be deceptive: the device doesn't have the capability to play PSP games, and honestly, it's a wonder that Sony doesn't crack down on the manufacturer for mimicking the PSP look and control scheme so close to the original.
+
+According to China Grabber, the PXP-900 has an internal memory capacity of 2 GB, but is also capable of accepting SD cards up to 4 GB. 
+
+On the video side, the device sports a 4.3-inch QVGA TFT LCD screen (320x240 resolution, 16:9 aspect ratio), churns out 25 FPS  during emulation, and also offers a cool TV-out function. 
+
+Additionally, the PXP-900 has a built-in camera, FM radio, a loudspeaker, and MP3/MP4 drag-n-drop capabilities; Sony's PSP doesn't feature any one of these items.
+
+And unlike the PSP, the PXP-900's specs reveal that a built-in Ebook reader supposedly will read aloud any TXT file in Chinese or English. 
+
+A movie bookmark feature will allow the viewer to return to the specified place in the movie at any time. 
+
+There also seems to be a built-in microphone as well, recording sounds in WAV format. 
+
+However, the lack of network information in the specifications probably means that that the device doesn't have Wi-Fi capabilities. 
+
+This means that anything downloaded for the device--whether it's a console rom or a converted movie--can't be done across the network, but rather through a USB connection to the PC.

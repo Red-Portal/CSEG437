@@ -1,0 +1,71 @@
+Xbox One X: More Speed, More Muscle
+
+Microsoft earlier this week announced the next version of its Xbox line of gaming consoles, ahead of E3 2017, now ongoing in Los Angeles.
+
+The new Xbox One X, which goes on sale Nov. 7 for US$499, is slimmer than previous models and packed with power.
+
+With a 6-teraflop Scorpio engine, the One X has 40 percent faster graphics performance than its chief rival, Sony's PS4 Pro.
+
+The custom Scorpio engine in the Microsoft box burns chrome at 1172 MHz -- a 37 percent increase over its predecessor, Xbox One, and 28 percent faster than PS4 Pro.
+
+Since the inside of a console can get hot running at those speeds, Xbox engineers kept things cool with a liquid-cooled vapor chamber, a technology used on high octane PC gaming cards.
+
+Performance vs. Features
+"It's smoking," Jim McGregor, principal analyst at Tirias Research, said of the One X's performance.
+
+"They went for the most performance they could possibly get out it," he told TechNewsWorld.
+
+Performance prowess, though, is just one factor contributing to success in the console market.
+
+Traditionally, game content drives the purchase and upgrades of game consoles, explained Brett Sappington, director of research at Parks Associates. Sony leads the console market in exclusive game content, and nothing yet from E3 indicates that advantage to have changed.
+
+"Though there are improvements in power, the Xbox One X does not offer any new differentiating features to drive purchases. Essentially, it is a more powerful Xbox One S," he told TechNewsWorld.
+
+"The PS4 still offers a variety of features that are not available in the Xbox One X, such as remote play and VR," Sappington continued, "and the Nintendo Switch differentiates itself with its motion controllers, haptic feedback technology, and TV-connected-to-portable functionality."
+
+True 4K Gaming
+One X has supersampling built into the console, which results in games with more visible detail and smoother edges, as well as more efficient loading times, according to Microsoft.
+
+With 2160 frame buffers, as well as high dynamic range and wide color gamut support, the console is built for true 4K gaming, the company said. What's more, game clips can be recorded in 4K at 60 frames per second, and screenshots can be captured in 4K.
+
+"This is a true 4K console, whereas Sony is using techniques to approach true 4K," noted Ross Rubin, principal analyst at Reticle Research.
+
+"In practice, it's going to come down to what resolution game developers are going to support," he told TechNewsWorld.
+
+The One X offers an immersive audio experience that can put a player in the center of spatial sound.
+
+Backward Compatibility
+Like its predecessor, One X has a 4K UHD Blu-ray player, built-in power supply, three USB 3.0 ports (one in the front and two in the back) and an IR blaster.
+
+The 4K UHD Blu-ray player remains a strength of the Xbox over PS4, observed Michael Inouye, principal analyst at ABI Research.
+
+"The PS4 Pro only includes a standard Blu-ray drive, which did engender some complaints from the Sony faithful," he told TechNewsWorld.
+
+"Even if the consumer isn't planning to buy or rent UHD Blu-ray discs," Inouye continued, "it does complete the picture of a true 4K media player-gaming machine, which speaks to the product's image."
+
+All existing Xbox One games, including Xbox Play Anywhere titles, are compatible with the One X. In addition, a number of existing games are being enhanced for the new console. They include Gears of War 4, Forza Horizon 3, Minecraft, Resident Evil 7, Final Fantasy 15 and Rocket League. What's more, a true 4K version of Forza Motorsport 7 will be available Oct. 3.
+
+Backward compatibility gives the Xbox a feature that PS4 doesn't have, but that omission didn't prevent Sony's console from outselling the Xbox One, noted Parks' Sappington.
+
+"Backward compatibility eliminates a potential barrier to purchase, but it does not provide an incentive to purchase the Xbox One X over the Xbox One S," he said.
+
+"Backward compatibility is a nice-to-have feature which resonates with some vocal Xbox users," said Piers Harding-Rolls, head of games research at IHS Markit.
+
+Still, "it is a value-added proposition and not a system seller," he told TechNewsWorld.
+
+Online Gaming
+Pricing could be a problem for the One X. It's $100 more than the PS4, and a $50 price break on the Sony console is likely around the time Microsoft's new console is scheduled to reach retailers, according to Sappington.
+
+"For the mainstream consumers or more casual gamers, the additional power likely won't resonate with them as much as those more deeply rooted into the hobby," ABI's Inouye said. "Plus, if they don't have a 4K TV, they might feel even less compelled to upgrade, even though there are some benefits for 1080p sets as well."
+
+The One X's pricing is OK for the unit's target audience, maintained IHS' Harding-Rolls.
+
+"Even if the price point was revealed to be higher than $499, we did not expect this to impact sales of the console at launch," he said. "Xbox enthusiasts will pay significant sums to get hold of the latest and greatest."
+
+Microsoft will sell 500,000 One X's during this year's fourth quarter, Harding-Rolls predicted.
+
+In addition to its Xbox consoles, Microsoft has Xbox Live -- a large online network for playing games. The network uses dedicated servers to enhance performance, speed and reliability.
+
+"I would expect that by now Microsoft would be pushing more for online gaming and streaming, and they're not," said McGregor, who is also an Xbox owner.
+
+"They're still pushing for those hardcore games that are on the device," he pointed out. "I think they were counting on the bandwidth being there for console-quality online gaming, and it's not." 

@@ -1,0 +1,4 @@
+google maps tests new navigation ui 
+The new interface enlarges the buttons that let you switch to the satellite view and to the embedded google earth, removes the button that lets you switch to the traditional view and adds a layer panel that's only displayed when you mouse over the satellite button.
+Another change is that the list of recent searches and google maps views is displayed in the layer panel, so you can quickly switch between custom maps, driving directions, local search results and google maps layers.
+

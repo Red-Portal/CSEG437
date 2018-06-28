@@ -1,0 +1,26 @@
+﻿A sandbox is a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, 
+in the context of software development including Web development and revision control.
+ Sandboxing protects "live" servers and their data, vetted source code distributions, and other collections of code, data and/or content, proprietary or public, from changes that
+ could be damaging (regardless of the intent of the author of those changes) to a mission-critical system or which could simply be difficult to revert. Sandboxes replicate at least the minimal functionality needed to accurately test the programs or other code under development 
+(e.g. usage of the same environment variables as, or access to an identical database to that used by, the stable prior implementation intended to be modified;
+ there are many other possibilities, as the specific functionality needs vary widely with the nature of the code and the application[s] for which it is intended.)
+The concept of the sandbox (sometimes also called a working directory, a test server or development server) is typically built into revision control software
+ such as CVS and Subversion (SVN), in which developers "check out" a copy of the source code tree, or a branch thereof, to examine and work on.
+ Only after the developer has (hopefully) fully tested the code changes in their own sandbox should the changes be checked back into and merged with the repository and thereby made available to other developers or end users of the software.[1]
+By further analogy, the term "sandbox" can also be applied in computing and networking to other temporary or indefinite isolation areas,
+ such as security sandboxes and search engine sandboxes (both of which have highly specific meanings), 
+that prevent incoming data from affecting a "live" system (or aspects thereof) unless/until defined requirements or criteria have been met.
+
+In web development
+
+Sandboxes are equally common, though less formal, among web development projects that are not version-controlled as software projects;
+ Web developers commonly call them "test servers" or "development servers". Under this variety of project management,
+ each developer typically has an instance of the site (locally or on a different machine), which can be altered and tested at a particular hostname, directory path, 
+or data port, though smaller projects may simply provide a common sandbox for all developers to use jointly. 
+While application software development sandboxing focuses on protecting the developers from other developers' changes, 
+Web development sandboxing tends to concentrate on ensuring that changes appear and function as intended before being merged into the master copy of the pages, scripts, text, etc. that are actually being served to the real, public userbase.
+In web services
+The term sandbox is commonly used for the development of Web services to refer to a mirrored production environment for use by external developers.
+ Typically, a third-party developer will develop and create an application that will use a web service from the sandbox, 
+which is used to allow third-party team to validate their code before migrating it to the production environment.
+ Microsoft,[2] Google,[citation needed] Amazon.com,[3] PayPal,[4] eBay,[5] Yahoo,[6] among others.

@@ -1,0 +1,60 @@
+ANDROID P: AN EXCLUSIVE FIRST LOOK AT GOOGLE¡¯S MOST AMBITIOUS UPDATE IN YEARS
+How the new update could help you use your phone less
+
+This year, Google is doing something different with Android. Instead of showing you all the ways you can use its phone operating system to do more, it¡¯s creating features to help you use it less.
+
+Android P, due out later this year, will have a new dashboard that tells you how often, when, and for how long you are using every app on your phone. It will also allow you to set limits on yourself. You could give yourself a half-hour of Instagram per day, for example. Once your 30 minutes is up, the icon will go from its usual eye-catching gradient to a dull grayscale.
+
+The feature is one of several that Google is combining into a theme it calls ¡°Digital Well Being.¡± Presumably, it didn¡¯t want to borrow ¡°Time well spent,¡± the buzzy catchphrase popularized by ex-Google ¡°design ethicist¡± Tristan Harris and adopted (or better: co-opted) by Mark Zuckerberg.
+
+Android P also includes a new core interface that uses iPhone-like navigation gestures and smarter ways to access functions that are usually buried away inside apps. It¡¯s the biggest change to how users get around on their phones that I¡¯ve seen in a long time.
+
+It¡¯s also available as a public beta starting right away on 11 different phones. That¡¯s intriguing because Google is actually making progress on getting manufacturers to update their phones in a timely manner.
+
+Seriously, there¡¯s a lot here. Last year, Android Oreo was more about internal changes than user-facing features. This year, Android P (and no, Google isn¡¯t saying what the ¡°P¡± stands for yet) is full of visual changes and new features. In terms of how it actually feels to use an Android device day-to-day, it could be the biggest update in years.
+
+PARENTAL CONTROLS FOR YOUR INNER CHILD
+It¡¯s a good time for Google to introduce the idea that it can help limit our tech obsessions. Harris¡¯ ¡°Center for Humane Tech¡± helped kick off waves of stories about digital distraction and addiction earlier this year, which then metastasized into worries that our social media apps are hacking our brains.
+
+Sameer Samat, VP of product management for Android, says that the company has been working on these tools for a long time based on user research, not a desire to draft off the growing wave of concern about distraction.
+
+¡±There are 2 billion Android users. It¡¯s the largest mobile operating system in the world,¡± he says. ¡°We are the OS, and we feel like we need to be doing more around this area. We feel like we have a responsibility to do more.¡±
+
+Android P offers a handful of tools to help you keep your phone from bothering you, ranging from subtle tweaks to how notifications work to new features that literally keep you from using it.
+
+The most interesting is the new usage dashboard. It¡¯s an app that gives you an almost overwhelming amount of information about your phone usage. Here¡¯s how it breaks down the data:
+
+How many minutes you¡¯ve used your phone overall per day
+How many notifications you¡¯ve received
+A pie chart of how long you¡¯ve used each app on your phone that day
+How long per day you¡¯ve used each app on your phone, broken down hour by hour
+
+Samat says that this dashboard is part of a two-step campaign to get you to have a better relationship with your phone. ¡°If you think about your day, do you remember how much you¡¯ve used your phone? Do you know what you¡¯ve done?¡± Chances are, your answers to both questions aren¡¯t very accurate.
+
+Dashboard is designed to give you answers to those questions. Think of it as a quantified self app. Only instead of obsessing over your step count and calorie intake, you¡¯re analyzing whether or not it¡¯s a good idea for you to be opening your work email at 11PM.
+
+The second step after ¡°awareness,¡± for Samat, is ¡°control.¡± The dashboard lets you set limits on your usage. You can set a number of minutes per day that you are allowed to use each app. When you get close to the end, a notification pops up warning you that you¡¯re almost out of time. And when you¡¯ve reached your self-imposed limit, the app is ¡°paused.¡± It amounts to parental controls (which already exist for Android), but for you instead of your child.
+
+A paused app has a grayscale icon on your home screen and it flat-out won¡¯t open in Android P. Instead, when you tap it, a pop-up appears telling you that you¡¯ve hit your limit, and the pop-up doesn¡¯t have an option to ¡°unpause.¡± To do that, you have to go through the work of heading back to the dashboard app. Later versions of the Android P beta may add an unpause option to the pop-up, but for the first public beta, Google wanted to go to the full extreme to see how users felt about it.
+
+The grayscaling and self-limitation doesn¡¯t stop with the dashboard. There¡¯s also a new feature called ¡°Wind down.¡± Turn it on, and tell it when you want to go to bed. When bedtime arrives, your phone will automatically go into Do Not Disturb mode and become entirely grayscale, with no color at all. It will still work, but with a (literally) stark visual reminder that you¡¯re breaking your promise to yourself to shut the thing down and go to sleep.
+
+And speaking of Do Not Disturb, Android P is going to be more aggressive with that, too. Now, when you turn DND on, your notifications literally disappear. They don¡¯t get shown on the lock screen, the always-on display, or in your notification drawer. The only way your phone will buzz or give you any visual indication at all that somebody¡¯s trying to reach you is if a pre-set starred contact calls.
+
+Samat says the company is also experimenting with a new gesture. If your phone is sitting faceup on a table and you flip it, it will be able to automatically turn on DND mode. (It only works that way if it was sitting on a table to start. If you just set it facedown after carrying it, it won¡¯t turn on DND.)
+
+Google is also iterating how notifications work in Android P to further limit distractions. The operating system is already great at offering options (perhaps too many of them) for how notifications do or don¡¯t buzz your phone, so in P, Google is making them easier to access.
+
+With P, your phone will keep an eye on the notifications you¡¯re just ignoring and swiping away every day. After a while, when you¡¯ve swiped one away for the umpteenth time, it will offer a small prompt asking if you¡¯d just like to disable notifications from that app (technically, that notification channel). It¡¯s also going to let you long-press on a notification to get to that app¡¯s notification settings. (The slow-swipe to reveal the settings gear will still be there, too.)
+
+Even better: at the bottom of the notification tray is a new ¡°Manage notifications¡± button. Tap it, and you¡¯re taken to a screen that shows all your app notification preferences, ordered by how recently they notified you. You can also sort by which apps send the most notifications.
+
+There¡¯s one more option to reduce distraction for corporate users. On Android, it¡¯s possible to have your phone configured so you have separate ¡°work apps¡± from your regular apps. In Android P, those apps are separated out into a different tab on the app drawer. At the bottom of that tab is a toggle switch to disable them. So when you go on vacation, you can also take a holiday from your work apps without having to go through the rigamarole of turning off notifications one by one.
+
+So: Dashboard, Wind Down, new Do Not Disturb settings, and new ways to more easily turn off notifications. Taken together, it¡¯s a full court press against many of the ways that your phone can demand your attention. It¡¯s so much that I couldn¡¯t help but wonder if Google was worried that third-party developers would not take kindly to their apps being so easily restricted. ¡°We talked a lot [to] our developer partners about this,¡± Samat says, arguing their feedback has been positive. ¡°I think the concept of engagement is changing to ¡®meaningful engagement.¡¯¡±
+
+GESTURAL NAVIGATION
+
+ANOTHER CRACK AT POWERING THE UI WITH AI
+
+THE TREBLE WITH ANDROID UPDATES

@@ -1,0 +1,13 @@
+Google Chrome OS
+
+Google Chrome OS is an upcoming Linux-based, open source[3] operating system designed by Google to work exclusively with web applications.[4] First announced on July 7, 2009, Chrome OS will be publicly available as a stable release by the northern hemisphere "late fall" of 2010 according to Google.[5]
+
+Chrome OS will not be available as a download to run and install. Instead, the operating system will only ship on specific hardware from Google's manufacturing partners.[6] The user interface takes a minimalist approach, resembling that of the Chrome web browser. Because the only application on the device will be a browser incorporating a media player,[3][7] Google Chrome OS is aimed at users who spend most of their computer time on the Internet.
+
+history
+
+Google developers began coding the operating system in 2009, inspired by the growing popularity and lower power consumption of netbooks and the focus of these small laptops on Internet access. To ascertain marketing requirements for an operating system focused on netbook Web transactions, the company did not do the usual demographic research generally associated with a large software development project. Instead, engineers have relied on more informal metrics, including monitoring the usage patterns of some 200 Chrome OS machines used by Google employees. Developers also noted their own usage patterns. Matthew Papakipos, former[11] engineering director for the Chrome OS project, put three machines in his house and found himself logging in for brief sessions: to make a single search query or send a short email[7].
+
+On November 19, 2009, Google released Chrome OS's source code as the Chromium OS project.[3] As with other open source projects, developers are modifying code from Chromium OS and building their own versions, whereas Google Chrome OS code will only be supported by Google and its partners, and will only run on hardware designed for the purpose. Unlike Chromium OS, Chrome OS will be automatically updated to the latest version.[12] InformationWeek reviewer Serdar Yegulalp wrote that Chrome OS will be a product, developed to "a level of polish and a degree of integration with its host hardware that Chromium OS does not have by default," whereas Chromium OS is a project, "a common baseline from which the finished work is derived" as well as a pool for derivative works. The product and project will be developed in parallel and borrow from each other.[13]
+
+In March 2010 Google indicated that consideration is being given to developing two versions of the operating system, a consumer version and an enterprise version

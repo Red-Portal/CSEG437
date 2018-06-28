@@ -1,0 +1,27 @@
+Bluetooth Settings  
+Applies to: Windows Mobile 5.0 Pocket PC 
+  
+ 
+ Bluetooth is a short-range wireless communications technology. Devices with Bluetooth capabilities can beam (exchange information) over a distance of about 10 meters (30 feet) without requiring a physical connection. Unlike infrared, you don't need to line up the devices to beam information with Bluetooth. You can even beam information to a device in a different room, as long as it's within range. 
+
+You can use Bluetooth as follows:  
+ Beam information, such as files, appointments, tasks, and contact cards, between devices that have Bluetooth capabilities.
+Create a connection between your device and a Bluetooth phone to use the phone as a modem. 
+Use a Bluetooth service. Once you connect to another device or computer using Bluetooth, you can locate and use any of the services available on that device.  
+ 
+ Tip
+Your device might include additional Bluetooth features. For more information, see the documentation included with your device.  
+ 
+
+ Bluetooth   
+ 
+ Turn on and off Bluetooth  
+ Ensure that the two devices are within close range and that both Bluetooth-enabled devices are discoverable. 
+  
+ Tap Start > Settings > Connections tab. 
+Tap Bluetooth. 
+Select or clear the Turn on and off Bluetooth check box.  
+ 
+ Note  
+ By default, Bluetooth is turned off. If you turn it on, and then turn off your device, Bluetooth also turns off. When you turn on your device again, Bluetooth turns on automatically. 
+ 

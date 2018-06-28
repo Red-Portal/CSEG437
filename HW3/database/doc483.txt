@@ -1,0 +1,23 @@
+Smartphone batteries: When will they last longer?
+
+In labs around the world, scientists are looking for ways to power up your phone and, once again, allow mobiles to live up to their name. 
+
+It is a familiar problem. You pull your glossy smartphone from your pocket to make a call but there are no signs of life. How can that possibly be? You plug it in every night. You are careful not to spend too long looking at Facebook. You hardly ever use the GPS and you always wait until you are on your laptop at home to click on those YouTube links. But still, here you are, clutching a ¡°phone¡± with a dead battery.
+
+The truth is that the power demands of our feature-filled smartphones have outpaced any improvements in battery technology. And it is only going to get worse as next-generation 4G networks come online, giving phones access to high-speed always-on connections and torrents of data. Without a step change in battery technology the digital nomads of tomorrow will be paralyzed - tied to the plugs and cables these new tools were supposed to banish.
+
+"I don't think we are too far from the point when batteries, if they don't evolve more quickly, are going to create a noticeable drag on what your smartphone can offer,¡±  says Natasha Stokes, editor of Mobile Choice magazine,. Without a radical response, she predicts that it will not be long before power hungry, feature rich phones last just ¡°six hours¡±.
+
+There are various nascent technologies looking to solve the problem, such as solar panels embedded in the screen or kinetic devices that harness your movements to charge a handset. But, these are a long way off from offering a practical solution. What is needed is an entirely new type of battery, say researchers.
+
+And now, help could be on its way. In labs around the world, teams are testing new materials, chemistries and technologies that aim to supercharge your phone and, once again, allow mobiles to live up to their name.
+
+Memory trick
+
+Batteries are all largely based on the same simple principle: they convert chemical energy into electrical energy. To do this, they contain a positive and a negative electrode ? known as a cathode and anode - separated by a substance known as an electrolyte. When these electrodes are connected to a circuit, a series of chemical reactions is kicked off.  At one end, charged particles from the electrolyte ? known as ions - flow to the anode, react and release electrons. At the other end, reactions at the cathode create a material that ? like a sponge - wants to suck up these free electrons.
+
+The result is a system brimming with electrons at the anode that want to move to the cathode. But this is where the electrolyte¡¯s second job comes on - it prevents the electrons taking the direct path, instead forcing them through the attached circuit ? say the wiring to a light. It is this flow of electrons through the electric circuit that creates the electric current.   In rechargeable batteries the reactions are reversible, with the ions and electrons flowing back in the opposite direction during charging.
+
+This same sort of reaction is at the heart of the rechargeable lithium-ion batteries used in almost every smartphone. These have an anode made of carbon (usually graphite) a metal oxide cathode and an electrolyte containing lithium salt. Lithium has become the metal of choice for these batteries because it is relatively easy to split ions from lithium metal, triggering the important reactions and boosting performance. The technology has been around since the 1970s but it was not until the introduction of the first commercial units by Sony in 1991 that they really took off, replacing its nickel cadmium predecessors. The market for lithium-ion power packs is now worth more than $12bn and is set to rise to nearly $54bn in 2020.
+
+Their dominance is down to several reasons ? they are lightweight; they tend to hold their charge better than other batteries and they do not suffer from so-called ¡°memory effect¡±, where batteries hold less and less charge if they are not drained and then recharged completely. Critically, they also have a high energy density - a measure of how much punch a battery packs

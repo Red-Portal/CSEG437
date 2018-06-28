@@ -1,0 +1,29 @@
+Numerous New Notebooks
+
+Ah, the signs of spring -- robins, crocuses, slimline and desktop-replacement laptops. With Daylight Saving Time starting on Sunday, PC manufacturers have apparently decided to spring ahead: The last week or so has seen a surge of new notebook introductions, along with declarations from market watchers IDC and Gartner that bigger screens and smaller prices are pushing portable sales up while desktop sales dwindle (down 8.6 percent in mature markets this year, Gartner predicts, although both desktop and laptop sales will climb in emerging markets). 
+
+While many vendors are boarding the dual-core bandwagon with Intel's new Core Duo processors, the class of '06 overall shows too many CPUs, shapes, and sizes to lump into one category -- or, for that matter, into separate tidbits in HardwareCentral's news column. So here's a feature-length presentation of the year's newest notebook choices. 
+
+Dell
+Dell has added two thinner and lighter models to its Latitude line, the business-suited cousins of the company's Inspiron consumer notebooks. The Latitude D620 is billed as the balance of mobility and performance, with the Latitude D820 packing higher performance for users who don't mind a slightly heavier briefcase (the two systems start at 4.4 and 5.6 pounds, respectively). 
+
+Both widescreen designs flaunt more features than their predecessors, including optional fingerprint reader, SmartCard, and Trusted Platform Module (1.2) choices for corporate security and tougher magnesium-alloy construction with spill-resistant keyboards and StrikeZone hard disk protection. 
+
+Built-in, non-protruding antennas take care of standard 802.11a/b/g wireless networking, with a WiFi Catcher feature that finds and profiles available wireless connections without turning on or booting up the computer. When there's no WiFi network around, both Cingular HSDPA and Verizon EV-DO wireless wide-area network solutions are available (as is Vodafone for European customers). 
+
+The 14.1-inch-screened Latitude D620 starts at $1,149 with a Core Duo T2300 processor but a skimpy 512MB of memory, 40GB hard disk, and CD-ROM drive instead of combo or DVD recorder. Options range from 80GB and 100GB hard drives, up to 4GB of DDR-2, and Bluetooth to Core Duo T2500 (2.0GHz) power, 8X DVD¡¾RW, and a choice of 1,280 by 800 or 1,440 by 900 LCD resolution with either Intel's GMA 950 or Nvidia's Quadro MVS 110M TurboCache shared-memory graphics. 
+
+By contrast, the D820 model flaunts a 15.4-inch-diagonal display with your pick of 1,280 by 800; 1,680 by 1,050; or 1,920 by 1,200 resolution backed by Nvidia's 256MB Quadro MVS 110M or 512MB Quadro NVS 120M TurboCache graphics adapter. Systems start at $1,289 and ascend as you check off more memory, a DVD/CD-ROM or DVD¡¾RW drive, up to a 120GB hard disk, up to a Core Duo T2600 (2.16GHz) processor, a fingerprint reader, and other frills. 
+
+Demanding Dell customers can step up to one of two new mobile workstations, the Precision M65 and Precision M95. Like the new Latitudes, the Precision pair emphasize mobility and muscle, respectively, with a 15.4-inch wide-aspect display for the M65 and 17-inch widescreen for the M90. The former has the same three resolution choices as the Latitude D820 above, while the latter comes in 1,440 by 900 or 1,920 by 1,200 flavors. 
+
+Both offer OpenGL graphics and are certified to work with a shelf full of CAD, digital content creation, GIS mapping, financial analysis, and other elite applications. Verizon or Cingular WWAN connectivity is optional. 
+
+The Precision M65 weighs 6.2 pounds and costs $2,443 with Core Duo T2300 power, Nvidia Quadro FX 350M TurboCache video, 1GB of DRAM, and 60GB hard and DVD-ROM/CD-RW optical drives. Configured with the 1,920 by 1,200 display, Core Duo T2500 (2.0GHz), 2GB of memory, a DVD recorder, larger battery, and 120GB, 5,400-rpm hard disk, it's $3,221. 
+
+The 8.6-pound Precision M95 starts at $2,813 with a Core Duo T2300 CPU; 1GB of DDR-2/667 memory; a 60GB, 7,200-rpm hard disk; DVD-ROM/CD-RW combo drive; and 256MB Nvidia Quadro FX 1500M graphics. A loaded system with Core Duo T2600 power, the higher-resolution LCD, 4GB of RAM, 100GB hard drive, DVD burner, and 512MB Quadro FX 2500M graphics is $6,401. 
+
+Lenovo
+It still sells popular, IBM-designed laptops under the ThinkPad banner, but Lenovo has also made a fresh start with its house-brand 3000 series. The new Lenovo 3000 N100 courts nervous users and IT managers with one-button system recovery from a virus attack or other catastrophe, while offering a choice of Intel Core Duo T2300 or T2400 processors and 14.1- or 15.4-inch wide-aspect-ratio screens. 
+
+The 5.6-pound N100 starts at $999 for a 1.66GHz notebook with 512MB of memory, an 80GB hard disk, and a DVD-ROM/CD-RW combo drive and climb to $1,399 for a 1.83GHz configuration with a 100GB hard disk, double-layer DVD burner, and Nvidia's GeForce Go 7300 TurboCache instead of Intel GMA 940 graphics. Bluetooth and WiFi are standard across the board.

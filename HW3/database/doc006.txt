@@ -1,0 +1,51 @@
+﻿A Look Back at the Buzz of 2006
+
+
+AS consumer technology goes, 2006 was an impressive year. It’s not even over, but there’s already been enough eyebrow-raising news to fill an ordinary year three times over. 
+
+The trouble with writing about it all, though, is that once your words hit newsprint, they tend to stay just the way you wrote them. Time moves on, and circumstances change; by the end of year, January’s articles look practically prehistoric. Heck, in the tech industry, what you wrote last week looks ancient.
+
+As the year draws to a close, then, it’s worth taking a look back at some of my weekly tech-review columns to see how their subjects have withstood the very brief test of time. Almost all of them have seen noteworthy developments since my reviews appeared. Here it is, then, a review of the reviews.
+
+Treo 700
+
+I recently met with a local school board whose new high school is state of the art in every way but one: it has no computer lab. That’s because when the plans were drawn up a few years ago, consultants insisted that in the shining future of 2006, there would be no need for big, bulky computers; palmtops would do everything we needed. 
+
+O.K., so not many high-school students are carrying around PalmPilots these days. What they are carrying, however, is cellphones. Often they’re smartphones like Palm’s Treo models, which have tiny alphabet keyboards, bright screens and the ability to open Microsoft Office documents.
+
+In 2006, hell froze over. For years, Palm had made fun of Microsoft, its rival in the palmtop market. But the fancy new Palm Treo 700w arrived in January, running a version of Windows.
+
+It was a creepy experiment, a kiss-up to corporate buyers, an attempt to graft a clumsy operating system onto a sleek and efficient piece of hardware. Dozens of functions that, on previous Treos, required only one button tap apiece wound up buried in menus on the 700w (including Calendar, Contacts, Mute and Speakerphone). The Start menu has room to list only seven programs, and the date book allows appointments to begin only on the half-hour.
+
+Even more instructive, however, was the far more successful Treo 700p, which appeared four months later. Same phone, except with the Palm operating system instead of Microsoft’s. What a difference an operating system makes!
+
+The biggest downside to the 700p was its price: $400 with a two-year Verizon commitment.
+
+UPDATE Last month, Palm introduced the Treo 680: the same Treo 700p goodness, but without the stubby antenna, with a choice of colors, and available at half the price ($200). It’s designed for G.S.M.-cell networks like those from Cingular and T-Mobile. 
+
+Unfortunately, those networks don’t offer nearly the speed of Verizon’s Internet service.
+
+So the new 680, when it becomes available in the next few weeks, will be for people who do more calling, organizing and computing than downloading. 
+
+Maybe the local high school was onto something after all.
+
+Google Video
+
+When it made its debut in January, Google’s online video store was not, ahem, quite up to the standards of Google’s other offerings. The videos were maddeningly inconsistent: some were copy protected, some not; some free, some not; some downloadable, others viewable only online. The TV show catalog was barren, too, and the layout made it tough to find anything.
+
+UPDATE YouTube happened. 
+
+Google Video crept along, adding more TV shows and refining its design. And some people found happiness in the option to charge a few cents or a few bucks for their homemade videos. (One reader chastened me for my negative review by exulting that he finally had a place to sell his instructional horseshoeing videos, which Blockbuster had inexplicably turned down.)
+
+But YouTube.com, Google’s simpler and more consistent rival, took the headlines. Twice, in fact. First, when it became a social phenomenon, starter of a million water-cooler conversations and the platform for a thousand clever amateur filmmakers.
+
+And second, when Google agreed to buy it for $1.65 billion in stock.
+
+It’s too soon to know how or whether Google will merge these two short-form video outlets. But when the dust settles, one thing will be clear: 2006 was the year average people took TV broadcasting into their own hands. 
+
+MacBook Pro, MacBook
+
+Hell froze over a second time in 2006 when Apple began popping Intel chips — processors from what Mac-heads called the Dark Side — into its computer line. It was suddenly possible to run both Mac OS X and Windows at full speed on the same computer. 
+
+The first Intel Mac laptop was the metal-clad MacBook Pro. Compared with the PowerBook, its discontinued predecessor, the new model offered a long list of added features (remote control, embedded video camera, magnetically attached power cord to prevent tripping), and a long list of deleted ones (built-in modem, S-video jack, FireWire 800 connector for hard drives, PC-card slot). 
+

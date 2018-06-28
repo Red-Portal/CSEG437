@@ -1,0 +1,14 @@
+Mobile Messaging with Microsoft Office Outlook Mobile
+
+Outlook Mobile now offers you a vastly superior mobile messaging experience. The familiar Microsoft Outlook tools, plus support for Microsoft Word, Excel and PowerPoint attachments help you be more productive while away from your desk. 
+You can sync most Windows Mobile powered devices over-the-air, through your mobile operator or at a wireless hotspot. Your Calendar, Contacts, and Tasks are always up to date. You can also sync when you¡¯re back at your desk. 
+
+With the new Messaging and Security Feature pack, available on some new devices, you¡¯ll get Direct Push technology. This means you¡¯ll never have to wait for your e-mail. Moments after your messages have been sent, they¡¯ll arrive in your hand.
+
+Did you know? 
+
+Over-the-air synchronization lets you sync your device with your PC to read e-mail while connected or offline.
+
+*Connectivity and synchronization may require separately purchased equipment and/or wireless products (e.g., WiFi card, network software, server hardware, and/or redirector software). Service plans are required for Internet, WiFi and phone access. Features and performance may vary by service provider and are subject to network limitations. See device manufacturer, service provider and/or corporate IT department for details. 
+
+Direct Push technology and device wipe features require Windows Mobile 5.0 with the Messaging and Security Feature Pack (MSFP) and Windows Small Business Server 2003 updated with Exchange Server 2003 Service Pack 2. 

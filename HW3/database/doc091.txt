@@ -1,0 +1,115 @@
+		Digital Cameras in the Classroom
+
+	   Making Effective Use of a Digital Camera
+
+It is common and rewarding practice for teachers to take snapshots
+of students. Classroom albums help create a sense of
+identity for the class. Photos of students doing different activities
+in class and on field trips and other special projects create a sense
+of shared history and remind students of how far they have come
+in a school year. This month I suggest a way to make extensive
+use of digital cameras in the classroom¡¦ without spending half
+your time organizing files and tracking down ink cartridges for
+the printer!
+
+		 	Why Digital?
+
+When a simple point-and-shoot or disposable camera works
+just fine, why bother learning how to use and manage a digital
+camera? There are three primary reasons. First, seeing your pictures
+instantly makes it easy to retake photos as needed. Second,
+not paying for film or development facilitates taking more pictures.
+Third, using online photo services (see ¡°Putting Pictures
+Online¡±) makes it easier to share pictures with students¡¯ families
+and others.
+
+			Permissions
+
+Parental permission is normally required before taking a picture
+of a student. Check your district¡¯s policies. My recommendation
+to use online photo processing to share pictures with students¡¯
+families may require district review, as well.
+
+		   Digital Camera Basics
+
+When you take a picture with a digital camera, instead of exposing
+light to chemically reactive film, you are exposing light to an
+electronic sensor that creates a digital computer file. How many
+pictures you can take before unloading the camera varies tremendously
+depending on the size of the media storage (loosely called
+memory) in the camera and the size of these digital files. The size
+of the files in turn depends on the capabilities of the camera and
+the resolution it is set to. For most uses, a setting of 1280 by 960
+pixels (1.2 megapixels) is about right.
+Once you have set up your camera and filled it with images, you
+simply attach it to a computer with a cable and use either the
+software included or the regular file system to move the files off
+the camera and onto the computer. Then you can look at the
+pictures and resize, enlarge, or crop them as needed. For
+Windows users I recommend the free program IrfanView to
+quickly review and make basic changes to your images.
+
+IrfanView
+http://www.irfanview.com/
+
+			Organizing the Files
+
+Once ¡°going digital¡± has you and your students clicking away,
+you will end up with large numbers of files. To keep organized, it
+is essential to create a simple system of folders on your computer.
+I recommend that you use one folder for a year¡¯s worth of shots.
+Call it ¡°2004 Pictures,¡± and within that folder create a new
+folder for every batch of photos downloaded. Name that folder
+with a three-digit number starting with ¡°001¡±; every time you
+upload a new batch create a new folder ¡°002,¡± ¡°003,¡± etc. After
+the opening numeral, add a short description of the pictures
+included such as ¡°140: Field Trip to Padilla Bay.¡±
+Most digital pictures are not modified in any way. They come
+out of the camera, they are admired, and they sit on the hard
+drive. For the few that you choose to crop, resize, or modify for
+printing or displaying on the Web site, make a subfolder inside
+the numbered folder. Call it ¡°Best Pix¡± or ¡°For Web Site,¡± and
+put the modified copy of the original image in this folder.
+
+			Putting Pictures Online
+
+It isn¡¯t practical to print more than the occasional digital picture
+on the inkjet printer in your classroom. The expensive ink cartridges
+get used up, the printer is slow, the higher quality paper
+you need quickly runs out¡¦ you get the picture. Instead, consider
+creating a free account at one of the online photo printing
+services. My two favorites are Ofoto and SnapFish.
+
+Ofoto
+www.ofoto.com
+SnapFish
+www.snapfish.com
+
+Both services provide free software that simplifies viewing, editing,
+and uploading the images to your account at their Web site.
+There are three major advantages to this. First, you can choose to
+print only the pictures that are really worth printing. Second,
+your photos will be printed on high quality photographic paper,
+and they¡¯ll usually look just as good as prints from a film camera.
+Third, once the images are uploaded into an album on your
+account, you can select people (such as the parents of students)
+with whom you wish to share the album. This generates an email
+to those people that gives them access to view and order prints.
+This means that parents can view the pictures from the class field
+trip as soon as you can get them uploaded, and they can order
+prints of their favorites without any effort on your part!
+A final advantage is that these online services automatically modify
+the images you upload to make them suitable for display on
+their Web site. This means that with a right-click or a click and
+hold, you can save the Web-prepared images and thumbnails
+straight from their Web site back to your hard drive. Then those
+images are ready for addition to the class Web site.
+
+Digital Camera Resources
+Digital Cameras and Photography
+http://www.imaging-resource.com/
+Digital Camera Basics
+http://www.digitalcamerabasics.com/
+
+by Tim Burnett
+tim@kingfisherconsulting.com

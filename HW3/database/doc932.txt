@@ -1,0 +1,29 @@
+PPSSPP, the Best Free PSP Emulator, Now Supports Direct3D 11, Version 1.4 Is Out
+
+This release adds post-processing shaders in D3D11
+Apr 2, 2017 23:00 GMT  ¡¤  By Marius Nestor 
+
+PPSSPP 1.4 is the latest stable and most advanced release of the free and cross-platform PSP (PlayStation Portable) emulator application, 
+available now for GNU/Linux, Android, and Microsoft Windows platforms.
+
+Last year in September, PPSSPP 1.3 launched with numerous goodies, including the ability to record games,
+ support for Samsung Galaxy S7 smartphones and Apple devices running iOS 9 or later,
+ initial support for the Vulkan API on Windows, as well as better support for 64-bit Android TV systems and Raspberry Pi SBCs.
+
+Now PPSSPP 1.4 is here with Direct3D 11 support, 
+which appears to offer a boost in many PSP games over OpenGL or Direct3D 9, on most hardware. 
+Along with this implementation, the development team also managed to add support for post-processing shaders in Direct3D 11.
+
+HiDPI and audio improvements, Prescale UV setting removed
+The PPSSPP 1.4 release doesn't appear to be a major one, but it adds a bunch of improvements for the audio quality, 
+specifically for linear interpolation, HiDPI (High Dots Per Inch) displays,
+ as well as for Bluetooth headsets via a new audio setting that improves the compatibility with the latest devices.
+
+There's also hardware bezier/spline tessellation added in the Vulkan, OpenGL, 
+and Direct3D 11 support, better compatibility with various gamepads, 
+a workaround for a font-related mipmap issue in the Japanese version of the Tactics Ogre game,
+ missing font files for the Android build, and UMD switching improvements for some multi-UMD games.
+
+Last but not least, PPSSPP 1.4 removes the Prescale UV setting to improve perf, and brings various other minor compatibility fixes, 
+under-the-hood performance improvements, and code cleanups. You can download PPSSPP 1.4 for GNU/Linux, 
+Android and Microsoft Windows operating systems right now from our website or from the official homepage of the project.

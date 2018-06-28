@@ -1,0 +1,46 @@
+RIM: Smartphone OEMs face memory challenges
+Mark LaPedus
+
+9/23/2010 2:26 AM EDT
+
+SANTA CLARA, Calif. ? Smartphone makers face several new challenges on the memory front, especially as mobile products become more sophisticated and data-intensive, according to a technologist from Research in Motion (RIM).
+
+But there are more uncertainties than solutions for memory in current and future smartphone designs, warned Karin Werder, director of memory development at cell-phone powerhouse RIM, during a presentation at the 2010 Non Volatile Memory Conference here.
+
+Werder listed the design challenges for DRAM, flash and system integration in smartphones.  In a nutshell, DRAM suffers from data and power concerns, NAND flash is plagued by reliability issues, and system integration is becoming more complex, she said.
+
+This leaves OEMs with several key design questions-if not headaches. First, how does a systems house devise a leading-edge and hot-selling  smartphone that can withstand the NAND wear cycles in a short replacement cycle? Second, what are the power implications for DRAM? And next, consumers demand faster access to data, but can OEMs and carriers deliver?  
+
+Many of these issues have been known for years. Still others have just suffered. The memory problems not only haunt RIM, but also Apple, Google, LG, Motorola, Nokia, Samsung and other cell-phone makers. 
+
+One of the latest headaches for OEMs is NAND flash. At one time, the replacement cycles for cell phones were long. OEMs used two types of flash: NOR for code storage and possibly low-density NAND for data storage. In those days, NOR flash was simple. NAND reliability and the endurance were somewhat acceptable.   
+
+Now, in the smartphone revolution, the replacement cycle is about two years or so, according to RIM. OEMs continue to use NOR for code storage. But as the applications become more data-intensive in cell phones, NAND density in cell-phone designs is exploding.  
+
+NAND is taking more of the real estate in cell phones. NAND flash vendors have done an admirable job in scaling to lower the cost-per-bit, but the latest, leading-edge devices have their drawbacks. ''Smaller geometries impact reliability¡¯¡¯ of the parts themselves, Werder said.  
+ 
+Flash memory has a limited number of program-erase (P/E) cycles. Older NAND products are said to withstand around 100,000 P/E cycles. Then, wear begins to deteriorate the reliability of the device. 
+
+The newer and higher-density NAND parts have far fewer P/E cycles. Therefore, NAND reliability suddenly becomes an issue in new smartphone designs.  So, OEMs are under pressure to devise systems with leading-edge NAND parts that have acceptable reliability in the field.   
+
+This is not a simple task and the challenges are growing. For storage and other applications, cell-phone makers have integrated devices based on older single-level-cell (SLC) NAND technology. Generally, SLC has some 100,000 endurance cycles, making it a somewhat reliable solution, according to RIM.
+
+To drive down costs, many OEMs have migrated to 50-nm-class devices, based on multi-level-cell (MLC) technology.  These types of devices, equipped with 4-bit error correction, have 10,000 endurance cycles. 
+
+Now, OEMs are looking at 30-nm-class NAND, based on MLC. These types of devices, equipped with 8-bit error correction, have only 5,000 endurance cycles.  Some NAND vendors have rolled out 20-nm-class devices, based on MLC. These types of devices, equipped with 16-bit error correction, have only 3,000 endurance cycles.
+
+Newfangled three-bit-per-cell NAND technology, equipped with 24-bit error correction, is said to have only 1,000 endurance cycles.  Three-bit-per-cell NAND is not targeted for cell phones due to reliability. Many of the early parts are poor in terms of quality. These parts are geared for commodity USB drives and flash cards.    
+
+Besides NAND density and scaling, smartphone systems integration must be addressed--and for good reason. ''Higher density (parts) requires a faster access to information,¡¯¡¯ Werder said. 
+
+As a result, OEMs are moving towards so-called intelligent NAND controllers, which handle the flash management and other functions in a system. The trouble is that the ''controllers are expensive and complex,¡¯¡¯ she said.
+
+Like NAND, DRAM also has issues in cell phone design. For next-generation mobile devices, DRAMs are plagued by power and cost, not to mention the uncertainties about the next-generation interface technology, Werder said.
+
+''New phone features result in larger DRAM densities,¡¯¡¯  she said. ''Density and performance result in (more) cost and power.¡¯¡¯  
+
+Current mobile systems use mobile DDR interface technology. Now, to boost memory bandwidth, a new mobile interface technology called LPDDR2 is ramping up. ''We anticipate LPDDR2 won¡¯t be good enough in a couple of years,¡¯¡¯ she said.  
+
+LPDDR2 is said to run at a maximum of 4.3 GB/s, but there is a thirst for more bandwidth. Going beyond LPDDR2, vendors claim that a new technology is required.  Those include MIPI, Rambus¡¯ XDR, the Serial Port Memory Technology Consortium technology, among others.
+
+Asked which technology will win in the next-generation interface race, she said: ''That¡¯s a big question. It¡¯s up in the air.¡¯¡¯

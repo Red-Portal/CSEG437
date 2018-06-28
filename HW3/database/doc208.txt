@@ -1,0 +1,39 @@
+Just Like High-Definition TV, but With Higher Definition
+By DOUGLAS HEINGARTNER
+ 
+HIGH-DEFINITION television may be only just beginning to catch on, but researchers at the Japanese national broadcaster NHK are already working on a successor. The format, called Ultra High Definition Video, or UHDV, has a resolution 16 times greater than plain-old HDTV, and its stated goal is to achieve a level of sensory immersion that approximates actually being there.
+
+At a picture size of 7,680 by 4,320 pixels - that works out to 32 million pixels - UHDV's resolution trounces even high-end digital still cameras. HDTV, by comparison, has about two million pixels, and normal TV about 200,000 (and only 480 lines of horizontal resolution versus 4,000 with UHDV). 
+
+Add to that UHDV's beefed-up refresh rate of 60 frames per second (twice that of conventional video), projected onto a 450-inch diagonal screen with more than 20 channels of audio, and you've got an impressive home theater on your hands.
+
+Of course, UHDV's current dimensions make it impractical for most homes. The NHK researchers are investigating how to squeeze all those pixels onto smaller screens.
+
+But the project aims to do more than just make home entertainment more realistic. The UHDV standard may someday find applications in museums, hospitals, shopping malls or other places where a keener representation of detail might be desirable. 
+
+All of that is a long way off, however, because the standard is still in the early stages of development. UHDV "will take many years," said Fumio Okano, a researcher with the network. But NHK is familiar with long-term projects: it began developing the HDTV standard in 1964, and the first high-definition content arrived only in 1982.
+
+The pixel count of UHDV may be impressive, but as anyone who has tried to watch TV on a sunny beach knows, pixels are not the whole picture. "Resolution is only one of the key measurements," said John Lowry of Lowry Digital Images, a company in Burbank, Calif., that digitizes films at the highest possible quality for archival purposes. Perhaps even more important than pixels, he said, is the dynamic range of an image, which is measured in terms of contrast ratio. The eye can perceive contrasts between the brightest white and the darkest black of roughly 100,000 to one, whereas today's best projectors can only muster levels of about 4,000 to one.
+
+To achieve truly realistic images, Mr. Lowry said, "the blacks have to be really black, while still seeing the glint off a diamond."
+
+So while current projection technology cannot meet the demands of UHDV, the standard excels in other crucial areas, for example breadth of view. While both UHDV and HDTV use the widescreen 16:9 aspect ratio (standard TV uses 4:3), HDTV offers only a 30-degree field of view horizontally, whereas UHDV's massive screen size expands this to about 100 degrees, said Mr. Okano, who said his research indicates that this angle is where "immersive sensation" peaks. 
+
+In developing UHDV, NHK has also focused on sound. The standard calls for 22.2 sound: 10 speakers at ear level, 9 above and 3 below, with another 2 for low frequency effects. It is a setup that is well beyond the level of the multichannel systems currently in vogue, like the 5.1 surround system.
+
+All those sound channels and all those image pixels add up to a lot of data. In test, an 18-minute UHDV video gobbled up 3.5 terabytes of storage (equivalent to about 750 DVD's). The data was transmitted over 16 channels at a total rate of 24 gigabits per second, thousands of times faster than a typical D.S.L. connection. 
+
+The realism creates other complications. The NHK is studying the physical and psychological effects of UHDV on audiences. One concern is a kind of motion sickness, which researchers attribute to a combination of the wide viewing angle, the massive image and the on-screen motion.
+
+There are other reasons to shy away from maximum reality, some of them aesthetic. "There is a very common practice," Mr. Lowry said, "of putting a filter on a camera just to soften the image, to reduce the resolution." Movie stars are now learning the hard way that high-definition is hard on human imperfections: blemishes and bad makeup invisible to conventional TV suddenly jump to the fore when filmed in high-definition format; how will aging celebrities fare with UHDV? 
+
+But UHDV's developers do not intend the standard exclusively as a vehicle for Hollywood, or even for sports or news, where HDTV has flourished. They point to potentially useful applications in medicine, education, or art appreciation. The new format has also been designed to be compatible with other standards - unlike, for example, IMAX, a 70-millimeter film format that has unsurpassed quality but a unique infrastructure that limits its mass-market potential.
+
+Are audiences even warming up to high-definition television? While sales of HDTV sets are gradually increasing, the growth remains less than spectacular. With only 15 million to 18 million HDTV sets currently in the United States, "we haven't even scraped the tip of the iceberg yet," said Vamsi Sistla, an analyst with the research firm Allied Business Intelligence. 
+
+Navigating the jungle of standards and terminology remains confusing, and a complete high-definition set (including tuner) costs several thousand dollars. Consumers, Mr. Sistla said, "are not too keen on the nitty-gritty. They're looking at the price point, at sexy flat screens.''
+
+The NHK is still years from having to worry about how to sell UHDV to consumers. Perhaps the format will always be out of reach for most consumers. However, while it took 40 years, HDTV eventually gained a foothold.
+
+"I applaud them," Mr. Lowry said of the NHK. "They are reaching off into what a lot of people might call never-never land at the moment. But why not?" 
+

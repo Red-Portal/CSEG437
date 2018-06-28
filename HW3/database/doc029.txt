@@ -1,0 +1,40 @@
+A Wideband Compact Shield Box Developed for Mobile Telecommunication Terminals
+ 
+
+
+--------------------------------------------------------------------------------
+
+FDK Corporation has developed a wideband compact shield box based on an entirely new principle, first in the world, 
+
+incooperation with Dr. Hiroyuki Arai, associate professor at theYokohama National University. 
+
+This small shield box can perform steady measurement of the levels of power and unwanted noise radiated from mobile terminals
+
+and other telecommunication equipment, throughout the wideband of 1 GHz to 10 GHz.
+
+Forming a random electric field inside its chamber and statistically analyzing measured data, the handy shield box has 
+
+realized accurate, speedy, inexpensive and simplemeasurement which previously required a costly electromagnetic anechoic 
+
+chamber or an open site.
+  
+[Measurement principle]
+First, place the telecommunication unit on the small table inside the shield box. Then, random fading is formed when the 
+table is turned. The influence of antenna directivity is reduced by obtaining the median of cumulative probability 
+distribution of received power. So stable measurement of transmitting and receiving power levels has become possible.
+
+[Features]
+* Stable measurement levels in the wideband from 1 GHz to  about 10 GHz.
+* Super compact size and high performance enabling its  installation inside an experimental room.
+Standard size: 50 x 50 x 100 cm.
+* Superb shielding characteristics against electromagnetic waves or noise.
+
+[Applications]
+* Measurement of power and noise radiated from cellular phones, wireless LAN, etc. 
+* Testing of the receiving sensitivity of telecommunication   equipment.
+
+FDK has supplied electromagnetic anechoic boxes of single frequency bands such as 1.5 and 2.5 GHz for developing cellular 
+phones, LAN and other telecommunication equipment and for testing productperformances on the production line.
+The new shield box is a compact and wideband addition to the existing anechoic box lineup. 
+FDK is planning to offer these shield boxes as total systems combined with measuring equipment, software and a wideband 
+antenna on an optional basis. 

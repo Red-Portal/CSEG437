@@ -1,0 +1,33 @@
+HDTV Compression
+HDTV Compression is what makes large quantities of information small enough to transmit
+in quantity.
+
+MPEG-2 & MPEG-4
+Currently, broadcasters are facing the challenge of needing to "squeeze" the finer 
+picture detail and higher quality surround sound in the traditional 6 (Mhz) bandwidth
+used by analog TV. This is achieved through the use of compression software.
+
+Digital TV broadcasting is possible due to the use of a compression and encoding scheme
+known as MPEG-2. This encoding scheme allows for the compression of the clear and stunning
+images of digital TV to "fit" into a reasonable amount of bandwidth. In each image, the
+MPEG-2 software records just enough of the picture without making it look like something
+is missing. In subsequent frames, the software only records changes to the image and
+leaves the rest of the image "as is" from the previous frame. The use of MPEG-2 enables
+the reduction of the amount of data by about 55 to 1.
+
+Already adopted as industry standard by DVDs and several satellite TV broadcast systems,
+MPEG-2 is very efficient at discarding image detail that the human eye tends to ignore 
+anyway. The image quality is considered to be quite good, and far better than traditional 
+analog TV.
+
+The use of MPEG-2 technology allows an HDTV receiver to communicate with computer multimedia 
+applications directly. This allows for a show broadcast in HDTV to be recorded on a computer 
+or a CD-ROM to be played on HDTV systems. A digital TV decodes the MPEG-2 signal and displays 
+it just as a computer monitor does, giving it high resolution and stability.
+
+The MPEG-2 technology, however, still takes up a significant amount of bandwidth, and 
+so satellite broadcasters have begun to embrace the newer technology of MPEG-4. MPEG-4 
+compression technology is able to squeeze twice as much HD video into the same amount of 
+bandwidth as MPEG-2. Others will soon likely follow the satellite broadcaster's leads and
+slowly begin to embrace the newer MPEG-4 technology, making it the new standard.
+

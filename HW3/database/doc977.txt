@@ -1,0 +1,57 @@
+The VPNFilter Three-Stage Attack
+
+This is one nasty bug.
+
+The malware (dubbed VPNFilter) this urgent alert is warning about is extremely advanced, and is only partially understood. What is known is that it has a three stage attack process.
+
+The first stage is permanently installed inside infected routers. How this initial infection spread, and if it will ever be possible to remove is NOT clear yet. Fortunately the first stage doesn't do much on its own. Its primary job is to download the second stage.
+
+The first stage gets instructions for where to download the second stage by looking for specially crafted photos posted on the PhotoBucket.com website (with instructions hidden in the GPS coordinates of the posted photo), and if it can't find any instructions there it instead connects to a backup control domain ToKnowAll.com.
+
+The second stage is essentially an operating system for running intelligence gathering operations and advanced remote attacks, with a wide range of capabilities provided by a variety of third stage modules. These third stage targeted modules are downloaded as needed under automated remote control.
+
+For most infected routers, they will probably never download a third stage until a specific target is identified for surveillance or a bigger global operation is triggered. There is even evidence that a "self destruct" trigger is possible, remotely causing the router to brick itself to become irreversibly inoperable, taking down any network it is attached to.
+
+Fortunately - the second and third stage payloads exist only in memory, and do not survive a reboot.
+
+The FBI this week managed to seize control of the ToKnowAll control domain, and they have blocked the special images on PhotoBucket. With the control channel down, the callout  to reboot routers will disrupt any attack or surveillance in progress, leaving infected devices unable (for now) to download the second stage payload and any further control instructions.
+
+And since all the infected devices will be trying to connect to a domain the FBI now controls, this will give the FBI a way to identify the full scale of the malware's spread, and the opportunity to contact those who have been infected.
+
+So in other words - reboot all the things.
+
+The sooner the better.
+
+Are Mobile Routers Impacted?
+
+The Netgear Nighthawk hotspot is a cousin of routers that have been proven to be impacted, so it certainly can't hurt to reboot - just in case.
+
+Join the MIA
+It is hard to know - there are at the moment no simple tools to identify devices that have been compromised.
+
+So far security researchers have found many routers and NAS devices manufactured by Linksys, Mikrotik, Netgear, QNAP, and TP-Link to be infected with VPNFilter, though there may be others that have not been identified yet.
+
+It is completely unknown whether any mobile hotspots (which are just small routers) might be impacted.
+
+Netgear's mobile hotspots (like the Unite Explore or Nighthawk) are a particular concern, and there is no downside to rebooting mobile routers and making sure you have changed the default passwords.
+
+Most WiFiRanger products are built on top of hardware manufactured by Mikrotik, and our WiFiRanger contacts tell us that they think they are not likely impacted since their software is custom and very different from Mikrotik's - but they are "watching like a hawk" for any signs of being subject to infection.
+
+Other popular mobile gear manufactures like Cradlepoint, Pepwave, and Ubiquiti have not been identified as targets yet.
+
+But in general - it can't hurt to reboot any router or NAS. Mobile or otherwise.
+
+The bigger questions will need to be answered later. Remember - rebooting is just a "temporary" disruption of the malware.
+
+How is the initial infection being spread?
+Does VPNFilter have any additional backup channels to spread the second stage that have not been shut down yet?
+Can these infected routers be cleaned, or are they permanently suspect now?
+What steps can be taken to prevent future attacks like this?
+And - what damage may have already been done?
+There is some evidence that the organization behind this attack might be the same organization involved with US election tampering last year, and with bringing down the Ukrainian power grid in 2016. There is some further evidence that the prime targets this time were in the Ukraine yet again, and that is where researchers have seen VPNFilter most actively spreading.
+
+But it is impossible right now to know for sure just who is behind this, and what their goals are.
+
+It is a scary net sometimes.
+
+Sometimes it would be nice to reboot the entire thing...

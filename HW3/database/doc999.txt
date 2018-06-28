@@ -1,0 +1,22 @@
+The most used smartphone screen resolutions in 2017
+Knowing the most used smartphone screen resolutions can help you optimize your website to address differences between various devices. Here are the most recent device usage statistics to help you better understand which smartphone screen resolutions are the most popular in 2017.
+While all flagship Android devices during the last few years or so were either Full HD (1050x1980) or QHD (1440 x 2560), in 2017 there were new arrivals offering rather non-standard screen resolutions. This is mainly the result of the new trend of edge-to-edge screens used in some of the most recent releases.
+
+Samsung Galaxy Note 8: 1440 x 2960 pixels
+Samsung Galaxy S8: 1440 x 2960 pixels
+LG V30: 1440 x 2880 pixels
+LG G6: 1440 x 2880 pixels
+Sony Xperia XZ Premium: 3840 x 2160 pixels
+iPhone X: 1125 x 2436 pixels (announced)
+Of course, these non-standard dimensions are not visible in our statistics yet, given that they're based on the number of website visits. However, we do expect that the S8's resolution may soon become one of the most popular out there, due to the huge popularity of the Galaxy S family ? the S7 is now arguably the most popular Android device worldwide.
+720x1280 is the most used smartphone screen resolution
+According to the web traffic statistics from July and August 2017, the most popular screen resolution is now 720x1280 used in many low-end and mid-range smartphones. This resolution is most used in 11 countries out of 20 analyzed including India, Italy, and Spain. It is closely followed by 750x1334 used in many iPhone models which is the most popular in the USA, UK, or Australia. Full HD known from many high-end and mid-range Android devices is the most popular in France and Germany.
+Full HD growing fast, QHD slowing down
+We also analyzed howfast some of the popular resolutions were growing during the last four quarters between Q4 2016 and Q3 2017. While previously we reported that QHD (1440x2560) was growing fastest, we noticed that its growth has recently slowed down.
+
+QHD devices even dropped some share in France, India, Nigeria, and most notably the USA (-4%). During the last four quarters, FHD (1080x1920) devices grew faster, gaining 5-10% in Brazil, France, Japan, Poland, Spain, and the USA.
+
+Detect screen resolutions with DeviceAtlas
+DeviceAtlas offers a high-speed, high-accuracy User-Agent parsing solution which makes it possible to detect all characteristics of visiting devices, including their screen dimensions.
+
+Our customers can use diagonal screen size, physical screen resolution, or virtual screen resolution (viewport size) for any web optimization project. These properties also provide an excellent source of data for web analytics and ad targeting purposes.

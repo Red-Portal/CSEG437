@@ -1,0 +1,25 @@
+Epic Games "not focusing on any one thing" for Next-gen Platforms and Unreal Engine 4
+
+In a keynote speech at the Montreal International Game Summit, as reported by Gamasutra, Epic Games co-founder and CTO Tim Sweeney discussed the future of Triple-A game creation from the studio's perspective as both a game developer, and engineer of the popular Unreal Engine technology. 
+
+With the next console generation looming, and Unreal Engine 4 posturing for a front-row seat, Sweeney explained how their approach will be different this time around (via: Gamasutra):
+Sweeney described Epic's future path as a developer, explaining that while at the start of the last generation they decided "console was going to win" and they considered their major investment to be partnering with Microsoft for Gears of War on Xbox 360. 
+
+In the next generation, however, "we are not focusing on any one thing," he said. 
+
+"[Epic will] build some games for PC, some games for mobile, and some for console," said Sweeney. "And any time we make something for one, we're going to explore how it fits on other platforms ... we are going to be building a lot of multi-platform experiences."
+Sweeney also explained that it wasn't just consoles being referred to as the next generation, but the wider market including devices such as smartphones and tablets, describing the wide gap in performance that their tech hopes to scale from:
+Because of the increase in performance, Sweeney explained that it was now far easier to scale products to fit the platform, and that Epic is committed to building technologies that only increased that scalability. 
+
+"We think we can scale by a factor of 10-20 from low-end to high-end now," he said, "making it increasingly easy to ship across disparate platforms."
+However, it was the developer's comments on the predicted cost of next-generation game development that has grabbed the most headlines around the Internet today, with the quote "We are hoping costs at the start of the next generation to only be double the cost of the start of the previous generation.". 
+
+Of course, putting this into context, current-gen console development is already reportedly around double what it was at the start of this generation, and the message that seems to have been lost in most reports is that despite Sweeney's acknowledgement that "budgets are always going to continue marching upwards", the developer was instead promoting the efficiency improvements they are making in Unreal 4, and the benefits of DirectX 11 affording more dynamic effects that promise to lighten the human load of next-gen development.
+Sweeney described the lessons learned in the production of Epic's last two tech demos, beginning with 2011's Unreal Engine 3-based "Samaritan." He said Samaritan was a good proof-of-concept for the upcoming Unreal Engine 4, that pushed a lot of impressive, new UE3 features. But Sweeney said development of the demo was "greatly worrying," as it took a 30-person team and four months to produce. 
+
+"The result was just a three minute demo," he said. "We could see costs going up three, four or even five for the next generation, so it became apparent we needed to increase our tools for productivity so we could build our content very efficiently." 
+
+As a result Epic tripled the number of people working on tools in the process of building UE4, and produced another tech demo, "Elemental.
+Finally, although Epic has still yet to confirm any pricing on the upcoming PC title Fortnite, but Sweeney's commentary on the rise of free-to-play make it seem like the likely business model for the game, corroborating our earlier suspicions (via: GamesIndustry):
+¡°Free to play gaming is becoming more and more inevitable,¡± Sweeney said. ¡°If a user has world-class, AAA free-to-play games to choose from side-by-side with $60 games that are available only on a disc in a retail store, free-to-play games are very likely to win. So we need to really be mindful of this trend and start building games that have monetization and are designed to be piracy-proof.¡±
+Epic is currently working on Fortnite for PC as the first title to use Unreal Engine 4, with Infinity Blade Dungeons also in the works for iOS platforms, Gears of War: Judgement for Xbox 360 at People can Fly, and no doubt several other unannounced projects at their other international studios.

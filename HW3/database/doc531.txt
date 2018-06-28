@@ -1,0 +1,28 @@
+Researchers find vulnerability in Call of Duty: Modern Warfare 3
+
+
+IDG News Service - Researchers have found a serious vulnerability in the game "Call of Duty: Modern Warfare 3," and another in the CryEngine 3 graphics platform on which many games run.
+
+Luigi Auriemma and Donato Ferrante of security consultancy ReVuln presented their findings at the Power of Community (POC2012) security conference in Seoul on Friday.
+
+Vulnerabilities in games pose particular opportunities for hackers and even other gamemakers, who may be interested in trying to steal a competitor's players, Ferrante said. Shutting down a competing game could be particularly lucrative for another gaming company.
+
+"This is something we have seen," Ferrante said. "We have a lot of companies that ask for these kinds of denial-of-service attacks to attack competitors. This is really a big concern for companies."
+
+The first problem the pair presented is a denial-of-service vulnerability in Call of Duty: Modern Warfare 3, made by Activision. Auriemma showed in a video how the server administrator received a warning when he remotely crashed the server running the game.
+
+Auriemma masked some details in his presentation so as to not give too much information away, but he and Ferrante are planning to release advisories on the two vulnerabilities next Tuesday, the launch day for "Black Ops II," the latest game in the Call of Duty series. Ferrante said they are willing to work with Activision but aren't going to volunteer the information, since their research is part of their business.
+
+The second problem relates to CryEngine 3, a graphics engine developed by Crytek for use in its own and other companies' games.
+
+Auriemma's demonstration showed an attack on CryEngine 3 within the game Nexuiz. The attack, at the server level, enabled him to create a remote shell on a game-player's computer.
+
+In the demonstration, Auriemma caused a graphic of cat riding a rocket to be displayed on the victim's computer.
+
+"Once you get access to the server, which is basically the interface with the company, you can get access to all of the information on the players through the server," Ferrante said.
+
+In general, game companies don't seem to be very focused on security but rather on performance of the game itself, Ferrante said. Adding security checks can slow down games, and if the companies don't deem the problem a very critical issue, it will usually be ignored.
+
+"These are games that have a very large market," Auriemma said.
+
+Send news tips and comments to jeremy_kirk@idg.com. Follow me on Twitter: @jeremy_kirk

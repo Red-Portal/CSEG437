@@ -1,0 +1,6 @@
+As we reported earlier, Facebook is holding a mobile event next week, where much speculation is being made about whether or not we'll all finally see an iPad version of the company's official app. Until that happens, there's still the terrific, unofficial Facebook iPad app Friendly, which has just undergone a major upgrade to version 3.0.
+
+With Friendly's update comes quite a few improvements and enhancements, including the ability to sign in to multiple accounts on launch or on the fly, uploading photos, an "enhanced browser," and multiple bug fixes. The multiple account feature is an interesting one, as it makes the iPad a little more multi-user friendly in allowing different family members to sign in to the service on the same device. However, it doesn't appear that each account can be easily locked out from others accessing it once they are signed in the first time, so if you have something you'd like to remain private, beware.
+
+It's probably unlikely any official app from Facebook will have a multi-user feature, so if that's something you'd make good use of, paying the US$0.99 for Friendly might be the way to go.iPad Facebook app Friendly updated with multiple account support originally appeared on TUAW on Sun, 31 Oct 2010 10:00:00 EST. Please see our terms for use of feeds.
+

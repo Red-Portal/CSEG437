@@ -1,0 +1,10 @@
+Top PDA makers select Intel Strongarm processor
+
+SAN FRANCISCO, Oct.4, 2001 Intel Corporation today announced that six top makers of PDA have selected the Intel StrongARM SA-1000 processor to power thier next generation of communication products.
+The Intel processor technology allows handheld communications devices to work efficiently and effectively while running a variety of business, multimedia and internet applications.
+
+Compaq Corporation, Hewlett-Packard Company and Symbol Technologies are continuing their existing relationship with Intel by again selecting Intel StrongARM processors to power their new line of products. Casio Computer Co., Ltd., NEC corporation, and Toshiba Corporation have selected Intel's StrongARM technology for the first time for use in their new devices in order to take advantage of the high performance and low power benefits of Intel StrongARM processors.
+
+"The success of Intel StrongARM in the growing handheld market segment has been tremendous," said Peter Green, general manager of Intel's Handheld Computing Division. "It is very gratifying to see new players choosing Intel, long-standing vendors switching to Intel and current customers extending their relationship with Intel. We are also seeing this success extend into platforms such as 2.5G and 3G phones, where leading power and performance capabilities are key."
+
+All of the products introduced by the six companies today are based on Microsoft's Windows Powered Pocket PC 2002 software, running on the 206MHz Intel StrongARM SA-1110 processor. According to industry analyst firm IDC, the Intel StrongARM processor is the leading processor for Microsoft Pocket PC-based PDAs worldwide.

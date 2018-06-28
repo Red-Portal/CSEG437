@@ -1,0 +1,7 @@
+RESEARCHERS HAVE DEVELOPED AN ALGORITHM THAT PREVENTS FACIAL RECOGNITION ON SMARTPHONES
+
+Professor, University of Toronto, who worked since 2005 on the recognition algorithm and quickly find images, answer, how to cheat the AI.
+
+The facial recognition system is developed in the past 40 years, but its still hardly ideal. Researchers at the University of Toronto began to develop a function, which prevents the process of face recognition on smartphones. They gave it the name Privacy Filter (¡°Filter privacy¡±).
+
+One of the developers, Parham, Aarabi, shared the secret of this product: facial recognition prevents the combination of multiple neural networks. Scientists only worth to make some changes to the system, namely the key points, connecting the contours of the face and helping him to recognize. According to the test results on six hundred volunteers, the system has identified only 5% of individuals.

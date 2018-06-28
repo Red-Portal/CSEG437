@@ -1,0 +1,28 @@
+Samsung Launches Samsung Max, a Unique Android Application Offering Mobile Data Saving Mode and Privacy Protection Mode
+
+
+With Samsung Max, users can take control of their data usage and benefit from enhanced privacy features for free
+
+
+Samsung Electronics, today introduced Samsung Max, a new and free Android application designed to promote mobile data savings and application privacy management, with data usage monitoring and enhanced Wi-Fi security. Starting on February 23th, 2018, the application will be available for download on Google Play on select Samsung Galaxy devices. Samsung Max supports the latest iteration of Samsung¡¯s unique and easy-to-use features, ¡®Data Saving Mode¡¯ and ¡®Privacy Protection.¡¯ Samsung Max is replacing Opera Max ? one of the largest mobile virtual private networks (VPNs) in the world ? and now, its two key features are accessible to millions of more Samsung users.
+
+ 
+¡°All over the world, data has become a commodity, but many plans are simply still too expensive for consumers that want to get the most out of the latest technology built into their devices,¡± said Seounghoon Oh, Vice President Samsung R&D Institute India. ¡°With Samsung Max, our users in every corner of the globe now have increased autonomy and control over their data usage and privacy in an era of rising security threats, fraudulent apps and user profiling.¡±
+
+ 
+Samsung Max builds upon popular features from Samsung¡¯s ¡°Make for India¡± initiative, designed to provide locally relevant and beneficial software and hardware. Key features include:
+
+ 
+	Data Saving Mode ? Data Saving Mode makes your data plan work harder and go further. In some cases, it can even be used to help you save money on your mobile data plan over time. The feature offers smart advice on which applications are consuming the most data, and constantly scans for data saving opportunities. When possible, it can even actively compress images, videos, music files, and webpages in your apps and browser. Users can also manage data permissions for specific apps and enjoy peace of mind with automatic background data usage blocked for all apps, tailoring data consumption to meet each user¡¯s needs.
+ 
+	Privacy Protection Mode ? Open, untrusted, and unknown Wi-Fi hotspots are secured and protected with one-tap encryption, tracker blocking and a DNS (Domain Name System) masking service. These three features also offer privacy benefits on mobile networks, which enables Samsung Max to offer privacy protection on Mobile or Wi-Fi across all of your apps. This allows users to more securely access the internet from whichever connection is available, helping users stay connected on the go.
+ 
+
+¡°At Samsung, we¡¯ve been committed to creating inclusive data saving and privacy protection services for all our devices,¡± said Seounghoon Oh, Vice President Samsung R&D Institute India. ¡°Because of this, we are now introducing Samsung Max to our mid-range devices as an exclusive and unique service that sets Samsung devices apart from the rest of the smartphone market¡±
+
+ 
+Availability
+
+Samsung Max will come preloaded on all Galaxy A and Galaxy J series smartphones in India, Argentina, Brazil, Indonesia, Mexico, Nigeria, South Africa, Thailand and Vietnam. Users will be able to download Samsung Max on other Samsung devices via Google Play or Galaxy Apps stores.
+
+Samsung users that are currently using the third-party application, Opera Max, will receive an automatic upgrade to Samsung Max starting on February 23, 2018. For more information please visit: <Samsung Max Google Play link>

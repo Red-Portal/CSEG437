@@ -1,0 +1,84 @@
+<Mobile game>
+From Wikipedia, the free encyclopedia
+
+A mobile game is a video game played on a mobile phone, smartphone, PDA or handheld computer.
+
+Mobile games may be played using the communications technologies present in the device itself, such as by text message (SMS), multimedia message (MMS) 
+or GPRS location identification. More common, however, are games that are downloaded to the mobile phone and played using a set of game technologies 
+on the device.
+
+Mobile games are usually downloaded via the mobile operator's radio network, but in some cases are also loaded into the mobile handsets when purchased, 
+or via infrared connection, Bluetooth or memory card.
+
+
+
+
+The different platforms
+
+Mobile games are developed using platforms and technologies such as Windows Mobile, Palm OS, Symbian OS, Macromedia's Flash Lite, DoCoMo's DoJa, 
+Sun's J2ME (Java 2 Micro Edition, recently rebranded simply "Java ME"), Qualcomm's BREW (Binary Runtime for Wireless) or 
+Infusio's ExEn (Execution Environment). Other platforms are also available, but not as common.
+
+Java was initially the most common platform for mobile games, however its performance limitations have led to the adoption of various native binary 
+formats for more sophisticated games.
+
+
+
+
+Common limitations of mobile games
+
+Mobile games tend to be small in scope and often rely on good gameplay over flashy graphics, due to the lack of processing power of the client devices. 
+One major problem for developers and publishers of mobile games is describing a game in such detail that it gives the customer enough information 
+to make a purchasing decision. Currently, Mobile Games are mainly sold through Network Carriers / Operators portals and this means there are only a 
+few lines of text and perhaps a screenshot of the game to excite the customer. Two strategies are followed by developers and publishers to combat 
+this lack of purchasing information, firstly there is a reliance on powerful brands and licences that impart a suggestion of quality to the game 
+such as Tomb Raider or Colin McRae and secondly there is the use of well known and established play patterns (game play mechanics that are instantly 
+recognisable) such as Tetris, Space Invaders or Poker. Both these strategies are used to decrease the perceived level of risk that the customer feels 
+when choosing a game to download from the carrier¡¯s deck.
+
+Recent innovations in mobile games include Singleplayer, Multiplayer and 3D graphics. Virtual love games belong to both of singleplayer 
+and multiplayer games. Multiplayer games are quickly finding an audience, as developers take advantage of the ability to play against other people, 
+a natural extension of the mobile phone¡¯s connectivity. With the recent internet gambling boom various companies are taking advantage of the mobile 
+market to attract customers, Ongame the founders of PokerRoom developed in 2005 a a working mobile version of its poker software available in both 
+play money and real money. The player can play the game in a singleplayer or multiplayer mode for real or play money.
+
+
+
+
+Mobile games on i-mode
+
+Since the start of i-Mode in February 1999, the global development of mobile games has been pioneered and is driven by i-Mode games. 
+DoCoMo was the first carrier globally to introduce Java to mobile phones and for games on mobile phones. Japan also was the first country 
+to introduce color screens and 3D graphics for mobile phones, which are necessary for expansion of the mobile game market beyond very simple games. 
+i-Mode allows to overcome many of the limitations mentioned above.
+
+
+
+
+Location-based games
+
+Games played on a mobile device using localization technology like GPS are called location-based games. These are not only played on mobile 
+hardware but also integrate the player's position into the game concept. In other words: while it does not matter for a normal mobile game where 
+exactly you are (play them anywhere at anytime), the player's coordinate and movement are main elements in a Location-based game. 
+The most well-known example is the treasure hunt game Geocaching which can be played on any mobile device with integrated or external GPS receiver. 
+External GPS receivers are usually connected via Bluetooth. More and more mobile phones with integrated GPS are expected to come.
+
+Besides Geocaching, there exist several other location-based games which are rather in the stage of research prototypes than a commercial success.
+
+
+
+
+
+Searching mobile games
+
+It can be hard to determine what games are available for a specific handset. Even if the exact name of a game is known, 
+users can spend hours trying to find it being sold in their country by their mobile operator. A group of enthusiasts has gathered thousands of 
+games from websites all over the globe to put them into one independent searchable database called Mogmo search engine.
+
+
+
+
+
+
+
+

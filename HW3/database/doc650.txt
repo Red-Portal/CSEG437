@@ -1,0 +1,53 @@
+Google Makes It Easier to Create Virtual Reality Videos
+
+Google last week introduced a new video format, VR180, developed with input from its Daydream team.
+
+The VR180 format, which displays what's in front of the user only, delivers good video quality both on desktop PCs and mobile devices.
+
+While VR180 videos appear in 2D on desktops and mobile devices, they appear in 3D VR when viewed with Cardboard, Google's Daydream headset or Sony's PlayStation VR headset.
+
+The VR180 Creative Process
+Creators "don't have to choose between making a 360 video and/or providing new content for their subscribers," said Google spokesperson Liz Markman.
+
+"It's easy for creators to start producing VR videos since they won't have to change up their filming style or production techniques," she told TechNewsWorld. "There's no need to think about what's behind the camera."
+
+YouTube supports VR180, so it "works anywhere YouTube is," Markman pointed out. VR180 also supports live-streaming videos.
+
+Video creators can set up and film videos just like they would with any other camera. They can use their existing equipment, or eligible creators can apply to borrow a VR180-enabled camera from a YouTube Space in certain cities, including London, Paris and New York.
+
+They soon will be able to edit the videos using familiar tools such as Adobe Premiere Pro.
+
+Content creation issues aside, "VR headsets are still very intrusive and cumbersome," observed Trip Chowdhry, managing director for equity research at Global Equities Research.
+
+"The VR industry is still not ready to take off," he told TechNewsWorld.
+
+Making VR Technology Less Expensive
+Companies including Yi Technology, Lenovo and LG have committed to building cameras from the ground up for VR180.
+
+They will be as easy to use as point-and-shoot cameras and cost about the same, according to Google's Markman.
+
+The cameras will be available this winter. They will target consumers and "will be tightly integrated into our services, like YouTube, so it's easy to go from filming to uploading," Markman pointed out.
+
+Google will offer a VR180 certification for other manufacturers. Z Cam will be one of its first partners.
+
+Both the VR camera space and VR video content are forecast to experience "tremendous growth," said Sam Rosen, a vice president at ABI Research.
+
+Each segment will hit nearly US$7 billion by 2021, he told TechNewsWorld.
+
+Clever Use of Technology
+VR180 halves the viewing angle so consumers viewing videos on browsers and smartphones will see two 180-degree images of an object, one with each eye.
+
+This "is more natural and pervasive from a camera technology standpoint," ABI's Rosen observed.
+
+Google isn't the first company to offer this capability, he said. Lucid VR will ship this month, for example.
+
+However, based on its evaluation of early versions of the technology, ABI has "found it failed to adequately handle some of the complexity with 3D video," said Rosen
+
+It's likely that Google will integrate VR180 into wearables, including smart glasses, to compete with Snapchat, he suggested.
+
+Not Yet Ready for Prime Time
+The VR180 format has applications in various segments, such as demo videos in the real estate and art fields; as productivity tools for remote workers; and perhaps gaming, as part of a mixed reality platform, said Jim McGregor, principal analyst at Tirias Research.
+
+The ease of development and use lets anyone create VR content "with relatively inexpensive equipment," he told TechNewsWorld. "This is much better than offering a high-end solution that takes years for an OEM to develop a solution that's offered at a high cost to consumers."
+
+That said, "it's interesting that we see these new video formats being adopted in alternative media spaces like social networking and YouTube videos, not traditional media," McGregor noted. "This is possibly because the user base is still too small."

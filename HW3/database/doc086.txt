@@ -1,0 +1,203 @@
+The Sony PlayStation («×«ì«¤«¹«Æ?«·«ç«ó, Purei Sut?shon?) is a video game console of the 32/64-bit era, first produced by Sony Computer Entertainment in the mid-1990s. The original PlayStation was the first of the PlayStation series of console and hand-held game devices, which has included successor machines including the Net Yaroze, PSone (a smaller version of the original), PocketStation, PlayStation 2, a revised, slimline PS2, PlayStation Portable, PSX (Japan only), and PlayStation 3. By March 2005, the PlayStation/PSone had shipped a total of over 100.49 million units, becoming the first home console to ever reach the 100 million mark.
+
+History
+Development
+ 
+An original PlayStation control pad. This model was later replaced by the Dual Analog, and then the DualShock.The first conceptions of the PlayStation date back to 1986. Nintendo had been attempting to work with disk technology since the Famicom, but the medium had problems. Its rewritable magnetic nature could be easily erased (thus leading to a lack of durability), and the disks were a piracy danger. Consequently, when details of CDROM/XA (an extension of the CD-ROM format that combines compressed audio, visual and computer data, allowing all to be accessed simultaneously) came out, Nintendo was interested. CDROM/XA was being simultaneously developed by Sony and Philips. Nintendo approached Sony to develop a CD-ROM add-on, tentatively titled the "SNES-CD". A contract was struck, and work began. Nintendo's choice of Sony was due to a prior dealing: Ken Kutaragi, the person who would later be dubbed "The Father of PlayStation," was the individual who had sold Nintendo on using the Sony SPC-700 processor for use as the 8 channel ADPCM sound synthesis set in the Super Famicom/SNES console through an impressive demonstration of the processor's capabilities.
+
+Sony also planned to develop another, Nintendo compatible, Sony-branded console, but one which would be more of a home entertainment system playing both Super Nintendo cartridges and a new CD format which Sony would design. This was also to be the format used in SNES-CD discs, giving a large degree of control to Sony despite Nintendo's leading position in the video gaming market.
+
+In 1989, the SNES-CD was to be announced at the June CES . However, when Hiroshi Yamauchi read the original 1988 contract between Sony and Nintendo, he realized that the earlier agreement essentially handed Sony complete control over any and all titles written on the SNESCD-ROM format. Yamauchi was furious; deeming the contract totally unacceptable, he secretly cancelled all plans for the joint Nintendo-Sony SNES CD attachment. Indeed, instead of announcing their partnership, at 9 am the day of the CES, Nintendo chairman Howard Lincoln stepped onto the stage and revealed that they were now allied with Philips, and were planning on abandoning all the previous work Nintendo and Sony had accomplished. Lincoln and Minoru Arakawa had (unbeknownst to Sony) flown to Philips headquarters in Europe and formed an alliance of a decidedly different nature?one that would give Nintendo total control over its licenses on Philips machines.
+
+The 9pm CES announcement was a complete shock. Not only was it a hysteric surprise to the show goers (Sony had only just the previous night been optimistically showing off the joint project under the "Play Station" brand), but it was seen by many in the Japanese business community as a fatal betrayal: a Japanese company snubbing another Japan-based company in favor of a European one was considered absolutely unthinkable in Japanese business.
+
+After the collapse of the joint project, Sony considered halting their research, but ultimately the company decided to use what they had developed so far and make it into a complete, stand alone console. This led to Nintendo filing a lawsuit claiming breach of contract and attempted, in U.S. federal court, to obtain an injunction against the release of the Play Station, on the grounds that Nintendo owned the name[citation needed]. The federal judge presiding over the case denied the injunction. Thus, in October 1991, the first incarnation of the new Sony PlayStation was revealed; it is theorized that only 200 or so of these machines were ever even produced.
+
+By the end of 1992, Sony and Nintendo reached a deal whereby the "Sony Play Station" would still have a port for SNES games, but Nintendo would own the rights and receive the bulk of the profits from the games, and the SNES would continue to use the Sony-designed audio chip. However, at this point, Sony realized that the SNES technology was getting long in the tooth, and the next generation of console gaming was around the corner: work began in early 1993 on reworking the "Play Station" concept to target a new generation of hardware and software; as part of this process the SNES cartridge port was dropped, the space between the names was removed, and the PlayStation was born.
+
+
+[edit] Launch
+The PlayStation was launched in Japan on December 3, 1994, the USA on September 9, 1995, Europe on September 29, 1995 and Asia-Pacific in November, 1995. In America, Sony enjoyed a very successful launch with titles of almost every genre including Battle Arena Toshinden, Twisted Metal, Warhawk, Philosoma, Wipeout and Ridge Racer. Almost all of Sony's and Namco's launch titles went on to produce numerous sequels.
+
+Launch price in the American market: US$ 299.00 [2], a price point later used by its successor, the Playstation 2.
+
+The PlayStation was also able to generate interest with a unique slew of ad campaigns. Many of the ads released at the time of launch were full of ambiguous content which had many gamers rabidly debating their meanings. The most well-known launch ads include the "Enos Lives" campaign, and the "U R Not e" ads (the "e" in "U R Not e" was always colored in red, to symbolize the word "ready", and the "Enos" meant "ready Ninth Of September", the U.S. launch date). The Enos ad could also be read as Sony written backward with phonetic sound of "E" replacing the "y". It is believed that these ads were an attempt to play off the gaming public's suspicion towards Sony as an unknown, untested entity in the video game market.
+
+The PlayStation 3 slogan, "PLAY B3YOND", resembles this slogan, as the 3 is red.
+
+
+[edit] Titles
+Well known titles on the PlayStation include Castlevania: Symphony of the Night, Crash Bandicoot, Final Fantasy VII, Gran Turismo, Legacy of Kain: Soul Reaver , Metal Gear Solid, Parasite Eve, Resident Evil, Silent Hill, Spyro The Dragon, Tekken, Tomb Raider, and Wipeout . The very last game for the system was Fifa Soccer 2005. As of May 18, 2004, Sony has shipped 100 million PlayStation and PSone consoles throughout the world. As of September 2006, 7,902 software titles have been released worldwide (counting games released in multiple regions as separate titles)[3] with cumulative software shipment of 961 million units.[4] The PlayStation logo was designed by Manabu Sakamoto, who also designed the logo for Sony's VAIO computer products.
+
+
+[edit] Production run
+Having lasted over 11 years, the PlayStation has enjoyed one of the longest production runs in the videogame industry. On March 23, 2006, Sony announced the end of production. [5]
+
+
+[edit] Variants
+The first new version was actually a revision in early 1996, produced in response to complaints that PlayStations were overheating. Sony did not change the technical aspects or the cosmetics but did remove the RCA ports left over from the Japanese release. The parallel port (which was mostly unused by Sony) was also removed to reduce production costs. Sony also slightly improved the laser assembly.
+
+Many gamers experienced skipping full-motion video or dreaded physical "ticking" noises coming from their PlayStations. The problem appears to have come from poorly placed vents leading to overheating in some environments ? the plastic moldings inside the console would warp very slightly and create knock-on effects with the laser assembly. The solution was to ensure the console was sat on a surface which dissipated heat efficiently in a well vented area, or raise the unit up slightly by propping something at its edges. A common fix for already affected consoles was to turn the PlayStation sideways or upside-down (thereby using gravity to cancel the effects of the warped interior) although some gamers smacked the lid of the PlayStation to make a game load or work.
+
+This problem was carried over to many first-generation PlayStation 2s in the form of the very well known Disc Read Error message. However the PS2's problem is unlikely to have been caused by overheating?rather, it is rumored to have been due to the short working life of some laser units employed in early drives, coupled with the PS2's tendency to collect dust internally.
+
+Sony then released a version dubbed "Dual Shock", which included a controller with 2 analog thumbsticks and a built in force-feedback feature.
+
+Another version that was colored blue (as opposed to regular console units that were grey in color) was available to game developers and select press. Later versions of this were colored green. Contrary to popular belief, the RAM was not 4 megabytes but instead the standard 2 megabytes. The console included a CD-ROM emulator board connected to a PC. It was also able to run in-development games which lacked region coding (which would be rejected by a normal PlayStation as though they were pirated copies). A few of these units eventually appeared for sale through somewhat dubious channels at high prices.
+
+A white version was also produced that had the ability to play VCDs.
+
+The installation of a modchip allowed the PlayStation's capabilities to be expanded, and several options were made available. By the end of the system's life cycle almost anyone with minimal soldering experience was able to realize the modification of the console. Such a modification allowed the playing of games from other regions, such as PAL titles on a NTSC console, or allowed the ability to play illicit copies of original games without restriction. Modchips allows the playing of games recorded on a regular CD-ROM. This created a wave of games developed without official approval using free GNU compiler tools, as well as the illegal reproduction of original discs. With the introduction of such devices the console was very attractive to Programmers and Pirates alike.
+
+Individuals that insisted on creating copies of games that would play as their original counterparts faced many issues at the time, as the discs that were produced by Sony were not easily reproduced. Not only did the original discs have a specific black tint to them, they also contained blank sectors of data that prohibited their copying. The device was purposefully designed not to read discs without this black tint, it was also made to disregard any disc that lacked sectors of data in certain areas. For some time the black-bottomed discs with blank sectors were unable to be reproduced by conventional software or hardware and without the aforementioned modification to the unit reproductions were useless. New versions of CD-copying software that could be configured to "ignore bad sectors", combined with the mods to the console made both of these issues surmountable, and allowed the general public to play any disc they chose, provided said modchip was installed in their system.
+
+The creation and mass-production of these inexpensive modchips, coupled with their ease of installation, truly marked the beginning of console videogame piracy. Coincidentally, CD-ROM burners were made available around this time. Before this, the reproduction of copyrighted material for gaming consoles was restricted to either A.) People with exceptional ability, or B.) Access to very serious plastics manufacturing plants. With this console, Joe Public could replicate anything Sony was producing for a mere fraction of the MSRP.
+
+
+[edit] Net Yaroze
+A version of the PlayStation called the Net Yaroze was also produced. It was more expensive than the original PlayStation, colored black instead of the usual gray, and most importantly, came with tools and instructions that allowed a user to be able to program PlayStation games and applications without the need for a full developer suite, which cost many times the amount of a PlayStation and was only available to approved video game developers. Naturally, the Net Yaroze lacked many of the features the full developer suite provided. Programmers were also limited by the 2 MB of total game space that Net Yaroze allowed. That means the entire game had to be crammed into the 2 MB of system RAM. The user couldn't officially make actual game discs. The amount of space may seem small, but games like Ridge Racer ran entirely from the system RAM (except for the streamed music tracks). It was unique in that it was the only officially retailed Sony PlayStation with no regional lockout; it would play games from any territory.
+
+ 
+PSone with LCD screen and a DualShock controller
+[edit] PSone
+The PSone (also PSOne, PS one, or PS1), launched in 2000, is Sony's smaller (and redesigned) version of its PlayStation video game console. The PSone is about one-third smaller than the original PlayStation (38mm ¡¿ 193 mm ¡¿ 144 mm versus 45 mm ¡¿ 260 mm ¡¿ 185 mm). It was released in July 7, 2000,[2] and went on to outsell all other consoles?including Sony's own brand-new PlayStation 2?throughout the remainder of the year. Sony also released a small LCD screen and an adaptor to power the unit for use in cars. The PSone is fully compatible with all PlayStation software. The PlayStation is now officially abbreviated as the "PS1" or "PSone," although many people still abbreviate it "PS" or "PSX". There were three differences between the "PSone" and the original, the first one being cosmetic change to the console, the second one was the home menu's Graphical User Interface, and the third being added protection against the mod-chip by changing the internal layout and making previous-generation mod-chip devices unusable. The PSone also lacks the original PlayStation's serial port, which allowed multiple consoles to be hooked up for multi-TV multiplayer. The serial port could also be used for an external mod-chip, which may have been why it was removed, although size-constraints may also be to blame.
+
+
+[edit] Summary of PlayStation models (to be completed)
+Model number (1) Design Issues BIOS Separate Audio and composite Video output Separate S-Video output Parallel port Serial port 
+SCPH-1000 Original Low quality CD-ROM, Japan only  ?? ("grey") Yes Yes Yes Yes 
+SCPH-1001 Original Low quality CD-ROM, NTSC U/C  ?? ("grey") Yes No Yes Yes 
+SCPH-300x Original Low quality CD-ROM  ?? ("grey") Yes No Yes Yes 
+SCPH-750x Slightly modified original (2) -  ?? ("grey") No No Yes Yes 
+SCPH-900x Slightly modified original (2) -  ?? ("blue") No No No Yes 
+SCPH-10x PSOne -  ?? ("white") No No No No 
+
+(1) The x denotes region. PAL countries (Europe, Australia and New Zealand) have region "2", so units sold there where named for example, SCPH-9002. NTSC countries (Japan and America) take region numbers "0", "1" and "3", thus all models ending in those numbers are NTSC models. (2) Button labels text "Power" and "Open" replaced with symbols
+
+
+[edit] Summary of PlayStation Models (to be merged)
+Serial Number BIOS Version Approximate BIOS Date Region Separate Audio and composite Video output Separate S-Video output Parallel port Serial port 
+SCPH-1000 Unknown Unknown Japan (NTSC) Yes Yes Yes Yes 
+SCPH-3000 Unknown Unknown Japan (NTSC) Yes No Yes Yes 
+SCPH-5000 2.2 12/04/95 Japan (NTSC) 
+DTLH-3000 2.2 12/04/95 US (NTSC) 
+DTLH-3002 2.2 12/04/95 Europe (PAL) 
+SCPH-5000 2.2 12/04/95 Japan (NTSC) 
+SCPH-5500 3.0 09/09/96 Japan (NTSC) 
+SCPH-5501 3.0 Unknown US (NTSC) No No Yes Yes 
+SCPH-5502 3.0 01/06/97 Europe (PAL) 
+SCPH-5552 3.0 01/06/97 Europe (PAL) 
+SCPH-7000 4.0 08/18/97 Japan (NTSC) 
+SCPH-7001 4.1 12/16/97 US (NTSC) No No Yes Yes 
+SCPH-7003 3.0 11/18/96 US (NTSC) 
+SCPH-7501 4.1 Unknown US (NTSC) No No Yes Yes 
+SCPH-7502 4.1 12/16/97 Europe (PAL) No No Yes Yes 
+SCPH-9001 4.1  ??/??/98 US (NTSC) No No No Yes 
+SCPH-101 4.5 05/25/00 US (NTSC) No No No No 
+
+
+
+
+
+[edit] Trivia
+The OK and Cancel buttons on most of the Japanese PlayStation's games are reversed in their American and European releases. In Japan, the Circle button (maru, right) is universally used as the OK button, while the X button (batsu, wrong) is used as the Cancel one. American and European releases have the X button as the OK button, while the Circle or the Triangle buttons are used as the Cancel ones. However, a few games such as Sony's/ Polyphony Digital's Gran Turismo, Squaresoft's Vagrant Story and Final Fantasy VII, Konami's Metal Gear Solid and Squaresoft's Final Fantasy Tactics, have the buttons remain in the same Japanese configuration in their American and European releases. These Japanese button layouts still apply to newer PlayStation consoles, such as the PlayStation Portable (PSP) and PlayStation 2. 
+
+[edit] Successors
+ 
+PlayStation 2 (Charcoal Black) 
+PlayStation 3 (Charcoal Black)Sony's successor to the PlayStation is the PlayStation 2, which is backward compatible with its predecessor, in the sense that it can play almost every PlayStation game. This was done by embedding the most important parts of the PSone inside the PlayStation 2 design. Unlike emulators that run on the PC, the PlayStation 2 actually contains the original PlayStation processor, allowing games to run exactly as they do on the PlayStation. For PlayStation 2 games this processor, called the IOP, is used for input and output (memory cards, DVD drive, network, and hard drive). Like its predecessor, the PlayStation 2 is based on hardware developed by Sony themselves.
+
+The next generation of the PlayStation is known as PlayStation 3, or PS3, and has been launched in November 2006 for North America and Japan, March 2007 in Europe. Sony has stated the PS3 will also be backward compatible with all games that were originally made for PlayStation 1 as well as the PlayStation 2. (First-party) PS3 games will not be region-locked, but PlayStation 1 and 2 games will still only play on a PS3 console from the same territory.
+
+The PlayStation Portable (officially PSP) is a handheld game console first released in late 2004. Despite the name, it is not compatible with PlayStation games; it only runs games developed specifically for the PSP on the UMD format. However, at the PlayStation Briefing conference on March 15, 2006 in Japan, Sony revealed plans for PlayStation 1 games to be downloaded and playable on the PSP through emulation. Sony hopes to release nearly all PlayStation 1 games on a gradual basis. [6]
+
+The success of the PlayStation is widely thought to have had some influence on the demise of the cartridge-based home console. While not the first system to utilize an optical disc format, it was the first success story, and ended up going head-to-head with the last major home console to rely on proprietary cartridges - the Nintendo 64. Nintendo was very public about its skepticism toward using CDs and DVDs to store games, citing longer load times and durability issues. It was widely speculated that the company was even more concerned with piracy, given its substantial reliance on licensing and exclusive titles for its revenue. The success of Sony's PlayStation introduced high-quality sound and longer playing times as top priorities for modern gamers, leaving little choice for competitors but to follow suit.
+
+
+[edit] Advertising
+To celebrate the ten-year anniversary of the PlayStation in 2005, Sony Italy released an advertisement portraying a young man wearing a crown of thorns (the thorns being made of triangle, square, circle and x symbols, the labels on the buttons of Playstation controllers), on his head. The ad was captioned with "Dieci anni di passione" (In English, this translates to "Ten years of passion.") The ad, assumed to be a takeoff of Mel Gibson's controversial 2004 movie The Passion of the Christ, was met with outrage from the Vatican. Sony apologized and stopped displaying the ad.
+
+
+[edit] Quality of construction
+The laser in the CD player of early units was built into a plastic tray that slid back and forth on a set of metal tracks. Over time, friction caused the plastic tray to wear out-- usually unevenly. Eventually, the tray would become so worn that the laser no longer pointed directly at the CD and games would not load. Sony eventually fixed the problem by making the tray out of die-cast metal.
+
+A common-- but temporary-- fix to the laser problem was to tip the PlayStation on its side. This made the tray "hang" perpendicular to the CD, allowing the PlayStation to read the disc. Unfortunately, friction would continue to wear down the plastic tray and, eventually, the PlayStation would not read the disc. [citation needed]
+
+Some units would be unable to play FMV correctly, resulting in skipping or freezing. In more extreme cases the PlayStation would only work correctly when used upside down.
+
+Early models had problems with heat and could easily overheat, destroying internal components. Later models eventually had built in heatsinks to dissipiate heat more efficiently. [citation needed]
+
+
+[edit] Specifications
+
+[edit] Main CPU
+ 
+An early PlayStation motherboardMIPS R3000A-compatible (R3051) 32bit RISC chip running at 33.8688 MHz
+
+The chip is manufactured by LSI Logic Corp. with technology licensed from SGI. The chip also contains the Geometry Transformation Engine and the Data Decompression Engine.
+
+Features:
+
+Operating Performance of 30 MIPS 
+Bus Bandwidth 132 Mbit/s 
+Instruction Cache 4 kB 
+Data Cache 1 kB (non associative, just 1024 bytes of mapped fast SRAM) 
+
+[edit] Geometry transformation engine
+This engine is inside the main CPU chip. It gives it additional (vector-)math instructions used for the 3D graphics.
+
+Features:
+
+Operating performance of 66 MIPS 
+360,000 flat-shaded polygons per second 
+180,000 texture mapped and light-sourced polygons per second 
+Sony originally gave the polygon count as
+
+1.5 million flat-shaded polygons per second; 
+500,000 texture mapped and light-sourced polygons per second. 
+These figures were given as a ballpark figure for performance under optimal circumstances, and so are unrealistic under normal usage.
+
+
+[edit] Data decompression engine
+This engine is also inside the main CPU. It is responsible for decompressing images and video. Documented device mode is to read three RLE-encoded 16¡¿16 macroblocks, run IDCT and assemble a single 16¡¿16 RGB macroblock. Output data may be transferred directly to GPU via DMA. It is possible to overwrite IDCT matrix and some additional parameters, however MDEC internal instruction set was never documented.
+
+Features:
+
+Compatible with MJPEG and H.261 files 
+Operating Performance of 80 MIPS 
+Directly connected to CPU Bus 
+
+[edit] Graphics processing unit
+This chip is separate to the CPU and handles all the 2D graphics processing, which includes the transformed 3D polygons.
+
+Features:
+
+Maximum of 16.7 million colors 
+Resolutions from 256¡¿224 to 640¡¿480 
+Adjustable frame buffer 
+Unlimited color lookup tables 
+Maximum of 24-bit color depth 
+Maximum of 4000 8¡¿8 pixel sprites with individual scaling and rotation 
+Emulation of simultaneous backgrounds (for parallax scrolling) 
+Flat or Gouraud shading, and texture mapping 
+
+[edit] Sound processing unit
+Features:
+
+Can handle ADPCM sources with up to 24 channels and up to 44.1 kHz sampling rate 
+ 
+PlayStation Memory Card
+[edit] Memory
+Main RAM: 2 Megabytes 
+Video RAM: 1 Megabyte 
+Sound RAM: 512 Kilobytes 
+CD-Rom Buffer: 32 Kilobytes 
+Operating System ROM: 512 Kilobytes 
+PlayStation Memory Cards have 128 Kilobytes of space in an EEPROM 
+
+[edit] CD-ROM drive
+Features:
+
+Double Speed, with a maximum data throughput of 300 kB/s 
+XA Mode 2 Compliant 
+CD-DA (CD-Digital Audio) 

@@ -1,0 +1,19 @@
+The BlackBerry PlayBook Tablet: 10 Things You Need to Know
+
+  It's a 7-inch tablet with a 1024x600 screen that weighs 0.9 pounds
+Meaning it's smaller and lighter than the iPad, with a more pixel-dense screen (i.e., text is gonna look cleaner and less pixel-y). It's a little bigger and heavier than the Samsung Galaxy Tab, on the other hand. (Then again, the Galaxy Tab looks more like a really big phone.)
+
+  It's running BlackBerry Tablet OS
+As rumored, the BlackBerry PlayBook isn't running "BlackBerry 6," but the BlackBerry tablet OS, which is "powered by QNX technology." QNX is a software company RIM bought in April, whose software is used in products by Cisco and GE, among others. The OS is built on QNX's Neutrino microkernel.
+
+  It supports a whole bunch of standard platforms and technologies, like POSIX OS, SMP, Open GL, BlackBerry 6, WebKit, Java, Adobe Flash and AIR, along with RIM's new BlackBerry WebWorks platform. Apps written for WebWorks will run on BlackBerry 6 or the PlayBook, while Java makes it easier for developers to port Java-based BlackBerry 6 apps. Oh, and OpenGL means there's serious potential for graphically intense games.
+
+  Dual-core 1GHz processor and 1GB RAM
+That means it's got the horsepower to multitask, output 1080p video and run high-powered apps. The 1GB of RAM is particularly important for running applications in the background, and opening multiple tabs in the web browser, as iPad owners know from opening more than a few tabs in Safari and watching them get flushed as the iPad runs out of memory.
+
+  It's got "true" multitasking
+By saying the PlayBook has "true" multitasking, RIM seems to be pointing at the fact that multitasking on the iPad is still limited in a lot of ways. Apps can't fully run in the background on the iPad like on a full computer, they can simply perform select actions, like playback audio or finish a download in a given amount of time. The implication is that the PlayBook will let things run willy nilly in the background, more like a standard BlackBerry phone.
+
+  "Flash-Loving," with Adobe Flash 10.1 and Adobe AIR built in
+
+  Dual cameras with video conferencing and lots o' ports

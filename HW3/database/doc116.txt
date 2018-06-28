@@ -1,0 +1,6 @@
+Digital Camera Basics - A primer
+Digital cameras are confusing to a lot of new users. In this basic guide to digital camera technology we hope to try to give digital beginners at least some basis to use in deciding which digital camera is appropriate for them. When shopping for a digital camera it's at least good to know what the basic terms like white balance, pixel, ppi and dpi mean and how they affect image and print quality. It's also important to know the difference between things like optical zoom and digital zoom as well as the advantages and disadvantages between storage formats such as Compact Flash (CF), Microdrives, Sony Memory Stick, Secure Digital (SD), Multimedia and camera interface technologies such as USB 1.1, USB 2.0 and Firewire IEEE 1394.
+
+Pixels
+A pixel is a contraction if the term PIcture ELement. Digital images are made up of small squares, just like a tile mosaic on your kitchen or bathroom wall. Though a digital photograph looks smooth and continuous just like a regular photograph, it's actually composed of millions of tiny squares as shown below.
+

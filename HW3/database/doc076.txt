@@ -1,0 +1,27 @@
+Pocket Gaming 
+ 
+One project that illustrates this very well is the port of Quake by Pocket Matrix. 
+Their product, aptly titled Pocket Quake, has taken the Quake source code that id Software released and ported it to the PocketPC. 
+While the software is still very early in development, the .06 version is playable and they have had over 10,000 people download the software. 
+As they continue to gain support and donations the project will certainly improve. 
+
+If you have a PocketPC and you are not into the hardcore blood and guts that Pocket Quake offers, perhaps you might be interested in a puzzle, or golf game from one of the several commercial developers for the platform. 
+One such developer, Puzzle Express, has developed a good selection of word and card games so that even if you are on the run you can still work on a crossword, or play a quick game of Solitaire. 
+Those of you who prefer a quick round of Golf to a relaxing crossword, should stop over at ZIOSoft and download their popular Golf game, ZIO Golf, which is available for both the Palm and PocketPC platforms. 
+While the selection doesn't compare with the games that are available for more specialized handheld platform such as the Game Boy, there are emulators available for both PalmOS and PocketPC that allow you to play those games.
+
+The iPAQ and other devices are rapidly increasing in power, and I would not be surprised if in the near future you might cross over games that will appear as Game Boy Advance titles and are then ported to a PocketPC, PalmOS, or Linux PDA. 
+It will take time for the PDA to become a game machine though, and despite the positive movement in that direction, even the most advanced iPAQ (which weighs in at nearly $650 for the 64 meg version) only supports 4,096 colors compared to the Game Boy Advance which boasts 32,768 and is expected to only cost around $99. 
+
+Unfortunately, even if the color depth was comparable, I am not sure how successful commercial game sales can be on the PDA's regardless of platform. 
+Of the numerous people that I know, who have PDA's, none has actually purchased a game. 
+Instead they chose to rely on the plethora of free games that are available, or have chosen to acquire the games illegally despite the average game costing less than $20. 
+This may change in the near future, as the electronic distribution systems (EDS) improve, and as people begin to associate PDAs with gaming more than they do today. 
+In the short term though, the games will continue to gradually improve, but I wouldn't expect to see any AAA titles that cause gamers to buy a PDA just for that game the way people might buy a Playstation just to play Final Fantasy 7 or Metal Gear Solid. 
+
+Despite the fact that the iPAQ PocketPC was never designed to be a game platform, it is important to realize that neither was desktop PC originally. 
+The PDA is rapidly following the multimedia path established by its bulkier desktop cousin, and people are beginning to wonder what else these crazy little handheld devices can be used for.
+
+So as you get up from your seat and walk onto the plane, you thank the man sitting across from you for the chance to see the other uses for a PDA. 
+After you finally get settled in your cramped little airplane seat, your recent conversation returns to your mind and so you begin to write notes about how to convince your boss that you need a new PDA. 
+As you think about a new PDA with a color display, .mp3 playback, and 64 megs of RAM, you write that you need it not so you can be play games, but just so that you can keep better track of appointments and e-mail. 

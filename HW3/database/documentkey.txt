@@ -1,0 +1,1012 @@
+0000 : shopper	cell	phone	electronic	device	convergence	video
+0001 : spam	junk	e-mail	antispam	filter	message	secure	technology
+0002 : phone	mobile	download	message
+0003 : phone	network	remote	navigation	communication	gps
+0004 : camera	phone	yahoo	reuter	cell	phone
+0005 : telecommunication	mobile	3g	cell	phone	cdma
+0006 : cell	phone	smartphone	palmtop	video
+0007 : stylish	smartphone	phone	wifi
+0008 : internet	phone	voip	servive	quality
+0009 : web	site	google	security	hack	exploit
+0010 : future	mobile	phone	fast	network	smart	memory	tv	voice
+0011 : mobile	phone	third	generation	3g	evdo	vcast
+0012 : t-mobile	samsung	compact	mobile	phone	e635
+0013 : ip	telephony	mobile	phone	ipdrum	windows	xp	usb	skype	cable
+0014 : lg	mobile	musical	ces	cu320
+0015 : t-mobile	3g	network	apple	service	iphone	cingular	osx	ipod
+0016 : 3g	wave	wireless	internet	pda	third	generation	technology
+0017 : tv	cell	phone	mobile	entertainment	survivor	mtv	network
+0018 : smart	phone	test	battery	life	jury	spmark04
+0019 : generation	cellular	wireless	1g	2g	3g	4g	wcdma	cdma2000	cdma
+0020 : mobile	health	stewart	group	stewart	nrpb	icnirp	dti	rf	radiation
+0021 : 3g	third	generation	auction	business	radiocommunication	agency	multimedia	communication
+0022 : oecd	iccp	tisp	mobile	cellular	telecommunication	infrastructure	competition
+0023 : scrutiny	borough	mobile	telecommunication	mast	brenda	flower	scrutiny	commission	stewart	report
+0024 : telecommunication	industry	telecom	samsung	android	kankov	sim	card
+0025 : 3g	wcdma	ericsson	mobile	system	umts	sony	3gpp	gsm	z1010	sony	memory	stick	duo
+0026 : stipulation	settlement	skytel	way	paging	mtel	sec
+0027 : ktf	lg	telecom	video	mail	service	mms
+0028 : nokia	oracle	collaborate	subscriber	register	3gpp	hlr	mobile	softswitch
+0029 : wideband	compact	shield	box	yokohama	national	university	fdk	wideband	mobile	telecommunication	terminal
+0030 : google	mobile	map	block	application	operator
+0031 : wireless	cingular	profit	at&t	bellsouth
+0032 : track	real	time	mit	research
+0033 : virtual	wireless	carrier	tough	time	espn	helio	difficult
+0034 : wifi	switch	t-mobile	service
+0035 : track	mobile	phone	find	friend	loopt	stanford
+0036 : helio	open	retail	store	wireless	hipster	santa	monica
+0037 : helio	dayton	hybrid	service	wifi	speed	3g
+0038 : helio	gps	tech	hipster	phone	drift	samsung
+0039 : docomo	multimedia	ntt	fuji	nippon	broadcast	system	broadcast	service
+0040 : cell	phone	recycle	guide
+0041 : motorola	cellular	phone	company
+0042 : nokia	cellular	phone	company
+0043 : samsung	cellular	phone	company
+0044 : motorola	rokr	itunes	phone	e1	apple	bluetooth	camera	cellular
+0045 : nokia	review	cellular	phone
+0046 : nokia	cellular	phone	cdma	price
+0047 : old	cell	phone	waste	resource	recycle
+0048 : telenav	review	navigation	map	gps	phone
+0049 : virgin	mobile	cell	phone
+0050 : playstation	sony	ps3	pipeline	shipment
+0051 : electronic	fire	cheat	videogame	superman	return	dvd	bizarro	console
+0052 : deal	capcom	may	playstation	package	dante	gamecube	resident	evil	gamestop	dmc
+0053 : ps3	psp	playstation	handheld	sony	firmware	update	wifi	usb	rss
+0054 : city	hero	cryptic	protect	serve	update	paragon	coh	safeguard
+0055 : nintendo	convention	electric	sim	wii	boku	machi	ea	nfl	headgate
+0056 : doom	cell	phone	rpg	bizarro	mobile	marine	mars	zombie
+0057 : classic	ea	replay	spirit	strike
+0058 : nba	ea	playstation	sony	sport	tournament	online	ps3	shaquille	o'neal	dunk	xbox
+0059 : superman	krypton	return	metropolis	metallo	fmv	videogame	luthor	brainiac	darkseid	mongul
+0060 : game	video	console	supremacy	microsoft	nintendo	sony
+0061 : game	software	mp3	student	education	electronic	gadget
+0062 : microsoft	software	game	console	live	develop
+0063 : game	online	tv	company
+0064 : intel	microsoft	entertainment	game
+0065 : game	mobile	change	phone	pc	console	transplant	small
+0066 : speed	game	software	sport	cool	race
+0067 : online	game	software	change	mobile	phone	pc
+0068 : game	software	microsoft	video	tv	console	network
+0069 : game	market	mobile	online
+0070 : mobile	phone	game	bluetooth	internet
+0071 : mobile	phone	game	internet	bluetooth
+0072 : hdtv	game	ps2	ps3	xbox	xploder
+0073 : hdtv	game	ps3	xbox	microsoft	sony	nintendo
+0074 : nintendo	mp3	sony	portable	memory
+0075 : microsoft	xbox	hdtv	usb	wireless
+0076 : pda	game	palm	pocketpc	ipaq
+0077 : pda	game	microsoft	nintendo	pocketpc	portable	mobile	phone
+0078 : nokia	mobile	phone	game	wireless	gage	mp3
+0079 : sony	psp	gage	nintendo	mp3	wireless
+0080 : mobile	game	limitation	lack	problem
+0081 : handheld	tv	game	history	video	console	television
+0082 : snap	tv	company	dvd	video	play	media	kid
+0083 : game	handheld	lcd	led	video	card	portable	small
+0084 : game	camera	pocket	nintendo	shoot	view	play	slide
+0085 : xbox	video	game	console	microsoft	audio	video	network	multimedia	directx
+0086 : playstation	sony	video	console	psx	ps2	portable	handheld
+0087 : freeware	game	open	source
+0088 : fifa	worldcup	video	game	ea	sports
+0089 : starcraft	realtime	computer	game	war	terran	zerg	protoss	best	sell
+0090 : digital	camera	image	interior	furniture	design	object
+0091 : digital	camera	classroom	album	shoot	retake	online	service	picture
+0092 : flash	led	mobile	phone	digital	camera	feature	device
+0093 : transfer	picture	digital	camera	computer	usb
+0094 : digital	camera	megapixel	zoom	picture	shutter	autofocus	ttl
+0095 : advantage	disadvantage	digital	camera	quality	cost	flexibility	speed	capacity	optic	feature
+0096 : mp3	digital	audio	lossy	compression	format	encode	decode	volume	licentce	technology
+0097 : flash	mp3	player	free	download	plug	play
+0098 : mp3	audio	compression	mpeg	media	player	rip	bit	rate	develop	pud
+0099 : patent	mp3	free	open	audio	mpeg	situation	develop
+0100 : size	product	digital	camera	style	image
+0101 : camera	mobile	phone	jump	grow	permission
+0102 : portable	pmp	media	player	extensive	screen	display	record	audio	tv	network
+0103 : playstation	cheat	device	online	message	mp3	property	legal
+0104 : audio	entertainment	mp3	pc	cd	rw	network	ripper
+0105 : flock	online	game	network	adapter	playback	media	mixer	video
+0106 : product	portable	media	design	player	pmp
+0107 : mobile	phone	mp3	player	ipod
+0108 : digital	compact	camera	choose	lens	pixel	memory	stick	flash
+0109 : digital	camera	memory	expensive	photo
+0110 : cd	audio	design	display	record
+0111 : mp3	player	pda	pocket
+0112 : sarantel	pmp	gps	pmp	entertainment
+0113 : video	image	feature	screen	lcd	format
+0114 : portable	video	player	media	olympus
+0115 : film	article	quality	device
+0116 : digital	camera	pixel	picture
+0117 : pixel	ratio	display	dot
+0118 : sensor	size	element	factor	lense
+0119 : balance	film	shoot	sensitive	digital	zoom	optical
+0120 : console	memory	download	mp3	game
+0121 : camera	phone	digital	mobile	snap	picture
+0122 : multiple	digital	camera	photography	image	edition	original	capture
+0123 : entertainment	product	game	strategy
+0124 : console	game	simulation	touch	interface	controller	feedback
+0125 : mp3	revolution	internet	personalize	non	copyright	illegal	cd
+0126 : pmp	certification	exam	simulation	quiz
+0127 : digital	capability	pmp	usb
+0128 : pmp	wireless	entertainment	media	multi	player
+0129 : buy	digital	camera	battery	media	rechargeable	zoom
+0130 : digital	camera	introduction	work	understanding
+0131 : digital	camera	top	introduction	cannon	sony	kodak	fuji	popular
+0132 : digital	camera	tip	purchase	advice
+0133 : digital	camera	feature	need	photography	autofocus	ttl
+0134 : digital	camera	choose	quality	resolution	zoom	range	software
+0135 : digital	camera	choose	prosumer	professional	video	specialy	novelty
+0136 : digital	camera	clean	sensor	introduction	dust
+0137 : pmp	portable	media	player	capability	type	downside
+0138 : mp3	develop	compression	encoder	public	mp2	internet	commercial	audio	quality
+0139 : digital	camera	user	record	viewing	save	application
+0140 : notebook	laptop	quadro	disk	dvd	nvidia
+0141 : mobile	graphic	game	nvidia	radeon	sli	centrino	intel	gpu
+0142 : core	duo	mobile	turion	conroe	merom	notebook	intel
+0143 : centrino	yamato	amd	turion	dual	core	vista
+0144 : ces	ipod	dual	core
+0145 : laptop	student	flier	business	multimedia	gamer
+0146 : laptop	business	centrino	duo	buy
+0147 : cell	phone	business	client	mobile	buy
+0148 : mobile	computer	device	information	e-mail	category
+0149 : mobile	malware	predict	attack	anti	malware	message
+0150 : pda	maker	intel	processor	strongarm
+0151 : linux	laptop	notebook	os	lc2100	review
+0152 : review	design	performance	cingular	windows	smartphone
+0153 : microsoft	offcice	outlook	mobile	message	mail	software
+0154 : windows	mobile	pocket	pc	bluetooth	user
+0155 : pda	handheld	computer	compare	detail	interface	operate	memory
+0156 : windows	mobile	smartphone	pocket	pc	market	architecture	process
+0157 : mobile	operator	market	toolkit	preview	offer	solution	tool	microsoft	windows
+0158 : smartphone	wireless	service	europe
+0159 : mobile	set	web	browser
+0160 : apple	laptop	intel	macbook	pro	core2duo	mac
+0161 : hp	ipaq	pda
+0162 : kensington	power	adapter	notebook	large	ac
+0163 : wireless	capability	old	laptop
+0164 : connection	desktop	laptop	share	exchange
+0165 : macbook	laptop	landau	mac	pc	bob	ray
+0166 : powerbook	protable	macintosh	apple
+0167 : samsung	split	pda	palmtop	sph	p9000
+0168 : first	ultra	mobile	pc	samsung	umpc	q1
+0169 : video	show	watch	view	pda	laptop	phone
+0170 : embedded	linux	platform	mobile	mobilelinux	montavista	dual	chipset	phone
+0171 : mobile	game	nintendo	wireless	mobile	device	network
+0172 : dual	processor	architecture	dsp	battery	wireless	mobile
+0173 : mobile	game	mobile	phone	smartphone	pda	handheld	computer	i-mode	location	based
+0174 : wear	computer	micro	management	consistency	multi	task
+0175 : smartphone	sphone	mobile	phone	pda
+0176 : windows	mobile	pocket	pc	mobile	device	office	mobile
+0177 : tablet	pc	handwrite	tip	digitizer
+0178 : ultra	mobile	pc	feature	amtek	t700	samsung	q1
+0179 : pda	feature	touch	screen	memory	card	connectivity	synchronization	customization
+0180 : hometheater	movie	function	tv	television	sound
+0181 : hometheater	movie	sound	screen	picture
+0182 : hometheater	television	tv	speaker	surround	play	need
+0183 : hometheater	surround	sound	channel	speaker
+0184 : hometheater	receiver	audio	video	sound	dvd	speaker	decoder
+0185 : hometheater	format	surround	sound	digital	speaker	dts	subwoofer
+0186 : hometheater	picture	direct	television	tv	crt	screen	hdtv	flatter	projection
+0187 : hometheater	projection	television	tv	crt	dlp	lcd	screen	lcos	display	screen	view
+0188 : hometheater	dtv	hdtv	signal	video	digital	television	tv	analog	scan	sdtv
+0189 : hometheater	television	tv	cable	entertainment	hdtv	dvd	digital
+0190 : hd	xa2	hdmi	truehd	dts	hd	lg	sharp
+0191 : hdtv	dvi	test	guide	dvi	set
+0192 : lcd	panel	plasma	pdp
+0193 : sdtv	edtv	hdtv
+0194 : hdtv	europe	market	stb	sold
+0195 : theater	dvd	theater	like	guide
+0196 : speaker	theater	woofer	bass	sound	price	receiver	amplifier	size	quality
+0197 : theater	speaker	dimension	acoustical	frequency	option	combination	design
+0198 : cable	interconnect	distortion	quality	noise	sharpness	wire
+0199 : theater	tune-up	projector	speeker	lcd
+0200 : hdtv	technical	spec	signal	digital	transmission	definition
+0201 : hdtv	history	sony	nhk	spectrum	digital	atsc	broadcast
+0202 : hdtv	compression	mpeg	encoding	scheme	bandwidth	technology	standard
+0203 : plasma	samsung	electronic	panel	display	screen
+0204 : hdtv	resolution	hdmi	peripheral
+0205 : hdtv	resolution	definition	pixel	display	native
+0206 : hdtv	ip	transmission	internet	optical	uclp	system
+0207 : real	time	hdtv	broadcast	live	transmission
+0208 : definition	generation	ultra	video	uhdv
+0209 : viablity	display	shortcut	threat	interconnect	convolution	interface	difficult
+0210 : television	projection	screen	resolution	hdtv
+0211 : format	resolution	digital	hdtv	bandwidth	video	lcd
+0212 : mpeg	codec	digital	hdtv	serial	video
+0213 : advantage	pixelation	herringbone	widescreen	bandwidth	dvd
+0214 : analog	television	standard	definition	ntsc
+0215 : record	compression	hdtv	tv	recorder	storage
+0216 : standard	definition	television	sdtv	ratio	hd
+0217 : digital	television	telecommunication	channel	image	mpeg
+0218 : hdtv	fcc	television	advantage	format	vsb	resolution
+0219 : notation	hdtv	format	resolution	pixel
+0220 : sk	telecom	global	wireless	service	multiple	mobile	operation	system
+0221 : ipod	touch	smartphone
+0222 : lg	optimus	battery	ms	operating	system
+0223 : nokia	n8	smartphone	android	os
+0224 : apple	itunes	application	digital	music	market
+0225 : pantech	samsung	amoled	smartphone	oled	display	mobile
+0226 : android	phone	samsung	galaxy	lg	google
+0227 : mobile	advertising	market	lg	uplus	platform	portal
+0228 : video	google	youtube	iphone
+0229 : lg	optimus	android	phone	competition
+0230 : samsung	smartphone	galaxy	android	wifi	bluetooth	gps
+0231 : apple	iphone	white	retina	display	camera	gps	ios	itunes
+0232 : iphone	retina	display	resolution	ortus
+0233 : smartphone	gps	navigation	location	mobile	service
+0234 : blackberry	app	facebook	search	inbox	tool
+0235 : smartphone	music	streaming	download	itunes	mobile	store
+0236 : smartphone	qr	bar	scan
+0237 : wireless	mobile	network	bbns	sensor
+0238 : smartphone	malware	security	malicious	software
+0239 : smartphone	auto	brightness	ambient	light	sensor	display
+0240 : smartphone	processor	mobile	cpu	gpu	iphone	htc
+0241 : smartphone	memory	nand	flash	oem	dram
+0242 : smartphone	android	security	problem	kernel	operating	system
+0243 : smartphone	resolution	display	iphone	retina	amoled	lcd
+0244 : smartphone	battery	silicon	new	resource
+0245 : smartphone	wifi	network	3g	access	sale
+0246 : smartphone	camera	iphone	android	apple	motorola	htc	samsung
+0247 : smartphone	market	share	iphone	android	blackberry	operating	system
+0248 : smartphone	gps	revolution	blackberry	mobile	palm	apple
+0249 : smartphone	nokia	symbian	camera	video	network	n8
+0250 : arm	smartphone	processor	architecture
+0251 : android	os	sdk
+0252 : touchscreen	evaluate	draw	pressure	millimeter
+0253 : gravity	sensor	phone	accelerometer
+0254 : virus	mobile	phone
+0255 : security	smartphone	smudge	attack
+0256 : battery	new	technology
+0257 : intel	smartphone	cpu
+0258 : htc	srnse	ui	android
+0259 : android	graphic	sdk
+0260 : smartphone	android	os	operating	system	camera
+0261 : iphone	smartphone	apple	wifi	video
+0262 : gps	mobile	app
+0263 : nokia	battery	phone	music
+0264 : blackberry	rim	phone	platform	upgrade
+0265 : hummingbird	snapdragon	htc	samsung	cpu	gpu	smartphone
+0266 : facetime	iphone	apple	video
+0267 : tethering	wifi	network	android	google	skype	voice
+0268 : galaxy	amoled	smartphone	samsung	review
+0269 : windows	mobile	phone	seven	xbox	hub	live	microsoft
+0270 : symbian	os	nokia	mobile
+0271 : blackberry	os	touchscreen
+0272 : ios	interface	os	gesture
+0273 : multi-tasking	cpu	scheduling
+0274 : wifi	ieee	wan
+0275 : android	google	linux
+0276 : bluetooth	wireless	network	security
+0277 : tethering	3g	gateway
+0278 : augmented	reality	virtual	graphic
+0279 : widget	gui	display
+0280 : multi	touch	multitouch	poker	smartphone	game	wireless	controller
+0281 : smartphone	slide	rule	blind	audiobased	multitouch	multi	touch	mobile	device	touch	screen	speech	output
+0282 : security	3g	smartphone	spyware	privacy	smartphone	video	capture
+0283 : laptop	netbook	smartphone	portable	app	mobile	phone	software	cpu	ram
+0284 : smartphone	directx9	3d	graphic	opencl	multi-processor	opengl	os	microsoft	openvg
+0285 : iphone	camera	galaxy	droid	samsung	apple	image	video	quality	megapixel
+0286 : blackberry	ram	dual	core	galaxy	multi-tasking	flash	camera	samsung	processor	os
+0287 : google	app	voice	android	gps	music
+0288 : smartphone	display	retina	amoled	lcd	iphone	apple	samsung	galaxy
+0289 : starcraft	smartphone	windows	htc	blizzard	resolution	game
+0290 : wireless	memory	technology	application	power	speed	endurance	device
+0291 : camera	wireless	memory	card	security	system
+0292 : guide	android	phone	battery
+0293 : gps	blackberry	smartphone	feature	mobile	game	tracking
+0294 : app	store	develop	application	programming	interface	api	itunes	iphone
+0295 : cell	phone	memory	sumsung	micro	secure	digital	card
+0296 : smartphone	processor	google	earth	motorola	sumsung	nexus
+0297 : blackberry	video	game	app	smartphone
+0298 : itunes	music	store	application	ui	web	browser
+0299 : samsung	galaxy	smartphone	game	mobile	operator	iphone	cell	phone
+0300 : iphone	retina	display	technology	apple
+0301 : blackberry	camera	picture	cameraphone
+0302 : blackberry	os	operating	system	rim	mobile	midp
+0303 : google	map	navigation	interface	satellite	earth
+0304 : google	goggle	app	store	search	mobile	camera	recognize	android
+0305 : samsung	usb	wireless	power	consumption	streaming	chipset
+0306 : samsung	mobile	device	chip	arm	processor	smartphone	soc
+0307 : android	os	mobile	java	operating	system	google	dalvik
+0308 : itunes	app	store	application	iphone	ipod
+0309 : android	platform	framework	sdk	api	avd
+0310 : iphone	android	smartphone
+0311 : android	smartphone	google
+0312 : samsung	galaxy	smartphone	amoled
+0313 : netbook	laptop	notebook
+0314 : laptop	mobile	portable
+0315 : gps	satellite
+0316 : wifi	wireless	wlan
+0317 : ios	apple	os	mac
+0318 : mobile	handheld	pda
+0319 : ipod	apple	itunes	iphone	ipad
+0320 : apple	ipad	app	store
+0321 : mobile	software	system	wireless
+0322 : camera	game	music	laptop	device	internet	wifi
+0323 : smartphone	app	wireless	resolution
+0324 : mobile	pda	smartphone	software
+0325 : software	smartphone	mobile	device	handheld	pda	wireless	wifi
+0326 : samsung	galaxy	tab	spec	ram	wifi	gps	camera	display	processor	memory
+0327 : samsung	galaxy	tab	gps	ram	memory	gps
+0328 : apple	wifi	apptore
+0329 : microsoft	resolution	display	phone	app
+0330 : ip	address	adhoc	network	prefix
+0331 : google	game	app	facebook
+0332 : gps	arm	processor	soc	software
+0333 : wap	wireless	application	protocol	mobile
+0334 : mobile	application	apple	android
+0335 : wifi	mobile	broadband	internet	hotspot
+0336 : lcd	resolution	laptop	samsung	screen	display
+0337 : ipad	memory	management	app	apple	multi-tasking	safari
+0338 : netbook	mobile	wireless	android	game
+0339 : handheld	game	device	panasonic
+0340 : galaxy	amoled	touch	battery
+0341 : galaxy	super	amoled
+0342 : geographic	information	system	gis	wireless
+0343 : transition	signal	priority	tsp	traffic	stream
+0344 : ipad	3g	wireless	wifi	hypocritical
+0345 : touch	ios	app	objectivec
+0346 : ipod	nano	chromatic
+0347 : ipad	multitouch	navigation	bluetooth
+0348 : ctia	wireless	association	fcc
+0349 : ipad	galaxy	tab	wifi
+0350 : android	operation	system
+0351 : chrome	os	history
+0352 : windows	phone	history
+0353 : android	sdk	install	system	develop	kit
+0354 : galaxy	tab	performance	spec
+0355 : unreal	engine	android
+0356 : cortex	cpu	mobile
+0357 : galaxy	hummingbird	cpu
+0358 : dalvik	android	virtual	machine	architecture
+0359 : ios	operation	system	history
+0360 : mobile	phone	cell	network	service
+0361 : internet	www	mail	protocol	hypertext	electronic
+0362 : ipad	computer	apple	platform	media	web	laptop
+0363 : wireless	mobile	cellular	digital	computer	television	portable
+0364 : smartphone	mobile	phone	software	system	application	desktop	computer
+0365 : lcd	electronic	display	computer	television	video	portable	image
+0366 : app	application	software	system	user	power
+0367 : operating	system	os	data	computer	hardware	application	software	memory	web	video	game	cellular
+0368 : galaxy	samsung	tab	tablet	computer	touchscreen	processor	system	camera	video
+0369 : pc	personal	computer	mainframe	software	apple	app	store
+0370 : mobile	phone	telephone	modern	telecommunication	gps	computing	mp3
+0371 : netbook	small	appearance	screen	laptop	computing	weight
+0372 : netbook	international	prompting	disbursement	intel	abandonment
+0373 : netbook	keyboard	electronic	model	quality
+0374 : ipad	mobile	improvement	facebook	interesting	mobile
+0375 : microsoft	server	interface	chain	file	resource	project
+0376 : microsoft	project	generic	resource	analysis	term	develop
+0377 : wireless	telephone	technology	gps	mobile	digital	network	gps	satellite	television
+0378 : music	wireless	system	press	wires	iphone	broadcast
+0379 : wifi	computer	network	communication	technology	electronic	system
+0380 : nintendo	technology	video
+0381 : engine	graphic	graph	network	character	3d
+0382 : adopt	graphic	mobile	intel	architecture	multi	resolution	mesh
+0383 : nintendo	dutch	flash	wii	mod	chip
+0384 : 3d	simulation	architecture	interface	hardware	creativity	computer
+0385 : video	playing	game	creators	recommendation	console	ram
+0386 : mobile	game	smartphone	pda	handheld	playstation	nokia	application	bluetooth
+0387 : iphone	task	game	math	sdk	programming	make	language
+0388 : knowledge	develop	realistic	entertainment	system	video
+0389 : playstation	console	video	media	recorder	online	sony
+0390 : wii	game	nintendo	microsoft	xbox	console	wiiconnect24
+0391 : playstation	portable	e3	sony	psp
+0392 : xbox	game	microsoft	sega	nfl09	xbox	video	console
+0393 : xbox	operating	system	windows	kernel	microsoft	directx	media	player
+0394 : geforce	nvidia	embedded	application	processor	mobile	graphic	programming
+0395 : flash	ria	application	system	device	web	browser	mobile	phone	internet
+0396 : wifi	wireless	network	ieee	802.11
+0397 : opengl	platform	api	2d	3d	game	simulation	windows
+0398 : directx	api	microsoft	xbox	windows	game	console	platform
+0399 : smartphone	symbian	android	blackberry	windows	mobile	iphone	os
+0400 : sony	psp	phone	android	game
+0401 : nvidia	supercomputer	petaflop	gpu	cpu	graphic
+0402 : ibm	3d	game	soa	software	architecture
+0403 : firefox	mac	os	direct3d	direct2d	webgl	hardware	graphic	opengl	mozilla
+0404 : phone	3d	opengl	web	mac	ios	webgl	google	directx	direct3d
+0405 : sony	e3	playstation	ps3	game	psp	3d
+0406 : microsoft	kinect	xbox	motion	wii	nintendo
+0407 : e3	playstation	xbox	wii	natal	kinect	ea	sony	3d
+0408 : 3d	graphic	sony	unreal	direct3d	opengl	micropolygon	gpu	processor	cpu
+0409 : natal	e3	microsoft	game	playstation	xbox	control	hardware	sony	platform
+0410 : sony	smartphone	android	psp	game
+0411 : graphic	card	amd	3d	opengl	display
+0412 : software	microsoft	freeware	openoffice
+0413 : xbox	google	tv	app	game	netbook	flash
+0414 : nvidia	geforce	graphic	card
+0415 : cloud	computing	google	vmware	environment	application
+0416 : nokia	app	wordpress	blog	mobile	opensource
+0417 : blizzard	game	starcraft
+0418 : intel	processor	game
+0419 : anti	aliasing	game	graphic	resolution	gpu	tweaker
+0420 : nintendo	power	battery	problem	recharge
+0421 : starcraft	3d	game	map	feature
+0422 : nvidia	geforce	3d	vision	kit	game	wireless	glass
+0423 : nokia	smartphone	free	game
+0424 : sony	android	playstation	phone	game
+0425 : nvidia	dual	copy	engine	video	processing
+0426 : freeware	video	game	list
+0427 : amd	game	graphic	launch	flash	demo
+0428 : upgrade	video	card	game	system
+0429 : ps3	wireless	gamepad	playstation
+0430 : game	nintendo	3ds	race	3d
+0431 : nvidia	geforce	graphic	card	video
+0432 : graphic	processor	opengl	video	card
+0433 : psp	xbox	processor	sony	game
+0434 : nintendo	3ds	battery	3d	game
+0435 : psp	sony	game	rpg	race
+0436 : sony	psp	nintendo	ds	portable	processor	battery
+0437 : nintendo	3ds	processor	smartphone	game
+0438 : game	race	ps3	xbox
+0439 : iphone	app	store	game	rpg
+0440 : psp	portable	hardware	battery
+0441 : starcraft	system	requirement	hardware	video	card
+0442 : microsoft	xbox	live	marketplace	store
+0443 : opengl	direct3d	mobile	graphic
+0444 : sony	ps3	video	game	console	operating	system
+0445 : rpg	geforce	engine	resolution	system	requirement	core
+0446 : intel	hd	graphic	reference	software	network
+0447 : microsoft	3d	display	xbox	multi	view	lcd
+0448 : game	engine	software	system	develop	video	game
+0449 : google	android	game	develop	architecture	engine
+0450 : tablet	smartphone	ipad	screen	mini	app	touch	nexus
+0451 : samsung	galaxy	note	android	phablet	resolution	amoled	panel	screen	stylus	touch	s-pen	nfc
+0452 : samsung	galaxy	android	phone	curved	edge	plastic	amoled	screen	camera
+0453 : samsung	nfc	android	phone	technology	galaxy	message	launch	status	update	market
+0454 : android	operating	system	ios	google	flexibility	setting	tap	app	ecosystem	screen
+0455 : ios	android	iphone	app	store	screen	simple	interface	siri
+0456 : windows	phone	microsoft	start	screen	app	resolution	multi-core	processor
+0457 : iphone	display	resolution	image	panel	processor	qualcomm	chip	lte	ios
+0458 : samsung	galaxy	eye-tracking	display	technology	screen	s-voice	camera	android
+0459 : nokia	wireless	charging	operating	system	touch	screen	camera	app	marketplace
+0460 : google	nexus	android	phone	samsung	lg	quad	core	processor	display	tablet
+0461 : galaxy	note2	samsung	screen	processor	multi-tasking	s-pen
+0462 : nokia	map	location	firefox	earthmine	livesight
+0463 : intel	android	arm	manufacturer
+0464 : samsung	memory	chip
+0465 : htc	droid	resolution	display
+0466 : battery	power	consumption	film
+0467 : lg	optimus	regard	lte	4g
+0468 : lg	nexus	samsung	galaxy	android	display	processor	camera	storage	battery
+0469 : google	augmented	reality	game	android
+0470 : smartphone	android	operating	develop
+0471 : phone	screen	battery	implement
+0472 : software	smartphone	navigation	app
+0473 : security	smartphone	blackberry
+0474 : waterproof	smartphone	film
+0475 : smartphone	3d	display	screen
+0476 : iphone	3d	network	reality	advertising
+0477 : smartphone	video	display	3d	gps	camera
+0478 : smartphone	reality	infrared	3d	display	touch	screen
+0479 : smartphone	safty	wireless
+0480 : smartphone	leap	motion	gesture	finger	interface
+0481 : smartphone	waterproof	tech	apple	samsung
+0482 : smartphone	thermometer	body	temperature	infrared	sensor	health
+0483 : smartphone	battery	power	battery	chemical	electrons
+0484 : smartphone	technology	space	screan	student	satellite
+0485 : smartphone	malware	information	personal
+0486 : smartphone	diagnose	diseases	doctor	technology	touchscreen
+0487 : smartphone	mobile	coupons	technology	barcode	scanner
+0488 : smartphone	ultrasound	imaging	technology
+0489 : smartphone	speech	recognition	sleep
+0490 : computer	security	sandbox	network	access	applets	jail	rule-based	online	judge	html5	user	level	sandboxing	apparmor	framework
+0491 : sandbox	untested	server	protect	vetted	source	code	distribution	mission-critical	cvs	svn	web	develop	third	party	external	develop
+0492 : netbook	small	lightweight	legacy-free	laptop	computer	dell	cnet	macbook	air	ultrabook
+0493 : tablet	touch	sensitive	screen	android	ios	smart	mobile	phone	laptop
+0494 : cell	phone	tracking	market	virus	sms	surveillance	camera	ping	gps	towers	online	control	panel
+0495 : android	mobile	phone	os	android	lock	screen	honeycomb	tablet	notification	tray	face	recognition	multi-tasking	miscellaneous
+0496 : buzz	mini	ipad	apple	tablet	wifi	bluetooth	lte	retina	display	dual	core	a5x	quad	core	graphic
+0497 : iphone	ipad	apple	macintosh	ios	multitouch	screen	virtual	keyboard	gsm	3g	cellular	network	gps	3gs	rotation	orientation
+0498 : microsoft	ipad	surface	tablet	windows	rt	windows8	usb3.0	displayport	full-size	keyboard	competitor
+0499 : google	nexus	asus	nexus7	tablet	nexus10	samsung	resolution	retina	ram	dual	core	a15	processor	camera	mali	t604	graphic	quad	core	tegra	smartphone
+0500 : bluetooth	gps	wireless	navigation	pda
+0501 : ipad	solution	wifi	tablet	pc
+0502 : multiple	cpu	mobile	device	multi-core
+0503 : nscreen	multi-device	multi-channel
+0504 : android	os	memory
+0505 : smartphone	os	linux	windows	java	garnet
+0506 : android	ios	mobile	quarter	blackberry	windows	linux
+0507 : smartphone	os	mobile	nokia	blackberry	google
+0508 : pocket	pc	wireless	software	battery
+0509 : widei/o	memory	smartphone	mobile	device	ddr
+0510 : samsung	galaxy	lte
+0511 : apple	os
+0512 : galaxy	tab	samsung
+0513 : mobile	handheld	device
+0514 : pc	ram	information	memory
+0515 : app	apple	store	pc
+0516 : apple	device	smartphone	samsung
+0517 : lcd	device	video	cable	tv	programming	display
+0518 : mobile	os	samsung	smartphone
+0519 : samsung	apple
+0520 : lg	display	resolution	lcd
+0521 : microsoft	display	resolution	windows8
+0522 : samsung	memory
+0523 : nvidia	quad	core	mobile	processor
+0524 : amd	android	bluestacks	app	android	windows
+0525 : google	application	android	airplay
+0526 : lte	mobile	4g	wireless
+0527 : wifi	wireless	wlan	internet
+0528 : lg	display	android	amoled
+0529 : samsung	memory	tablet
+0530 : playstation	generation	upgradeable	transmedia
+0531 : callofduty	vulnerability	cryengine3	denial-of-service	security
+0532 : asus	gtx680	dual	slot
+0533 : windows	phone	gaming	havok
+0534 : xbox	surface	arm-based	tablet
+0535 : ipad4	benchmark	a6x
+0536 : nvidia	geforce	310.54	driver	performance	improvement	anti-aliasing	enhancement
+0537 : nintendo	wii	network	hack
+0538 : unreal	engine	platform	smartphone	tablet	generation
+0539 : moga	external	controller	device	android	game
+0540 : nintendo	psp	mobile	device	game	iphone	smartphone	3ds	wifi	sony
+0541 : microsoft	opengl	3d	display	graphic	card	directx	software	game	console	nintendo	sony
+0542 : nvidia	technology	game	3d	graphic	console	game	xbox	video
+0543 : nintendo	wii	video	camera	network
+0544 : sony	psp	portable	game
+0545 : nintendo	wii	mobile	3ds	network
+0546 : microsoft	game	software	nokia
+0547 : sony	software	video	game
+0548 : wii	software	nintendo	console	video	game	xbox	firmware	network	gamepad
+0549 : nvidia	geforce	driver
+0550 : cp	avg	wii	neuroplastic
+0551 : qii	wiimotes	ioht	crom
+0552 : nvidia	chip	fermi	tesla	graphic	architecture
+0553 : nvidia	ati	chip	directx	market
+0554 : nvidia	intel	geforce	market	desktop
+0555 : xbox	music	itunes	streaming
+0556 : nintendo	wii	tablet	gamepad
+0557 : sony	playstation	ps3	console
+0558 : sony	psp	release	console
+0559 : battle.net	cheat	banned	accounts	cdkey
+0560 : xbox	surface	tablet	game	microsoft
+0561 : nvidia	linux	game	graphic	driver
+0562 : seal	video	game	reprimand	consult
+0563 : xbox	surface	game	tablet	microsoft
+0564 : microsoft	smartglass	app	game	mobile	device	xbox	windows
+0565 : online	casual	game	facebook	multiplayer	gambling
+0566 : tablet	game	nook	narnes	noble	ipad	android
+0567 : linux	game	platform	windows	os
+0568 : cloud	onlive	game	restructuring	plan	company
+0569 : html5	game	web-based	flash
+0570 : game	software	architecture
+0571 : cg	nvidia	graphic
+0572 : gpu	architecture	cpu	chip
+0573 : game	language	animation
+0574 : smartphone	graphic	device
+0575 : directx	windows	develop	3d
+0576 : texture	game	engine	effect
+0577 : java	game	class
+0578 : game	ai	algorithm	parameter
+0579 : opengl	graphic	3d
+0580 : 5g	mobile	wireless	network	iot	broadband	cloud
+0581 : ai	soc	smartphone	neural	engine	apple	huawei
+0582 : wireless	charging	laser	mobile	phone	radio	wave	smartphone
+0583 : biometric	security	smartphone	fingerprint	iris	face	scanning
+0584 : dual	camera	smartphone	rgb	monochromatic	sensor	lens
+0585 : usb	type-c	charging	port	cable	interchangeable	reversible
+0586 : arkit	apple	ar	iphone	multiplayer	ios	persistent	tracking
+0587 : bluetooth	compatibility	iot	wireless	sig	location	service	iphone9
+0588 : apu	amd	intel	zen	ryzen
+0589 : intel	i3	i5	igpu	mobile
+0590 : qualcomm	snapdragon	soc	big.little	cpu	dynamic	gpu	kryo	adreno
+0591 : 802.11	wifi	qos	voip
+0592 : 802.11ax	802.11ad	802.11ac	qam	mimo	ofdma	mu-mimo
+0593 : samsung	mobile	dram	lpddr4-4266	8gb
+0594 : hynix	8gb	lpddr4	dram	mobile
+0595 : intel	kabylake	mobile	processor	coffeelake	i5-u	i7-u
+0596 : chronobreak	game	bug	recovery	replay
+0597 : vulkan	power	performance	multi-thread	multi-core
+0598 : vr	htc	nvidia	virtual	holodech
+0599 : microsoft	xbox	preformance	4k	compatibility
+0600 : ps5	sony	amd	ryzen	llvm
+0601 : pokemon	go	niantic	google	ar	game
+0602 : naughtydog	game	playstation	lastofuspart2	multiplayer
+0603 : pubg	pc	xbox	mobile	battleroyale
+0604 : retina	neural	cell	light-sensitive	two-dimensional	photoreceptor
+0605 : smartphone	best	camera	android	samsung	iphone
+0606 : processor	microprocessor	small	chip	electronic	device	core
+0607 : nokia	imaging	wireless	technology	multimedia
+0608 : system	phone	telephony	mid-sized	large	business
+0609 : memory	storage	embedded	part	connection
+0610 : itunes	app	apple	iphone	ipad
+0611 : pda	sound	science	biopharmaceutical	community
+0612 : system	neuroscience	hardware	data	device	neuron	software	information	control
+0613 : cortex	performance	cache	gemm	cluster	parallelization	thread	architecture	scheduling	kernel
+0614 : data	communication	task	pipe	model	system	scheduling	sensor	control	drone
+0615 : cnn	accelerator	layer	convolution	data	processing	filter	imagery	embedded
+0616 : energy	data	mobile	throughput	transfer	consumption	layer	application	power	network
+0617 : video	streaming	mobile	bitrate	algorithm	performance	system	online	cellular
+0618 : logic	circuit	application	screen	mobile	student	simulation	education	android	software
+0619 : smart	contract	transaction	blockchain	gas	transaction	ethereum	machine	vehicle	network
+0620 : edition	grey	mode	story	supplies
+0621 : battlegrounds	pc	version	adapts	mechanics	mobile	tablet	pubg
+0622 : mobile	galaxy	browse	titles	adventure
+0623 : fantasy	pocket	transition	console	rpg
+0624 : puzzle	original	control	play	color
+0625 : uncharted	launched	apple	device	playstation
+0626 : concept	pokemon	google	arcore	android
+0627 : ar	game	mobile	reality	version
+0628 : retina	display	iphone	qhd	4k	5k
+0629 : 5g	smartphone	qualcomm	huawei	4gbps
+0630 : perental	control	gesture	navigation	ui	ai	treble
+0631 : smartphone	longest	battery	life	zenfone3	s41	e4plus	mate10
+0632 : processor	ranking	snapdragon	exynos9810	a11	kirin970
+0633 : ram	memory	performance	indicator	android	iphone
+0634 : cell	phone	hotspot	wifi	iphone	android	blackberry	windows	phone	wireless	network
+0635 : apple	app	store	valve	game	streaming
+0636 : mobile	handheld	smartphone	camera	display	ram	resolution	platform
+0637 : lg	second	handset	battery	resolution	display	at&t	evolve
+0638 : apple	wireless	iphone	compatibility	google	control	tap
+0639 : pocket	display	resolution	battery	projection	bluetooth	automatic
+0640 : smartphone	spec	display	screen	iphone	wireless	price
+0641 : flagship	launch	handset	phone	blockchain	security	transparency	technology	bitcoin	ecosystem
+0642 : lg	flagship	phone	spec	software	samsung	apple	screen	chipset	feature	audio	artificial	intelligence
+0643 : apple	mobile	app	android	ios	algorithm	music	playlist	data	album	subscriber
+0644 : keyboard	programmable	game	type	key	backlight
+0645 : geforce	graphic	card	amd	memory	processor	clock	stream
+0646 : ps	playstation	vr	bundle	camera	ps4	controller	sport	game
+0647 : game	gaming	technology	3d	controller	vr	hd	reality	cloud	wearable
+0648 : xbox	microsoft	game	gamer	controller	cloud	disability	adaptive
+0649 : google	map	video	game	api	real-time	gaming	ar	mapping
+0650 : google	vr	3d	vr180	video	youtube	live-streaming	wearable
+0651 : external	gpu	graphic	mac	razer	apple	gaming
+0652 : apple	iphone	chip
+0653 : apple	iphone	siri	customization	wwdc
+0654 : galaxy-s9	smartphone	replacement	android	samsung
+0655 : razer	moblie	gaming	phone	ultramotion
+0656 : neural	net	low-end	phone	dslr	quality	camera
+0657 : android	phone	addiction	distraction	ai
+0658 : backup	iphone	external	drive	space
+0659 : curves	gesture	iphone	smartphone	future
+0660 : gpu	smartphone	image	graphics	game	3d	vr	iphone
+0661 : game	mobile	company	google	pokemon	online	app
+0662 : rendering	3d	mobile	device	compression	texture
+0663 : nlp	natural	language	ai	voice
+0664 : iot	network	connectivity	security	connection	smart	city	wearable
+0665 : gps	geometry	location	world	satellite	direction	signal
+0666 : cloud	mobile	wireless	network	anywhere	server	amazon	ec2	wan	connectivity
+0667 : storage	mobile	data	smartphone	network	wifi	wireless
+0668 : nvidia	mobile	lte	processor	hdr	arm
+0669 : opengl	interface	shader	memory	android	app
+0670 : ar	virtual	hmd	graphical	interface	notebook
+0671 : video	hardware	tablet	platform	laptop
+0672 : scene	opengl	perception	display	code	device
+0673 : algorithm	processor	database	gpu	cpu	processor
+0674 : application	software	app	mobile	system	environment
+0675 : application	memory	cd	network	texture	processor	rendering
+0676 : smartphone	mobile	blackberry	galaxy	operating	system	android	energy
+0677 : smartphone	processor	operating	camera	wifi	3g	galaxy	nokia
+0678 : smartphone	processor	operating	iphone	apple	soc	memory
+0679 : smartphone	resolution	iphone	retina	display
+0680 : smartphone	resolution	samsung	google	display	android	iphone
+0681 : smartphone	battery	iphone	galaxy	software	apple
+0682 : smartphone	samsung	battery	galaxy	mobile
+0683 : smartphone	gps	samsung	apple	galaxy	iphone
+0684 : apple	watch	gps	iphone	bluetooth	wifi	built-in	cellular	carrier
+0685 : phone	cpu	framework	power	consumption	frequency	performance	gpu	snapdragon
+0686 : mobile	operating	system	android	bada	blackberry	ios	meego	palm	symbian
+0687 : drone	qualcomm	flight	hexagon	real-time	dual-band	linaro	opencv
+0688 : galaxy	resolution	quad	superamoled	panel	bezel	hd	fhd	wqhd
+0689 : dslr	csc	electronic	viewfinder	aps-c	sensor	compact	panasonic
+0690 : samsung	touchwiz	internal	storage	microsd	preinstalled	marshmallow
+0691 : dell	latitude	wireless	charging	labtop	metal	microsoft	surface
+0692 : nintendo	vulkan	khronos	api	opengl
+0693 : vulkan	nvidia	radeon	linux	performance
+0694 : ps3	game	console	rpg	fps
+0695 : android	nougat	vulkan	performance	game
+0696 : directx	radeon	geforce	card	performance	multi
+0697 : microsoft	store	xbox	game	gift
+0698 : pc	console	game	price	upgrade	exclusive
+0699 : xbox	game	resolution	fps	720p	4k	enhance
+0700 : gps	superaccurate	satellite	signal	chip
+0701 : huawei	car	ai	object	recognition	autonomous
+0702 : toshiba	ufs	storage	nand	memory	speed
+0703 : synaptics	fingerprint	sensor	display	recognition
+0704 : fingerprint	sensor	resolution	display	screen
+0705 : google	modular	switch	integration	component
+0706 : sensor	scio	material	spectral	fingerprint
+0707 : vision	3d	camera	tango	realsense
+0708 : apple	ios	siri	ar	animoji	macos	mojave
+0709 : iphone	tsmc	qualcomm	samsung
+0710 : 5g	network	mobile	london	hub
+0711 : airpod	airpower	apple	case	dock	lightning
+0712 : bluetooth	ikea	speaker	zte	alexa	assistant
+0713 : screen	htc	snapdragon	camera	audio
+0714 : notch	lenovo	screen	snapdragon	android
+0715 : holographic	3d	verizon	smartphone	entertainment	handset
+0716 : vr	console	gear	skyrim	oculus	playstation
+0717 : opengl	macos	apple	api	vulkan	khronos	metal	platform
+0718 : rendering	photography	opengl	flare	texture	blend
+0719 : nvidia	vertex	diffuse	illumination	texture	opengl	orthogonal
+0720 : nintendo	switch	console	wii	handheld	console
+0721 : gpu	geforce	api	cpu	vulkan	direct3d
+0722 : microsoft	github	coding	amazon	cloud	google
+0723 : reality	virtual	vr	controller	vive	oculus	virtusphere
+0724 : sony	4k	screen	smartphone
+0725 : vivo	fingerprint	sensor	x21	smartphone
+0726 : fingerprint	sensor	smartphone	vivo	x20	huawei
+0727 : apple	samsung	vivo	iphone	fingerprint	sensor	in-display
+0728 : under-screen	fingerprint	sensor	qualcomm
+0729 : in-screen	fingerprint	sensor	vivo
+0730 : android	smartphone	fingerprint	sensor
+0731 : fingerprint	sensor	smartphone	x20	x21	vivo	huawei	apple	samsung
+0732 : intel	5g	mobile	network	client	cloud	wireless
+0733 : qualcomm	snapdragon	mobile	processor	platform	samsung	windows
+0734 : qualcomm	snapdragon	mobile	platform	smartphone	processor
+0735 : qualcomm	xr	ai	technology	graphic	audio	platform	ar	vr
+0736 : apple	ios	homepod	airplay	audio	siri
+0737 : apple	ipad	pencil	ios	tablet
+0738 : samsung	image	sensor	solution	semiconductor	technology	isocell
+0739 : samsung	android	application	mobile	data	privacy	protect
+0740 : windows	intel	nvidia	3d	game
+0741 : vr	game	windows	intel	nvidia	amd	game
+0742 : engine	game	development	mobile	pc	3d	playstation
+0743 : game	development	engine	2d	3d	cross-platform	mobile
+0744 : cross-platform	2d	game	development	mobile	mac	windows
+0745 : amazon	engine	android	ios	pc	xbox	playstation	development	cross-platform	3d
+0746 : mobile	open	source	development	android	ios	game	opengl	2d
+0747 : game	mobile	smartphone	3d	app	graphics	software	engine
+0748 : xiaomi	in-display	fingerprint	sensor	smartphone
+0749 : huawei	in-display	fingerprint	sensor	p20
+0750 : samsung	in-display	fingerprint	sensor	galaxy	note9
+0751 : vivo	in-display	fingerprint	sensor	x21
+0752 : ai	apple	wwdc	smartphone	machine-learning
+0753 : ai	chip	smartphone	a11	apple
+0754 : ai	vivo	machine-learning
+0755 : ai	sony	camera	xperia	xz2
+0756 : apple	wwdc	ios	smartphone	siri	animoji	macos	stack	watchos	tvos
+0757 : asus	game	rog	razer	gaming	hdr
+0758 : lg	v35	thinq	flagship	oled
+0759 : apple	airplay	wireless	ios	homepod	wwdc
+0760 : htc	flagship	u12	edge	boomsound	aptx
+0761 : sony	pico	projector	battery	lumen
+0762 : htc	exodus	blockchain	secure	smartphone	bitcoin
+0763 : oneplus	smartphone	flagship	glass	wireless	powerful	huge
+0764 : axial	coding	data	analysis	gdd	process	multiple
+0765 : architecture	playtesting	reuse	repurpose	scalability	infrastructure
+0766 : game	engine	object	centric	system
+0767 : obsolete	problem	solution	learning	program	ai	physics
+0768 : discovery	context	jigsaw	multiple	technique	puzzle
+0769 : process	action	strategy	roleplaying	text	concept	design
+0770 : source	identification	classification	malfunction	research	perception
+0771 : previous	literature	wicked	complexity	objective	gameplay
+0772 : apple	wwdc	phone	screen	facebook	location	update	sneezing	software
+0773 : sensor	blood	pressure	hypertension	technology	artery	monitor	medicine
+0774 : cheap	smartphone	harvard	fertility	sperm	cradle	pregnancy	accuracy	motility
+0775 : audio	iphone	panorama	experience	sound	tuning	roar	dirac
+0776 : machine-learning	cloud	availability	artificial	intelligence	training	data	domain
+0777 : mousetrap	laser	security	bluetooth	photocell	system	microsd	miscellany	ios
+0778 : gps	navigation	highway	multipath	gnss	frequency	chip	broadcom
+0779 : energy	passenger	portable	gasoline	tablet	estimation	steel	network	car
+0780 : apple	ios	smartphone	addiction	mobile	phone	device
+0781 : alphabet	google	twitter	data	file	smartphone	facebook
+0782 : blackberry	keyboard	fan	phone	bbm	device	portrait	android	operating	system
+0783 : apple	ai	wwdc	macbook	ipad	siri	watch	smart	photo
+0784 : evolution	mobile	device	smartphone	iot	voice	battery	capacity	security
+0785 : globe	mobile	phone	semiconductor	navigation	satellite	integration	communication	performance
+0786 : sony	mp-cd1	upgrade	projector	dlp	battery	charge	bluetooth
+0787 : mobile	technology	classroom	efficiency	research	feedback	workplace	videos	qr	code
+0788 : amd	gpu	market	launch	growth	graphic	card
+0789 : starcraft	game	graphic	card	cpu	performance	multiplayer	hardware
+0790 : game	nvidia	experience	gpu	goodness	graphic	card
+0791 : nintendo	switch	tegra-x1	performance	gpu	console
+0792 : core	starcraft2	gpu	performance
+0793 : gtx	starcraft2	cpu	multi-core	overclocking	performance	blizzard
+0794 : opengl	apple	metal	os	developer
+0795 : processor	game	cpu	proformance	i5-8400	core	graphics	card
+0796 : lg	ai	thinq	cell	phone	camera	battery	android	performance	processor	snapdragon	microsd	display	notch
+0797 : samsung	battery	overheat	phone	device
+0798 : 5g	smarphone	high-band	technology	network	lte	signal	antenna	connection
+0799 : smartphone	camera	photography	high-end	optical	lens	megapixel	image	ai	zoom	dual	wide-angle
+0800 : storage	memory	microsd	gb	data	backup
+0801 : gps	phone	network	signal
+0802 : gpu	graphic	qualcomm	arm	soc
+0803 : ram	smartphone	memory	cpu	gpu	process	gb	storage
+0804 : mobile	augmented	reality	flexibility	charger	virtual	smartphone
+0805 : evolve	gps	sms	mobile	geographic	environment
+0806 : computerization	mobile	android	ios	blackberry	smartphone
+0807 : police	technology	device	privacy	witness	photography
+0808 : tech_fund	traditional	mobile	network	subsidy	fairness	technology	smartphone	strategy
+0809 : security	mobile	typical	telephone	pc	sensitive	police	password	encryption
+0810 : security	explosion	smartmobile	authority	network	evolution	policy
+0811 : smartphone	camera	shot	technology	photography	panoramic	touchscreen
+0812 : collision	time-critical	re-keying	rsa	multicast	security	efficiency
+0813 : vr	rendering	cloud	virtualization	migration	computation	latency
+0814 : performance	rendering	cpu	shader	graphics	texture	gpu
+0815 : 3d	real-time	optimize	resource	modeling	lod
+0816 : embedded	floating-point	power	pcie	nvidia	multi-core	parallel
+0817 : depth	rasterization	algorithm	camera	lagrangian	frame
+0818 : parallel	pruning	searching	thread	path	cuda	ai	memory
+0819 : vms	cloud	gpu	scheduling	sharing	resource	allocation
+0820 : google	android	software	camera	battery
+0821 : blackberry	keyboard	touchscreen	key2	smartphone	physical
+0822 : iphone	animoji	smartphone	notch	apple
+0823 : lg	smartphone	malaria	mosquito	ultrasonic	biotechnology	toxicology	k7i
+0824 : samsung	bixby	galaxy	smartphone	voice	walkie-talkie
+0825 : samsung	bixby	hands-free	galaxy	technology
+0826 : charge	wireless	iphone	rumor	smartphone	glass
+0827 : apple	pay	iphone	mobile	software	money	nfc
+0828 : web	native	mobile	application	development	smartphone	browser
+0829 : mobile	app	language	learning	environment	portable	video
+0830 : architecture	javascript	mobile	processor	type-checking	dynamic	web
+0831 : migration	execution	javascript	application	mobile	device	cloud
+0832 : mobile	learning	game	design	motivation	effect	cooperative
+0833 : student	mobile	game	development	curriculum	motivation
+0834 : fall	classification	machine	learning	mobile	phone
+0835 : android	application	security	smartphone	market	bytecode
+0836 : playstation3	sony	system	software
+0837 : sony	ps3
+0838 : sony	phyreengine
+0839 : nvidia	3d	graphics	chipset
+0840 : graphics	gpu	opengl	directx
+0841 : amd	nvidia	gpu	apple	intel
+0842 : intel	opengl	bay-trail	android
+0843 : sony	ps4	console
+0844 : ai	emotion	smartphone	huawei
+0845 : ai	smartphone	machine-learning
+0846 : ai	lg	v30	low-light
+0847 : ai	vivo	v9	in-display	engine	fingerprint	scanning
+0848 : ai	chipset	huawei
+0849 : ai	smartphone	photo	shooting	4d
+0850 : ai	machine-learning	smartphone	built-in	chip
+0851 : ai	camera	smartphone	voice	translator
+0852 : apple	ios	iphone	ar	memoji
+0853 : wearable	asus	smartwatch	healthai	blood	pressure
+0854 : apple	ios	download	operating	system	iphone	ipad
+0855 : google	the1975	bug	text	app
+0856 : apple	arkit	iphone	ipad	multi	user
+0857 : arm	android	new	chip	iphone	fast	mobile
+0858 : iphone	camera	three	oled	screen	ar	app	ios
+0859 : mirror	android	tv	display	device	screen	cast
+0860 : game	vulkan	opengl	graphics
+0861 : android	vulkan	graphics	mobile	game
+0862 : rpg	android	game	graphics	story
+0863 : android	platform	game	miltiplayer	store
+0864 : graphics	xbox	directx	speed	improvement
+0865 : console	roguelike	game	internet	linux
+0866 : flash	game	graphics	web	facebook
+0867 : nvidia	graphics	hardware	game	pc
+0868 : ar	smartphone	3d	model	design
+0869 : ar	apple	google	tango
+0870 : ar	arkit	facebook	apple	google
+0871 : ar	ios12	apple	memoji
+0872 : ar	huawei	sony	lenovo	smartphone	vr	coprocessor	xperia	filter	camera
+0873 : ar	google	lg	thinq	3d	photo
+0874 : ar	google	tango	smartphone	arcore
+0875 : ar	google	tango	sdk	arcore
+0876 : blackberry	iphone	lcd	battery	software	mobile	security
+0877 : wwdc	ios12	mojave	message	carplay	memos	siri
+0878 : game	rog	asus	android	speed	dual-screen	headphone
+0879 : v35	g7	thinq	display	dual-sensor	at&t	lg
+0880 : apple	airplay	wireless	ios	audio	ipad	wwdc
+0881 : htc	flgship	squeezable	camera	boomsound	integration	dual-sensor
+0882 : sony	mp-cd1	projector	upgrade	ansi	redesign	intellibright
+0883 : powerbank	wirelessly	module	gadget	stackable	battery	charge
+0884 : realistic	character	graphics
+0885 : visual	physical	rendering	graphics	reality
+0886 : 3d	graphics	simulation	light
+0887 : vulkan	unreal	engine	api
+0888 : nvidia	real-time	physical	rendering	sdk	magic-leap
+0889 : pc	platform	geforce	display
+0890 : amd	gaming	processing	core
+0891 : nvidia	gpu	real-time	ray	tracing	graphics
+0892 : smartphone	graphics	gpu	powervr	nvidia	qualcomm	adreno
+0893 : arm	smartphone	vr	gpu	throttling
+0894 : overclock	android	smartphone	rom	frequency	battery
+0895 : qualcomm	depth-sensing	ar	smartphone	camera
+0896 : eye-tracking	smartphone	ai	camera
+0897 : smartphone	faceid	face	recognition	touchid	fingerprint	huawei	iphone	galaxy
+0898 : smartphone	ar	emoji	avatar	iphone	galaxy	xperia
+0899 : smartphone	iris	biometric	cybersecurity	hackability	fingerprint
+0900 : apple	ios	phone	siri	ar	app	cellular	watchos	tvos
+0901 : handheld	playability	communication	display	pixel	audio
+0902 : flagship	handset	battery	screen	display	camera	waterproof
+0903 : airplay	protocol	speaker	compatibility	homepod	audio	wireless
+0904 : flagship	component	camera	display	bezel	design	ram	storage
+0905 : projector	resolution	display	battery	brightness	image
+0906 : cell	phone	gps	video	audio	multimedia	texting	data
+0907 : smartphone	communication	workplace	feedback	device	qr
+0908 : presser	console	hardware	maker	plenty
+0909 : round	launched	counterattack	momentum	tracks
+0910 : technically	compatibility	titles	trick	boards	downloadable	transaction
+0911 : emulator	rooted	portable	competed	restore	install	device
+0912 : memory	ratio	loudspeaker	microphone	format	capability	network	internal
+0913 : spreads	betting	bounty	motorcycle	company
+0914 : surround	expansion	controller	livestream	surface	light
+0915 : app	signals	data	availability	downloaded	documenting	viewing
+0916 : qualcomm	ar	vr	xr1	chip	4k
+0917 : leo	ar	android	iphone
+0918 : ar	android	apple	siri
+0919 : ar	vr	headset	samsung	microsoft
+0920 : ar	vr	apple	headset	wireless	app
+0921 : vr	headset	lenovo	moto-z	6dof	tracking
+0922 : vr	htc	smartphone
+0923 : vr	qualcomm	snapdragon	6dof	slam	xr	ar
+0924 : interface	os	animation	grayscale	memory	framework	cpu	prefetch	gpu
+0925 : cellular	connectivity	wearable	smartwatch	fitbit	xiaomi	screen
+0926 : samsung	galaxy-tab	tablet	ram	storage	network	camera	android	api
+0927 : drone	blockchain	autonomous	uav	framework	platform	ai	routing
+0928 : smartphone	facial	recognition	mobile	phone	front-facing	camera	algorithm
+0929 : apple	ai	siri	screen	face	ios	automation	app	machine	learning
+0930 : algorithm	facial	recognition	image	ai	function	smartphone	privacy	meural	network
+0931 : smartphone	detection	scanner	3d	pixel	frequency	database	facial
+0932 : emulator	psp	direct3d	console	opengl	cross-platform	platform
+0933 : freeware	cleaner	systemcare	optimizer	booster	utility
+0934 : stereo	gaming	3d	vision	hd3d	geforce	laser	sight	hdmi
+0935 : sound	3d	real	audio	speaker	genaudio	brtfs	hrtf
+0936 : tablet	wireless	headset	e-ticket	installation	in-helmet
+0937 : gcd	magic-leap	sdk	unreal	engine
+0938 : vr	4k	screen	flappy-bird	porting	mobile	platform	high	quality
+0939 : social	ink-story	oculus-rift	google	glass	marshall-mcluhan
+0940 : wifi	software	reliable	router	network	internet
+0941 : apple	health	screen	digital	phone
+0942 : 5g	design	optimization	cloud	smartphone
+0943 : oled	micro	energy	display	organic	battery
+0944 : smartphone	brain	machine	instruction
+0945 : monitor	system	battery	digital	technology
+0946 : microphone	wireless	cellular	signal
+0947 : cellular	network	device	wireless	lte	qualcomm	nokia
+0948 : android	battery	broadcast	wifi	bluetooth	gps	smartphone	optimization
+0949 : lbs	location	mobile	wireless	e-commerce
+0950 : ar	augumented	mobile	3d	opencv	algorithm
+0951 : mobile	security	threat	vulnerability	biometric
+0952 : health	technology	wearable	healthcare	patient	protect
+0953 : iot	ipv6	standardization	privacy	regulatory
+0954 : browser	fingerprint	mobile	privacy	security
+0955 : proximity	sensing	multi-touch	mobile	interaction
+0956 : nintendo	gamecube	controller	game	power
+0957 : microsoft	xbox	halo	forza	minecraft	game	franchise
+0958 : mmorpg	mobile	smartphone	pc	unreal	engine	graphic
+0959 : mobile	smartphone	android	ios	pixiecoin	pxc	cryptocurrency	blockchain
+0960 : mobile	smartphone	ip	rpg	online
+0961 : mobile	smartphone	ip	rpg	simulation	mmorpg	unreal
+0962 : unreal	engine	animation	graphic	game	video
+0963 : game	sega	nintendo	wii	trustmaster	arcade
+0964 : apple	siri	ios	shortcut	demo	edition
+0965 : blackberry	improvement	shortcut	qwerty	unique	feature	key2
+0966 : google	pixel	camera	rumored	prototype
+0967 : dual	multi-camera	emoji	download
+0968 : ios12	fix	quirks	iphone-x
+0969 : honor	apple	steve-jobs	facetime
+0970 : ios12	airpods	live	listen	version	release
+0971 : galaxy-s9	pixel-2	camera	hdr	aperture	fps	video	photo
+0972 : cybersecurity	software	platform	smartphone	cyberdefense	app	sms	android
+0973 : samsung	emoji	animoji	ios	iphone	bitmoji	ar	app	icon
+0974 : smartphone	camera	battery	os	amoled	ram	storage	cpu
+0975 : sonic	android	port	hdmi	mhl	wireless	phone	displayport
+0976 : 5g	firstnet	spectrum	lte	network	cellular	device	iphone
+0977 : vpn	malware	gps	reboot	hotspots	mobile	wifiranger	router
+0978 : gps	phone	wifi	ip	navigational	service	smartphone	switch
+0979 : wifi	broadband	radio	3g	4g	spectrum	isp	bandwidth
+0980 : game	gpu	performance	screen	texture	capability
+0981 : gpu	application	graphics	scalability	nvidia	opengl
+0982 : gpu	computer	hardware	gaming	texture	character
+0983 : shader	optimization	material	cost	version	mouse
+0984 : game	graphics	gpu	netflix	cpu	thread	software
+0985 : performance	hardware	developer	smartphone	battery	power
+0986 : background	game	smartphone	tablet	shinding	multiplayer
+0987 : gpu	card	performance	power	generation
+0988 : memory	internel	external	storage	microsd	card	cloud
+0989 : samsung	battery	charging	graphene	lithium
+0990 : operating	system	android	ios	windows
+0991 : itri	dynamic	interest	analysis	virtualization	mobile	phone
+0992 : parking	smartphone	rialto	software	scansmarti	geosmrati
+0993 : smartphone	internet	4g	video	device
+0994 : smartphone	galaxy	processor	nvidia	performance	dual	core	qualcomm
+0995 : smartphone	size	chip	isim	arm
+0996 : communication	wireless	wifi	5g	microwave	photonics	fiber	network
+0997 : type	operating	system	mobile	smartphone	os
+0998 : phone	music	audiophile	best	analysis	rating
+0999 : smartphone	screen	resolution	market
+1000 : drone	control	smartphone	device	tablet	guide
+1001 : smartphone	console	platform	gaming	best	advantage
+1002 : android	smartphone	free	mobile	control	privacy	information
+1003 : ram-free	more	smartphone	need	efficiently	cpu
+1004 : ps3	cell	microprocessor	ppe	spe	gflops	eib
+1005 : ps3	sdtv	hdtv	connectivity	audio	disc	memory	communication
+1006 : nintendo	nvidia	switch	tegra	processor
+1007 : microsoft	nvidia	flagship	gpu	pascal	titan	scorpio
+1008 : android	controller	phone	joystick	d-pad	button	trigger	peripheral
+1009 : game	maker	drag	drop	darkbasic	customization	design	rpg
+1010 : asus	computex	rog	display	90hz	qualcomm	snapdragon
+1011 : directx	api	game	microsoft	direct3d	direct2d	directwrite	directcomposition

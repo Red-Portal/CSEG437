@@ -1,0 +1,41 @@
+Smartphone Wi-Fi Use Quadruples, Sales Up 47%
+As smartphone sales and Wi-Fi use surge, a symbiotic relationship between the two is causing waves throughout the wireless industry.
+
+      
+August 19, 2009
+By Michelle Megna: More stories by this author: 
+As smartphone sales continue to grow, Wi-Fi is emerging as an integral component of the lucrative mobile market, with a recent study showing a triple-digit spike in consumers using the wireless technology to access the Internet on their handsets.
+
+In its first "Wireless Census," networking firm Meraki reported that the overall number of smartphones using its access points for hotspots quadrupled over the past year.
+
+New sales figures out today from NPD Group also help quantify the red-hot smartphone market. Smartphones accounted for 28 percent of all handset sales in the U.S in the second-quarter, a whopping 47 percent increase in the category's market share since the same period last year, the research firm reported. Twenty percent of those devices sported Wi-Fi connectivity.
+
+Meraki's report highlighted the staggering increases in the number of Apple (NASDAQ: AAPL) devices connecting to its Wi-Fi access points.
+
+The census compared activity seen by a single set of randomly selected Meraki wireless access points in North America in 2008 and 2009 in order to understand macro-level traffic and end-user device trends.
+
+Apple devices, including laptops, iPhones and iPods, grew by 221 percent. They now represent 32 percent of all the devices seen by this set of Meraki access points in North America, compared to just 14 percent in 2008.
+
+The number of Research In Motion (NASDAQ: RIMM) devices accessing Meraki's Wi-Fi network surged by 419 percent from 2008 to 2009, while Nokia devices increased by 114 percent. In 2008, RIM devices represented just 2 percent of all devices observed, but climbed to 8 percent this year. In 2008 and 2009, Nokia represented 1 percent and 2 percent of all devices, respectively.
+
+As smartphones post huge gains, the number of Intel-based devices using Wi-Fi, primarily laptops, declined 11 percent, suggesting that users are increasingly opting for handsets over portable computers to access the Internet on the go.
+
+"It's unambiguous that more people are using more devices to access the Internet via Wi-Fi than ever before," Meraki CEO Sanjit Biswas said in a statement. "But the trends identified by the census also reveal a lot about the devices people prefer and are gravitating towards. The growth in devices overall is impressive, but the growth for Apple, Nokia and RIM devices is stunning. It paints a vivid picture about how people now access the Internet, and the trends we can expect for years to come."
+
+Meraki's findings echo recent reports studying the connection between Wi-Fi and smartphones. ABI Research found that 74 percent of people who have Wi-Fi on their smartphone use it, and 77 percent say they want Wi-Fi on their handset when they make their next purchase.
+
+The increased Wi-Fi usage on smartphones comes as carriers try to maintain their overtaxed 3G networks straining under the heavy data traffic.
+
+As a result, some carriers are scooping up Wi-Fi companies to expand their hotspot coverage in an effort to offload heavy data users to these wireless networks.
+
+Verizon, for instance, announced in July that it would partner with Wi-Fi firm Boingo Wireless that will allow the carrier's broadband customers to use Boingo hotspots.
+
+Similarly, AT&T, the exclusive operator for the iPhone, purchased Wayport in November 2008.
+
+Also highlighting the role of Wi-Fi in the mobile market is the support for auto-authentication in the iPhone's software, OS 3.0, designed to let users seamlessly switch from the AT&T 3G network to hotspots without having to manually enter any information.
+
+Those same benefits also apply to the enterprise, as more workers use their smartphones for business, according to a whitepaper on the topic by iPass, a mobile enterprise firm with Wi-Fi services. Spotty coverage issues with 3G, international roaming charges and choking 3G networks are also factors for companies managing mobile services.
+
+Wi-Fi also plays another role in the complex relationship among handset makers, developers and carriers -- that of the workaround. When applications are released that are seen to compete with the carrier's network or duplicate the phone's functionality, access is sometimes limited to Wi-Fi, as was the case with the Skype for the iPhone.
+
+With the mobile market fueling Wi-Fi usage, it's no surprise that the overall Wi-Fi sector is slated for significant increases. Wi-Fi chipset shipments will total more 100 million just for smartphones this year, while Wi-Fi chipset vendors will ship 1 billion units in 2011, according to a market forecast issued yesterday from ABI Research. 

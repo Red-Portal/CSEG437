@@ -1,0 +1,181 @@
+Hummingbird vs. Snapdragon: the 1 GHz Smartphone Showdown
+
+
+If you follow smartphone technology at all, you¡¯re sure to have heard of the Qualcomm Snapdragon processor. It¡¯s the reigning smartphone CPU heavyweight;
+ a 1 GHz processor packed with a multitude of features, based upon the same ARM CPU technology that modern smartphones such as the Droid, Palm Pre, Nokia N900 and iPhone 3GS use. 
+However, unlike those processors, the Snapdragon runs at 1 GHz while the others run at 600 MHz and under, and thus has become the chip of choice for premium smartphones.
+
+The Snapdragon SoC (System on a Chip) has appeared on the market in several devices recently. The most well-known example is probably the Google Nexus One, though it had already
+ appeared in a previous device, the HTC HD2. The HD2, released November 11th 2009, had a Snapdragon processor as well as a massive 4.3-inch display (diagonally measured), and
+ received rave reviews that almost unanimously ended with one major complaint: the Windows Mobile 6.5 operating system. It¡¯s an operating system largely unchanged from its predecessors
+ and prone to software problems. In addition, to really make good use of the processing power of the phone, applications needed to exist that made use of that power, and the majority of applications
+ written for Microsoft¡¯s mobile OS just didn¡¯t take advantage. The industry begged for an HD2 with Google¡¯s Android mobile operating system, and HTC responded that it wasn¡¯t going to happen.
+
+In a surprise move, Sprint announced the HTC EVO 4G at the CTIA 2010 trade show, and the mobile industry collectively went wild. Here was the phone everyone 
+had been dreaming of with a 4.3-inch display and 1 GHz Snapdragon like the HD2, as well as a deployable kickstand, 8MP rear camera, 1.3MP front camera, HDMI port, and 4G WiMAX connectivity.
+ The HD2 had essentially been reborn, new and improved, for the Android OS. Judging by the limelight cast upon the EVO 4G by the mobile enthusiast community, the EVO 4G
+ is positioned to become one of the best selling smartphones of the year.
+
+
+
+However, another device debuted at CTIA 2010 that was largely overshadowed by the launch of the EVO 4G: the Samsung GT-i9000 Galaxy S. This new phone, in contrast, 
+has a 4-inch Super AMOLED display (more on that later), 5MP rear camera, 0.3MP front camera, (GSM/HSPDA) 3G/3.5G connectivity¡¦ and was mentioned almost as an afterthought 
+to contain Samsung¡¯s own 1 GHz processor. Samsung spent a lot of time at CTIA 2010 talking about the Super AMOLED display, and in contrast only a few moments disclosing details 
+on the new SoC, stating that it has over 3x better performance than the leading competition (referring to graphics performance), and bests all other smartphone processors on the market today.
+ Only later was it confirmed that the SoC was Samsung¡¯s new 45 nm ¡°Hummingbird¡± platform, the only production 1 GHz ARM processor thus far to challenge Qualcomm¡¯s Snapdragon.
+
+
+
+When the news of these phones hit the tech blogs, nearly all of the attention went to the HTC EVO 4G. The EVO 4G was what many had been waiting for, and the Samsung was
+ typically given hardly a second glance. But let¡¯s take a moment to really compare the hardware of these two Android 2.1 smartphones, and then we¡¯ll even go a bit deeper into how
+ the SoCs actually stack against one another when it comes to CPU and GPU processing power.
+
+HTC EVO 4G and the Samsung i9000 Galaxy S
+
+
+
+
+When it comes to built-in storage, the Galaxy S pulls ahead of the EVO 4G with its included 8 / 16 GB internal hard drive (there are indications that different models will be available for each size), 
+while the EVO 4G comes with only 1 GB on board. It may be a moot point however, as both phones include microSD ports for removable memory and the EVO 4G is likely to come with a 16 or 32 GB 
+microSD memory card included. It should be pointed out that due to current limitations within the Android OS, you can¡¯t install apps onto removable memory (unless you root the phone) 
+but 1 GB should still be plenty of room for your mobile applications.
+
+Regarding video capture, both phones can record 720p HD video without any trouble, thanks to integrated video encoders in both SoCs. The Galaxy S has a 5MP camera while the EVO 4G 
+has an 8MP, but it should be pointed out that pixel count alone shouldn¡¯t be treated as an indicator of camera performance. Image noise, focus, performance in low-light conditions, color accuracy,
+ etc are all variables that won¡¯t be determined until cameras in both phones can really be used side-by-side. It should be pointed out that the Galaxy S
+ at CTIA 2010 did not have an LED flash of any sort, which is surprising considering this is fairly standard-faire now on most smartphones. However, the Samsung press kit is noticeably 
+devoid of any photos or renders of the rear of the phone, which could indicate that this might change. Interestingly, both phones include a second camera on the front of the device. 
+The EVO 4G has a 1.3MP front-facing camera, while the Galaxy S manages a VGA (0.3MP) unit. These cameras could be used for video conferencing (among other uses), though except 
+when connected to a wireless network, the EVO 4G¡¯s WiMAX connection would probably be better suited to such a task.
+
+Speaking of wireless connectivity, while we¡¯ve already covered the 3G / 4G differences of the phones, a major feature of the EVO 4G is its ability to function as a mobile 4G wireless hotspot for 
+up to 8 devices. The Galaxy S can be set up to act as a hotspot as well, but only after rooting the Android OS, an administrative access hack which many users won¡¯t want to have to bother with.
+ It¡¯s also interesting to note that the Samsung Galaxy S has Bluetooth 3.0, while the EVO 4G has the standard Bluetooth 2.1 + EDR. Additionally, the Samsung apparently also supports 802.11n 
+for connection to wireless n-only networks, while the EVO 4G can only connect to wireless b/g networks (or wireless n networks supporting b/g devices).
+
+The displays of both phones are key selling points for each. The Samsung Galaxy S possesses a 4-inch Super AMOLED display, which Samsung claims is 20% brighter than a regular AMOLED
+ display, consumes 20% less power, and is 80% easier to see in direct sunlight. In addition, Samsung states that the Super AMOLED manages to integrate the touchscreen directly into the display
+ instead of laying it over the top as in conventional LCD and AMOLED displays, which allows for a slimmer display, and thus a slimmer device.
+
+In contrast, the HTC EVO 4G has a larger 4.3-inch display, but isn¡¯t AMOLED. This is not necessarily a bad thing; high-quality displays like the 3.7-inch LCD display on 
+the Motorola Droid may not be quite as vibrant or energy-efficient as AMOLED, but are still very impressive. The EVO4G¡¯s screen is essentially the same, if not exactly the same,
+ as the screen on the aforementioned HTC HD2. That screen received a very good response from mobile reviewers, and it¡¯s likely that the EVO 4G¡¯s screen will be no different. 
+Compared to an AMOLED display, colors may not look as bright, and since the LCD display is backlit, blacks will not look quite as dark. Viewing angle is also more of a concern for LCD displays
+ than it is on AMOLED displays, which is one reason why the EVO 4G includes a kickstand for viewing media (aside from general convenience). For viewing on a separate display, 
+the EVO 4G features an HDMI-out port, furthering its usefulness as a media device. Samsung counters with a wireless solution on the Galaxy S, streaming video wirelessly via DLNA 
+to compatible displays, (and it¡¯s no coincidence that this includes higher-end Samsung ones!) Ultimately, it becomes a toss-up for the consumer whether they want the larger 
+display of the EVO 4G, or the brighter, sunlight-friendly, and more energy efficient display of the Galaxy S.
+
+
+
+To most smartphone users, the display is one of the most important factors in deciding upon a phone, hence the enthusiasm over the EVO 4G, with one of the largest smartphone
+ displays on the market. But underneath a beautiful display there needs to be a processor that can handle the complex processing needs of the application-intensive Android market, encode 
+and decode high-definition audio and video, as well as fluidly handle 2D and 3D graphics for software and gaming, all while keeping power consumption to an absolute minimum. 
+The modern-day smartphone is a marvel of engineering, essentially inserting a miniature computer into a device we come to rely upon for information, communication, and entertainment.
+
+Detailed specifications of popular SoCs in modern smartphones
+
+
+
+CPU Performance
+Before I go into details on the Cortex-A8, Snapdragon, Hummingbird, and Cortex-A9, I should probably briefly explain how some ARM SoC manufacturers take different paths when developing 
+their own products. ARM is the company that owns licenses for the technology behind all of these SoCs. They offer manufacturers a license to an ARM instruction set that a processor can use, 
+and they also offer a license to a specific CPU architecture.
+
+Most manufacturers will purchase the CPU architecture license, design a SoC around it, and modify it to fit their own needs or goals. T.I. and Samsung are examples of these; the 
+S5PC100 (in the iPhone 3GS) as well as the OMAP3430 (in the Droid) and even the Hummingbird S5PC110 in the Samsung Galaxy S are all SoCs with Cortex-A8 cores that have been tweaked 
+(or ¡°hardened¡±) for performance gains to be competitive in one way or another. Companies like Qualcomm however will build their own custom processor architecture around a license to an 
+instruction set that they¡¯ve chosen to purchase from ARM. This is what the Snapdragon¡¯s Scorpion processor is, a completely custom implementation that shares some similarities with Cortex-A8
+ and uses the same ARMv7 instruction set, but breaks away from some of the limitations that the Cortex-A8 may impose.
+
+Qualcomm¡¯s approach is significantly more costly and time consuming, but has the potential to create a processor that outperforms the competition. Through its own custom architecture
+ configuration, (which Qualcomm understandably does not go into much detail regarding), the Scorpion CPU inside the Snapdragon SoC gains an approximate 5% improvement in instructions 
+per clock cycle over an ARM Cortex-A8. Qualcomm appeals to manufacturers as well by integrating features such as GPS and cell network support into the SoC to reduce the need of a cell phone
+ manufacturer having to add additional hardware onto the phone. This allows for a more compact phone design, or room for additional features, which is always an attractive option. 
+Upcoming Snapdragon SoCs such as the QSD8672 will allow for dual-core processors (not supported by Cortex-A8 architecture) to boost processing power as well as providing further 
+ability to scale performance appropriately to meet power needs. Qualcomm claims that we¡¯ll see these chips in the latter half of 2010, and rumor has it that we¡¯ll begin seeing them show up 
+first in Windows Mobile 7 Series phones in the Fall. Before then, we may see a 45 nm version of the QSD8650 dubbed ¡°QSD8650A¡± released in the Summer, running at 1.3 GHz.
+
+You might think that the Hummingbird doesn¡¯t stand a chance against Qualcomm¡¯s custom-built monster, but Samsung isn¡¯t prepared to throw in the towel. In response to Snapdragon,
+ they hired Intrinsity, a semiconductor company specializing in tweaking processor logic design, to customize the Cortex-A8 in the Hummingbird to perform certain binary functions using
+ significantly less instructions than normal. Samsung estimates that 20% of the Hummingbird¡¯s functions are affected, and of those, on average 25-50% less instructions are needed to complete 
+each task. Overall, the processor can perform tasks 5-10% more quickly while handling the same 2 instructions per clock cycle as an unmodified ARM Cortex-A8 processor, and Samsung states
+ it outperforms all other processors on the market (a statement seemingly aimed at Qualcomm). Many speculate that it¡¯s likely that the S5PC110 CPU in the Hummingbird will be in the iPhone HD, 
+and that its sister chip, the S5PV210, is inside the Apple A4 that powers the iPad. (UPDATE: Indications are that the model # of the SoC in the Apple iPad¡¯s A4 is ¡°S5L8930¡±, a Samsung part # 
+that is very likely closely related to the S5PV210 and Hummingbird. I report and speculate upon this here.)
+
+Lastly, we really should touch upon Cortex-A9. It is ARM¡¯s next-generation processor architecture that continues to work on top of the tried-and-true ARMv7 instruction set. 
+Cortex-A9 stresses production on the 45 nm scale as well as supporting multiple processing cores for processing power and efficiency. Changes in core architecture also allow a
+ 25% improvement in instructions that can be handled per clock cycle, meaning a 1 GHz Cortex-A9 will perform considerably quicker than a 1 GHz Cortex-A8 (or even Snapdragon) equivalent. 
+Other architecture improvements such as support for out-of-order instruction handling (which, it should be pointed out, the Snapdragon partially supports) will allow the processor to 
+have significant gains in performance per clock cycle by allowing the processor to prioritize calculations based upon the availability of data. T.I. has predicted its Cortex-A9 OMAP4440 t
+o hit the market in late 2010 or early 2011, and promises us that their OMAP4 series will offer dramatic improvements over any Cortex-A8-based designs available today.
+
+GPU performance
+There are a couple problems with comparing GPU performance that some recent popular articles have neglected to address. (Yes, that¡¯s you, AndroidAndMe.com,
+ and I won¡¯t even go into a rant about bad data). The drivers running the GPU, the OS platform it¡¯s running on, memory bandwidth limitations as well as the software itself can all play 
+into how well a GPU runs on a device. In short: you could take identical GPUs, place them in different phones, clock them at the same speeds, and see significantly different performance
+ between them.
+
+For example, let¡¯s take a look at the iPhone 3GS. It¡¯s commonly rumored to contain a PowerVR SGX 535, which is capable of processing 28 million triangles per second (Mt/s). 
+There¡¯s a driver file on the phone that contains ¡°SGX535¡± in the filename, but that shouldn¡¯t be taken as proof as to what it actually contains. In fact, GLBenchmark.com shows the iPhone 3GS 
+putting out approximately 7 Mt/s in its graphics benchmarks. This initially led me to believe that the iPhone 3GS actually contained a PowerVR SGX 520 @ 200 MHz 
+(which incidentally can output 7 Mt/s) or alternatively a PowerVR SGX 530 @ 100 MHz because the SGX 530 has 2 rendering pipelines instead of the 1 in the SGX 520, and tends to perform 
+about twice as well. Now, interestingly enough, Samsung S5PC100 documentation shows the 3D engine as being able to put out 10 Mt/s, which seemed to support my theory that 
+the device does not contain an SGX 535.
+
+However, the GPU model and clock speed aren¡¯t the only limiting factors when it comes to GPU performance. The SGX 535 for example can only put out its 28 Mt/s when used i
+n conjunction with a device that supports the full 4.2 GB per second of memory bandwidth it needs to operate at this speed. Assume that the iPhone 3GS uses single-channel 
+LPDDR1 memory operating at 200 MHz on a 32-bit bus (which is fairly likely). This allows for 1.6 GB/s of memory bandwidth, which is approximately 38% of what the SGX 535 needs
+ to operate at its peak speed. Interestingly enough, 38% of 28 Mt/s equals just over 10 Mt/s¡¦ supporting Samsung¡¯s claim (with real-world performance at 7 Mt/s being quite reasonable).
+ While it still isn¡¯t proof that the iPhone 3GS uses an SGX 535, it does demonstrate just how limiting single-channel memory (particularly slower memory like LPDDR1) can be and shows
+ that the GPU in the iPhone 3GS is likely a powerful device that cannot be used to its full potential. The GPU in the Droid likely has the same memory bandwidth issues, and the SGX 530 
+in the OMAP3430 appears to be down-clocked to stay within those limitations.
+
+But let¡¯s move on to what¡¯s really important; the graphics processing power of the Hummingbird in the Samsung Galaxy S versus the Snapdragon in the EVO 4G. It¡¯s quickly 
+apparent that Samsung is claiming performance approximately 4x greater than the 22 Mt/s the Snapdragon QSD8650¡¯s can manage. It¡¯s been rumored that the Hummingbird contains 
+a PowerVR SGX 540, but at 200 MHz the SGX 540 puts out 28 Mt/s, approximately 1/3 of the 90 Mt/s that Samsung is claiming. Either Samsung has decided to clock an SGX 540 at 600 MHz, 
+which seems rather high given reports that the chip is capable of speeds of ¡°400 MHz+¡± or they¡¯ve chosen to include a multi-core PowerVR SGX XT solution. Essentially this would allow 
+3 PowerVR cores (or 2 up-clocked ones) to hit the 90 Mt/s mark without having to push the GPU past 400 MHz.
+
+Unfortunately however, this brings us right back to the memory bandwidth limitation argument again, because while the Hummingbird likely uses LPDDR2 memory, 
+it still only appears to have single-channel memory controller support (capping memory bandwidth off at 4.2 GB/s), and the question is raised as to how the PowerVR GPU obtains 
+the large amount of memory bandwidth it needs to draw and texture polygons at those high speeds. If the PowerVR SGX 540 (which, like the SGX 535 performs at 28 Mt/s at 200 MHz) requires
+ 4.2 GB/s of memory bandwidth, drawing 90 Mt/s would require over 12.6 GB/s of memory bandwidth, 3 times what is available. Samsung may be citing purely theoretical numbers or 
+using another solution such as possibly increasing GPU cache sizes. This would allow for higher peak speeds, but it¡¯s questionable if it could achieve sustainable 90 Mt/s performance.
+
+Qualcomm differentiates itself from most of the competition (once again) by using its own graphics processing solution. The company bought AMD¡¯s Imageon mobile-graphics division 
+in 2008, and used AMD¡¯s Imageon Z430 (now rebranded Adreno 200) to power the graphics in the 65 nm Snapdragons. The 45 nm QSD8650A will include an Adreno 205, which will provide 
+some performance enhancements to 2D graphics processing as well as hardware support for Adobe Flash. It is speculated that the dual-core Snapdragons will utilize the significantly 
+more powerful Imageon Z460 (or Adreno 220), which apparently rivals the graphics processing performance of high-end mobile gaming systems such as the Sony PlayStation Portable. 
+Qualcomm is claiming nearly the same performance (80 Mt/s) as the Samsung Hummingbird in its upcoming 45 nm dual-core QSD8672, and while LPDDR2 support and a dual-channel memory 
+controller are likely, it seems pretty apparent that, like Samsung, something else must be at play for them to achieve those claims.
+
+While Samsung and Qualcomm tend to stay relatively quiet about how they achieve their graphics performance, T.I. has come out and specifically stated that its upcoming 
+OMAP4440 SoC supports both LPDDR2 and a dual-channel memory controller paired with a PowerVR SGX 540 chip to provide ¡°up to 2x¡± the performance of its OMAP3 line. 
+This is a reasonable claim assuming the SGX 540 is clocked to 400 MHz and requires a bandwidth of 8.5 GB/s which can be achieved using LPDDR2 at 533 MHz in conjunction 
+with the dual-channel controller. This comparatively docile graphics performance may be due to T.I¡¯s rather straightforward approach to the ARM Cortex-A9 configuration.
+
+Power Efficiency
+Moving onward, it¡¯s also easily noticeable that the next generation chipsets on the 45 nm scale are going to be a significant improvement in terms of performance and power efficiency. 
+The Hummingbird in the Samsung Galaxy S demonstrates this potential, but unfortunately we still lack the power consumption numbers we really need to understand how well it stacks up
+ against the 65 nm Snapdragon in the EVO 4G. It can be safely assumed that the Galaxy S will have overall better battery life than the EVO 4G given the lower power requirements of the 
+45 nm chip, the more power-efficient Super AMOLED display, as well as the fact that both phones sport equal-capacity 1500mA batteries. However it should be noted that the upcoming 45 
+nm dual-core Snapdragon is claimed to be coming with a 30% decrease in power needs, which would allow the 1.5 GHz SoC to run at nearly the same power draw of the current 
+1 GHz Snapdragon. Cortex-A9 also boasts numerous improvements in efficiency, claiming power consumption numbers nearly half that of the Cortex-A8, as well as the ability to use 
+multiple-core technology to scale processing power in accordance with energy limitations.
+
+While it¡¯s almost universally agreed that power efficiency is a priority for these processors, many criticize the amount of processing power these new chips are bringing to mobile devices, 
+and ask why so much performance is necessary. Whether or not mobile applications actually need this much power is not really the concern however; improved processing and graphics
+ performance with little to no additional increase in energy needs will allow future phones to actually be much more efficient in terms of power. This is because ultimately, power efficiency
+ relies in a big part on the ability of the hardware in the phone to complete a task quickly and return to an idle state where it consumes very little power. This ¡°burst¡± processing, 
+while consuming fairly high amounts of power for very short periods of time, tends to be more economical than prolonged, slower processing. So as long as ARM chipset manufacturers
+ can continue to crank up the performance while keeping power requirements low, there¡¯s nothing but gains to be had.
+
+Conclusion
+The Samsung Galaxy S with a 45 nm Hummingbird beating for a heart looks to be the most powerful ARM SoC available in the near future, however, the 45 nm Snapdragons and 
+the Cortex-A9 TI OMAP 4 series will almost certainly reclaim that title later this year and onwards into 2011. The EVO 4G, while having an impressive set of specifications, still 
+runs a 65 nm chip that is less power efficient and pales in terms of graphics performance when compared to the Galaxy S. If you happen to live under Sprint¡¯s WiMAX umbrella and 
+can¡¯t resist a 4.3-inch screen, the EVO 4G may be a hard opportunity to resist. But if you¡¯re looking for the better performer and display with unsurpassed quality,
+ a Samsung Galaxy S looks like the choice to make assuming it lands on a carrier that works for you. AT&T is likely, signs point to T-Mobile as well, and it¡¯s speculated that it¡¯ll 
+eventually end up on all 4 major US carriers. Both phones are headed our way in ¡°Summer 2010¡±. One thing is certain; it¡¯s not going to be an easy wait!

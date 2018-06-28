@@ -1,0 +1,111 @@
+<Windows Mobile>
+
+From Wikipedia, the free encyclopedia
+
+Windows Mobile is a compact operating system combined with a suite of basic applications for mobile devices based on the Microsoft Win32 API. 
+Devices which run Windows Mobile include Pocket PCs, Smartphones, and Portable Media Centers. It is designed to be somewhat similar to desktop 
+versions of Windows.
+
+
+Common Windows Mobile Features
+
+Windows Mobile for Pocket PC carries these standard features in most of its versions:
+
+- Today Screen shows the current date, owner information, upcoming appointments, e-mail messages, and tasks. 
+It also includes the notification bar which includes icons to notify the status of Bluetooth and also includes the New button. 
+Programs can be installed which adds extra items to the Today screen. One of these is Microsoft Money for Pocket PC. 
+The background image can be customised directly through the Pocket PC, or themes can be created and syncronised onto the Pocket PC. 
+- The taskbar shows the current time, the volume, and the connectivity status. When a program or message box is open the blank space after 
+the clock is filled with an OK or close icon. The main feature of the taskbar is the Start Button, which is designed similarly to the 
+Start Button which features on desktop versions of Windows. The Start Menu features recently opened programs at the top, nine 
+customisable menu entries, and links to the program, settings, find (search), and help. 
+- Pocket PC versions of Microsoft Office applications are included in Windows Mobile. These include Pocket Word and Pocket Excel. 
+In Windows Mobile 5.0 Pocket PowerPoint has been included. These versions include many of the features which are used in desktop versions, 
+but some other features like inserting tables and images have not been included in pre 5.0 versions. ActiveSync has capabilities which 
+convert desktop versions of files to Pocket PC compatible versions. 
+- Outlook mobile comes with Windows Mobile. This includes tasks, calendar, contacts, and inbox that can be sync'ed either with 
+Outlook or direct with an Exchange Server or Kerio MailServer (internet connection is required for this method). Microsoft Outlook for 
+desktop versions is sometimes included in a value-added CD-ROM which is included with the Pocket PC hardware manufacturer. 
+- Windows Media Player for Windows Mobile is bundled with the Windows Mobile software. Currently, all Pocket PCs include Version 9 of the player, 
+but Version 10 has been included with newer hardware and newer versions of Windows Mobile. For existing devices, Version 10 is available 
+for download for only specified devices ? these include devices from the Dell Axim range. The player supports .WMA, .WMV, .MP3, and .AVI files. 
+Currently MPEG files are not supported, and a third-party program must be downloaded to play these, and WAV files are played in a separate player. 
+Some versions are also capable of playing .M4A audio. 
+Client for PPTP VPNs. 
+
+
+
+PocketPC 2002
+
+PocketPC 2002 was powered by Windows CE 3.0. Targeted specifically at 240 ¡¿ 320 (QVGA) Pocket PC (keyboardless) devices, 
+PocketPC 2002 was, like the original PocketPC 2000 release, a stand-alone entity in the Microsoft Embedded device range. 
+With future releases, the Pocket PC and Smartphone lines would increasingly collide as the licensing terms were relaxed allowing OEMs to 
+take advantage of more innovative, individual design ideas.
+
+
+
+
+Windows Mobile 2003
+ 
+Typical Windows Mobile 2003 for Pocket PC Today ScreenThe third version, named Windows Mobile 2003, was released on June 23, 2003, and 
+was the first release under the Windows Mobile banner. It came in four editions: "Windows Mobile 2003 for Pocket PC Premium Edition", 
+"Windows Mobile 2003 for Pocket PC Professional Edition", "Windows Mobile 2003 for Smartphone" and "Windows Mobile 2003 for Pocket PC Phone Edition". 
+The last was designed especially for Pocket PCs which include phone functionalities (like HTC's Himalaya, distributed in many countries as Qtek, XDA, 
+MDA or VPA). The Professional Edition was used in Pocket PC budget models such as the iPAQ rz1700 series. It lacked a number of features that 
+were in the Premium Edition, such as a client for L2TP/IPsec VPNs.
+
+Windows Mobile 2003 for Smartphone is ? despite several similarities with Pocket PC ? a substantially different platform that also requires 
+software applications to be specifically targeting this device type. To name a few specifics, Windows Mobile powered Smartphone devices do not 
+have touchscreens, have lower display resolution, have a regular phone keypad, and are specially designed for single-handed use.
+
+Windows Mobile 2003 is powered by Windows CE 4.20.
+
+
+
+
+Windows Mobile 2003 Second Edition
+
+Windows Mobile 2003 Second Edition, also known as Windows Mobile 2003SE, was released on March 24, 2004 and first offered on the Dell Axim x30. 
+It includes a number of improvements over its predecessor, such as:
+
+The option to switch from landscape to portrait screen layout. This is not available in the Smartphone version. 
+Pocket Internet Explorer (otherwise known as PIE) includes the option to force a page into a single-column layout, making reading easier 
+since one now only has to scroll vertically. 
+VGA (640¡¿480) screen resolution is now supported in addition to the previous 320¡¿240 resoution. Also supported is a new square 
+form factor (240¡¿240 and 480¡¿480 for VGA screens), which is ideally suited for manufacturers wishing to include a hardware keyboard. 
+Although it wasn't originally slated to contain this feature, Microsoft decided to add it due to pressure from Pocket PC manufacturers. 
+Support for Wi-Fi Protected Access. 
+Windows Mobile 2003SE is powered by Windows CE 4.21.111
+
+
+
+
+Windows Mobile 5.0
+
+Windows Mobile 5.0, originally codenamed "Magneto", was released on May 9, 2005. It is powered by Windows CE 5.0 and 
+uses the .NET Compact Framework 1.0 SP2 ? an environment for programs based on .NET to be used.
+
+Features include:
+
+A new version of Office called "Office Mobile" 
+PowerPoint Mobile has been added 
+Excel Mobile adds graphing capability 
+Word Mobile adds tables and graphics insertion 
+Windows Media Player 10 Mobile 
+Photo Caller ID 
+Picture and Video package, which converges the management of videos and pictures 
+Bluetooth support with fewer features than prior Broadcom/Widdcomm alternatives, although some users reportedly have managed to replace 
+the defunct stack with the legacy Broadcom/Widdcomm stack.[citation needed] 
+Global Positioning System (GPS) management interface to all navigation programs installed 
+Microsoft Exchange Server "push" functionality improvements - Improvements only function with Exchange 2003 SP2 installed: 
+http://www.microsoft.com/technet/prodtechnol/exchange/2003/sp2mobility.mspx. The "push" functionality also requires vendor/device support: 
+http://www.palmblvd.com/articles/2005/10/2005-10-19-Microsoft-Looks-to.html, with the Palm Treo and Motorola Q scheduled to receive support 
+with Q1 2006 firmware updates. With AKU2 software upgrades all WM 5.0 devices support DirectPush 
+QWERTY keyboard-support is included by default 
+Error reporting facility similar to that present in desktop and server Windows systems 
+ActiveSync 4.2, promising 10?15% increased speed on synchronization 
+Persistent storage (PS) is now supported in Pocket PCs allowing devices increase battery life. 
+Previously up to 50% (enough for 72 hours of storage) of battery power was reserved just to maintain data in volatile RAM. 
+Windows-based devices are moving from using RAM as their primary storage medium to the use of flash memory. 
+Windows Mobile updates are released as Adaptation kit upgrade. AKU3 is the most current release, while the next version, Crossbow is planned. 
+Windows Mobile 5.0 was released at Microsoft's Mobile and Embedded Developers Conference 2005 in Las Vegas, May 9?May 12, 2005.

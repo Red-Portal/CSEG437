@@ -1,0 +1,116 @@
+This may come as some surprise to you, but we here at PCWorld are pretty big fans of PC gaming. Shocking, I know. And so please, all ye console believers, factor in whatever amount of bias you’d like to the following statement:
+
+PC gaming is the most affordable it’s ever been—and for a lot of people it’s also the best value for a multitude of reasons. Yes, Microsoft’s powerful Xbox One X console delivers a surprising amount of bang for your buck. Hardware costs are just part of the equation, though.
+
+Here’s a handful of reasons why PC gaming is a better value than consoles.
+
+Price
+First let’s talk about the elephant in the room: raw initial dollars. That’s normally where the PC’s fallen behind in the past, compared to consoles. “Yeah, I could spend thousands of dollars on a PC or $300 to $400 on a console.”
+
+PC gaming is still more expensive, at least up front. That hasn’t changed. If you can build a gaming desktop for $400, you’re either a wizard or extremely good at snagging discount parts and waiting for sales. More power to you.
+
+But the PC isn’t that much more expensive at this point. You’ll can build a console-beating Ryzen gaming PC for under $550, or a much more powerful gaming rig for $850.
+
+Prices have come down a lot—graphics card prices especially. A 3GB GeForce GTX 1060 will only run you $200 on Amazon, which is incredible. Max out graphics at 1080p resolution and you’ll still hit 60-plus frames per second in basically every modern game. For only $200. And a more future-proof version with 6GB of on-board RAM only costs $260, and that’ll let you game at higher 1440p resolutions without problem.
+
+Now, finding graphics cards at their recommended list price can be hard these days, but the point is that companies want PC gaming to be accessible. They want enthusiasts buying GPUs. Competition has made the PC more affordable than ever before.
+
+And that $200 graphics card is better than what’s inside the PlayStation 4 Pro. Here’s a comparison of raw TFLOPS power, courtesy of PCWord’s graphics guru Brad Chacos. Nvidia’s 3GB GTX 1060 offers roughly equivalent gaming performance as AMD’s RX 570, while the 6GB GeForce card performs like AMD’s RX 580:
+
+It’s a bit misleading because consoles and PCs take advantage of their hardware in different ways, but serves well enough as a raw comparison. $200 gets you a graphics card that’s (on paper at least) better than what you’ll see in the PS4 Pro. Grab the rest of your parts and you’re all set for pretty, especially if you already have a keyboard, mouse, and monitor handy, as many people do.
+
+Hell, you can go lower than that if you’re only looking to match the performance of the original PS4 and Xbox One. A $110 graphics card like the GeForce GTX 1050 or Radeon RX 560 paired with AMD’s most affordable Ryzen 3 chip ($107 on Amazon) will get you over that extremely low bar.
+
+But wait, there’s more
+“Okay, sure: PC gaming is more affordable than ever before. But it’s still expensive compared to consoles. I don’t see how you can also say it’s the best value for most gamers.” We’re getting to that part, fictional Mr./Ms. Rhetorical Device.
+
+Better upgrade path
+This is the big change, and the inspiration for this article.
+
+A lot of people bought a PlayStation 4—at the time the most powerful console ever made. And they expected it to last them for years. Years.
+
+We can talk all we want about expectations around consoles, about why people are willing to spend $600-plus on a phone every two years but expect a $400 console to last them for ten. But I’m not talking about that here. I don’t really care—this is PCWorld, after all. Besides, it’s a tangential argument.
+
+The difference, this time, is that consoles are now using a faux-PC upgrade strategy. The PS4 Pro and Xbox One X show that we might expect consoles to transfer into “platforms”—tiers of hardware, with more powerful boxes released every three to four years. 
+
+Consoles are bad at upgrades though. As in you can’t actually upgrade them. It’s a misnomer. You don’t crack open the PlayStation 4, shove a new GPU in it, then fire it back up. You throw your old PS4 on Craigslist and buy a new one.
+
+The PC is admittedly more expensive up front, but your upgrade path later is markedly easier. If you’re a budget gamer, you can probably run the same processor for up to six years, and the same graphics card for four to five years. Case? RAM? Power supply? Fans? Hard drives? All surprisingly cheap stuff you’ll carry in perpetuity, build to build, replacing only when absolutely necessary.
+
+You could easily stick to a budget build with as-needed upgrades and be totally fine for a long, long time, especially if your goal is only to stay ahead of consoles. Stagger them and you’ll end up spending the same or less than if you bought a new console every three or four years.
+
+Again, I’m not sure whether we’ll see another iteration of the PS4/Xbox One in a few years. Maybe this is a one-time thing. I doubt it, though. I think these incremental box upgrades are the new norm.
+
+Console exclusives are over
+Tonight I could pop open Steam and play Street Fighter V. I could also play Gears of War 4, Forza Motorsport 7, Rise of the Tomb Raider, Axiom Verge, Talos Principle, Killing Floor 2, Darkest Dungeon, No Man’s Sky, Downwell, SOMA, Everybody’s Gone to the Rapture, Transistor, Grow Home, Hotline Miami 2, N++, Volume, and so many others. The video below is of Tekken 7 running at 4K resolution on a PC, and Final Fantasy XV is coming to computers in 2018.
+
+All of those games are exclusive to either the Xbox One or the PlayStation 4. Or rather, they’re marketed as “Console Exclusive” for those consoles—meaning they also came to the PC. Both Microsoft and Sony seem to consider the PC neutral territory.
+
+Sony’s more cautious, keeping its first-person titles all to itself. You won’t find Uncharted 4 on the PC yet. But there’s signs that might change, given that Sony recently released PlayStation Now—its subscription-based game streaming service—on the PC.
+
+Microsoft’s gone further and wholesale embraced its involvement in both the Xbox and Windows 10, creating the Xbox Play Anywhere program. Nearly every “Xbox Exclusive” is coming to Windows 10 day-and-date nowadays, including Gears of War 4, Cuphead, Quantum Break, Forza Motorsport, and more. 
+
+And games from third-party AAA publishers universally land on PCs. Point being: Buying a PC rarely means missing out on console games these days. Sure, you won’t be able to play handful of first-party titles on Sony’s end, but everything else makes it over—and often (barring edge cases like Arkham Knight) in better condition than the console versions.
+
+PC exclusives aren’t
+Maybe you have that friend who asserts, vehemently, “The PC has no exclusives.” We’ve all run into that person before—if not in person, at least on forums.
+
+It’s a weird argument, and one that belies an ignorance about the PC as a platform. Maybe it’s shorthand for “The PC has no exclusives [that I want to play],” but there are far more PC-only games these days than console-only.
+
+The entire strategy genre, for one. Both turn-based and real-time strategy games are mostly found on the PC—and there are a ton.
+
+It’s not all plodding strategy games though. There are hundreds of games each year that make a name for themselves on PCs and never make it onto consoles. These span genres, from shooters (Unreal Tournament, Quake Champions) to RPGs (Tyranny, Mount & Blade II) to...I don’t even know (Duskers, Factorio).
+
+Backwards compatibility
+Oh yeah, and once you own a game on the PC you own it forever. (Unless you’re one of those people who’s preternaturally paranoid that Valve’s Steam will fold and take your games down, too. In which case there’s always GOG.)
+
+The PC’s gaming heritage stretches back something like forty years at this point. Thanks to the enthusiasm of the PC community, most of that forty years is immediately accessible to you. Text adventures? The Interactive Fiction Database has you covered. DOS? Thanks, DOSBox. The more complicated environments of fifteen or twenty years ago? Again, there’s GOG.com, plus (if the game you’re looking for is popular) probably dozens of mods to improve the experience.
+
+And I won’t even mention the PC’s more legally-gray console emulators. Not in this article, at least.
+
+Buy a PC, and all that history is open to you. Just last week Steam added a bunch of classic Sierra games—everything from Gabriel Knight to Phantasmagoria to Caesar III. Some of the best the ‘90s had to offer, still accessible to today’s players.
+
+Sure, it can be finicky. Installing mods can be a hassle, or intimidating if you have no idea what you’re doing. But I’ll put in the work if it means having the ability to replay Planescape: Torment on my current hardware instead of scrounging up a PC from 1999 or relying on some publisher to fund a remaster. Heck, PlayStation 4 owners can only play PlayStation 3 games if they pony up $20 per month for PlayStation Now.
+
+Sales and free-to-play games
+“Okay, but I don’t like classic games and/or I played all those games before.” Well good news! It’s also cheaper to be a PC gamer when it comes to new titles. Our prices fall faster, go lower, and stay that way.
+
+The vaunted Steam Sales comes to mind first, but it’s far from the only sale in town. GOG.com, Amazon, Green Man Gaming, Gamersgate, Humble—all of them run sales on the regular. You can easily amass a huge library of games on the cheap, more than making up for the cost of your hardware.
+
+It’s not unusual to see pre-orders for big games go for 10 or even 20 percent off on Steam, and by six months post-release many big games will fall to $15 or $20 during a sale. Or lower. Great indie games often go for under $10 or even $5 on sale if you’re patient. Consoles? Even on sale, most many AAA games seem to bottom out around $30 for years on end.
+
+And then there’s free-to-play. Often a dirty word, the fact is that some of the world’s biggest (and most-loved) games are free. Maybe you’ve heard of Dota 2 and League of Legends? Team Fortress 2? Path of Exile? Evolve? You can spend hundreds (or thousands) of hours playing some of the PC’s best games and never spend another cent.
+
+Miscellanea
+Get motion-sick? Gaming on the PC allows you to change your field of view, or FOV, potentially mitigating that issue. Personally I run all my PC games at an FOV around 100 degrees. Consoles, being played on a screen farther away, are usually around 60 degrees. That’s not an issue in itself. The bigger problem is that console games are typically locked to a certain FOV, meaning if it’s making you sick you can’t change it. (Disabling motion blur also falls in this category.)
+
+Played a game and hated it? Steam, Origin, GOG.com, and many other retailers now allow you to refund any game you purchase, as long as you meet certain parameters. Not only does it let you get your money back when developers don’t deliver on a game, but it also lets you test whether it runs on your machine—thereby removing much of the guesswork from PC gaming.
+
+And don’t get me started about the idea of paying for online multiplayer. Ugh. Still none of that here.
+
+Control flexibility
+We could also talk at length about the mouse and keyboard, but we won’t. Suffice it to say: It’s more precise, more approachable (for new gamers), and more responsive than a controller.
+
+But there are so many console games on PCs nowadays, it’s only natural you want to play some of them with the original control scheme. Dark Souls comes to mind, as does Assassin’s Creed. These games just play better on a gamepad. Luckily, it’s easier than ever to connect an Xbox One controller or a DualShock 4 to your PC, either wired or (in the case of the Xbox One S and DS4) with Bluetooth. And most games support controllers on the PC these days, especially the big multi-platform releases.
+
+You probably need a PC anyway
+And here’s where we end. The be-all-end-all argument.
+
+It’s easy to discuss the price of a gaming PC in a vacuum. There are good reasons to do so: Maybe you prefer laptops for your day-to-day computing. Maybe you get all your work done on a tablet.
+
+But for many people, a desktop computer is still a necessity (or at least a preference). People doing photo or film or audio work, or working on games of their own, or typing for long hours every day need a PC. Others simply like sitting at a desk and having a large screen and a meaty keyboard.
+
+
+Why not use your PC for work and play?
+In other words, there are ways to subsidize the cost of a gaming PC in your own head. “Well, I need a desktop PC anyway to use Ableton and Word and Premiere, so why not tack on $250 for a Radeon RX 580 and make it a gaming machine at the same time?”
+
+A console? That’s a one-use machine—especially in the age of the $35 Chromecast. There are so many ways to get Netflix, HBO Go, and the like onto your TV, you don’t really need a console to do those things anymore.
+
+Bottom line
+PC gaming still has issues it needs to overcome. Streaming to Twitch is overly convoluted for the layperson. Prepare to spend a bit of time on Google or Steam forums if a game breaks. Updating graphics drivers? A hassle for sure. Even the sheer act of building a PC can be stressful, at first.
+
+It’s not for everyone. Not yet.
+
+But PC gaming is miles more accessible than it was in the past. There are practically infinite resources on the Internet for any question you might encounter, for any error code a game might spit back at you. Driver updates are done with the push of a button now and take far less time than any console firmware update.
+
+The PC is in a good spot—probably the best it’s ever been, and getting better all the time. If you look at the Xbox One X and PlayStation 4 with disappointment, or bemusement, maybe it’s time to think about moving to a more open platform.

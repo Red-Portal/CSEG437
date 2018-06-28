@@ -1,0 +1,43 @@
+Why Aren't Smartphones More Popular in U.S?
+
+ The U.S mobile phone market is very different from the rest of the world, from the networks to the hardware to our approach to mobile phones. The result? A slower adoptation of smartphones thatn other parts of the word.
+
+ That's one of the main take-awyas from several panel discussions at the smartphone summit, taking place in a citiy notorious for distracted drivers on their cell phones. The Summit precedes the annual CTIA wireless conference in Los Angeles, which starts today.
+
+ According to The NPD Group, smartphones only make up around two percent of total wireless device sales in the U.S.. A smartphone is defined as a telephone with an operating system, applications and, if not a full keyboard, then one with the ability to input more than 12 digits.
+
+ Part of the problem, according to Avi Greengart, principal analyst, mobile devices for the market research firm Current Analysis, is vendor lock-in and the lack of portability between phones.
+
+ America has three different wireless networks: GSM, used by T-mobile and Cingular; CDMA, used by verizon and Sprint; and iDEN, used by nextel. Also, carrieres in the U.S lock the consumer to the phone much more rigidly than in other parts of the world by lcoking the SIM card.
+
+ This makes it nearly impossible to easily switch carriers and very diffcult to switch phones. europe an dAsia, others at the summit pointed out, have a much stronger trend toward upgrading and replacing their phones.
+
+" In America, the operator is the hardware vendor. In Europe, the have these cell phone warehouses where you can buy allkinds of differenct devices," said David Brown, senior VP of advanced wireless services for Brighphoint America, a wireless service and product provider.
+
+It's an unusual contradiction. The U.S. has a much higher rate of upgrading and replacing computers than in Europe, but in Europe, they upgrade and replace their phones faster than in the United States. Greengart said it's no surprise. 
+
+"The U.S. has a broadband, PC-centric culture," he explained. "Most Americans got their first online experience on a PC experience, while in Europe, most people got their first online experience through a cell phone." 
+
+Another significant difference in the U.S. and the rest of the world is our choice of platform. While NPD showed the bulk of worldwide smartphones to be using Symbian OS or Linux, the top-selling smartphone in the U.S. are from Palm  and Research in Motion. 
+
+Strangely, three-quarters of people with smartphones also carry a PDA. That's up from one year earlier, when half of all smartphone users carried a PDA as well, according to Bill Hughes, principle analyst for In-Stat. 
+
+"There's still a reliance on the PDA by smartphone users. I can't tell why, but there it is," he said. He added that very few smartphone users download additional applications for their phones to add value to it. 
+
+The success of smartphones will require multiple changes, starting with increasing their sex appeal. The Motorola RAZR, which runs Linux under the hood, did just that. A drop in prices will also help. Many smartphones are over $400. With some getting under the $200 mark, panelist here said that will broaden their appeal. 
+
+Hughes estimated that the smartphone market will start to grow and reach as much as 12 percent of the market by next year. Even though the Palm Treo and RIM BlackBerry dominate the U.S. market, they are fractional players worldwide. 
+
+The Symbian OS has 65 to 70 percent of the market, followed by Linux. RIM and Palm have single-digit marketshare worldwide, he said. 
+
+The question now is how quickly the mobile phone culture in the U.S. moves. 
+
+"Younger consumers are starting to have a similar upgrade phone culture in Europe, but that's balanced out by the fact you can't take your SIM card from one phone to another," said Greengart. 
+
+Another key to increasing the popularity of the smartphone market is to offer variety. For now, there's only a handful of options to a cell phone customer, and people feel an increasing personal connection to their cell phone, according to Johan Sandberg, CEO of UIQ Technology, developer of software solutions for smartphones. 
+
+"People are starting to view the cell phone as their own. Manufacturers need to create a broader set of phones to appeal to more groups of customers, but expect to sell fewer numbers of each model," he said. 
+
+Story Courtesy of internetnews 
+
+

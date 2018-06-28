@@ -1,0 +1,15 @@
+Wireless Memory/RFID 
+ 
+ 
+Breakthrough wireless memory technology that enables a new generation of RF applications 
+ 
+Ramtron's MaxArias wireless memory combines the low power, high speed, and high endurance features of Ramtron's nonvolatile F-RAM memory technology with wireless access to enable innovative data collection capabilities for a broad range of applications. 
+ 
+Ramtron's first family of wireless memory devices, named the MaxArias WM710xx product line, enables unparalleled tag sensitivity, read/write range, and speed. The MaxArias WM710xx will allow system integrators to extend their RF capabilities to create wireless data collectors capable of storing greater amounts of information locally on high-performance, RF-enabled ICs. 
+ 
+The WM710xx family offers F-RAM memory capabilities in 4Kb, 8Kb, and 16Kb densities. The WM72016 offers Direct Serial Port Access with 16Kb density. This serial bus provides communication directly to a host microcontroller for the purpose of reading and writing to the memory map. 
+ 
+ 
+ 
+ 
+ 

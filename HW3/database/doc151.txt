@@ -1,0 +1,22 @@
+Linux Laptops - LC 2100 Linux Laptop - Ultra-portable, Finely Designed, Traveler's Notebook
+
+LC2100 Linux Laptop is industry's lightest full-functional Linux notebook. Whether you like to work on a couch or while on an airplane, the sleek LC2100 will become your favorite companion. Built using Intel's Centrino technology, this laptop provides best of performance and battery life. The laptop has been thoroughly configured and stress tested by nuxCertified's engineers.
+
+OS News Review: "Overall, this laptop is a must-buy, especially if you are into the hunt of a very compatible, truly mobile Linux-compatible laptop. The LC2100 won't disappoint you."
+
+No Windows Tax! Most laptops come with built-in cost of Windows, regardless of whether you want to use Windows or not. LC2000 series is free of any such baggage. You only pay for Windows if you want to use it.
+
+Distributions:
+
+Currently recommended distribution on LC2100: Fedora Core 3 with July updates
+
+Fedora Core 3 
+Ubuntu 5.10 "Breezy Badger" (recommended for users of Debian style distributions)
+Fedora Core 4 (Default Install)
+Open SuSE ($50 installation fee)
+
+Please specify desired distribution while ordering. 
+
+If you prefer to install Linux (or any other OS) on your own and you are just looking for Linux-friendly laptop hardware, you can order this system without any OS at a $50 discount. Please choose this option only if you have significant experience with making devices and drivers work with Linux. You will only be entitled for hardware support, if you choose this option. 
+
+Current special: Free upgrade to 5400 RPM disk. 

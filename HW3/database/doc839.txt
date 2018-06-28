@@ -1,0 +1,15 @@
+Nvidia 3D Vision is a technology developed by Nvidia,[1][2] a multinational corporation which specializes in the development of graphics processing units and chipset technologies for workstations, personal computers and mobile devices. This technology allows games, movies and pictures to be displayed in stereoscopic 3D.[3][4][5]
+
+NVIDIA 3D Vision¢ç automatically transforms hundreds of PC games into full 3D right out of the box--without the need for special game patches. NVIDIA makes the most of its The Way It's Meant to be Played program and close relationships with game developers to provide an amazing 3D gaming experience.
+
+The following list is all current games supported by NVIDIA 3D Vision in the latest GPU driver v314.07. Please note that with Release 275 and higher drivers, the 3D Vision installation has changed. Please read this FAQ for more information.
+
+ I started this game in June 2011. My inspirations were Minecraft, Zelda, Secret of Mana, Monster Hunter, Diablo, World of Warcraft and many more. My aim was to create an infinite, colorful, procedurally generated world, full of adventures, monsters, and mysteries. The result is Cube World, a voxel-based role-playing game.
+
+My wife joined development in 2012, and we have released the alpha version for Windows PC in July 2013. The alpha already has many features, but some are still missing. You can check out a feature overview below.
+
+The alpha is available for a lower price than the beta version and the final version. We're planning to release updates regularly. Updates are free.
+
+
+
+To play the following in 3D, as well as convert over 650 existing games,[6] requires Nvidia 3D Vision Glasses with a 120 Hz monitor, or red and cyan glasses with slower monitors, Windows Vista or later, enough system memory (2GB recommended), a compatible CPU (Intel Core 2 Duo or AMD Athlon X2 or higher) and a compatible Nvidia video card (some GeForce 200 series ones or later).[7] Since releasing the technology in 2009, by the end of 2013 only about 40 games[8] appeared certified as "3D Vision Ready", while other have noticeable defects in the 3D image.

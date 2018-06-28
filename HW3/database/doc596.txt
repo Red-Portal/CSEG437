@@ -1,0 +1,24 @@
+Deconstructing Chronobreak
+
+As you might have seen on the NA LCS, a critical bug during the FlyQuest and Cloud9 series (spoilers) on Sunday, February 12, caused a long pause. Previously, we would have offered a remake since the bug was verifiable and had a critical impact on the game. However, we were able to use our new tool, the Deterministic Disaster Recovery Tool aka ¡°Chronobreak¡±, to recover the game to a point just before the bug occurred.
+
+Since the series, we¡¯ve seen some fan questions about Chronobreak and how it¡¯ll impact competitive play. In this post, we¡¯ll be sharing more information about Chronobreak, how it works, how it¡¯ll be used, and our plans around global rollout.
+
+What is Chronobreak?
+Since the start of Spring Split, we¡¯ve had Chronobreak running in the background at the NA LCS. As the name suggests, this new tool allows us to recover from disasters such as bugs during live events to maintain competitive integrity.
+
+How does it work?
+Chronobreak saves a Server Replay of a game while it¡¯s being played (a recording of all the inputs received by the server). If needed, the Server Replay can be used to create a new game and play it up until any point in the timeline. Players and Spectators can then connect to the new game and resume play.
+
+Our engineering team will be releasing more information about Chronobreak and Determinism for those interested in a more detailed, technical look at how this tool was engineered and concepted in the coming weeks.
+
+When will it be used?
+
+Right now, we'll only use Chronobreak in a situation that would warrant remaking the game. NA LCS officials evaluate bugs on a case by case basis, making sure that they are both:
+
+Verifiable : The bug is proven to be a bug and not caused by player error.
+Critical   : The bug had a significant gameplay impacting effect. The effect of the bug would have to greatly influence the competitive game state in a negative way for at least one team. If a bug occurs, but the outcome is not altered by the bug, then it will not be considered critical. For example, a player dying from a bug when they would not have died otherwise is critical. 
+
+Once NA LCS officials determine the bug meets the above criteria and a remake is accepted by the impacted team, NA LCS officials will attempt to use Chronobreak to recover the game prior to when the bug occured. If Chronobreak doesn¡¯t work, a full remake will be implemented instead.
+
+While Chronobreak addresses the types of bugs that cause more than 90% of remakes in competitive play, it does not address all of them such as the Aurelion Sol bug at Worlds 2016, which would have recurred even in a recovered game.

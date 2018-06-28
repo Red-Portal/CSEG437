@@ -1,0 +1,99 @@
+. The expression ¡°game engine¡± was used because, at the time of the
+development of NetImmerse, that was what such large libraries were called. 3DGED
+is partly about the computer graphics issues for a real-time engine. It discusses the
+graphics pipeline?taking an object, positioning and orienting it in the world, and
+drawing it (if necessary). Some discussion was included of rendering effects, the topic
+of interest to most budding game programmers, but the book covered in more detail
+the aspects of scene graph management. This is the ¡°front-end¡± data management
+system that provides potentially visible data to the ¡°back-end¡± rendering system. Part
+of scene graph management is about abstract systems. An appendix (which should
+have been a chapter) was provided on object-oriented design, including topics such as
+run-time type information, sharing via reference counting, and streaming (memory,
+disk, networks). Other abstract systems included spatial organization via trees, a
+rendering layer to hide graphics APIs, controllers, and so on.
+3DGED covered a number of topics of interest?for example, animation, level of
+detail, sorting, terrain, and so on. But all these were discussed at a fairly high level, a
+¡°design level¡± so to speak.
+Much to the dismay of some readers, the book contained a lot of mathematics,
+required to implement the concepts. Reader feedback indicated that what many folks
+want are the architectural details of how you actually build a game engine, with less
+focus on the mathematical algorithms. Such a need has led to this book, 3D Game
+Engine Architecture (3DGEA).
+3DGED included a basic scene graph management system and rendering system,
+called Wild Magic. The original code ran on Windows with OpenGL, but over the
+years it has been ported to run on PCs with Direct3D, on PCs with Linux, on Macintoshes with OS X, and on Unix workstations that have OpenGL support. The engine
+has evolved to include many more features, namely, high-level rendering effects and
+shaders. I have received innumerable emails asking how to use the engine, how to extend the engine, and how to write tools for the engine. Naturally, to understand the
+answers to these questions you must understand how the engine is architected. This
+book is about the Wild Magic architecture, a case study for understanding the issues
+of constructing an engine that you would see in a commercial environment.
+The issues are many, each relatively easy to understand in isolation from the
+others. However, putting all the pieces together is a formidable task to get right. But
+what does ¡°right¡± mean? An engine is a large library and is subject to the software
+engineering principles that govern how such a large package evolves. Certainly you
+(or your customers) will want to customize the engine to support new features.
+But unfortunately, simplicity of maintenance does not come trivially. The various
+abstract subsystems of the library must be architected so that they integrate easily
+among themselves, and, as many customers of middleware have found out, they
+must integrate easily with packages provided by others. Talk to any game company
+that has had to combine a graphics engine, a physics engine, a networking engine,
+and an AI engine together into a single game?you will hear the war stories about
+the dif?culties of making that happen. The promise of this book is not that you will
+architect a system that will just simply plug into everyone else¡¯s system, but rather that
+you will learn how to minimize the pain of doing so. You need to ask a lot of questions
+about your architecture and many times decide on various trade-offs. Sometimes you
+will make a decision and go with it, only to ?nd out later that you have to redesign
+and rebuild. This is a natural part of the process for any large library construction,
+but your goal is to anticipate where the problems will occur and design to facilitate
+solving those problems without having to rewrite from scratch.
+The next three sections present a couple of complete applications that compile
+Normally, the local transformation variables (translation, rotation, scale) are for
+exactly that?transformation. In the Light class, the local translation is interpreted
+as the origin for a coordinate system of the light. The columns of the local rotation
+matrix are interpreted as the coordinate axis directions for the light¡¯s coordinate
+system. The choice for the default coordinate system is akin to the standard camera
+coordinate system relative to the screen: The center of the screen is the origin. The up
+vector is toward the top of the screen (the direction of the positive y-axis), the right
+vector is toward the right of the screen (the direction of the positive x-axis), and the
+z-axis points out of the screen. The light is positioned at the origin, has direction into
+the screen (the direction of the negative z-axis), has up vector to the top of the screen,
+and has right vector to the right of the screen. Because the light¡¯s coordinate system
+is stored in the local translation vector and local rotation matrix, you should use the
+interface provided and avoid setting the data member Local explicitly to something
+that is not consistent with the interpretation as a coordinate system.
+The ?rst block of code in the interface is for set/get of the coordinate system
+parameters. The SetDirection function is offset by itself just to draw attention to the
+fact that you are required to pass in a unit-length vector. As the comment indicates,
+the up and left vectors are automatically generated. Their values are irrelevant since
+the direction vector only pertains to a directional light, and the up and left vectors
+have no in?uence on the lighting model. The last block of code in the public interface
+allows you to retrieve the world coordinates for the light¡¯s (local) coordinate system.
+The Light class has no model bound; however, the light¡¯s position acts as the center of a model bound of radius zero. The virtual function UpdateWorldBound computes
+the center of a world bound of radius zero. The function OnFrameChange is a simple
+wrapper around a call to UpdateGS and is executed whenever you set the coordinate
+system components. Therefore, you do not need to explicitly call UpdateGS whenever
+the coordinate system components are modi?ed.
+The two virtual functions in the private section are stubs to implement pure virtual functions in Spatial (as required by C++). None of these make sense for lights
+anyway, as I stated earlier, but they exist just so that Light inherits other properties of
+Spatial that are useful.
+The texture coordinates assigned to vertices of geometry objects are not stored in
+Texture, which allows sharing of Texture objects across multiple geometry objects.
+In Wild Magic version 2, the texture coordinates were stored in the Geometry object itself. Having support for multitexturing meant that Geometry needed to store
+as many texture coordinate arrays as there are textures attached to the object, which
+caused the interface to Geometry to become unruly. On the release of each new generation of graphics cards that supported more texture units than the previous generation, I had to modify Geometry to include more array pointers for the texture coordinates. Naturally, the streaming code for Geometry had to be modi?ed to store the new
+data and to load old ?les knowing that they were saved using a smaller number of texture units. Most Geometry objects used only one or two arrays of texture coordinates,
+but the class had to be prepared for the worst case that all arrays were used. The class
+even had a separate array to handle textures associated with bump maps. The bulkiness of Geometry regarding texture coordinates and the fact that its code evolved on a
+somewhat regular basis made me realize I needed a different design.
+Wild Magic version 3 introduces a new class, Effect. The class, discussed in
+detail later in this section, now encapsulates the textures and corresponding texture
+coordinates that are to be attached to a Geometry object. An increase in the number
+of texture units for the next-generation hardware requires no changes to either the
+Geometry class or the Effect class. The Geometry class is responsible now only for
+vertex positions and normals and the indices that pertain to connectivity of the
+vertices. During the development of advanced features for Wild Magic version 3, the
+redesign of Spatial, Geometry, TriMesh, and the introduction of Effect has paid off.
+The core classes are generic enough and isolated suf?ciently well that changes to other
+parts of the engine have not forced rewrites of those classes. This is an important
+aspect of any large library design?make certain the core components are robust and
+modular, protecting them

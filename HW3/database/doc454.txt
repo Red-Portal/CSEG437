@@ -1,0 +1,28 @@
+Which smartphone system is right for you? - Android
+
+A dizzying number of smartphones is now available in the United States. Picking one is a big commitment, especially when you're signing up for a two-year wireless contract.
+There are multiple factors to consider when picking a new phone, such as the carrier, your budget, hardware and the operating system.
+Apple, Google and Microsoft each has its own mobile operating systems and ecosystems -- iOS, Android and Windows Phone, respectively -- and they've all been updated in the last year. The three rivals will be going head to head on shiny new handsets this holiday season.
+We spent a week or so playing with new phones running these systems to see how they stack up. (For now, we're skipping other struggling smartphone platforms, BlackBerry and Symbian, even though they are more popular globally than Windows Phone. Both are quickly losing market share, although BlackBerry could bounce back when it releases its new smartphone OS, Blackberry 10, in 2013.)
+Here are our impressions:
+
+The Android operating system was released by Google in 2008 and has become the No. 1 smartphone OS in the world. It was running on three out of every four smartphone handsets sold in the third quarter of 2012, according to IDC. (The following descriptions are based on the latest version, Android 4.2, aka Jelly Bean.)
+Interface
+Android has the most detailed interface of the available operating systems, with many options and a lot of flexibility for setting it up to meet your needs. The home screen has a Google search bar at the top, and a bar at the bottom can hold four app icons or folders. The middle button brings up the complete list of apps installed on the phone.
+You can place icons for your favorite apps anywhere on one of the multiple home screens, then tap an icon to launch that app. You also can decorate the pages with widgets. Widgets are like interactive mini-apps, and they show live information such as the latest from your Twitter feed, titles in your media library or little photo albums that you can flip through from the home screen. You can add widgets on the lock screen as well.
+Dragging a finger down from the top of the screen shows notifications. If you're ever lost, you can just hit the back or home button at the bottom of the screen.
+Apps and content
+On Android phones, apps, games and content such as movies and music are sold in one unified marketplace, the Google Play store. There are about 675,000 apps and games in this store, which is just below the the number in Apple's App Store.
+The devices often come preloaded with extra, unnecessary apps from the phone maker and wireless carrier, many of which try to get you to sign up for some paid service. The same is true for Windows Phone handsets.
+A sizable library of movies, music, TV shows books and magazines is also available in the Google Play store.
+Key features
+Customization and control are big draws for Android users, and the platform is crammed with options.
+The latest update adds a fun, swipe keyboard feature called Gesture Typing that lets you spell words by dragging your finger around instead of tapping on each letter.
+Google Now uses your location and timing to show you the most relevant information, such as your upcoming flight times and public transit updates. There is voice search, so you can speak questions and search terms into the phone.
+And of course, Android has the Google Maps app.
+Hardware
+Android is available on the largest number of smartphones. There is a device for every price point, and they have different features, manufacturers and carriers.
+Because Android is open source, different companies can take the OS and modify it to work with their hardware. That means there are several versions of the same operating system. One of the downsides to this fragmentation is that software updates have to be adapted for each version, and the updates can be maddeningly slow to come to Android devices.
+Currently, the only phone running Android 4.2 is Google's own Nexus 4, by LG.
+Who it's for
+Android is made for anyone heavily invested in the Google ecosystem (Gmail, Google Drive, Google Calendar); people who prefer their maps with public transit directions and a high level of accuracy; people who like control over their computer systems and who are fans of customization and tinkering; anyone looking for a low-cost smartphone and are unable (or unwilling) to pay the Apple premium; and buyers who want a large screen.

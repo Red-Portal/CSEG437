@@ -1,0 +1,19 @@
+First Phone with In-Screen Fingerprint Sensor Feels Right
+
+LAS VEGAS – With displays taking up more and more space on the front of your phone, device makers are in a rush to find a place for the fingerprint sensor on your phone. A phone maker named Vivo is ready to beat big players to the punch with a fingerprint sensor that’s baked right into the front display.
+
+The world became aware of Vivo’s plans a month ago, when Synaptics, which makes the sensor that enables in-display fingerprint scanning, announced that Vivo would become its first customer. But CES 2018 gave Vivo its first chance to show off the sensor in action, and it’s a sight to behold.
+
+In fact, the process is so seamless, if you blink, you’ll miss it. During a demonstration we saw here today (Jan. 9), a Vivo representative woke her phone by raising it, and a little blue icon appeared on the display where the home button might normally be situated. Once she placed her fingerprint on the lit-up sensor, the phone unlocked and the on-screen sensor disappeared, leaving her to enjoy the full-screen view of the Vivo phone.
+
+MORE: Best Smartphones on the Market Now
+
+In addition to unlocking the phone, the fingerprint sensor can also be used to verify mobile payments.
+
+In a flourish that I particularly enjoyed, placing your finger on the sensor produces a brief flash of lightning on the screen, as if your touch is summoning the phone to life.
+
+The optical process works by having the OLED screen light up, with that light reflecting on your fingerprint. The reflection is then captured by the embedded sensor.
+
+Vivo says the yet-to-be-named phone it showed off at CES is ready to produce, meaning the phone and its futuristic sensor will be available sometime in 2018. Vivo hasn’t said where it plans to release the phone.
+
+Trying to fit a fingerprint sensor on the front of the phone while also expanding the length of displays has bedeviled phone makers. For last year’s Galaxy S8 and Note 8 flagships, Samsung wound up placing the fingerprint sensor on the back of its phones to accommodate the new Infinity display, while Apple did away with the fingerprint sensor entirely on its iPhone X. Vivo may not be as well known as those two giants, but the Synaptics-built sensor gives its upcoming phone a noteworthy feature.

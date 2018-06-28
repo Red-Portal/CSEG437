@@ -1,0 +1,40 @@
+Smartphones Will Get Even Smarter With On-Device Machine Learning
+
+It¡¯s time for deep learning algorithms to come down from the cloud and get into your gadgets
+
+This is a guest post. The views expressed in this article are solely those of the author and do not represent positions of IEEE Spectrum or the IEEE.
+
+Engineers are on the cusp of on-device machine learning, as evidenced by the first NIPS workshop on the subject in late 2017, and the advent of new neural processors, such as Kirin 970 from Huawei and Snapdragon 845 from Qualcomm.
+
+Thus far, progress in artificial intelligence has been fueled primarily by the availability of data and more computing power. Classical machine learning has mostly been built on a single central node (usually in a data center) with full access to a global dataset and a massive amount of storage and computing power. Currently, many deep learning algorithms reside in the cloud, enabled by popular toolkits such as Caffe and TensorFlow, as well as specialized hardware such as tensor processing units.
+
+But this centralized approach won¡¯t work for things and applications that require low latency, such as flying a drone, controlling a self-driving car, or sending instructions to a robotic surgeon. To perform these delicate tasks, and other activities experts can¡¯t yet anticipate, future wireless systems will need to make even more decisions at the network edge (closer to devices), more quickly and more reliably, even when they lose connectivity.  
+
+This realization has sparked a huge interest in distributed machine learning, a new paradigm in which training data that describes a problem is stored across a very large number of nodes, which work together to find a solution. 
+
+On-device machine learning (or on-device AI) is similar?it¡¯s essentially about training a high-quality centralized model in a decentralized manner. Training data is unevenly distributed and every device has access to a tiny fraction of it.
+
+There are clear advantages to doing it this way: Unlike cloud-based artificial intelligence, on-device AI should preserve privacy because training data is not logged in the cloud, but kept locally on each device. Training is also done locally and updates are aggregated and shared with peers over wireless links or via a cloud server. That way, all devices have access to the same global model.
+
+Still, there are several challenges that engineers and researchers must solve to bring the capabilities of on-device machine learning to the masses. To guarantee that privacy is preserved no matter what, researchers need to incorporate differential privacy, whose aim is not to reveal whether a certain data point was used during training.
+
+They must also incorporate techniques such as federated learning and transfer learning when training data is sparse. Here, instead of learning from scratch, the algorithms learn a model in a rich data source domain and transfer that knowledge to a target domain, as an efficient way to tame the cold-start problem.
+
+Moreover, since devices have limited resources, on-device machine learning must optimize the model running on the device (tweaking the number of layers, the number of neurons per layer, and other parameters) and power usage, while also considering prediction accuracy and privacy constraints. 
+
+In some scenarios, due to the device¡¯s limited resources, a machine learning algorithm needs to run simultaneously on the phone and remotely in the network. Doing so harnesses both the individual intelligence (on-device AI) and the collective intelligence (cloud AI) and allows the device to tap the abundant storage and computing power of the network for better and faster inference.
+
+This issue of local and remote computing is referred to as task offloading, where a task is carried out locally on the device, remotely in the network, or both. Finding the best strategy which takes into account the application¡¯s requirements, neural learning model, power usage, and network congestion is a fundamental problem that engineers are still working to solve.
+
+Another important challenge for enabling on-device AI pertains to system design. While classical machine learning is centered on maximizing the average reward (or average cost function) for every agent, on-device AI is more prone to uncertainty and randomness due to limited access to training data, unreliable links between devices, and the latency that is added when a device offloads a task to the cloud or its peers.
+
+That means on-device AI must know how to disentangle and separate predictions for vastly different outcomes, rather than lumping them into averages as done in classical machine learning.
+
+This is referred to as distributional machine learning, and it bears a striking resemblance to ultra-reliable and low-latency communication (URLLC), which is considered a key feature of 5G. In fact, one of the major components of URLLC is the notion of risk, which arises from uncertainties associated with future events.
+
+While Google has been one of the first proponents of on-device AI, my research group and collaborators are investigating on-device AI over wireless from a theoretical and algorithmic standpoint. Within 5G, the focus is mainly on applying artificial intelligence to automate networks. We¡¯re confident on-device artificial intelligence will shape the next generation of wireless networks.
+
+For now, on-device AI is a nascent field of research which clearly requires a major departure from centralized cloud-based approaches. It moves machine learning toward a design where devices at the network edge communicate their learned models (not their private data) to build a centralized trained model?all while taking into account latency, reliability, privacy, power efficiency, and accuracy. If successful, this shift will produce devices and programs with useful new capabilities we can¡¯t yet envision.
+
+About the Author
+Mehdi Bennis is an associate professor with the Centre for Wireless Communications at the University of Oulu in Finland. His research focuses on machine learning in 5G wireless networks and on ultra-reliable, low-latency communication.

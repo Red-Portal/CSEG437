@@ -1,0 +1,24 @@
+Microsoft says W8 will support super-displays
+Insists Windows/Metro tablet makers will be able to match the iPad's Retina or Samsung's Super AMOLED
+By CAROLINE GABRIEL
+
+Published: 22 March, 2012
+
+READ MORE: Microsoft | Display | iPhone | Tablet | Windows Phone
+
+
+ 
+Amid all the fuss about the iPad HD's impressive retina screen, Windows 8 tablet makers will need to come up with something to make an impact against that, and also the upcoming super-high resolution AMOLED displays promised by Samsung.
+
+Microsoft promises that Windows 8 will enable vendors to support ultra-dense pixel screens too. David Washington, a senior program manager, wrote on the 'Building Windows 8' corporate blog that many of the tablets which launch later this year with W8 will have pixel density of "at least 135dpi", with some HD or quad-XGA models going up to 190dpi and 253dpi respectively (the iPad HD is 264dpi on resolution of 2048 x 1536). However, some critics have already said the W8 prototypes are not supporting dense pixels as well as Apple does.
+
+
+As for resolution, Microsoft has promised a wide variety of screen sizes and qualities, to suit different applications and price points, and differentiate its platform from the homogeneous Apple design. However, the benefit of a single design is that Apple can perfect the density and resolution for its one form factor, rather than having to scale up and down. Originally, last fall, Microsoft set a minimum screen resolution, at 1024 x 768, though the firm says only 1.2% of active Windows 7 users have screens below this mark. It expects the most common option to be 1366 x 768 (the so-called reference design for all Windows devices and Metro-style apps). But it will scale up to 2560 x 1440 too.
+
+Windows 8 will implement automatic scaling for different types of screen - 100% when no scaling is applied; 140% for HD tablets; and 180% for quad-XGA. However, most of the benefits will be seen in the new Metro user interface, rather than the traditional desktop, which was never designed with super-screens or varying pixel densities in mind.
+
+"Windows 8 PCs will come in a variety of shapes and sizes, from small tablet screens to laptops and large desktop monitors and multi-monitor set-ups," wrote Washington. "They will also scale to different pixel densities; from that of the typical tablet to new high definition tablets."
+
+Meanwhile, there was screen talk around Apple too. The latest rumor, reported by Reuters, is that the company is already ordering 4.6-inch RetinaDisplays for a big-screen iPhone. It is not clear from the report's Korean sources whether these screens are for the presumed LTE iPhone, expected after the summer, or for an interim release.
+
+The iPhone, at 3.5-inches, is starting to be dwarfed by the new breed of superphones, from companies like HTC and Samsung. HTC and LG are both combining powerful processors with larger displays to drive applications such as games, and Apple could increase its handset's size to harness its new A5X chip, seen in the iPad HD, which has a quad-core graphics processors. Some analysts have speculated that the A5X will not be suitable for the smartphone because the screen would not keep pace in its current format. A big iPhone would go up against the HTC One X, the Samsung Galaxy S II Skyrocket HD (with 4.65-inch Super AMOLED display) and others.

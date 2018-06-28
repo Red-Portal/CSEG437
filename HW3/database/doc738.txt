@@ -1,0 +1,19 @@
+Samsung Makes Image Sensor Integration Easier with New 16Mp ISOCELL Slim 3P9 and Plug & Play Solution
+
+Tetracell technology and 1.0¥ìm pixel size enable sleekly designed smartphones to take more vivid pictures in darker environments
+
+The ISOCELL Plug & Play solution can save up to four months of development time for manufacturers
+
+Samsung Electronics, a world leader in advanced semiconductor technology, today introduced a new 16-megapixel (Mp) ISOCELL Slim 3P9 image sensor along with a Plug and Play solution, a pre-optimized turnkey camera module made up of an ISOCELL image sensor and preferred partner components to help expedite time-to-market.
+
+¡°Samsung¡¯s ISOCELL image sensors take advantage of various technologies to deliver innovative imaging experiences in mobile devices,¡± said Ben K. Hur, vice president of System LSI marketing at Samsung Electronics. ¡°The ISOCELL Plug and Play solution will help reduce time-to-market for set makers and offer a quality-assured camera solution to end-users.¡± 
+
+The Samsung ISOCELL Slim 3P9 is a 1.0¥ìm 16Mp image sensor with Tetracell technology that allows bright and vivid pictures in today¡¯s sleekly designed smartphones. With Tetracell, a technology that merges four neighboring pixels, the 3P9 can function as a 2.0¥ìm image sensor for front-facing cameras that can take brighter pictures in low-lit environments.
+ 
+For faster auto-focusing, the 3P9 adopted an advanced phase detection auto-focus (PDAF) with doubled auto-focus agent density than that of conventional PDAF sensors. In addition, the sensor significantly stabilizes pictures and videos taken while in motion with a gyro-synchronizer that syncs frame exposure time from the sensor with movement data from the device¡¯s gyroscope. Once the data is synced, the mobile processor can simply adjust the frames based on movement rather than rigorously analyzing each frame to detect and compensate for angular movement.
+
+For easier camera optimization while accelerating time-to-market, Samsung also offers an ISOCELL Plug and Play solution for the 3P9 in a rear camera module. Optimizing a camera module, made up of parts from different providers, with the mobile processor can be an arduous and lengthy task for smartphone makers. Samsung¡¯s ISOCELL Plug and Play solution simplifies this process by offering a turnkey ISOCELL sensor module tuned for Valued Camera eXperience (VCX)-grade image quality, along with other components, including lenses and actuators from preferred partners. 
+
+Since the optimization and reliability tests are done beforehand at the module-level rather than on the sensor alone, manufacturers can simply plug the camera module onto their device, saving up to four months of development time. 
+
+The Samsung ISOCELL Slim 3P9 with Plug and Play solution is currently available.

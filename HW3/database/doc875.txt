@@ -1,0 +1,26 @@
+Google to shut down smartphone AR platform 'Tango'
+The announcement is seen as a bid to focus on a new software development kit called "ARCore" that brings the AR experience closer to Android users.
+
+Google will shut down its ambitious Augmented Reality (AR) platform "Tango" built specifically for smartphones from March 1, 2018, the company said on Saturday.
+
+The announcement is seen as a bid to focus on a new software development kit (SDK) called "ARCore" that brings the AR experience closer to Android users.
+
+"We're turning down support for Tango on March 1, 2018. Thank you to our incredible community of developers who made such progress with Tango over the last three years. We look forward to continuing the journey with you on ARCore," the Google Tango team tweeted.
+
+"Google is continuing AR development with ARCore, a new platform designed for building augmented reality apps for a broad range of devices without the requirement for specialised hardware," the company said.
+
+"Project Tango" was first introduced in 2014.
+
+It uses computer vision to enable mobile devices, such as smartphones and tablets, to detect their position relative to the world around them without using GPS or other external signals.
+
+This allows developers to create user experiences that include indoor navigation, 3D mapping, physical space measurement, environmental recognition, AR and windows into a virtual world.
+
+Google "ARCore" is now now available for developers to experiment with. "ARCore" is scalable across the Android ecosystem as it doesn't require any additional hardware.
+
+The new AR platform has been rolled out to Google Pixel and Samsung S8 which run on Android 7.0 Nougat and above.
+
+Google is working with manufacturers like Samsung, Huawei, LG, ASUS and other major smartphone makers for quality and performance checks.
+
+"ARCore", which works with 'Java/OpenGL', 'Unity' and 'Unreal' technologies focuses on three features -- motion tracking, environmental understanding and light estimation.
+
+Apple recently unveiled its "ARKit" platform focusing on AR applications, to allow developers to build apps that could place virtual content on top of real-world scenes.

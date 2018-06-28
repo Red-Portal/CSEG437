@@ -1,0 +1,30 @@
+WebVK: JavaScript binding to Vulkan for High
+Performance Browser Running on Linux
+HTML5, the leading edge of web document markup language, has enabled web
+programmers to write sophisticated web applications which do not fall behind the
+native applications. For the high-performance applications on the top of web
+browser, the Khronos group specified WebCL API which supports the binding of
+JavaScript and OpenCL. JavaScript is the most favored language by web application
+programmer, and OpenCL is the cross platform parallel processing hardware control
+language. So the application on web could benefit from the modern multi-core CPU
+and CPU architecture.
+With the wide adoption of HTML5 and heterogeneous parallel processors of the
+recent computers and smartphones, web technology has been facing a new challenge
+to overcome its low performance issue, especially in the mobile environment. But
+WebCL, a JavaScript wrapper around OpenCL, allows in-browser applications to
+harness multi-core CPUs and GPUs for parallel processing, resulting in significant
+speedups of JavaScript codes.
+Vulkan is the next-generation API of the Khronos group which is highly likely
+to replace OpenGL for graphics and computing hardware. Vulkan is designed to
+provide a variety of advantages over its predecessor, OpenGL. Vulkan offers lower
+overhead, more direct control over the GPU, and lower CPU usage. Vulkan is also a
+cross platform API which is available on Linux, Android, Windows, and other
+popular variant game platforms. The Web platform will be a major one and seems to
+incorporate the cutting-edge technologies, such as WebAR, WebVR and WebRTC,
+which require significant amount of parallel processing power with multi-core CPU
+and GPU. It is worthy to find out an alternative solution to fill the gap which made by
+the absence of WebCL which is only available on OpenCL-enabled platform.
+This paper presents the WebVK prototype for the latest version of the Chromium
+browser running on Linux-powered desktop, and measures the performance by
+benchmark programs that have been used for measuring WebCL performance in
+previous work

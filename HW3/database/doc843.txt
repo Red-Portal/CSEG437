@@ -1,0 +1,74 @@
+In Theory: Could Sony produce a PS4 Switch-style console hybrid?
+To what extent is a current-gen handheld feasible?
+
+Nintendo's Switch has carved out a sizeable share of the gaming market by offering something genuinely unique - a state-of-the-art handheld that also doubles up as a decent home console. Despite a spec disadvantage in terms of pure performance, it's been a genuine pleasure to chart the progress of the console. When we first saw it way back in January 2017, it was easy to dismiss it as a portable Wii U. Now we know it's much, much more - and its success begs the question: could Sony or Microsoft follow suit with console hybrids of their own?
+
+Well, if we're talking about complete compatibility with the existing PS4/Xbox One software, the answer is fairly straightforward - it's much easier to scale up a mobile device to run on a living room flatpanel than it is to take a traditional console and scale it down to run on the go. And in actual fact, this 'mobile first' strategy isn't exactly exclusive to Nintendo - the Maxwell technology on which the Tegra X1 is based was built from the ground up first and foremost for applications in the mobile field. If you can achieve exceptional efficiency at the low end, the rewards with more power, more frequency and more bandwidth become even more pronounced.
+
+But the point is that there's a lot of performance there at that low-end, all derived from what is ridiculously low power consumption. Doom 2016's Switch port - and indeed the upcoming Wolfenstein 2 conversion - have taken a lot of grief from users unhappy with resolution reductions, frame-rate hits and obvious downgrades in the visual feature set. But the port seems almost miraculous when you look at the host hardware's power consumption. The fact that any kind of port is possible at all beggars belief when you look at the vast difference in the amount of juice being pulled from the wall in rendering those visuals.
+
+So, let's consider some power consumption comparisons. A launch model PS4 running fully flat out draws about 120-130 watts, and that drops to around 70-80 watts on the PS4 Slim, which uses a smaller, more power efficient version of the same processor. Some of that power reduction (in the region of 10-20 watts) comes from Sony moving from 16 GDDR5 memory modules to eight, a figure we could ascertain from power measurements gleaned from the CUH-1200 model - which uses the original processor with the more streamlined eight-module memory set-up.
+
+Up against the Switch though, even the PS4 Slim is a gluttonous beast. With the battery fully topped up and no longer charging, Switch's docked configuration draws in the region of 11 to 12 watts - around nine per cent of the power consumption of a launch PS4, and approximately 15 per cent of a PS4 Slim. Getting an accurate read of the downclocked undocked configuration is more challenging. We know the capacity of the battery, so by measuring battery life we can deduce that power draw drops to something in the region of nine watts. The kicker here, of course, is that inevitably, this figure is inflated by the juice sucked up to by the LCD display. Realistically, six to seven watts from the Tegra X1 chip alone seems reasonable.
+
+With that in mind, the notion of any kind of modern gaming experience running on Tegra X1 seems borderline unbelievable, especially in light of some of Shield Android TV's ports. Doom or Wolf 2 running playably on a handheld is a revelation enough, but when you look at the actual power consumption figures compared to the other platforms that host the title... well, Switch moves on to being something of a miracle. And alongside Nvidia - who supplied both the silicon and a DX12-like API for getting the most out of it - Nintendo deserves a lot of kudos for this most crucial of parts selections. The tech in its prior handhelds very much seems to favour economy over performance and features and in this respect, partnering with Nvidia is a game-changer.
+
+The choice of Tegra X1 may not have given Nintendo the most powerful home console hardware, but at the very least, we do get a modern GPU with a feature set that includes all the most crucial components of Nvidia's latest Pascal architecture - which was, in effect, an evolved version of the second generation Maxwell technology used in Tegra X1. By extension, we get a GPU with a lot of overlap in the feature set with AMD's Radeon offerings, and this is crucial in third party ports happening at at all.
+
+And it's the 'mobile first' strategy that is going to make any kind of Switch competitor from Sony or indeed Microsoft challenging to produce. While there are mobile elements in the SoCs of both systems - AMD's Jaguar cores were designed very much with tablets in mind - the GPUs on both are desktop-class performance components with power draws to match. Meanwhile, any form of the GDDR5 memory in PS4 takes so much juice, it effectively rules out implementation in a handheld design, while there could be significant challenges in moving across from Xbox One's DDR3 to a mobile equivalent.
+
+Now, that's not to say that a portable PS4 or Xbox One of some description couldn't be made in the here and now - it's just more likely to have a laptop-sized form factor. But even then, power draw would still tax even the most state-of-the-art, higher capacity batteries and overall battery life would be limited. If you're going to go down that route, a gaming laptop just makes more sense, but even that option has a big bunch of compromises of its own (not least, reduced performance in battery mode). Put simply, a fully compatible miniaturised console based on the existing architecture isn't possible, but maybe some other kind of companion device would be viable.
+
+It wouldn't be the full-fat console experience, it's unlikely to be handheld, but maybe some kind of 720p-orientated device could work? In the video above, I'm not massively optimistic about an AMD device that could do this for several generations, but the Smach Z handheld has been pointed out as an intriguing option, and the specs look enticing. However, it is effectively based on a highly downclocked version of the desktop Ryzen 3 2200G - a part I've tested extensively. I'd be curious to see the performance-to-power curve on these new Ryzen embedded design APUs, but I can't see it handling current-gen titles effectively. And almost certainly, existing titles would need to be retooled extensively to move across to another CPU architecture and far more constrained GPU resources. Put simply, it still falls into the category of taking an existing desktop part and scaling down, rather than taking a mobile part and scaling up. Given a couple of generations, maybe this would be worth revisiting.
+
+But in the here and now, I can't help but think that maybe we're looking at the question the wrong way around. I don't think Sony or Microsoft could 'Switchify' their existing offerings, but Nintendo's hardware is by its very nature a modular design. Right now, the dock is little more than a hub of sorts, but there is the potential to replace it with a box containing more potent hardware - a discussion point I've covered in the past.
+
+From my point of view, the Switch's living room console capabilities are its weakness right now - and this could be addressed with an optional 'power dock', containing more memory and an improved GPU - something technology partner Nvidia is not particularly short of. And not only is Nintendo's hardware upwardly scalable, its games are too. The proof of the pudding there is found via emulation, where Nintendo's first party wares look beautiful running at higher resolutions.
+
+But in the here and now, at least, Nintendo has the console hybrid concept to itself, but what's clear is that the demand for a high performance handheld is undeniable - so why hasn't it worked in the past, most recently with PlayStation Vita? A key of the Switch's success has been down to Nintendo focusing resources on a single device - meaning that the top R&D teams have brought hit after hit to the machine, a luxury never afforded to PSP or Vita. However, the convergence in console technology could mean that a variation on the Switch formula could eventually extend to Sony and Microsoft too. A future handheld capable of running carefully handled PS4 or Xbox One ports? I'd be up for that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

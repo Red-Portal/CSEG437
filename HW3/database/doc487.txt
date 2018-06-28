@@ -1,0 +1,16 @@
+Mobile Coupons Light Up With New Smartphone Technology
+Industry giant Procter & Gamble hopes to revolutionize the coupon industry with technology that allows retailers' existing bar-code scanners to read the coupon code on customer smartphones. Customers won't have to wait for the clerk to manually enter the code.
+
+CIO ? Today, thrifty grocery shoppers have three choices: They can use paper coupons that they've clipped or printed out. They can electronically transfer the coupon to a loyalty card. Or they can display a coupon on their smartphone, which means the cashier has to manually input the coupon code.
+
+The problem is that bar-code scanners in the checkout aisle can't read the screen of the smartphone.
+
+But that could change. San Francisco-based Mobeam, a company specializing in light-based communications technology, recently announced a partnership with corporate giant Procter & Gamble
+aimed at bringing to market an all-digital mobile coupon system. Mobeam's technology makes it possible for existing retail point-of-sale (POS) systems to read electronic coupons presented on a mobile phone. 
+
+Given P&G's reputation as a bellwether company in the consumer products industry and a sophisticated user of IT, the new partnership bears watching. If other players in the smartphone and retail ecosystem go along?not a sure bet?the joint project could revolutionize the use of mobile coupons.
+"Couponing has been one of the tried and tested tools to incentivize consumers to try our products," says Jeff Weedman, vice president of P&G global business development. "Ads around the world have moved digital, but there is a hole in the system. You can deliver coupons digitally, but they don't scan at most grocery scanners. Neither shoppers nor retailers are happy because this slows down the system when the checkout person has to plug in the coupon codes manually."
+The technology developed by Mobeam converts bar-code data on the smartphone to a beam of light that can be read by existing red laser bar-code scanners. This capability has been embraced by P&G, which as one of the world's leading coupon distributors stands to benefit from a vastly improved method for coupon redemption at the point of sale.
+"While we're still in the testing phase, we are excited about what our partnership with mobeam might help us do together to break through the current gap for the consumer," Weedman says. "For us, this is great example of collaboration, combining our consumer insights and marketing expertise with an external company with leading-edge technology to benefit consumers."
+
+Truly Digital ProcessingFor retailers, the big advantage of mobeam's technology is that it's embedded in the smartphone and the retailers don't have to install any new hardware at the point of sale. At the same time, digital processing of coupons through the use of mobile devices is faster and more efficient than scanning paper coupons. And once a sale is made, digitized data can more readily be analyzed for purposes such as measuring campaign effectiveness. 

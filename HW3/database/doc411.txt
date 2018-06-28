@@ -1,0 +1,11 @@
+AMD Radeon HD 6800 series graphics cards rolled out
+
+The reasons for players to be hooked onto their gaming machines are quite understandable. Leveraging the experience further, AMD has just trotted out its new Radeon HD 6800 graphics cards series which touts to offer 30 percent better gaming performance. Harnessing the company¡¯s second generation Microsoft DirectX 11-capable architecture, the solution comes with AMD Eyefinity multi-display technology.
+
+Delivering augmented energy efficiency, the latest graphics solutions render improved image quality, including morphological anti-aliasing compatiblity with DirectX 9, 10 and 11 applications. These peripherals proffers enhanced anisotropic filtering for better display features. The lineup ensures an excellent gaming performance for OpenGL titles in single card or multi-card AMD CrossFireX configurations.
+
+¡°AMD is the market share leader by a landslide in DirectX 11 graphics. Through our sweet spot strategy and our open, industry standards approach, we¡¯ve worked to deliver the best possible experience for gamers. Today, our laser focus on gamers continues with the introduction of what we think is far and away the best graphics card series today, the AMD Radeon HD 6800 series,¡± shared Matt Skynner, Corporate Vice President and General Manager, GPU Division, AMD. ¡°With exceptional game performance, an unrivaled feature set including breathtaking DirectX 11 gaming, AMD Eyefinity multi-display technology, AMD Accelerated Parallel Processing, and more, the AMD Radeon HD 6800 series will have all gamers wanting to get Radeon in their systems.¡±
+
+Multimedia buffs can take advantage of the AMD Radeon HD 6800 series since it offers support for both DisplayPort 1.2 and HDMI 1.4a slots. The Eyefinity technology assures impressive choice in display compatibility and configurations. 3D entertainment can be enjoyed by its HD3D technology and open 3D ecosystem. The Unified Video Decoder 3, a dedicated video playback accelerator, allows users to watch Blu-ray 3D movies and other HD video formats as well. Besides, support for DirectCompute and OpenCL is also bundled in.
+
+The AMD Radeon HD 6800 graphics cards series is now available through worldwide etailers with a starting price of $179 (approx Rs. 7,955) SEP.

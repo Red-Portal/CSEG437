@@ -1,0 +1,17 @@
+The future of wearables is here, and if you think it's all about step-counting, you're a step behind. 
+Asus is taking its focus on health beyond pure pedometry to give you a more detailed picture of what's going on inside your 
+body, with a blood pressure tracking watch that it claims is a world first. 
+(Rival Omron announced a blood pressure watch at CES 
+in January but that's due later in the year -- no word yet on when the VivoWatch will be available). 
+Unveiled at Computex in Taipei on Tuesday, the VivoWatch BP is a smartwatch capable of measuring your blood pressure in 
+as little as 15 seconds, without the need for a bulky device or an inflated cuff like you'd see at the doctor's surgery.
+Hold your index finger on the front of the watch and moments later you'll get a reading. In our demo, it took about 23 seconds to 
+get a reading -- but it still felt a lot quicker than sitting in the doctor's surgery while you wait for that inflated cuff 
+to let the blood back into your arm. I've also waited that long on lower-end wearables just to get a heartrate measurement.
+The VivoWatch BP works by combining a medical-grade ECG sensor on the back (on your wrist) to read your heart rate with an 
+optical PPG sensor on the face of the watch to read your blood flow in your index finger. The result gives you your upper and 
+lower systolic and diastolic numbers, as well as your heart rate. I got a healthy 121 over 77, thank you for asking. 
+The VivoWatch BP also has an accompanying app which Asus says will help users track and improve their health by charting 
+blood pressure, fitness and sleep data; the app also features what Asus calls "HealthAI" to offer recommendations to improve 
+your lifestyle. The app looked like more standard fitness tracking fare in the short time I had to play with it -- just 
+how much genuine artificial intelligence is built into tracking and predicting your health remains to be seen.    

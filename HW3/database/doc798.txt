@@ -1,0 +1,19 @@
+5G Will Change How Your Smartphone Is Designed
+
+High-band 5G technology is going to shake up the design of smartphones and other devices as the next-generation wireless technology arrives in networks in the next few years.
+
+Millimeter wave (mmWave) technology -- centered around 30GHz to 300GHz -- is expected to deliver cellular download speeds up to 100 times faster than today's 4G LTE networks. Tests in the US so far show speeds of a gigabit are possible at up to 2000 feet from the basestation. (See Millimeter Wave 5G: The Usain Bolt of Wireless?)
+
+The "proximity effect" of placing a human finger, hand or face in front of a 28GHz millimeter antenna will block the signal, as Maryam Rofougaran, co-CEO of 5G startup Movindi told me recently.
+
+Think of it like Apple Inc. (Nasdaq: AAPL)'s "antennagate" saga around the iPhone 4 in 2010, where a user could make the 3G signal weaker by holding the phone in a certain way, but much worse. Holding a 5G phone the "wrong" way wouldn't just attenuate the signal but block it. (See Apple's Antenna Issues: Them's the Breaks.)
+
+"Human blockage" is a well-known phenomenon in academic work on millimeter wave. With wireless infrastruture, multi-path beam-forming is used to try to transmit signals through windows, walls, and folliage. Because of the small size of smartphones, however, blockage of the microstrip antenna arrays onboard is likely to become more of an issue with normal usage. (See 60GHz: A Frequency to Watch, Could 5G Have Found Its Glass Ceiling? and Nokia Bell Labs & Verizon Stretch Fixed 5G to the Home.)
+
+There aren't any commercial phones supporting the first 5G New Radio (5G NR) available, devices are expected by mid-2019. Early prototypes look like ordinary, albeit bulky, smartphones. (See Qualcomm: The First 5G Smartphone on Display?)
+
+The recent leak of photos of a rumored 5G radio add-on from Motorola Inc. (NYSE: MOT) hints at how mmWave may shake things up. The module appears to an antenna ridge or lip. (See Motorola Clips On 5G Phone Features.)
+
+It might be most sensible, however, to have the phone rely on the 4G connection, which is always on as part of "dual-connectivity" in the 5G standard, when the user makes a voice call. All major US carriers, aside from Sprint Corp. (NYSE: S), support voice-over-LTE (VoLTE) calls now. So this may provide the most elegant solution in the short-term, even if it delays those blazin' gigabit-speed 5G downloads when you just have to take a call from your mom. (See VoLTE Can Drive 4G Small Cells Adoption.)
+
+? Dan Jones, Mobile Editor, Light Reading

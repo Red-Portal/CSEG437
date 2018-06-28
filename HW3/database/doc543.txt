@@ -1,0 +1,14 @@
+Nintendo Wii U Getting Video Chat from Vidyo
+
+Using Vidyo's open platform, game developers will be able to embed video chats directly inside their games.
+By Troy Dreier 
+Posted on November 19, 2012
+
+
+Vidyo announced today that its video chat technology is behind Wii U Chat, a major feature of the upcoming Nintendo game console. Vidyo specializes in personal telepresence software. Thanks to Vidyo's open platform, Wii U game developers will be able to embed video chat directly into their titles. Video chatting will take place using a camera on the Wii U Gamepad.
+
+Vidyo sees this announcement as a major step forward in finally bringing video chat to the living room. While plenty of companies have or are currently trying to bring video chat to the television, nothing has taken with consumers off so far. With Wii U adoption, video chat has a chance of going mainstream. The feature will certainly drive consumer awareness.
+
+Vidyo describes its network as software-based and flexible, saying that it can be customized for enterprises or vertical markets. Video chats can take place over 3G and 4G cellular networks, and the platform includes strong error resiliency.
+
+"Vidyo provided Nintendo with a video solution that adapts to changing network conditions while being easy for consumers to use from the comfort of their living rooms," says Genyo Takeda, general manager of the integrated research and development division at Nintendo. "Vidyo's software delivers both quality and performance, and is easily integrated into Nintendo's technology."

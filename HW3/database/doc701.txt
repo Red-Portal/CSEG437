@@ -1,0 +1,25 @@
+Huawei uses smartphone technology to drive a car
+
+Huawei has unveiled technology that uses an AI-powered smartphone to drive a car, that can not only see but "understand its surroundings".
+
+The mobile device manufacturer said its 'RoadReader' project pushed the boundaries of its object recognition technology and put the learning capabilities, speed and performance of its AI-powered devices to the test.
+
+"Unlike other driverless cars, which simply detect obstacles, Huawei has transformed a Porsche Panamera into a driverless vehicle that doesn't just see, but crucially, understands its surroundings," Huawei said.
+
+"This means that can it can distinguish between thousands of different objects including a cat and a dog, a ball or a bike, and learn to take the most appropriate course of action."
+
+The project took advantage of the AI capabilities in the Huawei Mate 10 Pro. The device uses AI to automatically recognise objects to help people take photographs.
+
+"Huawei is committed to making advances in Artificial Intelligence technology within our smartphones, and the Mate 10's AI powered Kirin 970 chip is outstanding at object recognition," said Louie Hu, marketing manager, consumer business group Huawei New Zealand.
+
+"We wanted to see if we could push this technology further by teaching it to not only drive a car, but to use its AI capabilities to see certain objects, and avoid them," she said.
+
+"After achieving this in just five weeks, we are so excited about the possibilities for our future technology."
+
+Most autonomous cars being developed relied on the computing power of purpose-built chips developed by third party technology providers, the company said.
+
+However, Huawei had used technology already available in its smartphones, "demonstrating its superior functionality and ability to stand up to even the most advanced technology developed for use in self-driving cars".
+
+Huawei will be showcasing the RoadReader project and the vehicle's capabilities at a two-day event at Mobile World Congress in Barcelona (MWC) from 26th to 27th February 2018.
+
+Delegates will be invited to test 'drive' the car themselves, teaching it to identify and manoeuvre around certain objects.

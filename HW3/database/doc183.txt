@@ -1,0 +1,7 @@
+Surround Sound Basics
+The main thing that sets a home theater apart from an ordinary television setup is the surround sound. For a proper surround-sound system, you need two to three speakers in front of you and two to three speakers to your sides or behind you. The audio signal is split into multiple channels so that different sound information comes out of the various speakers. 
+The most prominent sounds come out of the front speakers. When someone or something is making noise on the left side of the screen, you hear it more from a speaker to the left of the screen. When something is happening on the right, you hear it more from a speaker to the right of the screen. 
+The third speaker sits in the center, just under or above the screen. This center speaker is very important because it anchors the sound coming from the left and right speakers -- it plays all the dialogue and front sound effects so that they seem to be coming from the center of your television screen, rather than from the sides. 
+The speakers behind you fill in various sorts of background noise in the movie -- dogs barking, rushing water, the sound of a plane overhead. They also work with the speakers in front of you to give the sensation of movement -- a sound starts from the front and then moves behind you. 
+But how do all these sounds get split up? This is the job of the audio/video receiver, which is the real heart of a home theater. In the next section, we'll see what this component does. 
+ 

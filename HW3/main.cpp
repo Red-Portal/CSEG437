@@ -14,12 +14,12 @@
 
 namespace hw3
 {
+    template<typename T = std::chrono::milliseconds>
     inline decltype(auto)
     time_elapsed(std::chrono::time_point<std::chrono::steady_clock> begin,
                  std::chrono::time_point<std::chrono::steady_clock> end)
     {
-        return std::chrono::duration_cast<
-            std::chrono::milliseconds>(end - begin);
+        return std::chrono::duration_cast<T>(end - begin);
     }
 
     using namespace std::string_literals;
@@ -79,15 +79,73 @@ namespace hw3
         }
     };
 
-    class optimizer
+    class evaluator
     {
-    public:
-        inline optimizer(std::string const& path)
+        std::vector<std::vector<std::string>> _keys;
+
+        inline std::pair<size_t, std::vector<std::string>>
+        parse_line(std::istringstream& stream)
         {
-            std::ifstream word_stream;
-            word_stream.open(path + "/documentkey.txt"s);
-            /* by keys in the document, compute f score whenever asked for */
-            /* probably use cross-entropy */
+            std::string word;
+            std::vector<std::string> vec;
+            size_t doc_idx;
+
+            stream >> word;
+            doc_idx = stoi(word);
+
+            stream >> word;
+            if(word[0] != ':')
+                throw std::runtime_error(" delimiter not found!");
+            while(stream)
+            {
+                stream >> word;
+                vec.push_back(word);
+            }
+            return {doc_idx, vec};
+        }
+
+    public:
+        inline evaluator(std::string const& path,
+                         size_t size)
+            : _keys{size}
+        {
+            std::ifstream stream;
+            stream.open(path + "/documentkey.txt"s);
+
+            while(stream)
+            {
+                std::string line;
+                std::getline(stream, line);
+
+                if(line.empty())
+                    break;
+                
+                auto word_stream = std::istringstream{line};
+                auto [doc_idx, words] = parse_line(word_stream);
+
+                _keys[doc_idx] = std::move(words); 
+            }
+        }
+
+        template<typename F>
+        inline double
+        evaluate(F f) const
+        {
+            size_t total = _keys.size();
+            size_t correct = 0;
+            //double recall = 0;
+            for(size_t i = 0; i < _keys.size(); ++i)
+            {
+                auto result = f(_keys[i], 20);
+                auto it = std::find_if(result.begin(), result.end(),
+                                       [i](std::pair<size_t, double> const& elem){
+                                           return elem.first == i;
+                                       });
+                if(it != result.end())
+                    ++correct;
+            }
+            double precision = static_cast<double>(correct) / total;
+            return precision;
         }
     };
 
@@ -96,9 +154,11 @@ namespace hw3
     {
     private:
         word_corpus _words;
-        optimizer _accuracy;
+        evaluator _accuracy;
+        Matrix _U;
+        std::vector<double> _D;
+        Matrix _Vt;
         Matrix _latent_space_matrix;
-        Matrix _doc_matrix;
         Matrix _encoder_matrix;
 
         size_t count = 0;
@@ -130,7 +190,7 @@ namespace hw3
         }
 
         inline void
-        parse_document(std::ifstream& file_stream, size_t doc_idx, bool pred)
+        parse_document(std::ifstream& file_stream, size_t doc_idx, Matrix& doc_matrix)
         {
             std::vector<std::string> words;
             words.reserve(1000);
@@ -152,7 +212,7 @@ namespace hw3
                     auto word_entry = _words[word];
                     if(word_entry)
                     {
-                        ++_doc_matrix(doc_idx, word_entry.value());
+                        ++doc_matrix(doc_idx, word_entry.value());
                         ++count;
                     }
                 };
@@ -219,13 +279,16 @@ namespace hw3
                           size_t begin_idx,
                           size_t end_idx)
             : _words(path),
-              _accuracy(path),
-              _doc_matrix(end_idx - begin_idx, _words.size()),
+              _accuracy(path, end_idx - begin_idx),
+              _U(),
+              _D(),
+              _latent_space_matrix(),
               _encoder_matrix()
         {
             auto placeholder = std::string();
             auto file_name = path + "/doc000.txt"s;
             auto big_file_name = path + "/doc0000.txt"s;
+            auto doc_matrix = Matrix(end_idx - begin_idx, _words.size());
 
             std::cout << "-- constructing document matrix\n";
             auto start = std::chrono::steady_clock::now();
@@ -247,20 +310,30 @@ namespace hw3
                 }
 
                 if(stream)
-                    parse_document(stream, i, false);
+                    parse_document(stream, i, doc_matrix);
             }
+            doc_matrix.normalize_cols();
             auto stop = std::chrono::steady_clock::now();
-
             std::cout << "-- constructing document matrix - done\n";
             std::cout << "   processed " << end_idx - begin_idx << " documents"
                       << ", counted " << count << " words\n"
                       << "   time elapsed is " << time_elapsed(start, stop).count() << "ms"
                       << std::endl;
-            _doc_matrix.normalize_cols();
+
+            std::cout << "-- computing SVD of doc matrix \n";
+            start = std::chrono::steady_clock::now();
+            auto [U, D, Vt] = svd(doc_matrix);       
+            _U = std::move(U);
+            _D = std::move(D);
+            _encoder_matrix = std::move(Vt);
+            stop = std::chrono::steady_clock::now();
+            std::cout << "-- computing SVD of doc matrix - done\n"
+                      << "   time elapsed is " << time_elapsed(start, stop).count() << "ms"
+                      << std::endl;
         }
 
         inline std::vector<std::pair<size_t, double>>
-        query(std::vector<std::string> terms,
+        query(std::vector<std::string> const& terms,
               size_t num_result) const
         {
             std::vector<double> word_vec(_words.size(), 0);
@@ -285,27 +358,35 @@ namespace hw3
         }
 
         inline void
-        decompose(size_t k)
+        low_rank_approx(size_t k)
         {
             std::cout << "-- computing low rank approximation \n";
             auto start = std::chrono::steady_clock::now();
 
-            auto [U, D, Vt] = svd(_doc_matrix);       
-            _latent_space_matrix = approx_matscaling(U, D, k);
-            _encoder_matrix = std::move(Vt);
+            _latent_space_matrix = approx_matscaling(_U, _D, k);
 
             auto norms = std::vector<double>(_latent_space_matrix.shape().first);
-            for(size_t i = 0; i < _doc_matrix.shape().first; ++i)
+            for(size_t i = 0; i < _latent_space_matrix.shape().first; ++i)
                 norms[i] = _latent_space_matrix.row_norm(i);
 
             for(size_t j = 0; j < _latent_space_matrix.shape().second; ++j) {
                 for(size_t i = 0; i < _latent_space_matrix.shape().first; ++i)
-                    _doc_matrix(i, j) /= norms[i];
+                    _latent_space_matrix(i, j) /= norms[i];
             }
             auto stop = std::chrono::steady_clock::now();
             std::cout << "-- computing low rank approximation - done\n"
-                      << "   time elapsed is " << time_elapsed(start, stop).count() << "ms"
+                      << "   time elapsed is "
+                      << time_elapsed<std::chrono::microseconds>(start, stop).count() << "ms"
                       << std::endl;
+        }
+
+        inline double
+        evaluate_accuracy() const
+        {
+            auto f = [this](std::vector<std::string> const& terms,
+                            size_t num_result)
+                     { return query(terms, num_result); };
+            return _accuracy.evaluate(f);
         }
     };
 
@@ -318,11 +399,11 @@ namespace hw3
         explicit terminal(std::string const& path)
             : _db(path, 0, 1012)
         {
-            size_t default_k = 500;
+            size_t default_k = 1000;
             std::cout << "-- using default approximation rank\n"
                       << "   default rank is " << default_k
                       << std::endl;
-            _db.decompose(default_k);
+            _db.low_rank_approx(default_k);
         }
 
         void
@@ -359,6 +440,55 @@ namespace hw3
                       << time_elapsed(start, stop).count() << "ms\n"
                       << std::endl;
         }
+
+        void
+        command(std::string const& command)
+        {
+            if(command.compare(1, 4, "help") == 0)
+            {
+                std::cout << '\n'
+                          << " :lowrank <decomposition rank>\n\n"
+                          << "   compute the low rank approximation of document matrix\n"
+                          << "   by truncating the SVD decomposition\n\n" 
+                          << " :accuracy \n\n"
+                          << "   compute the information retrieval precision based on\n"
+                          << "   the document keyword list\n"
+                          << std::endl;
+            }
+            else if(command.compare(1, 7, "lowrank") == 0) 
+            {
+                auto param = std::istringstream{
+                    std::string(command.begin() + 10, command.end())};
+                std::string rank_str;
+                param >> rank_str;
+
+                size_t rank;
+                try{
+                    rank = stoi(rank_str);
+                }
+                catch(std::exception const& e) {
+                    std::cout << " the decompose command must be of format \":decompose <integer>\" "
+                              << std::endl;
+                    return;
+                }
+                _db.low_rank_approx(rank);
+            }
+            else if(command.compare(1, 8, "accuracy") == 0)
+            {
+                auto start = std::chrono::steady_clock::now();
+                double accuracy = _db.evaluate_accuracy();
+                auto stop = std::chrono::steady_clock::now();
+                std::cout << "-- evalauting accuracy of query system\n"
+                          << "   accuracy " << accuracy << '\n'
+                          << "\n time elapsed is "
+                          << time_elapsed(start, stop).count() << "ms\n"
+                          << std::endl;
+            }
+            else
+            {
+                std::cout << " Unknown command" << std::endl;
+            }
+        }
     };
 }
 
@@ -368,6 +498,7 @@ int main()
     std::string const path = "database";
     hw3::terminal _term(path);
 
+    std::cout << "enter :help to see list of commands." << std::endl;
     while(true)
     {
         std::string input;
@@ -377,36 +508,7 @@ int main()
             continue;
         if(input[0] != ':')
             _term.query(input);
+        else
+            _term.command(input);
     }
-    // auto& mat = db._doc_matrix;
-    // auto& corpus = db._words;
-    // for(size_t i = 0; i < mat.shape().second; ++i)
-    // {
-    //     double count = std::accumulate(&mat(0, i),
-    //                                    &mat(0, i + 1),
-    //                                    0.0);
-    //     if(count == 0)
-    //     {
-    //         std::cout << "found no occurance of: \"" << corpus[i]
-    //                   << "\" index: " << i << std::endl;
-    //     }
-    // }
-
-    // while(true)
-    // {
-    //     std::string word;
-    //     std::cout<< "$ ";
-    //     std::cin >> word;
-    //     auto result = db._words[word];
-    //     if(!result)
-    //         std::cout << "not found" << std::endl;
-    //     else
-    //     {
-    //         size_t idx = result.value();
-    //         size_t count = std::accumulate(&mat(0, idx),
-    //                                        &mat(0, idx + 1),
-    //                                        0.0f);
-    //         std::cout << "index: " << idx << " count: " << count << std::endl;
-    //     }
-    // }
 }

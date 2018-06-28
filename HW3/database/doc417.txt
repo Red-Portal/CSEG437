@@ -1,0 +1,44 @@
+Blizzard Entertainment Re-imagines StarCraft
+
+A dozen years after Blizzard Entertainment introduced millions of gamers to the violent 26th-century universe inhabited by the warring factions of the Terrans (human exiles from Earth), the Zerg (an insectoid race) and the Protoss (a psionic alien race), StarCraft II has been unleashed on its growing fan base.
+
+
+Blizzard sold more than 4.7 million StarCraft games in the United States alone through December 2009, according to the NPD Group, a research firm. In July, Blizzard tried to make history repeat itself by releasing StarCraft II, one of the most anticipated PC-game sequels ever, this time breaking new ground with 3D graphics and in-game cinematics.
+
+
+The end result is an eye-popping visual feast that really shines on high-end PCs running on the latest processors. In addition to showcasing vibrant 3D visuals and a cavalcade of colors, the game engine can host a ton of units for more intense real-time-strategy (RTS) gameplay.
+
+"StarCraft II is a faster-paced game, and we wanted to capture that, so it was really important that the engine was capable of not only displaying a lot of the units on the screen but also running well when doing so," explains Chris Sigaty, lead producer of StarCraft II.
+
+
+
+
+
+Sigaty and his team had just finished the latest release in another Blizzard franchise with Warcraft III: The Frozen Throne when they turned their attention to StarCraft II. They focused on two areas of innovation: the single-player campaign, which spans three unique races, and the online, multiplayer experience on the newly redesigned Battle.net. The end result should satisfy even the most devoted fans.
+
+A Deeper Experience 
+
+StarCraft II is such a large game that the story evolves in three parts. In the main game, StarCraft II: Wings of Liberty, the action picks up four years after the events of the last adventure, StarCraft: Brood War, and follows the exploits of Jim Raynor as he leads an insurgent group against the autocratic Terran Dominion. Unable to inflict major damage against the Dominion, Raynor`s forces become mercenaries, recovering artifacts of an ancient species thought extinct, the Xel`Naga.
+
+But that`s just the beginning. Blizzard Entertainment is planning two expansion sets to further the story and focus on other factions. Heart of the Swarm will focus on the Zerg and Kerrigan, Queen of the Blades. The second expansion set, Legacy of Void, will center on the Protoss.
+
+The company believes new fans will be born from StarCraft II. The team constructed a self-contained game that newbies can enter and enjoy without playing the previous games. With more than 11.5 million gamers, including many mainstream fans playing World of Warcraft around the globe, Sigaty sees the potential for crossover.
+
+Designing the 3D Playing Field 
+
+Fans such as Aaron "AJ" Biggs, owner of the fan site StarCraft.org, believe that the leap from 2D-based sprites to fully modeled 3D units in StarCraft II changes the visuals but not the gameplay dynamics.
+
+"Blizzard`s focus on scalability is key to its game`s technical design, but not [being]-->StarCraft II has led to great advances in the engine`s shader-framework system," Biggs says.
+
+
+Blizzard created a brand-new fixed-pipeline 3D engine for Warcraft III and built upon that for StarCraft II`s next-gen, shader-based 3D engine. Another focus on this new engine was to not only run the RTS gameplay but also support the in-game cinematics. The game`s cut scenes feature full-size characters and photo-realistic storytelling that pushes the experience forward.
+
+Connected Gaming and Customization
+
+StarCraft II is the first game to showcase the new and improved Battle.net multiplayer gaming service, so Blizzard gamers can take advantage of today`s socially connected and multiplatform digital world. The team focused on three core tenets: the always-connected experience, the competitive arena for everyone and connecting the Blizzard community.
+
+"Battle.net has been integrated into StarCraft II from the presentation standpoint of the customer," says Greg Canessa, project director at Battle.net. "We`re building a scalable, agnostic game service that all Blizzard games can plug into going forward, starting with StarCraft II but also extending over to World of Warcraft, Diablo III and other, unannounced future titles."
+
+Customization is also a key component of games today, and Blizzard delivers new user-generated content for the StarCraft II community to share. A marketplace will be introduced to Battle.net where users can upload, distribute and even sell their custom maps, campaigns and genre-changing add-ons.
+
+No matter how dazzling a game looks or how engaging the story is, it`s the gameplay that ultimately keeps fans logging in for more combat. With StarCraft II, it may not be the 26th century yet, but PC gamers can get a taste for the future of warfare right now.

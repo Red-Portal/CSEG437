@@ -1,0 +1,19 @@
+Apple's upgraded AirPlay 2 wireless audio arrives for iOS and the HomePod
+
+We first heard about AirPlay 2, Apple's upgraded wireless audio protocol, at the WWDC developer conference last year. With today's roll out of iOS 11.4 it's finally here, bringing with it multi-room audio and more advanced pairing capabilities to iPhones, iPads, and the HomePod speaker.
+
+Multi-room is the big difference between AirPlay 1 and AirPlay 2, letting iOS users beam music and other audio to several compatible devices (such as the Apple TV) simultaneously. It's a major upgrade and puts Apple's system more on a par with rivals like Google Cast and the Sonos platform.
+
+The multi-cast capability has been available on the Mac for some time, but with AirPlay 2 it's now on Apple's portable devices and smart speaker. The update also allows owners of two HomePods to pair them together and use them as a stereo system.
+
+"Each HomePod is able to play its own audio channel ? left or right ? while separating out both the ambient and direct energy," Apple says in a blog post. "This innovative stereo sound provides a wide, almost three-dimensional soundstage for an incredible listening experience anywhere in the room."
+
+When tapping on the AirPlay button in Control Center in iOS 11.4, iPhone and iPad owners will now be able to select multiple AirPlay outputs, if available ? they can play the same song or podcast on several speakers at the same time, or move audio from one speaker to another around the house.
+
+Everything works with Siri too, so a command like "Siri, move the music to the dining room" will automatically switch playback from a HomePod in the study to an Apple TV in the dining room (assuming all the devices have been correctly configured).
+
+A variety of third-party speakers have expressed interest in building AirPlay 2-compatible hardware in the near future, so it's yet another option for your multi-room audio setup, alongside the existing offerings from Amazon, Google, Sonos, and others.
+
+Apple will be glad to have AirPlay 2 fully out in the wild after the delay in launching the HomePod had a knock-on effect on the associated software. iOS 11.4 is rolling out to devices now, with a HomePod update following in a few days, Apple says.
+
+The news also comes just before WWDC 2018, when we're expecting a host of software-related announcements from Apple: Expect updates for iOS and macOS, as well as new features for the Apple Watch, Apple TV, and HomePod. We might even see some new hardware at the event, which starts on June 4.

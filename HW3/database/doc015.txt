@@ -1,0 +1,50 @@
+T-Mobile Talks Up 3G Network?and Apple? 
+
+T-Mobile gave a peek into their future plans on Friday, which look to include high-speed 3G networks in 2007, enhanced mobile e-mail options, and perhaps working with Apple. 
+
+The announcement comes in the wake of T-Mobile spending $4.2 billion for 120 new wireless spectrum licenses in the 1,700 and 2,100 Mhz bands, covering the entire United States. The new spectrum will help T-Mobile USA become the largest element of the international T-Mobile group, based in Germany, Kai-Uwe Ricke, chief executive of parent company Deutsche Telekom, said at a press conference Friday in New York City. 
+
+"T-Mobile USA has become an undeniable success story," he said. Four billion dollars may sound like a lot of money, but it's a deal in the high-stakes game of wireless, T-Mobile USA Chief Executive Robert Dotson said. While Verizon Wireless spent $2 billion for 20 MHz of spectrum in New York a few years ago, T-Mobile got their new 20 MHz in New York for only $400 million. 
+
+The new spectrum puts T-Mobile ahead of Sprint and roughly on par with Verizon in terms of average spectrum in the top 100 US markets, according to T-Mobile. The company now has an average of 52.2 Mhz spectrum, compared to Sprint's 49.8, Verizon's 53.1 and Cingular's 67.6.
+
+What Dotson didn't mention, though, is that T-Mobile's new spectrum is in bands that no current phone supports?new devices will have to be developed to work in the new 1,700-MHz and 2,100-MHz bands. While many European countries have a 2,100-MHz band as well, their band is configured differently, so European 2,100-MHz devices will not be able to work well on the American version. The 1,700 and 2,100 Mhz bands also require more towers per square mile than the 850 Mhz band where Verizon and Cingular are strong. 
+
+T-Mobile paints their lack of 850 Mhz as a strength, though. Supporting what they call two bands (they lump 1,700 and 2,100 together) is less complicated than supporting three, they say.
+
+The additional spectrum, plus new services, will help T-Mobile jump to 35 to 40 million customers by 2015, said Karl-Gerhard Eick, CFO of Deutsche Telekom. While that's a jump from T-Mobile's current subscriber base of roughly 24 million customers, it's still short of Cingular's and Verizon's totals.
+
+A Bigger and Better T-Mobile
+
+So far, T-Mobile is the only one of the four major national wireless carriers not to roll out "3G" third-generation mobile networks with data speeds of 384 Kbits/s or above. That will change, according to a T-Mobile press release. T-Mobile's 3G rollout will include HSDPA, will start during the fourth quarter of this year, and will extend through 2007 and 2008, costing around $2.1 billion for the buildout through 2009. The company has "already completed 50 percent of the UMTS [3G] equipment rollout in New York," Dotson said. 
+
+The 3G network will be complemented by UMA, which lets phone calls transition between cellular and Wi-Fi to enhance indoor coverage. But we'll only see "market trials" of UMA this year, according to Dotson. 
+
+Along with the 26 MHz of nationwide spectrum T-Mobile holds, they've purchased an average of an additional 23 MHz, giving them room to roll out new services, Dotson said. Before this auction, T-Mobile was at a disadvantage compared to the other three major carriers in terms of spectrum. The carrier also increased their physical coverage footprint by 50% in 2005, mostly in suburban areas, Dotson said.
+
+"In major T-Mobile growth markets such as New York, Los Angeles, Boston, and Miami?we now have uncapped the growth potential of these markets for not only 3G services but core voice services as well," he said. 
+
+T-Mobile has already been working with manufacturers such as Motorola, Nokia, and Siemens to produce handsets for the new bands, Dotson said. T-Mobile's 3G handsets will only have a "nominal" difference in cost from their existing 2.5G handsets, he said.
+
+"The only way we could get to commercial deployment in mid-2007 is to be working on devices well in advance of that," he said.
+
+The company will maintain its focus on customer service, as well, even taking its award-winning US customer service model back to improve Germans' experiences, Ricke said.
+
+"There's a lot to learn in Europe from US service practices," he said.
+
+T-Mobile iPhone? 
+
+Dotson singled out Apple's efforts on the desktop as a "great precursor of where I think the marketplace is headed in 3G," leading to speculation that T-Mobile, not Cingular, will host Apple's much-rumored iPhone project.
+
+Of course, Dotson "declined to comment" about any relationship between the two companies, but he went on at some length about how Apple's and T-Mobile's visions seem to be aligned.
+
+"The [upcoming] Leopard [OS X 10.5] operating system does an incredibly good job of integrating video, and you're starting to see the integration of voice," he said. "It is a good precursor to how this marketplace can evolve, and how you can really start making money off products and services in a mobile environment."
+
+But Dotson's favorite Apple product seems to be OS X, not the iPod. He downplayed the importance of mobile music, video, and TV in the 3G landscape, focusing instead on user-generated content in the MySpace and YouTube mode, e-mail, and personal information management. As much as 30 percent of Web browsing on T-Mobile's Sidekick handhelds is "directly from MySpace," Dotson said.
+
+"You didn't hear a lot of discussion about mobile TV [from T-Mobile], you didn't hear a discussion about the next music platform; we're not going to spend a lot of resources on the development of mobile TV in the market."
+
+Rich e-mail, on the other hand, gets Dotson's vote. He said that while e-mail is the number one Internet application on PCs, with 91% of broadband users e-mailing, only 5% of consumer e-mail is currently accessed in a mobile environment. "As can be seen with Apple's new Leopard operating system, the richness of e-mail communications is just beginning to discover elements beyond the printed word, moving to dynamic and personally tailored image-rich communications," he said. 
+
+Not only e-mail, but PIM is key to T-Mobile's future strategy "from managing your calendar, to reminders of important life events like birthdays, as well as the integration of personally memorable video and audio clips to bring the richness of face-to-face communications to life in a mobile environment," Dotson said. 
+

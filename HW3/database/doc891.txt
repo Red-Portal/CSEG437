@@ -1,0 +1,28 @@
+Nvidia’s latest tech will enable ‘cinematic-quality’ graphics — on unannounced GPUs
+
+Nvidia is introducing a graphics technology this year that video game developers have been hoping to see for a long time: the ability to render and illuminate a scene in real time with cinematic quality, the company announced today at the 2018 Game Developers Conference.
+
+Known as “real-time ray tracing,” the technology has long been considered the holy grail of graphics rendering. Now Nvidia is bringing it to game makers as Nvidia RTX, which companies like 4A Games (Metro), Epic Games (Unreal Engine) and Remedy Entertainment (Quantum Break) have already been experimenting with. That doesn’t mean you’ll start to see this in games immediately — RTX requires Nvidia’s new Volta line of GPUs, and the company hasn’t even unveiled any consumer-level Volta graphics cards yet.
+
+As always, though, bringing this kind of technology to market is a long process that starts with getting game makers and other stakeholders on board. Nvidia has partnered closely with Microsoft on RTX, and the technology is fully supported in Microsoft’s new DirectX Raytracing (DXR) API, integrating the forward-looking feature directly into Windows.
+
+In case you’re unfamiliar with ray tracing, here’s a brief primer. In the real world, everything that we see is essentially the result of light bouncing off of the objects in our vision. The varying degrees to which that light is absorbed, reflected and/or refracted — and fluorescence is the fourth possibility — determines how it looks to us. “Ray tracing” is essentially the reverse process, and the name is very literal: It refers to a method of generating an image with a computer by “tracing” the path of light from an imaginary eye or camera to the objects in that image. A ray tracing algorithm will account for elements such as the light sources in the scene and the materials that the objects consist of.
+
+IT’S GOING TO TAKE A WHILE TO SEE THIS TECHNOLOGY IN ACTUAL GAMES
+Ray tracing solves a lot of difficult graphics problems, like replicating transparency and refraction. But the major downside is that it requires an incredible amount of computational power, which has made it impossible to use in real-time graphics rendering. For many years, ray tracing has been standard technology in the film industry, where visual effects artists can take hours and hours to render a single frame of, say, a TIE fighter blowing up in a Star Wars movie. But until now, that’s been impractical for real-time use in video games, which instead rely on a technique called rasterization to generate 3D scenes.
+
+“Some of the demonstrations you’re going to see, they literally look like movies,” said Tony Tamasi, senior vice president of content and technology, during a conference call with the media last week. Tamasi was talking about GDC 2018, where companies like Remedy will unveil their work with Nvidia RTX.
+
+You can see an example above of RTX in Remedy’s Northlight engine, which was the basis for the studio’s most recent game, 2016’s Quantum Break.
+
+“Integrating Nvidia RTX into our Northlight engine was a relatively straightforward exercise,” said Mikko Orrenmaa, technology team manager at Remedy, in a news release. “We were surprised just how quickly we were able to prototype new lighting, reflection and ambient occlusion techniques, with significantly better visual fidelity than traditional rasterization techniques. We are really excited about what we can achieve in the future with the Nvidia RTX technology.”
+
+And that’s the thing: It’s going to take a while to see this technology in actual games. There’s no word on when Nvidia will begin shipping Volta GPUs, though Tamasi said, “We expect to see games shipping with [RTX] this year.” He added that RTX will be “a ‘turn it up to 11’ kind of feature” initially, with developers “layering in some ray tracing effects on top of rasterization-based techniques.” (Which makes sense, since only a tiny portion of players will have Volta graphics cards.) But it’s clear that this is the future of video game graphics, and it’s looking promising.
+
+Update: We’ve added a video demonstrating DirectX Raytracing in Remedy’s Northlight engine to the top of this article.
+
+Update 2: Following Nvidia’s announcement, a spokesperson for the company’s chief competitor, AMD, reached out to Polygon to note that the firm is also working with Microsoft on this kind of technology, although AMD’s statement did not explicitly mention the DirectX Raytracing API. One of AMD’s sessions at GDC 2018 focuses on real-time ray tracing techniques that can deliver “high performance on any combination of CPU and GPUs.”
+
+“AMD is collaborating with Microsoft to help define, refine and support the future of DirectX12 and ray tracing,” the statement reads. AMD added, “We’re looking forward to discussing with game developers their ideas and feedback related to PC-based ray tracing techniques for image quality, effects opportunities, and performance.”
+
+Update 3: Here’s a video from Electronic Arts’ Search for Extraordinary Experiences Division (SEED) showing the team’s experiments with DXR in a title called Project Pica.

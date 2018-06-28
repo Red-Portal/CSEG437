@@ -1,0 +1,16 @@
+There's been plenty of iPhone drama this week, but none of it has to do with the big conference--WWDC--Apple's putting on 
+next week, or even last week's Samsung court case. Nope. Apple is drawing praise -- and much more fire -- for apps. Plus, 
+two juicy rumors about future iPhone screens and a third camera. Here's what happened this week. Three cameras, OLED for 
+all Dual cameras, schmual cameras -- how about three? A new analyst report speculates that the 2019 iPhone will have one 
+telephoto lens and two more to create a depth map for AR. Those three iPhones rumored for 2019 are
+ also suspected to all use OLED screens, just like the iPhone X. This screen technology is known for producing rich color 
+with high contrast and deep blacks. Who would've thought that a doodling app could bring bitter iPhone and Android fanboy 
+rivals together? Just A Line is a multiplayer "game" at the heart of Google's first Android-to-iOS AR experiment. 
+Anyone with Android or iOS can collaborate on AR doodles in the same environment. Apps, bringing the world closer together 
+since 1987.Unfortunately, apps don't always mend relationships; sometimes they tear them apart. Telegram, an instant-messaging
+app now banned in Russia, says that Apple is keeping it from updating its iOS app. Telegram was prohibited on Russian 
+territory after its founders refused to provide users' private communications to Russian security agencies. 
+In a recent statement, co-founder Pavel Durov implied that Apple was siding with Russia on this dispute over user privacy.
+Let's hope we get to the bottom of this. And in another serious breakup: gamers might feel the heartbreak now that Apple 
+allegedly rejected an app that would have let you stream PC games to your iPhone or iPad. Apple had initially agreed to 
+release Valve's Steam Link app, but like all ended relationships, promises don't always pan out.

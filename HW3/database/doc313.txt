@@ -1,0 +1,7 @@
+Netbook
+
+Netbooks are a category of small, lightweight, and inexpensive laptop computers.
+
+At their inception in late 2007 ? as smaller notebooks optimized for low weight and low cost ? netbooks omitted certain features (e.g., the optical drive), featured smaller screens and keyboards, and offered reduced specification and computing power. Over the course of their evolution, netbooks have ranged in size from below 5" screen diagonal to 12". A typical weight is 1 kg (2-3 pounds). Often significantly less expensive than other laptops, by mid-2009, some wireless data carriers began to offer netbooks to users "free of charge", with an extended service contract purchase.
+
+In the short period since their appearance, netbooks have grown in size and features, now converging with new smaller, lighter notebooks. By August 2009, when comparing a Dell netbook to a Dell notebook, CNET called netbooks "nothing more than smaller, cheaper notebooks," noting, "the specs are so similar that the average shopper would likely be confused as to why one is better than the other," and "the only conclusion is that there really is no distinction between the devices.". Netbooks now typically use Windows 7 Starter which Microsoft sells at a lower price but restricts to smaller hardware.

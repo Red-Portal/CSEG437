@@ -1,0 +1,44 @@
+Under-screen fingerprint sensor unveiled
+
+Qualcomm has announced a fingerprint ID sensor designed to be fitted underneath smartphone and tablet screens.
+
+It said the component could also work with wet fingers or underwater and could be used to measure heart rates.
+
+The development paves the way for Android device-makers to be able to achieve sleeker designs.
+
+However, one expert said Apple could still beat Qualcomm to market with a rival screen-integrated sensor of its own.
+
+Fingerprint sensors are used to unlock devices without having to type in a code, to authenticate payments and to provide other identity checks.
+
+Until now, they have typically taken up room beneath the touchscreen or been placed on the rear of a device.
+
+Qualcomm unveiled its innovation at Mobile World Congress Shanghai. Its sensor works by emitting ultrasonic soundwaves, which bounce back on to the sensor with different reflection strengths depending on whether they hit the finger's ridges or valleys.
+
+An earlier version of the tech was used by Xiaomi to embed a fingerprint sensor under a glass bezel at the base of its Mi5 smartphone.
+
+But it partnered with Vivo, another Chinese handset-maker, to show off a prototype handset featuring the new part at the Shanghai expo.
+
+The tech blog Engadget said the demo unit worked but was noticeably slower to carry out scans than existing sensors.
+
+There are also other caveats:
+
+it is capable of working only with OLED (organic light-emitting diode) displays and not their cheaper LED counterparts
+the screen's glass cannot be thicker than 0.8mm. Several existing smartphones already use thinner glass, but it means owners will probably not be able to add screen protectors
+manufacturers will not be able to order the part in bulk until late 2017 or early in 2018.
+Samsung had been rumoured to be working on a similar feature of its own for the Galaxy S8 phone but ultimately the device launched without it.
+
+"It would have been the logical thing for Samsung because it wanted the biggest screen and smallest bezels possible," commented Ben Wood from the tech consultancy CCS Insight.
+
+"But ultimately it was obliged to move the fingerprint sensor to the back of the phone, which drew criticism because it ended up being close to the camera."
+
+Apple, the world's number two handset-maker, is currently engaged in a high-profile legal fight with Qualcomm over royalty payments, so is unlikely to be a customer.
+
+Moreover, the company has published several patents indicating it is working on an under-screen fingerprint sensor of its own.
+
+It is unclear, however, whether the tech will be ready for the next-generation iPhone, due to be unveiled later in the year.
+
+"Apple has the purchasing power to have huge influence over the supply chain, so if its technology is ready, it has the best shot of being the company that implements this first," added Mr Wood.
+
+"But producing big displays with limited bezels is already a technical challenge, and integrating a sensor below the glass more so.
+
+"And Apple can ill afford to deliver a less-than-perfect solution."

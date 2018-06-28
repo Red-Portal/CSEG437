@@ -1,0 +1,579 @@
+Energy-Efficient Mobile Network I/O
+Kemal Guner and Tevfik Kosar
+Department of Computer Science and Engineering
+University at Buffalo, (SUNY), Buffalo, NY 14260, USA
+Email: {kemalgne, tkosar}@buffalo.edu
+
+
+Abstract—By year 2020, the number of smartphone users
+globally will reach 3 Billion and the mobile data traffic (cellular
++ WiFi) will exceed PC Internet traffic the first time. As the
+number of smartphone users and the amount of data transferred
+per smartphone grow exponentially, limited battery power is
+becoming an increasingly critical problem for mobile devices
+which heavily depend on network I/O. Despite the growing body
+of research in power management techniques for the mobile
+devices at the hardware layer as well as the lower layers of
+the networking stack, there has been little work focusing on
+saving energy at the application layer for the mobile systems
+during network I/O. In this paper, we show that significant energy
+savings can be achieved with application-layer solutions at the
+mobile systems during data transfer with no performance penalty.
+In many cases, performance increase and energy savings can be
+achieved simultaneously.
+Keywords — energy-efficient mobile networking; green mobile
+and wireless networking; application-layer optimization;
+protocol tuning; high-performance data transfers
+I. INTRODUCTION
+The number of smartphone users globally has already
+exceeded 2 Billion, and this number is expected to reach
+3 Billion by 2020 [1]. It is also estimated that smartphone
+mobile data traffic (cellular + WiFi) will reach 370 Exabytes
+per year by that time, exceeding PC Internet traffic the first
+time in the history [2]. An average smartphone consumes
+between 300 – 1200 milliwatts power [3] depending on the
+type of applications it is running, and most of the energy in
+smartphone applications is spent for network I/O. During an
+active data transfer, the cellular and WiFi components of a
+smartphone consume more power than its CPU, RAM, and
+even LCD+graphics card at the highest brightness level [3],
+[4]. Although the mobile data traffic and the amount of energy
+spent for it increase at a very fast pace, the battery capacities
+of smartphones do not increase at the same rate.
+Limited battery power is becoming an increasingly critical
+problem for smartphones and mobile computing, and many
+techniques have been proposed in the literature to overcome
+this at different layers. At the physical layer, techniques were
+proposed to choose appropriate modulation, coding, and transmission
+power control schemes to improve energy efficiency of
+the mobile device [5], [6]. At the media access control (MAC)
+layer, several new energy-efficient MAC protocol designs
+were proposed [7], [8]. At the network layer, low-power and
+scalable routing algorithms were developed [9], [10]. At the
+transport layer, traffic shaping techniques and new transport protocols [11], [12] were proposed to exploit applicationspecific
+information and reduce power utilization.
+Despite the growing body of research in power management
+techniques for the lower layers of the mobile networking
+stack, there has been little work focusing on saving network
+I/O (data transfer) energy at the application layer. The most
+notable work in this area are: tuning the client playback buffer
+size during media streaming in order to minimize the total
+energy spent [13]; using lossless compression techniques to
+minimize the amount of data transferred as well as the energy
+consumed on wireless devices [14]; and joint optimization
+of the application layer, data link layer, and physical layer
+of the protocol stack using an application-oriented objective
+function in order to improve multimedia quality and power
+consumption at the same time [15].
+In this paper, we show that significant amount of network
+I/O energy savings can be obtained at the application layer
+with no performance penalty. Application-layer optimization
+has the benefit of not requiring any changes to the smartphone
+hardware, to the operating system kernel, or to the lower-layer
+networking stack, although its deployment at scale will be very
+easy and its impact will be very big considering the end-toend
+performance of the mobile network I/O and its energy
+efficiency will increase drastically. We analyze the effects of
+different application layer data transfer protocol parameters
+(such as the number of parallel data streams per file, and
+the level of concurrent file transfers) on mobile data transfer
+throughput and energy consumption.
+In summary, the contributions of this paper are as follows:
+• To the best of our knowledge, we are first to provide an
+in depth analysis of the effects of application layer data
+transfer protocol parameters on the energy consumption of
+mobile phones. We show that significant energy savings can
+be achieved with application-layer solutions at the mobile
+systems during data transfer with no performance penalty.
+We also show that, in many cases, performance increase and
+energy savings can be achieved simultaneously.
+• Worldwide energy consumption by smartphones is expected
+to be 24 terawatt hours in 2020 [2], [3], which translates
+to around 5 billion U.S. dollars per year, with a U.S. share
+of 10% [16]. This work will help to reduce the total energy
+consumption cost of smartphones worldwide through a fully
+application-layer solution which will be very easy to deploy
+at a large-scale. Our preliminary work shows that we can
+save up to 81% energy using application-layer techniques
+in certain cases.
+
+• The majority of the mobile users fail to obtain even a
+fraction of the theoretical speeds promised by the existing
+mobile networks due to sub-optimal transport protocol tuning.
+This work will help increasing the mobile data transfer
+speed by efficiently tuning application-layer data transport
+parameters. Our preliminary work shows that we can achieve
+up to 8.5X performance improvement while saving energy
+in certain cases.
+The rest of this paper is organized as follows: Section
+II provides background information on energy-aware tuning
+of application-layer data transfer protocol parameters and
+discusses the related work in this area; Section III explains the
+details of experimental setup and the analysis of individual network
+tuning parameters; Section IV introduces our three novel
+algorithms for mobile data transfer; Section V presents the
+results of our algorithms and comparison of them with other
+standard applications on mobile data transfer performance and
+energy consumption; and Section VI concludes the paper.
+II. ENERGY-EFFICIENT MOBILE NETWORKING
+The majority of work on mobile device energy savings
+focuses putting the devices to sleep during idle times [17],
+[18]. A recent study by Dogar et al. [19] takes this approach
+to another step, and puts the device into sleep even during data
+transfer by exploiting the high-bandwidth wireless interface.
+They combine small gaps between packets into meaningful
+sleep intervals, thereby allowing the NIC as well as the device
+to doze off. Another track of study in this area focuses on
+switching among multiple radio interfaces in an attempt to reduce
+the overall power consumption of the mobile device [20],
+[21]. These techniques are orthogonal to our application-layer
+protocol tuning approach and could be used together to achieve
+higher energy efficiency in the mobile systems.
+The closest work to ours in the literature is the work by
+Bertozzi et al. [22], in which they investigate the energy tradeoff
+in mobile networking as a function of the TCP receive
+buffer size and show that the TCP buffering mechanisms can
+be exploited to significantly increase energy efficiency of the
+transport layer with minimum performance overheads.
+In this work, we focus on the tuning of two important
+protocol parameters: concurrency (the level of concurrent file
+transfers to fill the mobile network pipes), and parallelism
+(the number of parallel data streams per file). Concurrency
+refers to sending multiple files simultaneously through the
+network using different data channels at the same time [23]–
+[26]. Parallelism sends different chunks of the same file using
+different data channels (i.e., TCP streams) at the same time
+and achieves high throughput by mimicking the behavior of
+individual streams and getting a higher share of the available
+bandwidth [27]–[36]. Predicting the optimal concurrency and
+parallelism numbers for a specific setting is a very challenging
+problem due to the dynamic nature of the interfering
+background traffic [37]–[39]. Using too many simultaneous
+connections would congest the network and the throughput
+will start dropping down When used wisely, these parameters have a potential to
+improve the end-to-end data transfer performance at a great
+extent, but improper use of these parameters can also hurt
+the performance of the data transfers due to increased load
+at the end-systems and congested links in the network. For
+this reason, it is crucial to find the best combination for these
+parameters with the least intrusion and overhead to the system
+resource utilization and power consumption.
+In the literature, several highly-accurate predictive models
+[40]–[43] were developed which would require as few as
+three sampling points to provide very accurate predictions
+for the parallel stream number giving the highest transfer
+throughput for the wired networks. Yildirim et al. analyzed
+the combined effect of parallelism and concurrency on endto-end
+data transfer throughput [44]. Managed File Transfer
+(MFT) systems were proposed which used a subset of these
+parameters in an effort to improve the end-to-end data transfer
+throughput [45]–[49]. Engin et al. [50] and Nine et al. [51]
+proposed state-of-the-art algorithms that take into account both
+historical data analysis and dynamic tuning of applicationlayer
+parameters. Alan et al. [52], [53] analyzed the effects
+of parallelism and concurrency on end-to-end data transfer
+throughput versus total energy consumption in wide-area wired
+networks in the context of GridFTP data transfers [54], [55].
+None of the existing work in this area studied the effects
+of these parameters on the mobile energy consumption and
+the performance versus energy trade-offs of tuning these
+parameters in this context.
+III. ANALYSIS OF PARAMETER EFFECTS
+In our analysis, we have used a single-phase portable Yokogawa
+WT210 power meter, which provides highly accurate and
+fine granular power values (up to 10 readings per second) and
+is one of the accepted devices by the Standard Performance
+Evaluation Corporation (SPEC) power committee for power
+measurement and analysis purposes in the field. This power
+meter is used to measure the power consumption rates during
+the data transfers at the mobile client device.
+We designed a testbed with four different mobile devices,
+which are Google Nexus S, Samsung Galaxy Nexus N3,
+Galaxy S4, and Galaxy S5. We tested both WiFi and 4G LTE
+connections in progress of data transfers on end-systems. To
+reduce the effect of number of active users and the effect
+of peak/off-peak hours during the transfers, we adopted a
+strategy of using different time windows for each run of the
+same experiment setting, and took the average throughput and
+energy consumption values. We conducted all experiments at
+the same location and with the same distance and interference
+for objective analysis of the end-system devices.
+We choose HTTP (Hypertext Transport Protocol) as the
+application-layer transfer protocol to test the impact of the
+parameters of interest on the end-to-end data transfer throughput
+as well as the energy consumption of the mobile client.
+The main reason for this choice is that HTTP is the de-facto
+transport protocol for Web services ranging from file sharing
+to media streaming, and the studies analyzing the Internet traffic [56] show that HTTP accounts for 75% of global mobile
+Internet traffic.
+We analyzed the data transfer throughput of HTTP data
+transfers and the power consumption during which we run
+tests with different level of concurrency (cc), parallelism (p),
+and combined concurrency & parallelism parameters. We also
+measured the instantaneous power consumption and total energy
+consumption of each individual request among different
+web servers and clients. The experiments were conducted
+on Amazon Elastic Compute Cloud (AWS EC2) instances,
+Chameleon Cloud [57], and Data Intensive Distributed Computing
+Laboratory (DIDCLAB). The network map of the
+experimental testbed and the setup of the power measurement
+system are illustrated in Figure 1.
+We used varying size of files (HTML, image, and video)
+to analyze the effect of each tuning parameter on transfer
+throughput and energy consumption. The characteristics of
+these files are presented in Table I. In order to increase the
+robustness of the obtained throughput and energy consumption
+values for each experimental setting, we run each test within
+the range of five to ten times, and the average values of
+throughput and energy consumption were used. As a result of
+iteration of each individual experiment among four different
+mobile clients and three different web servers with different
+bandwidth (BW) and round-trip-time (RTT), we transferred
+varying size of nearly 3.8 Million individual files.
+Initially, we tested the individual parameter effects of
+concurrency and parallelism on the achieved throughput and
+energy consumption for the data transfers between the web
+server at AWS EC2 Sydney and the client Samsung Galaxy
+S5 at DIDCLAB in Buffalo. Overall, concurrency parameter
+showed a better performance than parallelism on HTML, image, and video file transfers. When we increased level of
+concurrency from 1 to 32, it boosted end-to-end throughput
+for all all file types and reduced energy consumption on the
+mobile client as seen in Figure 2(a). On the other hand, when it
+comes to the parallelism parameter, the performance of each
+file type showed different characteristics. Increased level of
+parallelism improved the end-to-end throughput of the video
+file transfers and decreased the energy consumption up to a
+specific level as shown at Figure 2(b). These results show that
+parallelism is especially effective during large file transfers.
+Having throughput and energy consumption results of individual
+parameters on data transfers, we designed a simple
+download manager that uses the combination of concurrency
+and parallelism parameters in order to increase throughput
+while saving energy. Figure 3 shows throughput versus energy
+consumption (per 100 MB) trade-offs of our application level
+parameters on the same datasets from AWS EC2 Sydney
+to Galaxy S5 at DIDCLAB in Buffalo. When concurrency
+level increased from 1 to 32 as well as parallelism from 1
+to 8, throughput slightly improved for the html and image
+datasets compared to individual parameter results in terms of
+parallelism as seen in Figure 3(a)-(d) and energy consumption
+per 100 MB increased when the level of parallelism increased
+on fixed concurrency level. On the other hand, concurrency
+still managed to show its positive effect on throughput at each
+parallelism level. Parallelism became more effective for larger
+file transfer as expected (Figure 3(e)-(h)).
+Overall, using the combined parameters, we managed toincrease the highest energy saving result of individual parameters
+up to 81%. We run the same experiments with other
+smartphones as well: while Galaxy S4 presented similar but
+less throughput and higher energy efficiency, Galaxy Nexus
+N3 and Nexus S showed moderate performance compared to
+Galaxy S5. Due to the space limitations of the paper, we had
+to limit the number of graphs we can present.
+IV. PROPOSED ALGORITHMS
+The guaranteed reliability and quality of the provided
+services become more important according to the end-users’
+needs. Hence, we have developed three different data transfer
+optimization algorithms for mobile users based on our initial
+analyzes. These include: (1) Lowest-possible Energy (LowE);
+(2) Highest-achievable Throughput (HAT); and (3) Energyaware
+High Throughput (EHT) algorithms.
+The Lowest-possible Energy (LowE) algorithm aims to
+achieve the minimum energy consumption during dowdload/upload
+of data transfer by tuning application-layer network
+parameters mentioned earlier. The main goal of LowE
+algorithm is minimizing energy consumption with no concern
+on performance, which brings flexibility on transfer completion
+time. Thus, our application-layer solution, which do not
+require any lower-layer protocol change, can be used data
+syncing/backing up in cloud computing, background transfers,
+updates,etc. We initially divide dataset into different number of
+chunks based on the characteristics of the dataset and network
+used, and then treat each chunk separately. After dataset is
+divided into chunks, we calculate optimal concurrency level
+(ccopt) based on the bandwidth-delay-product (BDP), average
+file size for each chunk, and number of available channels.
+Optimal parallelism level (popt) is based on TCP buffer size
+(bufSize), BDP, and number of available channels (line 8 and
+9). BDP is calculated as a product of the bandwidth of the
+network link (BW) and round-trip-time (RT T) (line 3). The
+details of the LowE algorithm are shown in Algorithm 1.
+The Highest-achievable Throughput (HAT) algorithm, on
+the other hand, aims to maximize the throughput of data transfer
+without energy concerns. Since HAT focuses on completing
+the data transfer at closest time possible, it can be used for time
+sensitive applications such as real-time audio/video streaming
+and interactive games. Similar to LowE, HAT partitions files
+into three chunks (small, medium and large) according to
+their size. Then it calls f indOptimalP Arameters() function
+to calculate the best possible optimal parameter values for
+application-layer network parameters (line 6 in Algorithm 2),
+and finally HAT assigns channels to chunks using roundrobin
+algorithm in the order of large > medium > small as
+seen through line 7 to line 21 in Algorithm 2. The algorithm
+prioritize by assigning higher concurrency values for large,
+medium and small chunks, respectively.
+In the Energy-aware High Throughput (EHT) algorithm,
+our goal is to balance throughput vs energy consumption rate
+by finding best optimal parameter configuration to achieve
+the maximum throughput on the given networks as well
+as minimizing energy consumption at the same time. ETH
+algorithm differs from LowE and HAT algorithms in terms
+of taking into consideration weights when it comes to assigning
+channels (instead of using simple heuristic approach).
+Additionally, it examined many values to reach maximum
+throughput/energy ratio while others use pre-calculated
+concurrency levels. Similar to HAT, EHT first partitions files
+into chunks, then calculates optimal pipelining and parallelism
+levels. The focus of the algorithm is not only to get maximum
+throughput for each chunk or to minimize energy consumption
+to the lowest possible level. Instead it is designed to increase
+performance for each chunk as well as to decrease energy
+consumption at the same time within the available channel
+range by using concurrency parameter. For channel allocation,
+our EHT algorithm takes into account weights when it comes
+to assigning threads to each chunk. The minimum value of
+concurrent level of available channels is one for all clusters and
+the maximum value is assigned based on resource capacities
+of mobile users and fairness concerns.
+V. EVALUATION OF THE ALGORITHMS
+We compared the performance and power consumption of
+our three algorithms (LowE, HAT and EHT) with energyagnostic
+wget [58] and curl [59] clients as well as two
+different versions of the de-facto application layer transfer
+protocol of HTTP, which are HTTP/1.1 and HTTP/2. The
+newly introduced HTTP/2 is superior to HTTP/1.1 in terms
+of being a binary protocol that supports multiplexing, header
+compressions and letting the server to push responses. We
+used a combination of HTML, image and video datasets to
+compare our LowE, HAT and EHT algorithms with other
+methods/models in order to get a fine-grained analysis of
+performance and energy consumption.
+Figure 4 shows both throughput performance and energy
+consumption of different models. As seen in Figure 4(a) our
+all three algorithms outperform other tested solutions in terms
+of throughput gain. The performance improvement is approximately
+× over the closest competitor, HTTP/2. Even though
+HTTP/2 uses multiplexing to allow multiple requests and
+response over a single connection for head-of-line blocking
+issue, it still obtains very poor results over the network links
+with high latency. On the other hand, while HTTP/1.1 allows
+multiple connections, it also lacks of dynamically tuning
+number of connections.
+As shown in Figure 4(b) energy-agnostic applications wget
+and cURL consume 2.7× and 2× times more energy compared
+with our LowE algorithm and HTTP/2, respectively. We also
+observed that when only smaller files are transfered with
+wget and cURL, the energy consumption rate even increases
+drastically. Figure 4(c) shows the throughput efficiency of
+different models. We use Equation 1 to calculate throughput
+efficiency of our algorithms and other methods.
+As seen in Figure 4(c) newly introduced HTTP/2 nearly
+4× times throughput efficient comparing with widely used
+HTTP/1.1. On the other hand, the EHT algorithm outperforms
+its closest competitor HTTP/2 over 5.2× times.
+VI. CONCLUSION
+In this paper, we performed extensive analysis on the effects
+of application-layer data transfer protocol parameters (such as
+the number of parallel data streams per file, and the level of
+concurrent file transfers to fill the mobile network pipes) on
+mobile data transfer throughput and energy consumption for
+WiFi and 4G LTE connections.
+Based on our analysis results, we proposed three novel
+application-layer algorithms (i.e., LowE, HAT, and EHT) for
+wireless networks to increase energy saving rates of mobile
+users without sacrificing throughput performance. Our LowE,
+HAT, and EHT algorithms show that significant energy savings
+can be achieved with application-layer solutions at the mobile
+systems during data transfer with no performance penalty.
+We also show that, in many cases, performance increase and
+energy savings can be achieved simultaneously.
+In the experiments, we show that by only tuning applicationlayer
+parameters (i.e., concurrency and parallelism) during
+data transfers, an energy saving up to 2.7× achieved by our
+LowE algorithm. At the same time, high throughput gain of the
+end-to-end data transfer obtained compared with standard applications
+like cURL and wget. However, our HAT algorithm
+achieves the highest overall throughput gain. Additionally,
+our energy-efficient EHT algorithm outperforms its closest
+competitor HTTP/2 by up to 5.2× times.
+REFERENCES
+[1] E. A. Edwards, J. Lumsden, C. Rivas et al., “Gamification for health
+promotion: systematic review of behaviour change techniques in smartphone
+apps,” BMJ open, vol. 6, no. 10, p. e012447, 2016.
+[2] C. Systems, “Visual networking index: Forecast and methodology, 2015–
+2020,” June 2016.
+[3] A. Carroll and G. Heiser, “An analysis of power consumption in a
+smartphone.” in USENIX ATC, vol. 14. Boston, MA, 2010.
+[4] A. Pathak, Y. C. Hu, and M. Zhang, “Where is the energy spent inside
+my app?: fine grained energy accounting on smartphones with eprof,”
+in EuroSys. ACM, 2012, pp. 29–42.
+[5] E. Cianca, M. Ruggieri, and R. Prasad, “Improving tcp/ip performance
+over cdma wireless links: A physical layer approach,” in Personal, Indoor
+and Mobile Radio Communications, 2001 12th IEEE International
+Symposium on, vol. 1. IEEE, 2001, pp. A–83.
+[6] C. Schurgers, O. Aberthorne, and M. Srivastava, “Modulation scaling
+for energy aware communication systems,” in Int. Symp. on Low Power
+Electronics and Design. ACM, 2001, pp. 96–99.
+[7] W. Ye, J. Heidemann, and D. Estrin, “An energy-efficient mac protocol
+for wireless sensor networks,” in INFOCOM’02.
+[8] V. Bharghavan, A. Demers, S. Shenker, and L. Zhang, “Macaw: a
+media access protocol for wireless lan’s,” ACM SIGCOMM Computer
+Communication Review, vol. 24, no. 4, pp. 212–225, 1994.
+[9] J.-H. Chang and L. Tassiulas, “Energy conserving routing in wireless
+ad-hoc networks,” in IEEE INFOCOM, vol. 1, 2000, pp. 22–31.
+[10] K. Seada, M. Zuniga, A. Helmy, and B. Krishnamachari, “Energyefficient
+forwarding strategies for geographic routing in lossy wireless
+sensor networks,” in in Proceedings of the 2Nd International Conference
+on Embedded Networked Sensor Systems, 2004, pp. 108–121.
+[11] R. Kravets and P. Krishnan, “Application-driven power management for
+mobile communication,” Wireless Networks, vol. 6, no. 4, pp. 263–277,
+2000.
+[12] S. A. Akella, R. K. Balan, and N. Bansal, “Protocols for low-power,”
+2001.
+[13] D. Bertozzi, L. Benini, and B. Ricco, “Power aware network interface
+management for streaming multimedia,” in WCNC’02.
+[14] R. Xu, Z. Li, C. Wang, and P. Ni, “Impact of data compression on energy
+consumption of wireless-networked handheld devices,” in Distributed
+Computing Systems, 2003. Proceedings. 23rd International Conference
+on. IEEE, 2003, pp. 302–311.
+[15] S. Khan, Y. Peng, E. Steinbach, M. Sgroi, and W. Kellerer, “Applicationdriven
+cross-layer optimization for video streaming over wireless networks,”
+IEEE Communications Magazine, vol. 44, no. 1, pp. 122–130,
+2006.
+[16] “Statista forecast of smartphone users in the us,” November 2016.
+[17] N. Vallina-Rodriguez and J. Crowcroft, “Erdos: achieving energy savings
+in mobile os,” in Proceedings of the sixth international workshop on
+MobiArch. ACM, 2011, pp. 37–42.
+[18] ——, “Energy management techniques in modern mobile handsets,”
+Communications Surveys & Tutorials, IEEE, vol. 15, no. 1, pp. 179–
+198, 2013.
+[19] F. R. Dogar and P. Steenkiste, “Catnap: Exploiting high bandwidth
+wireless interfaces to save energy for mobile devices,” in Proc. Int. Conf.
+Mobile Systems, Applications and Services (MobiSys), 2010.
+[20] N. Balasubramanian, A. Balasubramanian, and A. Venkataramani, “Energy
+consumption in mobile phones: a measurement study and implications
+for network applications,” in SIGCOMM 2009.
+[21] A. Nika, Y. Zhu, N. Ding, A. Jindal, Y. C. Hu, X. Zhou, B. Y. Zhao,
+and H. Zheng, “Energy and performance of smartphone radio bundling
+in outdoor environments,” in WWW’15.
+[22] D. Bertozzi, A. Raghunathan, L. Benini, and S. Ravi, “Transport
+protocol optimization for energy efficient wireless embedded systems,”
+in Proceedings of the conference on Design, Automation and Test in
+Europe, 2003, p. 10706.
+[23] T. Kosar and M. Livny, “Stork: Making data placement a first class
+citizen in the grid,” in Proceedings of ICDCS’04, March 2004, pp. 342–
+349.
+[24] T. Kosar, “Data placement in widely distributed sytems,” Ph.D. dissertation,
+University of Wisconsin–Madison, 2005.
+[25] T. Kosar and M. Balman, “A new paradigm: Data-aware scheduling in
+grid computing,” Future Generation Computing Systems, vol. 25, no. 4,
+pp. 406–413, 2009.
+[26] E. Yildirim and T. Kosar, “End-to-end data-flow parallelism for throughput
+optimization in high-speed networks,” Journal of Grid Computing,
+pp. 1–24, 2012.
+[27] H. Sivakumar, S. Bailey, and R. L. Grossman, “Psockets: The case for
+application-level network striping fpr data intensive applications using
+high speed wide area networks,” in Proceedings of SC’00 ACM/IEEE
+conference on Supercomputing. ACM/IEEE, September 2001, pp. 37–[28] J. Lee, D. Gunter, B. Tierney, B. Allcock, J. Bester, J. Bresnahan, and
+S. Tuecke, “Applied techniques for high bandwidth data transfers across
+wide area networks,” in International Conference on Computing in High
+Energy and Nuclear Physics, April 2001.
+[29] H. Balakrishman, V. N. Padmanabhan, S. Seshan, M. Stemm, and
+R. H. Katz, “Tcp behavior of a busy internet server: Analysis and
+improvements,” in Proceedings of INFOCOM ’98. IEEE, March 1998,
+pp. 252–262.
+[30] T. J. Hacker, B. D. Noble, and B. D. Atley, “Adaptive data block scheduling
+for parallel streams,” in Proceedings of HPDC ’05. ACM/IEEE,
+July 2005, pp. 265–275.
+[31] L. Eggert, J. Heidemann, and J. Touch, “Effects of ensemble-tcp,” ACM
+SIGCOMM Computer Communication Review, vol. 30, no. 1, pp. 15–29,
+January 2000.
+[32] R. P. Karrer, J. Park, and J. Kim, “Tcp-rome:performance and fairness
+in parallel downloads for web and real time multimedia streaming
+applications,” in Technical Report. Deutsche Telekom Laboratories,
+September 2006.
+[33] D. Lu, Y. Qiao, and P. A. Dinda, “Characterizing and predicting tcp
+throughput on the wide area network,” in Proceedings of ICDCS ’05.
+IEEE, June 2005, pp. 414–424.
+[34] E. Yildirim, M. Balman, and T. Kosar, “Dynamically tuning level of
+parallelism in wide area data transfers,” in Proceedings of the 2008
+International Workshop on Data-aware Distributed Computing, ser.
+DADC ’08. New York, NY, USA: ACM, 2008, pp. 39–48. [Online].
+Available: http://doi.acm.org/10.1145/1383519.1383524
+[35] E. Yildirim, D. Yin, and T. Kosar, “Balancing tcp buffer vs parallel
+streams in application level throughput optimization,” in Proceedings of
+the second international workshop on Data-aware distributed computing.
+ACM, 2009, pp. 21–30.
+[36] E. Yildirim and T. Kosar, “Network-aware end-to-end data throughput
+optimization,” in Proceedings of the first international workshop on
+Network-aware data management. ACM, 2011, pp. 21–30.
+[37] “SMTP service extension for command pipelining,”
+http://tools.ietf.org/html/rfc2920, 2015.
+[38] K. Farkas, P. Huang, B. Krishnamurthy, Y. Zhang, and J. Padhye,
+“Impact of tcp variants on http performance,” Proceedings of High Speed
+Networking, vol. 2, 2002.
+[39] E. Yildirim, I. H. Suslu, and T. Kosar, “Which network measurement
+tool is right for you? a multidimensional comparison study,” in Grid
+Computing, 2008 9th IEEE/ACM International Conference on. IEEE,
+2008, pp. 266–275.
+[40] D. Yin, E. Yildirim, and T. Kosar, “A data throughput prediction and
+optimization service for widely distributed many-task computing,” IEEE
+Transactions on Parallel and Distributed Systems, vol. 22(6), 2011.
+[41] E. Yildirim, D. Yin, and T. Kosar, “Prediction of optimal parallelism
+level in wide area data transfers,” IEEE TPDS, vol. 22(12), 2011.
+[42] J. Kim, E. Yildirim, and T. Kosar, “A highly-accurate and low-overhead
+prediction model for transfer throughput optimization,” in Proc. of
+DISCS Workshop, November 2012.
+[43] ——, “A highly-accurate and low-overhead prediction model for transfer
+throughput optimization,” Cluster Computing, vol. 18, no. 1, pp. 41–59,
+2015.
+[44] E. Yildirim, E. Arslan, J. Kim, and T. Kosar, “Application-level optimization
+of big data transfers through pipelining, parallelism and
+concurrency,” IEEE Transactions on Cloud Computing, vol. 4, no. 1,
+pp. 63–75, 2016.
+[45] G. Kola, T. Kosar, J. Frey, M. Livny, R. Brunner, and M. Remijan,
+“Disc: A system for distributed data intensive scientific computing.” in
+WORLDS, 2004.
+[46] T. Kosar, E. Arslan, B. Ross, and B. Zhang, “Storkcloud: Data transfer
+scheduling and optimization as a service,” in Proceedings of the 4th
+ACM workshop on Scientific cloud computing. ACM, 2013, pp. 29–36.
+[47] B. Allen, J. Bresnahan, L. Childers, I. Foster, G. Kandaswamy, R. Kettimuthu,
+J. Kordas, M. Link, S. Martin, K. Pickett, and S. Tuecke,
+“Software as a service for data scientists,” Communications of the ACM,
+vol. 55:2, pp. 81–88, 2012.
+[48] T. Kosar, M. Balman, E. Yildirim, S. Kulasekaran, and B. Ross, “Stork
+data scheduler: Mitigating the data bottleneck in e-science,” Philosophical
+Transactions of the Royal Society of London A: Mathematical,
+Physical and Engineering Sciences, vol. 369, no. 1949, pp. 3254–3267,
+2011.
+[49] T. Kosar, “Data intensive distributed computing: Challenges and solutions
+for large-scale information management,” 2012.
+[50] E. Arslan, K. Guner, and T. Kosar, “Harp: Predictive transfer optimization
+based on historical analysis and real-time probing,” in Proceedings
+of IEEE/ACM conference SC’16, pp. 288–299.
+[51] M. S. Q. Z. Nine, K. Guner, Z. Huang, X. Wang, J. Xu, and T. Kosar,
+“Big data transfer optimization based on offline knowledge discovery
+and adaptive sampling,” in Proceedings of IEEE International Conference
+on Big Data 2017, pp. 465–472.
+[52] I. Alan, E. Arslan, and T. Kosar, “Power-aware data scheduling algorithms,”
+in Proceedings of IEEE/ACM Supercomputing Conference
+(SCO15) ˜ , November 2015.
+[53] ——, “Energy-Performance Trade-offs in Data Transfer Tuning at the
+End-Systems,” Sustainable Computing: Informatics and Systems Journal,
+vol. 4:4:318-329, 2014.
+[54] W. Allcock, J. Bresnahan, R. Kettimuthu, and M. Link, “The globus
+striped gridftp server,” in Proc. IEEE Super Computing Conference,
+2005, p. 54.
+[55] E. Yildirim, J. Kim, and T. Kosar, “How gridftp pipelining, parallelism
+and concurrency work: A guide for optimizing large dataset transfers,” in
+High Performance Computing, Networking, Storage and Analysis (SCC),
+2012 SC Companion:. IEEE, 2012, pp. 506–515.
+[56] P. Richter, N. Chatzis, G. Smaragdakis, A. Feldmann, and W. Willinger,
+“Distilling the internet’s application mix from packet-sampled traffic,”
+in Passive and Active Measurement, ser. Lecture Notes in Computer
+Science, J. Mirkovic and Y. Liu, Eds., 2015, vol. 8995, pp. 179–192.
+[57] J. Mambretti, J. Chen, and F. Yeh, “Next generation clouds, the
+chameleon cloud testbed, and software defined networking (sdn),” in
+ICCCRI. IEEE, 2015, pp. 73–79.
+[58] “wget,” https://www.gnu.org/software/wget/
+

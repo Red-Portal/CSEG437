@@ -1,0 +1,16 @@
+Laptop vs. Netbook vs. Smartphone
+
+  The world of personal computing is changing. Judging from sales figures, laptops have long surpassed desktops as the dominant form of computer. The surge in netbook sales has shown that users are willing to sacrifice performance in the name of portability and price. More important, smartphones are now fully functional computers with a wide variety of applications and services that are rapidly gobbling up users' time and money. With laptops falling in price, premium netbooks rising in cost, and no-contract smartphones commanding $400 or more, the differences in price are not necessarily that great.
+
+  Before you make a purchasing decision, consider what you want to do with your new mobile device. In this guide, I describe several common portable-computing tasks and discuss the pros and cons of the various devices for each.
+
+  Getting Work Done
+  When professionals need to get down to business, they often have specific requirements. The projects such users work on are often big Word documents, large and complicated Excel spreadsheets, multimedia presentations, or even custom software and databases. The IT department may need to manage the device, too. Here's a rundown of how each type of mobile device rates for the work world.
+
+  Laptop: A full-fledged laptop is probably the best choice for doing corporate work. The higher-resolution screen fits big spreadsheets more easily, and higher-power CPUs coupled with more RAM allow for smoother multitasking. You can find plenty of "business rugged" laptops capable of surviving lots of plane trips, and IT manageability features are standard in business-class laptops. The downside? A good business laptop costs twice as much as either of the other two devices, and it's likely to weigh twice as much as a netbook. Even a business ultraportable will easily outweigh most netbooks, and will clearly be far more of a burden than a smartphone.
+
+  Netbook: Precious few netbooks offer IT manageability features or a "business rugged" design, but they do exist--see the HP Mini 5102 for starters. Still, netbooks' cramped keyboards and screens, not to mention their limited CPU power and RAM, make it hard to work on major business projects without frustrating slowdown. Netbooks are fine for business users who just need to fire off some e-mail, find directions, or read news on the go, but they're less than ideal for serious work.
+
+  Smartphone: A good smartphone is practically indispensible for heavy corporate workers. Having access to your contacts and calendar in a device that's always with you is a huge benefit. Forget about getting any actual work done, though. Phone apps don't handle major business projects well at all, and the tiny keyboards (whether physical or on screen) don't accommodate anything longer than a quick sentence or two in an e-mail or text message.
+
+  What to buy: If you're a corporate user who really needs to work on the go, you want a real laptop. A smartphone that lets you access your business contacts, calendar, and e-mail is a no-brainer, but it's of no use when you have to update your presentation or fix a few cells in a massive, multipage spreadsheet. The best combination is a solid business-class laptop and an IT-friendly smartphone.

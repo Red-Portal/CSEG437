@@ -1,0 +1,13 @@
+Khronos updated the list of “conformant products” with Vulkan, OpenGL 4.5 and OpenGL ES to include the upcoming Nintendo Switch console.
+
+The list was updated with this information just yesterday. Developers working on the Nintendo Switch will be able to choose between the three APIs developed and maintained by the Khronos Group.
+
+Of course, the next generation API is Vulkan. Originally referred to as OpenGL next, Vulkan’s 1.0 launched in February 2016 with a focus on reduced driver overhead, reduced load on CPUs (thanks to batching) and improved multi-core CPU scaling when compared to OpenGL.
+
+Khronos has been working to add more features. At SIGGRAPH 2016, the company announced that Vulkan Next is in active development and will feature improvements like better multi-GPU support, VR support with efficient multi-view rendering and direct screen access, cross-API and cross-process sharing, subgroup instructions (shader ballot), generalized renderpass / subpass dependencies, and a rigorous memory model.
+
+Just a few days ago we reported that the Unity 5.6 beta added Vulkan support with up to 60% improved rendering performance out of the box. Things are looking up for the low-overhead, cross-platform API devised by Khronos, though it still has a long road to follow before surpassing Microsoft’s DirectX 12 as the most used next generation API.
+
+As for the Nintendo Switch, the availability of Vulkan looks even more like a blessing after today’s report by Eurogamer on the hardware specifications. Apparently, CPU clock is halved when compared to the Tegra X1 chip, while the GPU runs at 768 MHz while docked and just 307.2 MHz while portable. For comparison, the GPU in the NVIDIA Shield TV is clocked at 1 GHz.
+
+Properly squeezing out every hardware resource through the API will be essential to hit a decent graphics standard while running at full 720P (in portable mode) and full 1080P (in docked mode). That is unless the developers will just use a lower native resolution to compensate for the lacking performance, at the expense of definition.

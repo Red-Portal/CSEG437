@@ -1,0 +1,35 @@
+PlaceRaider: The Military Smartphone Malware Designed to Steal Your Life
+
+ The US Naval Surface Warfare Center has created an Android app that secretly records your environment and reconstructs it as a 3D virtual model for a malicious user to browse
+
+The power of modern smartphones is one of the technological wonders of our age. These devices carry a suite of sensors capable of monitoring the environment in detail, powerful data processors and the ability to transmit and receive information at high rates. 
+ 
+So it's no surprise that smartphones are increasingly targeted by malware designed to exploit this newfound power. Examples include software that listens for spoken credit card numbers or uses the on-board accelerometers to monitor credit card details entered as keystrokes.
+ 
+Today Robert Templeman at the Naval Surface Warfare Center in Crane, Indiana, and a few pals at Indiana University reveal an entirely new class of 'visual malware' capable of recording and reconstructing a user's environment in 3D. This then allows the  theft of virtual objects such as financial information, data on computer screens and identity-related information. 
+ 
+Templeman and co call their visual malware PlaceRaider and have created it as an app capable of running in the background of any smartphone using the Android 2.3 operating system.
+ 
+Their idea is that the malware would be embedded in a camera app that the user would download and run, a process that would give the malware the permissions it needs to take photos and send them.
+ 
+PlaceRaider then runs in the background taking photos at random while recording the time, location and orientation of the phone. (The malware mutes the phone as the photos are taken to hide the shutter sound, which would otherwise alert the user.) 
+ 
+The malware then performs some simple image filtering to get rid of blurred or dark images taken inside a pocket for example, and sends the rest to a central server. Here they are reconstructed into a 3D model of the user's space, using additional details such as the orientation and location of the camera.
+ 
+A malicious user can then browse this space looking for objects worth stealing and sensitive data such as credit card details, identity data or calender details that reveal when the user might  be away.
+ 
+Templeman and co have carried out detailed tests of the app to see how well it works in realistic situations. They gave their infected phone to 20 individuals who were unaware of the malware and asked them to use it for various ordinary purposes in an office environment. 
+ 
+They then evaluated the resulting photos by asking a group of other users to see how much information they could glean from them. Some of these users studied the raw images while the others studied the 3D models, both groups looking for basic information such as the number of walls in the room as well as more detailed info such as QR codes and personal checks lying around.
+ 
+Templeman and co say the tests went well. They were able to build detailed models of the room from all the data sets. What's more, the 3D models made it vastly easier for malicious users to steal information from the personal office space than from the raw photos alone.
+ 
+That's an impressive piece of work that reveals some of the vulnerabilities of these powerful devices.And although the current version of the malware runs only on the Android platform, there is no reason why it couldn't be adapted for other systems. "We implemented on Android for practical reasons, but we expect such malware to generalize to other platforms such as iOS and Windows Phone," say Templeman and co.
+ 
+They go on to point out various ways that the operating systems could be made more secure. Perhaps the simplest would be to ensure that the shutter sound cannot be muted, so that the user is always aware when the camera is taking a picture.
+ 
+However that wouldn't prevent the use of video to record data in silence. Templeman and co avoid this because of the huge amount of data it would produce but it's not hard to imagine that this would be less of a problem in the near future.
+ 
+Another option would be a kind of antivirus app for smartphones which actively looks for potential malware and alerts the user.  
+ 
+The message is clear--this kind of malware is a clear and present danger. It's only a matter of time before this game of cat and mouse becomes more serious.

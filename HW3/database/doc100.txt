@@ -1,0 +1,13 @@
+Good-Bye, MP3; Hello, DRM!
+PC Magazine,  May, 2004  by Don Labriola
+What's on your digital music player? Most people are content to stick with the evergreen MP3 format, perhaps unaware that second-generation audio codecs such as Microsoft's WMA, the consortium-driven AAC, and Sony's ATRAC3 can compress a song file to about half the size of an equivalent MP3 file. This lets you store more music in less space?a good thing. But they also add a wrinkle to the online music-sharing controversy that didn't exist when MP3 was the only game in town: digital rights management.
+
+DRM is an umbrella term for technologies that let copyright holders control how digital content is used. Virtually all DRM systems require a file format that can store licensing information along with audio/video content?which excludes MP3 and DivX, the two mainstays of unauthorized file-sharing networks.
+
+There are plenty of differences among the various DRM systems currently in service, but most employ an architecture similar to that of Microsoft Windows Media DRM. When you purchase a WMDRM-protected song or movie online, it arrives with a set of licensing terms that may specify the number of times you can play the file, define an expiration date, or limit your ability to copy, download to a portable device, or burn to disc. In Microsoft's case, this data is saved in a license store embedded within Windows.
+
+DRM-protected content is encrypted to safeguard against unauthorized usage and to prevent access by any media player that doesn't enforce its rights-management system. When a WMDRM-compliant player is asked to open protected content, it first checks the Windows license store for a valid license. If one exists, the player uses that information to decide whether to play the file, transfer it, or duplicate it onto a portable player or other device.
+
+DRM is poised to become the next battleground between copyright holders and consumers determined to use content on their own terms. Jon Johansen, the Norwegian teenager who posted the first DVD-encryption crack, has already begun distributing a tool that circumvents the high-profile DRM used to protect content downloaded from Apple's iTunes Music Store. Digital rights management promises to grant unprecedented control to content owners, but only time will tell whether it becomes as ubiquitous?and effective?as its proponents hope.
+
+Copyright ¨Ï 2004 Ziff Davis Media Inc. All Rights Reserved. Originally appearing in PC Magazine

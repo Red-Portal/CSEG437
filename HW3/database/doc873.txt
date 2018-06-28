@@ -1,0 +1,11 @@
+Google AR Stickers to expand beyond Pixel smartphones; LG G7 ThinQ first in line
+
+Six months after launching AR Stickers on its Pixel range of smartphones, Google will now be expanding the feature to other smartphones too. The LG G7 ThinQ will be the first non-Pixel smartphone to get the feature via an update.
+
+In a blog post, LG mentioned that the next software update (at least in Korea) will bring AR Stickers on its flagship smartphone. The functionality is expected to be the same as on Pixel devices, and it will be accessible from the native camera app. However, there is no word on whether or not the specialized sticker packs such as Stranger Things and Star Wars will also be available on the G7 ThinQ or not.
+
+AR Stickers are basically 3D images and text that you can add to your photos. They take advantage of Google’s AR Core platform to let you add some fun to your photos. Using AR Stickers, you can add augmented characters in the real world.
+
+Besides movie characters, you can also add animated things such as a coffee mug, donut, pizza slice, ice cream, cake, wine bottle, and other animations to your photos, resize them, and more. Well, you can also write your name in the virtual world.
+
+LG has only mentioned about the G7 ThinQ, so it is unclear if the update will be rolled out to other LG smartphones or not. And now that Google has opened AR Stickers beyond Pixel devices, we expect to see it on more smartphones that support AR Core platform.

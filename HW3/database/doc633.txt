@@ -1,0 +1,33 @@
+Mobile 101: RAM and smartphone performance
+
+It's not uncommon to see an Android manufacturer boasting about a phone with a high amount of memory, while Apple does not even post RAM amounts on its iPhone spec sheets. What gives? Is a high amount of RAM a promising spec for a smartphone's potential performance?
+
+RAM: the basics
+RAM is the acronym for random access memory, and is often referred to as simply "memory." RAM handles your apps and data that are currently in use. It keeps information on deck so you can access it faster. It's therefore one of the key factors that determine how well your device is able to multitask (although it is far from the only factor).
+
+Computer vs. smartphone memory
+You might already be familiar with how RAM works in a computer. On a computer, it's possible to open up so many tabs and applications that these processes overload the available memory and cause the computer or apps to freeze up.
+
+To diagnose RAM insufficiencies on a computer, you can use the Task Manager on a Windows machine or the Activity Monitor on a Mac. In general, you'll look at the amount of RAM that your frequently used apps use. If you see consistently high RAM usage and a low memory threshold, it's often possible to physically add more RAM and see an immediate boost on your device's multitasking capabilities.
+
+That's not quite the same way RAM works on a smartphone. Yes, RAM still holds your current and recently used data for easy access, but smartphones want to use as much of the available RAM as possible. Remember, these are high-powered, compact devices where internal space is at a premium. Accessing data from RAM instead of the solid-state storage keeps your phone running quickly and efficiently, so there is no sense in not using everything that's available.
+
+Since mobile devices don't handle multi-tasking the same way, you can't max out the available memory as easily as you can on a computer. It's also impossible to add more RAM to your smartphone.
+
+RAM needs in an Android vs. an iPhone
+Androids usually have higher amounts of RAM than iOS devices, but that's not necessarily a demerit for Apple. The two operating systems approach memory management differently.
+
+Android machines utilize a version of Java (a programming language) and the memory-cycling strategies that come along with it. On an Android, the RAM fills up until it gets close to capacity, at which point a "garbage collection" process is triggered to free up memory. The garbage collection process itself uses some RAM, which must be accounted for. Android devices occasionally run into problems when there isn't enough memory available for the garbage collection process to run smoothly.
+
+iOS devices, on the other hand, use other methods to manage memory usage. Their programming circumvents the need to reserve RAM for the garbage collection process. Instead, when iOS moves apps to the background, it suspends aspects of the app so as to minimize the drain on system resources (like RAM and battery life). That means your RAM use is constantly being managed, and you won't need to reserve any resources to recycle it.
+
+Is more better? Yes, but only if everything else is truly equal
+All else being equal, more RAM is better. But when it comes to smartphones, things are rarely equal. We've already discussed why iPhones are able to do more with less RAM than their Android counterparts. But different manufacturers, phones and users further complicate the landscape.
+
+The processor (aka chipset) on a smartphone is just as important, if not more so, in indicating how zippy a smartphone's performance will be. No amount of RAM will make up for an incapable chip.
+
+The operating system can also take a toll. Some Androids have labor-intensive UIs skinned over the stock software (or bloat, as some may call it) which place greater demand on the internals. If your phone needs to expend more RAM on the basic UI, that means you will have less memory to devote to apps.
+
+RAM needs also intensify with more demanding activities. If you're a mobile gamer, or you've been using a mobile VR headset like the Gear VR or Google Daydream, your graphics rendering places greater demands on your device's RAM. But at this point, there aren't many choices for mobile VR-compatible phones, and mobile game developers generally work within popular devices' parameters. Basically, you aren't likely to make a purchasing decision that comes down to RAM.
+
+To summarize, RAM is not as promising of a performance indicator in a smartphone as it is on a laptop or desktop. Instead, it's necessary to consider the whole package. There's no reason to devalue an iOS device over its low amount of memory, and an Android device that crams in RAM is not necessarily a powerhouse.

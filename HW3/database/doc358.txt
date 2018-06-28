@@ -1,0 +1,23 @@
+Dalvi virtual machine
+
+Dalvik is the name of the virtual machine in Google's Android operating system. Dalvik is thus an integral part of Android, which is typically used on mobile devices such as mobile phones, tablet computers and netbooks. Before execution, Android applications are converted into the compact Dalvik Executable (.dex) format, which is designed to be suitable for systems that are constrained in terms of memory and processor speed.
+
+Dalvik, like the rest of Android, is open-source software. It was originally written by Dan Bornstein, who named it after the fishing village of Dalvik in Eyjafjor©£ur, Iceland, where some of his ancestors lived.[1][2]
+
+Architecture
+Unlike most virtual machines and true Java VMs which are stack machines, the Dalvik VM is a register-based architecture.
+
+The relative merits of stack machines vs. register-based approaches is a subject of ongoing debate.[3] Generally, stack-based machines must use instructions to load data on the stack and manipulate that data, and, thus, require more instructions than register machines to implement the same high level code, but the instructions in a register machine must encode the source and destination registers and, therefore, tend to be larger. This difference is primarily of importance to VM interpreters for whom opcode dispatch tends to be expensive along with other factors similarly relevant to JIT compilation.
+
+A tool called dx is used to convert some (but not all) Java .class files into the .dex format. Multiple classes are included in a single .dex file. Duplicate strings and other constants used in multiple class files are included only once in the .dex output to conserve space. Java bytecode is also converted into an alternate instruction set used by the Dalvik VM. An uncompressed .dex file is typically a few percent smaller in size than a compressed .jar (Java Archive) derived from the same .class files.[4]
+
+The Dalvik executables may be modified again when they get installed onto a mobile device. In order to gain further optimizations, byte order may be swapped in certain data, simple data structures and function libraries may be linked inline, and empty class objects may be short-circuited, for example.
+
+As of Android 2.2, Dalvik has a just-in-time compiler[5].
+
+Being optimized for low memory requirements, Dalvik has some specific characteristics that differentiate it from other standard VMs:[6]
+
+The VM was slimmed down to use less space
+The constant pool has been modified to use only 32-bit indexes to simplify the interpreter
+It uses its own bytecode, not Java bytecode
+Moreover, Dalvik has been designed so that a device can run multiple instances of the VM efficiently.[7]

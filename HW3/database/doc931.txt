@@ -1,0 +1,20 @@
+SWORD Smartphone Weapon/Explosive Detection Scanner
+
+An interpretation of how it would look as you scanned an individual with SWORD. ROYAL HOLDINGS TECHNOLOGIES CORP.
+SWORD, the world¡¯s first mobile 3D imaging scanner, attaches to a Google Pixel 2 XL smartphone and Apple¡¯s iPhone 8 Plus. It is accessed and controlled via a fully customizable and dedicated app.  From a distance of up to 40 feet, security agents or law enforcement personnel can scan individuals in a crowd or an approaching person of interest simply by pointing their smartphone at them with the SWORD device attached. They will be able to non-invasively determine if someone is carrying a weapon or explosive--all without the need for a physical search--and rapidly identify a person of interest. SWORD can be used to scan backpacks and handbags that are being carried or have been left unattended. It can also detect listening devices used for espionage and intelligence gathering.
+
+A featureless outline of the person being scanned is displayed, instantly alerting agents to location and type of concealed weapons or explosives. Royal Holdings employs artificial intelligence (AI) to quickly crosscheck and verify weapons and explosives with its securely maintained cloud-based database. In addition, built-in facial recognition operating in real time compares suspects to watch lists for positive identification. SWORD operates globally and features real time location sharing and generates real time alerts in the event of a mass shooting, terror threat, or terror attack. 
+
+For law enforcement and security agents, SWORD increases safety and reduces uncertainty in challenging situations. Response time to possible threats is cut to mere seconds, empowering safety and security teams with vital information they can use to proactively diffuse or contain a potential threat--all based on previously verified data.
+
+SWORD¡¯s capabilities are built on a unique mobile platform developed by Royal Holdings, encompassing proprietary software integrated with AI, machine learning, and facial recognition capabilities.
+
+How SWORD Works
+
+SWORD is based on a programmable 3D sensor that penetrates objects via radio frequency technology. When a security agent directs the handheld device at a person and begins scanning, an array of antennae transmits signals towards the individual, illuminating the area in front of the person. The same antennae receive returning signals which are captured and recorded by a System-on-Chip (SoC) integrated circuit.
+
+SWORD simultaneously interfaces with two databases:  one for weapons and explosives, one for persons of interest on a watch list developed by the user. The facial recognition feature scans the person¡¯s face, checks the image against the watch list, and alerts the user if there is a match. Should an individual displaying threatening behavior not be on the watch list, SWORD can access an extensive, strictly managed law enforcement database.
+
+All of these functions occur in milliseconds, giving agents in the field the edge they need to prevent or mitigate harm in a potentially life-threatening situation. The SoC collates all necessary data and transmits the resulting information to the mobile app interface which displays a visual 3D graphic of the data. The user can then determine the risk and threat level and take effective action.
+
+The development and implementation of SWORD marks an exciting turning point in security enforcement that can eliminate or decrease the number of casualties incurred in an active shooter or terrorist scenario, giving security and law officers the facts they need to swiftly respond when every second counts.

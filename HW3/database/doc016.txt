@@ -1,0 +1,25 @@
+3G: The Next Wave
+
+The wireless Internet has obvious advantages. Mobile employees from doctors to salespeople are already tapping into data from the field via Internet-ready cell phones and PDAs. But wireless devices currently suffer from slow data-transfer speeds, dropped connections, and
+
+limited interactivity. Before wireless computing becomes a business staple, these issues have to be addressed. That¡¯s where third-generation (3G) technology comes in.
+
+
+Today, wireless service is delivered over 2G wireless systems. The three network standards?CDMA, GSM, and TDMA?are intended for voice services. Even under ideal conditions, these networks transfer data at only 19.2 Kbps, tops.
+
+3G, on the other hand, will offer data-transfer rates from 144 Kbps to 2 Mbps and an always-on connection. With increased bandwidth, 3G will support large multimedia files and applications, not just the basic apps available on today¡¯s wireless devices. You¡¯ll be able to access multimedia-rich sites or even videoconference. Since 3G will move to two standards?WCDMA and cdma2000?roaming capabilities will improve. With fewer competing standards, service will be accessible nearly anywhere in the country.
+
+3G wireless technology, however, isn¡¯t likely to be introduced in the U.S. until 2003, and 2-Mbps speed won¡¯t be available until 2005, according to Craig Mathias, affiliate wireless analyst with Mobile Insights and principal with Farpoint Group. Though carriers don¡¯t yet know how much they will charge for service, Mathias estimates that 3G services will cost $100 or more per month, not including the hardware.
+
+One serious hurdle is the federal government. To achieve more bandwidth and speed, carriers need more spectrum (the radio frequencies that carry data). On October 13, 2000, President Clinton signed a memorandum mandating that the FCC allocate more spectrum for the future needs of wireless technology. Now the FCC and NTIA (National Telecommunications and Information Administration) are struggling to figure out how to distribute the limited amount of new spectrum that will be allocated for G3. The FCC currently plans to announce the 3G bands by July 30 and auction off spectrum licenses by September 30, 2002.
+
+Cost is also a hurdle. Telecommunication carriers will have to spend billions of dollars. In the United Kingdom, $32 billion was recently spent on just five spectrum licenses. And this is only a portion of the cost; operators will also need to put up cellular transmitters and radio towers. However, most carriers don¡¯t yet know how much it will cost to implement 3G systems, says Forrester Research.
+
+Still, carriers are likely to embrace 3G, because their former cash cow?basic cellular?is becoming a low-cost commodity. Wireless services could be an increasingly important revenue stream for these companies. ¡°The motivation for building 3G networks is that operators want a way to differentiate themselves and to have another revenue source,¡± says Michael McMahan, Texas Instruments fellow, director of research and development, wireless communications.
+
+Hardware and software developers are focusing efforts on 3G for the same reason. Texas Instruments created a programmable processing architecture called OMAP (Open Multimedia Application Platform) that gives a wireless device the strength to support audio and video files without compromising battery power. And Ericsson, Handspring, Microsoft, and Nokia have been developing solutions based on OMAP. WAP, the protocol behind text-based wireless sites, will also evolve as the wireless Internet moves toward supporting multimedia.
+
+It may be a while before the U.S. has 3G service, but advances will soon be trickling in. Carriers such as AT&T and Pacific Bell expect to upgrade some of their existing TDMA and GSM networks to General Packet Radio Service (GPRS) by the end of this year. Essentially a step toward 3G, GPRS will provide an always-on connection and a transfer rate of 115 Kbps.
+
+Meanwhile, Verizon Wireless claims that the first phase of its 3G service will be completed by the end of this year. Termed 1XRTT, this will be based on a cdma2000 system that operates over existing CDMA networks. It won¡¯t be a true implementation of 3G, however. Though Verizon will be installing new circuit cards into its network to provide 144-Kbps connections, bandwidth will still be limited, because the new, increased spectrum won¡¯t yet be available. Furthermore, the first phase will probably focus on a few metropolitan areas, meaning that roaming won¡¯t be improved.
+

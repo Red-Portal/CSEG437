@@ -1,0 +1,32 @@
+			[ Not for Circulation ]
+		Information Technology Services, UIS 1
+
+	Transfer Pictures: From a Digital Camera to a Computer
+			  [Windows PC - USB]
+
+The method used to transfer pictures to the computer is different, depending upon
+which digital camera you are using. Newer models have USB capabilities, which are
+much simpler than using Card Readers for the Memory Cards that digital cameras use.
+For cameras such as the 3.2 Megapixel Nikon Coolpix [model 3100] or the 4.0 Megapixel
+Nikon Coolpix [model 4300], a USB cord is provided to transfer pictures from the
+camera to a computer.
+
+1. After you have taken all the pictures you wish to take, or have filled the Memory
+Card, take the camera to any available Windows PC in the Lab. Locate the USB
+cord in the camera¡¯s carrying case.
+
+2. Make sure your camera is turned off. Plug the smaller end of the USB cord into
+the camera, and the larger into an open USB port on the PC.
+
+3. Turn the camera on.
+
+4. Double-click the My Computer icon on the desktop of the computer and locate
+the temporary drive that shows up.
+
+5. Double click the DCIM folder within the temporary drive to find your pictures.
+Click and drag the pictures to the desktop of the computer to burn them to a
+disc, save them, or send them by email. You may also delete your pictures from
+the camera at this time by dragging the pictures in the DCIM folder to the trash.
+
+6. When you are finished, simply turn the camera off, and then disconnect the USB
+cord.

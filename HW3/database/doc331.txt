@@ -1,0 +1,44 @@
+Why Google Has No Game
+
+A few weeks ago, I wrote Pandas and Lobsters: Why Google Cannot Build Social Applications, a post that dissected why Google doesn¡¯t get social. Since then, Google appears to have stepped up its efforts to develop a coherent social strategy. To paraphrase the Black Eyed Peas, Google is so 2000 and late, trying to get into a business that Facebook lost interest in a couple years ago.
+
+Recent Research
+In Q3, E-Books and White Spaces Ruled In Q3, Big Data Meant Big Dollars Facebook Remained Social Media¡¯s Chief in Q3 In Q3, the Tablet and 4G Were the Big Stories Since Google didn¡¯t have the social DNA, it¡¯s taken the strategy used by awkward rich guys everywhere by trying to buy some hotness: Slide and Jambool. If that wasn¡¯t enough, they made expensive investments in Zynga and ngmoco.
+
+In doing so, Google just SuperPoked itself in the eyeballs, giving Facebook more time to expand its ad revenues to roughly twice as much as 2009. Google is playing games while Facebook finds ways to mint money from social advertising. Google¡¯s playing a game of ChaseBook, and, in doing so, is gearing up to fight a Facebook that doesn¡¯t even exist anymore: Interactive brand conversations are the future, not games! Therefore, I feel like it¡¯s time to provide Google with a remedial lesson in social in four easy pieces:
+
+1.Real social engagement comes from photo-sharing and chat. I thank Fred Wilson for that insight. It¡¯s why FriendFeed was such a fantastic acquisition for Facebook: because they deeply understand that. Google should start by turning Picasa into a social application. If Google really cares about social engagement, copy Flickr. Or better yet, buy it; I¡¯m sure Carol Bartz is still having a fire sale, as she¡¯s been more than willing to give away Search, Zimbra, Hot Jobs, Personals, and so on, for little more than $24 in beads.
+2.What worked two years ago does not work now. Even Slide knows that FunSpace, SuperPoke, and Top Friends are so 2008. So don¡¯t expect the ¡°viral techniques¡± of the past to work: Slide had 130 million users in 2007, but 27 million users in 2010. In case Google hasn¡¯t noticed, the candles in the Facebook ecosystem have burned themselves out. As for Open Social¡¦ who cares in a world of Facebook Connect plus iPhone and Android?
+3.Engaging applications spam their users. Any sufficiently successful ¡°viral¡± marketing technique contains the seeds of its own destruction, as it crosses the line from engaging to spammy. Google doesn¡¯t have the stomach for such behavior.
+4.Many people are just not into social games. That¡¯s right, half of Facebook users don¡¯t play games, and many users hate games. Plus, the whole gaming ecosystem feels like it¡¯s about to collapse on itself. It¡¯s no wonder that Playdom sold out. For Facebook, games were a means to an end: a way to experiment with the pay-for-application-installs business model long enough to evolve into an advertising unit allowing brands and companies to promote (and pay for ¡°likes¡± on) their Facebook Pages.
+Facebook Pages + Data = Money
+
+Now three different parts of Google¡¯s organization are distracted playing games while Facebook Pages continue to build on their massive lead. The value of Facebook to advertisers isn¡¯t in games; it¡¯s in Facebook Pages and the demographic data that accompanies ¡°Like¡± buttons. Even Twitter knows that putting ¡°Like¡± or ¡°Tweet¡± buttons everywhere is tremendously appealing to brand managers and marketing agencies.
+
+It¡¯s pretty evident that Old Spice¡¯s social media campaign is the future, but that campaign used Facebook and Twitter to interact with consumers, not YouTube. YouTube is good for Looks, not ¡°Likes¡± or conversations. And you need to pay a lot of money for Likes. I recently had to bid 99 cents per Like! What Google needs is a set of tools to make normal web sites as socially interactive and easy to manage as Facebook Pages.
+
+Google chasing games is the company not being true to itself, and the result will be painful. Google, I implore you to let go of the past month and find something more suited to your culture, your DNA, and your passions.
+
+Here, I¡¯ll give you one off the top of my head: infrastructure that scales. Amazon Web Services are now generating half a billion dollars in revenue a year, in part thanks to social applications. Yet, if you ask any social application developer if he or she would ever use App Engine, all you get is an earful about not having access to the full machine, not having access to a real database, not having their languages of choice, and so on. Google can be itself and let thousands of social applications bloom by fixing these issues. Google, take a lesson from Microsoft: Strength comes from developers, developers, developers, developers.
+
+Remember, today¡¯s scrappy team of ragtag developers is tomorrow¡¯s Zynga. In fact, if Google is smart, it should take a page out of  Facebook¡¯s strategy. At a recent Startup2Startup event, Facebook¡¯s corporate development executive (a presenter) was smart, fascinating, and left technical founders seriously interested in Facebook. Others were unmemorable.
+
+This only corroborates what I¡¯ve heard from others and seen in the kind of companies the company has bought in recent times. Google paid $182 million in cash plus $46 million in retention bonuses for 64 Slide employees. In comparison, Facebook bought all these companies for much less money:
+
+Chai Labs (pages content management and SEO)
+Hot Potato (social check-ins mobile app)
+Nextstop (social travel recommendation app)
+Divvyshot (social photo sharing app)
+Sharegrove (private chatrooms app)
+Octazen (contact importer ? now shut down)
+FriendFeed (streams, likes, and comments/chat)
+Parakey (Joe Hewitt and Blake Ross)
+What do these companies have in common? They were all tiny teams of skilled engineers that naturally fit into the existing structure of Facebook: Pages, places, photos, chat, etc. The one exception was FriendFeed, which was worth the price just for getting Bret Taylor, now chief technology officer at Facebook.
+
+If Google truly cares about social, it should honestly ask itself why it¡¯s investing in game companies instead of the kind of companies Facebook acquires.
+
+Google, please listen to me now, or perhaps to Slide¡¯s outgoing VP of business development, who recommended you acquire LinkedIn, Twitter, and Quora (and not games!) to overhaul your social strategy. Games are not conversations!
+
+Adam Rifkin is a veteran enterpreneur and web technologist based in San Francisco Bay Area.
+
+Image via flickr user familymwr

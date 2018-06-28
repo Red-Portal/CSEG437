@@ -1,0 +1,58 @@
+﻿Smartphones are Smarter with an All-In-One Processor
+
+The performance of your smartphone is influenced by many factors, including the operating system, manufacturer, and wireless carrier. 
+
+But there’s one essential and often-overlooked element that’s largely responsible for the speed, efficiency, and battery life of your smartphone—the processor. 
+
+Here’s a simple guide to how it works, and what makes an all-in-one processor so powerful.
+
+
+The Processor
+
+
+The processor is the central hub of your smartphone. 
+
+It receives and executes every command, performing billions of calculations per second. 
+
+The effectiveness of the processor directly affects every application you run, whether it’s the camera, the music player, or just a simple email program. 
+
+Pick the wrong one and you could experience sluggish, stuttering apps and limited network performance, regardless of carrier, manufacturer, or operating system.
+
+
+When you swipe your way down a web page, you’re commanding the processor to make billions of simultaneous and instantaneous interactions. 
+
+When you do something more complex, like playing an online multiplayer game with 3D –intensive graphics or capturing 1080p video, the load put on a processor can be quite immense. 
+
+The ability of the processor to coordinate efficient communication between the wireless data, graphics, and memory is essential to smooth operation.
+
+The CPU, GPU, audio and video engine, connectivity features (GPS, WiFi, FM), and 3G/4G modem are the major components of a processor that control the operation of your smartphone. 
+
+Let’s take a look at what they do, and how they work together with the processor to make every action so seamless.
+
+
+The All-In-One Design
+
+
+Sometimes these components exist as different chips in a device, but the exceptionally powerful and power-efficient processors have all of them situated on a single chip. 
+
+When they’re grouped together onto the processor, it’s referred to as “integrated.” 
+
+Bringing them closer together provides advantages for the operation of your phone, like faster communication and reduced power consumption. 
+
+Old-style, un-integrated processors and their scattered circuitry simply can’t keep up. 
+
+The pinnacle of the integrated design, though, is the “all-in-one” processor.
+
+An all-in-one processor brings all of your smartphone’s major components together, improving performance and efficiency across the board by reducing the distance signals and data need to travel. 
+
+Integrated processors that bring together some components but leave others isolated do not maximize communication speeds like an all-in-one.
+
+The all-in-one Qualcomm Snapdragon is custom built to include the CPU, GPU, camera, radio, modem, memory controller, and more. 
+
+It also integrates voltage regulators for better power management, improving battery life even further. 
+
+By bringing all of these pieces together, and being the first processor to integrate a 4G LTE modem, 
+
+Snapdragon processors can provide amped up performance, improved battery life, smooth multitasking, and high-speed data. 
+
+Many popular smartphones, like the Samsung GALAXY S4, the HTC One, and the Nokia Lumia, run on Qualcomm Snapdragon all-in-one processors

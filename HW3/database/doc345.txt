@@ -1,0 +1,14 @@
+Cocoa Touch
+
+The Cocoa Touch frameworks that drive iOS apps share many proven patterns found on the Mac, but were built with a special focus on touch-based interfaces and optimization. UIKit provides the basic tools you need to implement graphical, event-driven applications in iOS. UIKit builds on the same Foundation framework infrastructure found on the Mac OS X, including file handling, networking, string building, and more.
+
+The unique interface of iOS means that Cocoa Touch has a unique design to match. Using UIKit you have access to the special GUI controls, buttons, and full-screen views on iOS. You also get to control your application with the accelerometer and the multi-touch gesture.
+
+Built on Objective-C
+Much of Cocoa Touch is implemented in Objective-C, an object-oriented language that is compiled to run at incredible speed, yet employs a truly dynamic runtime making it uniquely flexible. Because Objective-C is a superset of C, it is easy to mix C and even C++ into your Cocoa Touch applications.
+
+As your application runs, the Objective-C runtime instantiates objects based on executing logic ? not just in ways defined during compilation. For example, a running Objective-C application can load an interface (a nib file created by Interface Builder), connect the Cocoa objects in the interface to your application code, then run the correct method once the UI button is pressed. No recompiling is necessary.
+
+Complete Assortment of Frameworks
+In addition to UIKit, the Cocoa Touch collection of frameworks includes everything needed to create world-class iOS applications, from 3D graphics, to professional audio, to networking, and even special device access APIs to control the camera, or get location from the GPS hardware. Cocoa Touch includes powerful Objective-C frameworks that perform entire tasks in only a few lines of code, while providing the foundational C-language APIs to give direct access to the system when needed. Examples of those frameworks include:
+

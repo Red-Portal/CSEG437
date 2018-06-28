@@ -1,0 +1,118 @@
+﻿Optimizing graphics performance
+Good performance is critical to the success of many games. Below are some simple guidelines for maximizing the speed of your game’s rendering.
+
+Locate high graphics impact
+The graphical parts of your game can primarily impact on two systems of the computer: the GPU and the CPU. The first rule of any optimization is to find where the performance problem is, because strategies for optimizing for GPU vs. CPU are quite different (and can even be opposite - for example, it’s quite common to make the GPU do more work while optimizing for CPU, and vice versa).
+
+Common bottlenecks and ways to check for them:
+
+GPU is often limited by fillrate or memory bandwidth.
+Lower the display resolution and run the game. If a lower display resolution makes the game run faster, you may be limited by fillrate on the GPU.
+CPU is often limited by the number of batches that need to be rendered.
+Check “batches” in the Rendering Statistics window. The more batches are being rendered, the higher the cost to the CPU.
+Less-common bottlenecks:
+
+The GPU has too many vertices to process. The number of vertices that is acceptable to ensure good performance depends on the GPU and the complexity of vertex shaders. Generally speaking, aim for no more than 100,000 vertices on mobile. A PC manages well even with several million vertices, but it is still good practice to keep this number as low as possible through optimization.
+The CPU has too many vertices to process. This could be in skinned meshes, cloth simulation, particles, or other game objects and meshes. As above, it is generally good practice to keep this number as low as possible without compromising game quality. See the section on CPU optimization below for guidance on how to do this.
+If rendering is not a problem on the GPU or the CPU, there may be an issue elsewhere - for example, in your script or physics. Use the Unity Profiler to locate the problem.
+
+CPU optimization
+To render objects on the screen, the CPU has a lot of processing work to do: working out which lights affect that object, setting up the shader and shader parameters, and sending drawing commands to the graphics driver, which then prepares the commands to be sent off to the graphics card.
+
+All this “per object” CPU usage is resource-intensive, so if you have lots of visible objects, it can add up. For example, if you have a thousand triangles, it is much easier on the CPU if they are all in one mesh, rather than in one mesh per triangle (adding up to 1000 meshes). The cost of both scenarios on the GPU is very similar, but the work done by the CPU to render a thousand objects (instead of one) is significantly higher.
+
+Reduce the visible object count. To reduce the amount of work the CPU needs to do:
+
+Combine close objects together, either manually or using Unity’s draw call batching.
+Use fewer materials in your objects by putting separate textures into a larger texture atlas.
+Use fewer things that cause objects to be rendered multiple times (such as reflections, shadows and per-pixel lights).
+Combine objects together so that each mesh has at least several hundred triangles and uses only one Material for the entire mesh. Note that combining two objects which don’t share a material does not give you any performance increase at all. The most common reason for requiring multiple materials is that two meshes don’t share the same textures; to optimize CPU performance, ensure that any objects you combine share the same textures.
+
+When using many pixel lights in the Forward rendering path, there are situations where combining objects may not make sense. See the Lighting performance section below to learn how to manage this.
+
+GPU: Optimizing model geometry
+There are two basic rules for optimizing the geometry of a model:
+
+Don’t use any more triangles than necessary
+Try to keep the number of UV mapping seams and hard edges (doubled-up vertices) as low as possible
+Note that the actual number of vertices that graphics hardware has to process is usually not the same as the number reported by a 3D application. Modeling applications usually display the number of distinct corner points that make up a model (known as the geometric vertex count). For a graphics card, however, some geometric vertices need to be split into two or more logical vertices for rendering purposes. A vertex must be split if it has multiple normals, UV coordinates or vertex colors. Consequently, the vertex count in Unity is usually higher than the count given by the 3D application.
+
+While the amount of geometry in the models is mostly relevant for the GPU, some features in Unity also process models on the CPU (for example, mesh skinning).
+
+
+Lighting performance
+The fastest option is always to create lighting that doesn’t need to be computed at all. To do this, use Lightmapping to “bake” static lighting just once, instead of computing it each frame. The process of generating a lightmapped environment takes only a little longer than just placing a light in the scene in Unity, but:
+
+It runs a lot faster (2?3 times faster for 2-per-pixel lights)
+It looks a lot better, as you can bake global illumination and the lightmapper can smooth the results
+In many cases you can apply simple tricks instead of adding multiple extra lights. For example, instead of adding a light that shines straight into the camera to give a Rim Lighting effect, add a dedicated Rim Lighting computation directly into your shaders (see Surface Shader Examples to learn how to do this).
+
+Lights in forward rendering
+Also see: Forward rendering
+
+Per-pixel dynamic lighting adds significant rendering work to every affected pixel, and can lead to objects being rendered in multiple passes. Avoid having more than one Pixel Light illuminating any single object on less powerful devices, like mobile or low-end PC GPUs, and use lightmaps to light static objects instead of calculating their lighting every frame. Per-vertex dynamic lighting can add significant work to vertex transformations, so try to avoid situations where multiple lights illuminate a single object.
+
+Avoid combining meshes that are far enough apart to be affected by different sets of pixel lights. When you use pixel lighting, each mesh has to be rendered as many times as there are pixel lights illuminating it. If you combine two meshes that are very far apart, it increase the effective size of the combined object. All pixel lights that illuminate any part of this combined object are taken into account during rendering, so the number of rendering passes that need to be made could be increased. Generally, the number of passes that must be made to render the combined object is the sum of the number of passes for each of the separate objects, so nothing is gained by combining meshes.
+
+During rendering, Unity finds all lights surrounding a mesh and calculates which of those lights affect it most. The Quality Settings are used to modify how many of the lights end up as pixel lights, and how many as vertex lights. Each light calculates its importance based on how far away it is from the mesh and how intense its illumination is - and some lights are more important than others purely from the game context. For this reason, every light has a Render Mode setting which can be set to Important or Not Important; lights marked as Not Important have a lower rendering overhead.
+
+Example: Consider a driving game in which the player’s car is driving in the dark with headlights switched on. The headlights are probably the most visually significant light source in the game, so their Render Mode should be set to Important. There may be other lights in the game that are less important, like other cars’ rear lights or distant lampposts, and which don’t improve the visual effect much by being pixel lights. The Render Mode for such lights can safely be set to Not Important to avoid wasting rendering capacity in places where it has little benefit.
+
+Optimizing per-pixel lighting saves both the CPU and GPU work: the CPU has fewer draw calls to do, and the GPU has fewer vertices to process and pixels to rasterize for all the additional object renders.
+
+GPU: Texture compression and mipmaps
+Use Compressed textures to decrease the size of your textures. This can result in faster load times, a smaller memory footprint, and dramatically increased rendering performance. Compressed textures only use a fraction of the memory bandwidth needed for uncompressed 32-bit RGBA textures.
+
+Texture mipmaps
+Always enable Generate mipmaps for textures used in a 3D scene. A mipmap texture enables the GPU to use a lower resolution texture for smaller triangles.This is similar to how texture compression can help limit the amount of texture data transfered when the GPU is rendering.
+
+The only exception to this rule is when a texel (texture pixel) is known to map 1:1 to the rendered screen pixel, as with UI elements or in a 2D game.
+
+LOD and per-layer cull distances
+Culling objects involves making objects invisible. This is an effective way to reduce both the CPU and GPU load.
+
+In many games, a quick and effective way to do this without compromising the player experience is to cull small objects more aggressively than large ones. For example, small rocks and debris could be made invisible at long distances, while large buildings would still be visible.
+
+There are a number of ways you can achieve this:
+
+Use the Level Of Detail system
+
+Manually set per-layer culling distances on the camera
+
+Put small objects into a separate layer and set up per-layer cull distances using the Camera.layerCullDistances script function
+
+Realtime shadows
+Realtime shadows are nice, but they can have a high impact on performance, both in terms of extra draw calls for the CPU and extra processing on the GPU. For further details, see the Light Performance page.
+
+GPU: Tips for writing high-performance shaders
+Different platforms have vastly different performance capabilities; a high-end PC GPU can handle much more in terms of graphics and shaders than a low-end mobile GPU. The same is true even on a single platform; a fast GPU is dozens of times faster than a slow integrated GPU.
+
+GPU performance on mobile platforms and low-end PCs is likely to be much lower than on your development machine. It’s recommended that you manually optimize your shaders to reduce calculations and texture reads, in order to get good performance across low-end GPU machines. For example, some built-in Unity shaders have “mobile” equivalents that are much faster, but have some limitations or approximations.
+
+Below are some guidelines for mobile and low-end PC graphics cards:
+
+Complex mathematical operations
+Transcendental mathematical functions (such as pow, exp, log, cos, sin, tan) are quite resource-intensive, so avoid using them where possible. Consider using lookup textures as an alternative to complex math calculations if applicable.
+
+Avoid writing your own operations (such as normalize, dot, inversesqrt). Unity’s built-in options ensure that the driver can generate much better code. Remember that the Alpha Test (discard) operation often makes your fragment shader slower.
+
+Floating point precision
+While the precision (float vs half vs fixed) of floating point variables is largely ignored on desktop GPUs, it is quite important to get a good performance on mobile GPUs. See the Shader Data Types and Precision page for details.
+
+For further details about shader performance, see the Shader Performance page.
+
+Simple checklist to make your game faster
+Keep the vertex count below 200K and 3M per frame when building for PC (depending on the target GPU).
+If you’re using built-in shaders, pick ones from the Mobile or Unlit categories. They work on non-mobile platforms as well, but are simplified and approximated versions of the more complex shaders.
+Keep the number of different materials per scene low, and share as many materials between different objects as possible.
+Set the Static property on a non-moving object to allow internal optimizations like static batching.
+Only have a single (preferably directional) pixel light affecting your geometry, rather than multiples.
+Bake lighting rather than using dynamic lighting.
+Use compressed texture formats when possible, and use 16-bit textures over 32-bit textures.
+Avoid using fog where possible.
+Use Occlusion Culling to reduce the amount of visible geometry and draw-calls in cases of complex static scenes with lots of occlusion. Design your levels with occlusion culling in mind.
+Use skyboxes to “fake” distant geometry.
+Use pixel shaders or texture combiners to mix several textures instead of a multi-pass approach.
+Use half precision variables where possible.
+Minimize use of complex mathematical operations such as pow, sin and cos in pixel shaders.
+Use fewer textures per fragment.

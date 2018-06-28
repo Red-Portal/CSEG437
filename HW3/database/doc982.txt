@@ -1,0 +1,25 @@
+I¡¯ve written in the past about general hardware recommendations for gaming, as well as specific hardware that is a good value for gaming at specific times,
+
+ but something I don¡¯t think I¡¯ve mentioned here before is that various types of games have somewhat different needs.
+
+The main factors governing game performance are the processor (CPU) and video card (GPU),
+
+ but which is more important depends on the specific game. 
+
+The GPU is responsible for displaying what is going on in the game: the shapes and textures of characters, objects, and the game world;
+
+ special effects like lighting, shadows, and explosions; post-processing to make the game look even better; etc. 
+
+The CPU handles pretty much everything else: gameplay mechanics, user input, computer controlled characters / units (AI), etc. 
+
+Physics calculations, if present in a game, can be done on either the CPU or GPU - depending on what sort of technology is being used for that aspect.
+
+Just based on that description you can probably guess that games which have simplistic graphics, like Minecraft, need very little GPU performance. 
+
+There are also games that look amazing when graphics quality is cranked up, and need a powerful GPU in order to do that, 
+
+but which don¡¯t need a particularly high-end CPU - Witcher 3 is a good example of that. To know *exactly* what the situation is for a specific game, 
+
+you need to look at benchmarks for that game (like those linked to for Witcher 3, above) - but what if you can¡¯t find good benchmarks? 
+
+Or if you just want to know what is normal for a given genre, rather than a specific game? Hopefully this blog post can answer those questions for you!

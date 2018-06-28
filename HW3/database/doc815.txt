@@ -1,0 +1,84 @@
+﻿SECTION I.INTRODUCTION
+In 1997, Nokia launched its first mobile phone game Snake, The mobile phone games have penerated into our lives with a rare and stunning speed. The Mobile phone games have features with short and easy to use. According to International forecasts, the market of mobile phone games in China will reach 4200000000 yuan by the end of 2011. [1]
+
+With the development of intelligent mobile phone have high performance, the proportion of 3D mobile phone game is increaseing in mobile phone game. The 3D mobile phone game development can use the underlying OpenGL like general 3D game development, but if all written is from the ground, it will be more difficulty during the development and the workload is heavier. So the designers solve this problem usually by using a 3D engine.
+
+Unity3D is a good 3D game engine among them. It is a game development tools with the feature of cross-platform, it can support iPhone, Android 3D mobile phone game development. It improve the operating efficiency of mobile phone games and solve the problem of the explosive growth demands of mobile phone games.
+
+SECTION II.MODEL OPTIMIZATION
+It can improve work efficiency by using modeling software in the processing of making scenes of 3D mobile phone game. The three factors finally effect on the running speed of 3D mobile phone games are: the total number of faces in the game scene model; the total number of the scene model; the number of maps of the scene model. Game developers can optimize these in modeling software.
+
+In the processing of the specific production, developers can use the following method to make the mobile phone game scene be optimized.
+
+Designers try to make simple model. The scene frames are shown in PC machine carried out on the card and the CPU real-time operation. If the number off scene model is too much, the game speed will decreased dramatically, even unable to operate normally, Becaues the level of graphics and CPU of mobile phone is lower than PC, the situation will be even worse; it may cause the game files capacity increasing, it is not convient to download program using of mobile phone in the network and led to the suffocate of tranmission.
+
+SECTION III.THE PROCESSING OF OPTIMIZATION
+A. control a single model in modeling software
+In the 3DS MAX software, when we produce a model surface, the number should not exceed the number of 65000, is 32500 polygon (Poly). If the number is more, it will appear the problem of showing. So designers require distribute the reasonable faces of polygon and model number.
+
+The Model of triangle mesh surface is an equilateral triangle. Because it is not conducive to real-time rendering of long triangle area, it will appear a serrated edge, jagged texture rendering and so on fuzzy problems.
+
+Try to use the plant to performent the complex model. The designers can use the plant to replace the complicated model, and then show the complex structure with the map. Such as plants, decorative objects and the relief effect of models. For complex pierced models, such as stairs, sash, doors and walls. It also can be performanced. For these iron objects in the game scene, through the patch object given a hollowed-out texture. In order to avoid seeing the thin of films at half a bird's-eye, desigeners can increase a width of the rectangular over the railings.
+
+Use mapping approach to performance in the performance of continuous multiple objects. Try not to use 3D models, such as railings, fences and so on. Because these elongated bar-shaped objects easy to increase the current scene file model number, and easy to appera sawtooth and the flicker phenomenon in the real-time rendering.
+
+Figure 1
+Figure 1. Green Map
+View All
+
+B. designers optimize the whole scene
+Control the the number of models. The scene model number is too much can make a lot of troubles behind the processing, such as, it will increase the number of objects and baking time, reduce the operation speed. Therefore, the model number in scene need suitable for the mobile phone setting.
+
+Reasonable distribute the model placement density of game scene. If the model is placed with inhomogeneous density will leads to speed up and slow. It is also a optimized method to arrange the scenes reasonably.
+
+Merge the same material model. Try to merge the same model of the material types to reduce the object number can speed up the loading time of the scene and the running speed of the surface; if the model number is much more and the distance is far, then it not need be merged, otherwise will also affect the game speed. A principle in the merging same material model need to master, that how to combine model number should consider hardware circumstances, otherwise, the running speed is also reduced.
+
+To keep the minimum distance between the model surface and the surface. The minimum distance should be the 1/2000 of the length of the scene. Such as, in the production of indoor scenes, the distance of objects between the surface and surface should not less than 2mm; in the production of outdoor scene that length (or width) is 1 km, the distance between the surface and surface should not less than 20cm. If the distance of object between the surface and surface is too close, there may appear alternately flashing phenomenon between two faces, affect the overall results when running the scene,
+
+Delete the invisible plane, which is intended to improve the mapping of the utilization rate, reduce the whole scene number, in order to improve running speed of interactive scene. The invisible surface must be deleted. Such as the bottom of the building model, the back surface against the wall. In addition, it should remove overlap plane.
+
+C. The Optimization Techniques of Producing the Model
+Create Line model need consider the visual effect and then set the thickness under the linetype objects Rendering panel, then turn the linear objects into Editable poly, is that collapse into a polygon, finally implement.
+
+Streamline the plant number of curve shape model can reduce the model number, e.g.: for the loft (Loft) and lathe (turning) formed body, a modest reduction of lofting object, Shape Steps and Path Step shape stride parameters for Bevel and Bevel Profile; the object is also to streamline its contour line and the path nodes. [2]
+
+There are three ways to create outdoor ground. The first method is using Line to create a closed region, and optimize the Line Side edge and Steps stride, add a direct Extrude editor, set the Amount is 0. Second, optimize the line settings, and then convert Line into Editable Poly or Mesh. The third method is after optimizing line, add a UVW Mapping editor to the two-dimensional curve.
+
+Create Single window: first application of Rectangle (rectangular) with the capture tool, draw the window frame structure, and turn the window frame of 2D line into Poly objects, then selecte inside frame of objects under the Poly Border level, acquire the thickness by copy frame, adjusting window frame thickness switch to Vertex level for later saving steps when removing the unseen faces.
+
+Performance of plant model is not based on the actual situation in the production, this will result in the model number will remain high in the final scene of the game, so as to cause there are very difficult to edite and run. The solution to the above problems are: cross patch affixed to objects, hollowed-out texture, or use the game engine in special plant to express system. There should not have too many or a large area of the complex object in Game scene. The key principles are: the building nearby can use some complex model object to show green, and cross patch can be used instead of surrounding the green in game scene.
+
+SECTION IV.OPTIMIZE THE SCENE IN THE UNITY 3D
+A. Map
+After Unity read PSD file, it will compress the image automatically, and will not let the production of the game scenes become large. When using of unity 3D to develop the mobile phone games, it is necessary not to use the texture compression, but instead of using the image with a layer information and channel information directlly.
+
+In the unity 3D map, width size preferably consists of the following numbers: 2, 4, choose 8, 16, 32, 64, 128, 256, 512, 1024, 2048, the size of it should not more than 2048. Texutre map is not necessarily a square, also can be a rectangle, such as 128 * 256, 1024 * 128 map. If the Texture size is not by the top of Figure 2 ^n image size as the map composition, then the graphics will be slightly more consumption of graphics memory, and the reading will be slightly slower, so special Texture size only be recommended for using in the GUI.
+
+Figure 2
+Figure 2. Texture Size
+View All
+
+B. Texture using
+The use of Mip Maps will occupy about 33% of the memory, but can greatly enhance the efficiency. All of the Texture will recommend use of Mip Maps, only do not need to use is the GUI Texture. The another technology for game engine used to reduce the texture memory and bandwidth requirements is MIP mapping. MIP mapping techniques process the texture advanced, acquire its multiple copies of texture, each successive copy is a copy of the half of the size[3]. The using of MIP mapping can display card application before their texture, image scaling, because can be pre-processed texture, can do better, let the continuous fine texture can not be compressed out, such as real-time rendering of the joints between the tiles, which can produce good effect. When the 3D card using texture rendering polygons, it detects the scaling factor, thus scaling he texture to the most appropriate degree.
+
+C. Introduction Model
+Generally, unit 1 is equal to 1 meters in Unity 3D system. equal to 1 software units. If we make the model according to the actual size of the production, then it is automatically to import U3D engine into the 1 % of the original size. Because, by default, U3D FBXImporter Scale Factor value to 0.01. We can also use Scale Factor values back to 1, but this may take resources of model, consume physical cache. The general practice is select the object from a Hierarchy panel, and magnified 100 times using the Scale, this setting can save system resources, and also creat animation through the script.
+
+The repeated model in the scene can use the system Prefab for correlation replication, it can change a parameter, change all the associated object attribute, and also save system resources at the same time.
+
+D. Making 3D Terrain in the Unity
+In generally, Terrain Width and Terrain Height is 1000 meters, this value cannot be set too small. If the setting is too small, then it will produce an offset when draw the grass, because the grass size must be reduced to 0.1 units, that is to say, 0.1 unit will cause a deviation of 0.01 when making the mountains. So, if the model is too small and then this bias will be obviously.
+
+E. The shadow generation
+Calculate Shadow depend entirely on the GPU. Soft shadow cost more effectiveness of GPU than hard shadow. But the CPU and memory are the same, we should pay attention to it in actual using.
+
+Shadow of the stones or rubbles like small things on the ground are not significant, we can put these things in the same layer, and change parameter in order to control the display distance by using Camera.layerCullDistances function of script.
+
+Algorithm 
+F. The geometry of the system: LOD
+LOD system has an capacity that change dynamically the number of polygon drawed on the screen at any given time [4].
+
+When the game scene has 1 objects, the object is made up of 3000 polygons, system can just render it completely if a screen with 200 pixel display. When the object is away, the screen can revealed it with 10 pixels, and it is difficult to tell the difference. The LOD system will need to establish the model of multiple versions, and they will change the LOD level of screen based on the proximity extent of a model from the observer, and the number of polygons to be displayed at the same time. LOD system will be better in able to save system resources and speed up the game scene running compare simply rendering the entire game scene.
+
+SECTION V.CONCLUSIONS
+The 3D mobile phone game production in China is an emerging industry, and it is in the development stage. The paper thinks that in the next few years, the working mode of 3D mobile phone games will remain the same, a lot of research will focus on how to improve the research results in the various related fields, in order to make them have characteristics fit the mobile phone game development. Optimization is the one of the more important part. Finally, it will spend a lot of time and effort to get a 3D game with smooth operation, visual plausibility, mobile phone screen looks realistic in the optimizing game scene, in addition to the game designing, art designing, programming should achieve a certain level.

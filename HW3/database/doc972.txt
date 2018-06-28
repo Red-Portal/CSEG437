@@ -1,0 +1,27 @@
+Orange boosts mobile fleet cybersecurity
+By Mike Moore February 07, 2018 Security software  
+
+New Mobile Threat Protection service aims to prevent employee devices being hit by cyberattacks.
+ 
+Orange has revealed it is boosting cybersecurity protection for mobile devices with a new platform offering tougher security than ever before.
+
+Advertisement
+
+The company is teaming up with security experts Check Point to launch Mobile Threat Protection, a new service that aims to cut down on the security risks affecting large-scale businesses that depend on smartphones for their workers.
+
+The service, launching through the company's Orange Cyberdefense arm, will look to help multinational enterprises safeguard their mobile device fleets against current and emerging threats.
+
+¡°As attacks become more frequent and sophisticated our customers are looking to shore up their mobile security. Our Mobile Threat Protection managed service provides a comprehensive and easy-to deploy solution to help secure mobile devices from advanced cyber threats now ? and in the future,¡± said Michel Van Den Berghe, CEO of Orange Cyberdefense.
+
+Check out our list of the best mobile phone deals in February
+
+Secured
+
+Based on Check Point's own technology Mobile Threat Protection takes the form of a mobile app running in the background of advice, providing real-time threat detection. 
+
+The app will provide alerts concerning any attacks affecting the device, including malware, network vulnerabilities and SMS phishing, with administrators also able to track threats via a dashboard that can provide a global outlook over all devices in a fleet, as well as 24/7 support.
+
+The tool is not limited to any specific network carrier, and can run on both Android and iOS devices, meaning it should be quick and easy to deploy for businesses everywhere.
+
+¡°We are excited to collaborate with Orange Business Services to deliver this level of cyber protection to mobile users,¡± said Nathan Shuchami, vice president of emerging products at Check Point. ¡°As a direct result of the close relationship between our companies, we are empowering enterprises to adopt mobile technology without the worry of data loss or breach.¡±
+

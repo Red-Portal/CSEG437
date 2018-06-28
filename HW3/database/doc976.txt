@@ -1,0 +1,90 @@
+AT&T Promises FirstNet Will Help Double LTE Network Speeds Nationwide
+Posted: May 17, 2018 / By: Chris Dunphy/ In: Cool Stuff/ Top Stories/ Xscapers/ Comments: 6
+
+22
+SHARES
+Share
+Tweet
+Get our Free Newsletter
+In the aftermath of the attack on September 11th, 2001, some began to call for a unified communications infrastructure that would make it easier for first responders of all types to communicate - even across jurisdictional boundaries, and even when public networks might be overloaded or damaged.
+
+To this end - in 2012 Congress authorized the establishment of the First Responder Network Authority (FirstNet) with a goal to "provide emergency responders with the first nationwide, high-speed, broadband network dedicated to public safety".
+
+Congress and the FCC set aside 20MHz of some of the most valuable nationwide cellular spectrum to dedicate to building FirstNet, and after a long and convoluted process AT&T eventually won the contract to begin bringing FirstNet to life in March 2017.
+
+Now a year later - the very first FirstNet compatible areas are starting to go live across the country, and a trickle of FirstNet compatible gear is coming to market.
+
+This is great news for public safety.
+
+But it turns out that the deployment of FirstNet is going to have some very pleasant side effects for ALL AT&T customers, and AT&T CEO Randall Stephenson this week claimed that, thanks to FirstNet, AT&T's entire network will soon be doubling in speed.
+
+How is it that better radios for firemen and smarter tablets for cops might lead to faster cellular for everyone?
+
+Read on for the details...
+
+Video Version of this Story:
+
+
+
+Subscribe to our YouTube Channel 
+
+FirstNet Goes LTE
+
+The Netgear Nighthawk is the first hotspot with LTE B14 support, but only models manufactured in the past two months incorporate the necessary FirstNet radio.
+
+Get the Book
+The most important decision made was to build FirstNet on top of existing interoperable LTE cellular standards, and the spectrum reserved for FirstNet was designated as LTE Band 14.
+
+This reserved low frequency 700MHz spectrum is adjacent to AT&T's LTE Band-12/17, T-Mobile's Band-12, and Verizon's Band-13 - with similar long range capabilities.
+
+To access FirstNet requires a FirstNet compatible device, and a special FirstNet SIM card. But regular phones and hotspots will be able to incorporate FirstNet compatibility, and when using a FirstNet SIM and service plan they will get priority access to all bands of AT&T's network.
+
+This means that first responders may be able to participate in disaster operations even with their regular personal FirstNet compatible cell phone - no expensive special purpose radio required.
+
+At first LTE B14 compatibility will only be important to those with these very special needs.
+
+But soon AT&T will allow regular customers with compatible devices to automatically access B14 at a lower priority, adding substantial extra network capacity in some areas where AT&T's normal B12 might be saturated.
+
+This is just one of the ways that AT&T will be able to use FirstNet to offer enhanced speeds for everyone.
+
+Upgrading EVERY Tower
+
+Better preparations to keep the cell network operational in the face of disasters is a critical FirstNet goal. Here an AT&T 'COLT' (Cellular on Light Truck) is preparing to deploy to restore coverage after Hurricane Harvey.
+
+The FirstNet contract calls for coverage nationwide (as much as is practical for cellular), not just in urban areas. This means that AT&T has to deploy FirstNet compatible technology to every cell tower in its network.
+
+If you are going to be doing all that work - why not tack on a few other upgrades in the process?
+
+This quote from AT&T CEO Randall Stephenson explains how the ongoing FirstNet rollout is going to have a huge impact across the board for all AT&T customers:
+
+"We have to climb every cell site to deploy the FirstNet architecture. As we're climbing every single cell site, putting somebody on every single tower, we will be, by virtue of carrier aggregation, standing up all of the spectrum in our portfolio. We now have, with FirstNet, 60 megahertz of fallow spectrum. As people are up on the tower, we'll be launching the carriers to stand up all of that spectrum, put all that spectrum to use. It's really important; we call that 5G Evolution. When we won the FirstNet bid, we were given a charge by the U.S. government to extend our network, to densify our network, [to add] more cell site coverage throughout rural America, [and to] to harden our network, meaning making it resilient in storms."
+
+In other words - in the process of deploying Band 14, AT&T will be upgrading every cell tower radio to enable every other AT&T band as well.
+
+In many areas of the country AT&T has only ever deployed LTE Band 12/17. After the FirstNet upgrade, these towers could end up with LTE bands 2, 4, 5, 12/17, 14, 29, 30, and 66.
+
+Join the MIA
+That is a lot of virtual carpool lanes being built, and a lot of new capacity.
+
+In rural areas in particular the improvements might be dramatic. Without the FirstNet mandate it might not have made economic sense to do major tower upgrades in these areas for years, and now the upgrades will be coming much sooner.
+
+AT&T says that they are also laying the groundwork for true 5G during this process, installing radios that should be remotely software upgradeable to 5G standards and frequencies when those technologies are ready to deploy.
+
+Overall - it is a pretty exciting upgrade for AT&T, and AT&T is claiming 500 markets will be upgraded to FirstNet with doubled potential speeds by the end of this year.
+
+Should You Seek Out FirstNet / B14 Gear?
+The FirstNet software and interoperability standards have only recently been finalized, and it will take some time for compatible devices to be released. At first, some will be compatible with FirstNet SIM cards and network prioritization but will lack LTE B14. But devices that have full support will be labeled as "FirstNet Ready", and you can see the list here.
+
+It is a VERY short list at the moment, but throughout 2018 more and more new devices should come with FirstNet compatibility built in.
+
+Having a device that will be compatible on the B14 spectrum is certainly nice to have - but for the time being this is not an essential feature.
+
+But over time, AT&T customers should definitely look towards owning hardware that supports every LTE band AT&T has to offer.
+
+NOTE:  Older Devices & FirstNet
+There are some older devices (particularly iPhone models) that are getting the software upgrade to work with FirstNet's network prioritization and communication features so that first responders with these older phones can still connect with each other (if they have a FirstNet SIM card) - but they will only be able to connect to AT&T's regular LTE bands, not to LTE Band 14.
+
+Adding Band 14 requires new radio hardware, and is not something that software can update.
+
+So far very few devices have Band 14 radios. No iPhone models yet, and only the newest Samsung Galaxy S9 have built in B14 - thoughweI expect most new AT&T phones will have support going forward.
+

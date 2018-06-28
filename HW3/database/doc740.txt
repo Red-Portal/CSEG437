@@ -1,0 +1,32 @@
+The Forest
+
+As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. 
+
+Build, explore, survive in this terrifying first person survival horror simulator.
+Key features
+Enter a living, breathing world, where every tree and plant can be chopped down. Below ground explore a vast network of caves and underground lakes. 
+
+Chop down trees to build a camp, or start a fire to keep warm. Scavenge food to keep yourself from starving. 
+Build a small shelter or a large ocean side fortress. Lay traps and defences to keep a safe perimeter. 
+Explore and build during the day. Defend your base at night. Craft weapons and tools. Bunker down during the evening or bring the fight directly to the enemy. 
+Defend yourself against a clan of genetic mutant enemies that have beliefs, families, morals and that appear almost human. 
+Use stealth to evade enemies, or engage them directly with crude weapons built from sticks and stones.
+
+SYSTEM REQUIREMENTS
+MINIMUM:
+OS: Windows 7
+Processor: Intel Dual-Core 2.4 GHz
+Memory: 4 GB RAM
+Graphics: NVIDIA GeForce 8800GT
+DirectX: Version 9.0
+Storage: 5 GB available space
+Sound Card: DirectX¢ç-compatible
+Additional Notes: 32bit windows users need to ensure they have at least 4gb of ram usable on their system.
+RECOMMENDED:
+OS: Windows 7
+Processor: Quad Core Processor
+Memory: 4 GB RAM
+Graphics: NVIDIA GeForce GTX 560
+DirectX: Version 9.0
+Storage: 5 GB available space
+Sound Card: DirectX¢ç-compatible

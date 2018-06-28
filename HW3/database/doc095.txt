@@ -1,0 +1,40 @@
+			Information on the advantages, 
+				disadvantages, 
+		      and judging digital camera quality
+
+With a digital camera you can do it. In fact, these gadgets are among the hottest items in the computer industry today, and with good reason. They're fun, easy to use and get results fast. You'll find models from most manufacturers of computers, consumer electronic products and film cameras. These include Canon, Kodak, Fujitsu, Hewlett-Packard, Apple and Casio. Here's how they work:
+
+While many digital cameras look just like regular point-and-shoot film cameras, they don't use film. Instead they record your image on a small photoelectric semiconductor called a Charge Coupled Device, or CCD. The CCD turns the image into tiny electronic dots, or pixels, which are stored in the camera's memory bank.
+
+Instead of developing the images, you transfer them to your computer, where they show up as standard files that can be used by desktop publishing or graphics programs. Once you've captured the photo, you can edit it to your heart's content. Change the brightness, contrast and color balance, eliminate red-eye and erase blemishes. Many standard graphics programs can control the camera directly and import photos in a few seconds. In addition, cameras come with software that will let you preview your pictures and download only the ones you want.
+
+Advantages of digital cameras
+Convenience. You don't need to buy film, stop at the photofinisher or use a scanner. When you've taken your pictures, you can work with them on your PC immediately.
+
+Cost. Digital cameras aren't cheap, but if you take a lot of pictures for Web pages or business use, you'll save on film and developing, and avoid the hassle or cost of scanning.
+
+Flexibility. Most digital cameras let you view the pictures you've taken on an LCD screen. If you don't like the shot you've just snapped, you can erase it and shoot again.
+
+Disadvantages of digital cameras
+Quality. Even the best digital camera can't record images with the detail you get from a film camera. Digital recording devices can't match the resolution, sharpness, tonal range and color reproduction capabilities of film. So don't sell that old Nikon yet. If you need fine detail and true color for professional reproduction, a film camera is still your best bet.
+
+Speed. Digital cameras take anywhere from two to 30 seconds to store each image. This makes them unsuitable for action photography or any situation in which you need to shoot quickly.
+
+Cost. Digital cameras designed for home and business use run from $400 to $1,000. Professional models run as high as $20,000. This may be more than you're willing to invest for occasional shooting. 
+
+Judging digital camera quality
+The quality of a digital camera depends on its resolution, color depth, capacity, optics and convenience features. Here's what to look for:
+
+Resolution. The CCD on a digital camera stores the image in a grid of dots, or pixels, that translate into digital ones and zeros that a computer can understand. The more pixels the camera can record, the larger the image and the finer the detail. Generally, you'll pay more money for higher resolution. Most affordable digital cameras can record images in a 640 by 480 pixel grid. That's enough to fill a good chunk of a Web page or produce a decent 4-by-3-inch printed image. With some cameras, you can choose between two resolutions. At the lower resolution, you can store more images, but they won't be as detailed. 
+
+
+Color capability. This is the number of colors a digital camera can reproduce, and it's generally measured in something called "bit depth." The bit depth determines how many digital ones and zeros the camera uses to record color information for each pixel. Better cameras can handle 24-bit color, which means they can recognize up to 16 million hues. This approximates the range of the human eye.
+
+
+Capacity. The number of pictures a digital camera can take is determined by its resolution and memory. Low-end digital cameras typically store between 16 and 40 pictures. The actual number may depend on the resolution and compression ratio you choose. Most cameras come with snap-in memory modules. When you fill one, you can replace it with another. But these memory cards aren't cheap -- expect to pay about $100 for a card that can store 15 to 30 full-resolution photos. More sophisticated cameras may have internal floppy disk drives or even tiny hard disks. The best can store a hundred pictures or more and even record sound bytes to go with each shot.
+
+
+Optics. Inexpensive digital cameras come with fixed-focus lenses that produce the equivalent of a moderate wide-angle view on a 35mm film camera. They're fine for small groups or landscapes, but tend to exaggerate noses and chins on closeups. Better models have zoom lenses that range from wide-angle to short telephoto. They'll produce better portraits. Most cameras come with a built-in automatic flash.
+
+
+Convenience features. The most important convenience feature is a liquid crystal display screen on the back of the camera. On some models, the LCD takes the place of the viewfinder, so you can see exactly what you're shooting. On other cameras, you'll find an optical viewfinder and an LCD that displays shots after you've taken them. Either way, better cameras will allow you to flip through the photos you've taken and erase shots you don't want. This frees up memory for more pictures. 

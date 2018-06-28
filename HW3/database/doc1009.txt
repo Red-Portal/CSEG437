@@ -1,0 +1,37 @@
+After designing the game's concept, as well as the characters and environments, the video game maker
+is ready for the computer work that will make it reality.
+
+There are many programs for making video games and software packages available to the novice 
+and experienced game maker that allows them to bring their creations to life without heavy use of coding. 
+These software packages instead perform many functions automatically, using common computer interface 
+actions such as "drag and drop," highlighting and double clicking.
+
+Software packages for making video games generally include three categories: 3-D games, 
+2-D games and role-playing games. The 3-D software is more powerful than the 2-D, and role-playing game software 
+is different all together.
+
+Some popular video game software for 3-D includes DarkBASIC and DarkBASIC Pro. 
+The pro version is for more advanced game makers, while the other caters to hobbyists.
+Both, however, have a strong community of users who can serve as mentors.
+
+Another software program, Game Maker, allows you to create a 3-D game. 
+The software also can help users learn higher coding functions by showing the code 
+that is created by simple drag and drop-type operations. This can start a user on the path 
+to further customization and flexibility.
+
+Game Editor is a 2-D game design software with a reputation for being extremely user-friendly. 
+The program, though not particularly advanced, is intuitive, making it easy for a novice game 
+designer to use it. You can create games for personal computers or mobile phones using this program.
+
+Role-playing game making software includes RPG Toolkit, RPG 95, 2000, 2003 and XP; and Hephaestus, among others.
+
+Most of these programs don't require writing codes. And, many video-game software programs are available 
+for free on the Web. The programs offer simple, intuitive steps to creating video games without using a source code. 
+If you have an idea, some organization and basic computer skills, you'll have no trouble using this software.
+
+There are different levels of sophistication used in the software, however. Some are designed to create the high-end, 
+3-D games typically played on game consoles. Others are simpler, 2-D software while still others focus on role-playing 
+games, fighting games, adventure games and more.
+
+Because of their ease of use and relative power and customization potential, video game software 
+has opened up the world of video game development to a mass audience.

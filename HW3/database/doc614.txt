@@ -1,0 +1,593 @@
+End-to-end Analysis and Design of a Drone Flight
+Controller
+Zhuoqun Cheng1
+, Richard West1
+, and Craig Einstein1
+1 Boston University, USA
+czq@cs.bu.edu
+richwest@cs.bu.edu
+einstein@cs.bu.edu
+Abstract
+Timing guarantees are crucial to cyber-physical applications that must bound the end-to-end
+delay between sensing, processing and actuation. For example, in a flight controller for a multirotor
+drone, the data from a gyro or inertial sensor must be gathered and processed to determine
+the attitude of the aircraft. Sensor data fusion is followed by control decisions that adjust the
+flight of a drone by altering motor speeds. If the processing pipeline between sensor input and
+actuation is not bounded, the drone will lose control and possibly fail to maintain flight.
+Motivated by the implementation of a multithreaded drone flight controller on the Quest
+RTOS, we develop a composable pipe model based on the system’s task, scheduling and communication
+abstractions. This pipe model is used to analyze two semantics of end-to-end time:
+reaction time and freshness time. We also argue that end-to-end timing properties should be
+factored in at the early stage of application design. Thus, we provide a mathematical framework
+to derive feasible task periods that satisfy both a given set of end-to-end timing constraints
+and the schedulability requirement. We demonstrate the applicability of our design approach
+by using it to port the Cleanflight flight controller firmware to Quest on the Intel Aero board.
+Experiments show that Cleanflight ported to Quest is able to achieve end-to-end latencies within
+the predicted time bounds derived by analysis.
+1998 ACM Subject Classification C.3 Real-Time and Embedded Systems
+Keywords and phrases real-time systems, end-to-end timing analysis, flight controller
+1 Introduction
+Over the past few years, commercial and hobbyist multirotor drones have been rapidly
+growing in popularity. The fast development of drone technology enables an ever widening
+set of applications, including aerial photography [35], package delivery [3], and search and
+rescue [39, 27]. One of the most commonly used control boards for drones in use today is
+the STM32 family of systems-on-chip (SoCs), which are based on the ARM Cortex M-series
+processors, and include integrated inertial sensors such as a gyroscope, accelerometer and
+magnetometer.
+While many of the existing flight control boards are perfectly adequate for drones operated
+via human-assisted radio control, they fall short of the processing capabilities needed for
+fully autonomous operation. For this reason, we are developing a new approach to building
+autonomous drones using emerging multicore platforms such as the Intel Aero board, Qualcomm
+Snapdragon flight development board [2], and Nvidia’s Jetson [1]. All these boards
+offer multiple processing cores and integrated graphics processing capabilities, making them
+capable of mission tasks that would be impossible on simpler hardware.
+
+
+Our first step to building autonomous drones has so far involved a reimplementation
+of the popular racing drone flight control firmware called Cleanflight [8] on the Intel Aero
+board. We have also ported our in-house Quest real-time OS (RTOS) [31] to the Aero
+board, to efficiently and predictably manage the multiple cores and I/O complexity. Our reimplementation
+of Cleanflight refactors the original single-threaded code running directly as
+firmware on STM32 SoCs into a multi-threaded application running on Quest. The decoupling
+of software components into separate threads improves the modularity of Cleanflight,
+and provides the capability for parallel task execution on platforms with multiple cores.
+Flight management tasks are then able to leverage the availability of increased compute resources,
+potentially improving the controllability of a drone. Similarly, the cleaner interfaces
+between software components eases our future plans to extend Cleanflight with advanced
+features such as camera data processing, object detection and avoidance, and simultaneous
+localization and mapping (SLAM) necessary for autonomous flight management.
+The original Cleanflight code has a series of tasks that are executed as loops with predefined
+frequencies. These frequencies are based on a combination of the capabilities of the
+hardware and the experiences of drone developers. However, a multithreaded Cleanflight is
+subject to extra overheads and uncertainty, due to scheduling and inter-task communication.
+It is critical to ensure the timing correctness of Cleanflight. For example, if a gyroscope reading
+fails to correctly influence a change in motor (and, hence, rotor) speed within a specific
+time bound, the drone might not be able to stabilize.
+Cleanflight is typical of many applications that process sensor inputs and require timebounded
+changes to actuators. With the recent development of multi-sensor data fusion
+algorithms [23, 22, 17] and ever-increasing availability of open source hardware, multisensor/actuator
+cyber-physical applications are leading to a revolution in areas such as
+3D printing, drones, robotics, driverless cars, and intelligent home automation systems. For
+these applications, it is essential to guarantee two types of end-to-end timing requirements:
+1) the maximum time it takes for an input sensor reading to flow through the whole system
+to eventually affect an actuator output, and 2) the maximum time within which an input
+sensor reading remains influential on output actuator commands.
+While the real-time community has developed valuable approaches to scheduling and
+response time analysis of tasks [10], end-to-end timing analysis has received only limited
+attention. Most of the prior work has originated from real-time network communication
+research [34, 30, 28, 40, 33, 42], and is based on event-triggered communication with FIFObased
+buffers. In a drone flight control program, however, single register-based buffers and
+periodic sampling are more common. This paper, therefore, presents the end-to-end timing
+analysis of a drone flight controller based on a combination of the periodic-sampling task
+model, the register-based inter-task communication model and the Quest RTOS’s scheduling
+model. We also show how the derived worst case end-to-end communication time can be, in
+turn, used to guide the design of applications.
+Contributions of this paper include: 1) the proposal of a composable pipe model to
+capture the timing characteristics of end-to-end communication in the Quest RTOS; 2) a
+demonstration of how to derive task periods from given end-to-end timing constraints in
+the application design stage; 3) the re-implemention and evaluation of the Cleanflight flight
+controller on the Intel Aero board.
+The rest of the paper is organized as follows: Section 2 provides background on Cleanflight
+and the corresponding task, scheduling and communication models adopted throughout
+the paper. Section 3 describes the end-to-end timing analysis of our proposed composable
+pipe model. Section 4 shows how the end-to-end time is leveraged in the application design stage, while Section 5 details the re-implementation and evaluation of Cleanflight on the
+Aero board. Related work is discussed in Section 6, followed by conclusions and future work
+in Section 7.
+2 Execution Model
+In this section, we first provide an overview of the application that motivated this work.
+Secondly, we describe the application design model from three perspectives: i.e., the task
+model, the scheduling model and the communication model.
+2.1 Application and System Overview
+This paper is motivated by our objective to implement an autonomous flight management
+system for multirotor drones. An autonomous drone is one that is able to reason about
+and adapt to changes in its surroundings, while accomplishing mission objectives without
+remote assistance from a human being (once its objectives are established). As part of this
+effort, we have undertaken a port of the Cleanflight firmware from a traditional single-core
+STM32-based system-on-chip (SoC) to the Intel Aero compute board. The Aero board has
+a quadcore x86 Atom x7-Z8750 processor, 4GB RAM, an integrated GPU, inertial measurement
+sensors and 3D camera connectivity. This makes it capable of flight management tasks
+(e.g., package delivery, aerial photography, search and rescue) that would be impossible with
+a less powerful single-core ARM Cortex M3 or M4 found in most STM32 SoCs.
+Cleanflight is targeted at racing drones, which are operated by humans using radio
+control. The core software components of Cleanflight consist of sensor and actuator drivers,
+a PID controller, the Mahony Attitude and Heading Reference (AHRS 1
+) algorithm, various
+communication stacks, and a logging system. Runtime entities of those components are
+called tasks. There are 31 tasks in total, of which more than half are optional. The essential
+ones are listed in Table 1. Tasks are scheduled from highest to lowest dynamic priority,
+calculated as a function of a task’s static priority and the time since it was last executed.
+
+Our port of Cleanflight to the Aero board runs on our in-house Quest RTOS. We have
+developed Quest drivers for SPI, I2C, GPIO, UART, and inertial sensors on this and other
+similar boards. Quest is an SMP system, providing both user and kernel level threads, as well as threaded interrupt handlers that are scheduled by a time-budgeted virtual CPU
+(VCPU) scheduler detailed in Section 2.3.
+
+2.2 Task Model
+process, which is the major topic of this paper. It mainly depends on the end-to-end latency
+constraints and the schedulability test. All the periodic tasks are implemented using Quest’s
+user level threads. In this paper, we use term thread and task interchangeably.
+Apart from user level threads, there are kernel threads dedicated to I/O interrupts, which
+originate primarily from the SPI and I2C bus in Cleanflight. Quest executes interrupts in a
+deferrable thread context, having a corresponding time budget. This way, the handling of
+an interrupt does not steal CPU cycles from a currently running, potentially time-critical
+task.
+2.3 Scheduling Model
+Threads in Quest are scheduled by a two-level scheduling hierarchy, with threads mapped
+to virtual CPUs (VCPUs) that are mapped to physical CPUs. Each VCPU is specified
+a processor capacity reserve [24] consisting of a budget capacity, C, and period, T . The
+value of C and T are determined by the e and T of the task mapped to the VCPU. A
+VCPU is required to receive at least C units of execution time every T time units when it is
+runnable, as long as a schedulability test [20] is passed when creating new VCPUs. This way,
+Quest’s scheduling subsystem guarantees temporal isolation between threads in the runtime
+environment.
+Conventional periodic tasks are assigned to Main VCPUs, which are implemented as
+Sporadic Servers [38] and scheduled using Rate-Monotonic Scheduling (RMS) [21]. The
+VCPU with the smallest period has the highest priority. Instead of using the Sporadic Server
+model for both main tasks and bottom half threads, special I/O VCPUs are created for
+threaded interrupt handlers. Each I/O VCPU operates as a Priority Inheritance Bandwidth
+preserving Server (PIBS) [9]. A PIBS uses a single replenishment to avoid fragmentation of
+replenishment list budgets caused by short-lived interrupt service routines (ISRs). By using
+PIBS for interrupt threads, the scheduling overheads from context switching and timer
+reprogramming are reduced [25].
+2.4 Communication Model
+Control flow within the flight controller is influenced by the path of data, which originates
+from sensory inputs and ends with actuation. Inputs include inertial sensors, optional
+cameras and GPS devices, while actuators include motors that affect rotor speeds and the
+attitude of the drone. Data flow involves a pipeline of communicating tasks, leading to a
+communication model characterized by: (1) the interarrival times of tasks in the pipeline,
+(2) inter-task buffering, and (3) the tasks’ access pattern to communication buffers.
+Periodic vs. Aperiodic Tasks. Aperiodic tasks have irregular interarrival times,
+influenced by the arrival of data. Periodic tasks have fixed interarrival times and operate
+on whatever data is available at the time of their execution. A periodic task implements
+asynchronous communication by not blocking to await the arrival of new data [11].
+Register-based vs. FIFO-based Communication. A FIFO-based shared buffer
+is used in scenarios where data history is an important factor. However, in a flight controller,
+data freshness outweighs the preservation of the full history of all sampled data.
+For example, the motor commands should always be computed from the latest sensor data
+and any stale data should be discarded. Moreover, FIFO-based communication results in
+loosely synchronous communication: the producer is suspended when the FIFO buffer is
+full and the consumer is suspended when the buffer is empty. Register-based communication
+achieves fully asynchronous communication between two communicating parties using
+Simpson’s four-slot algorithm [36].
+Implicit vs. Explicit Communication. Explicit communication allows access to
+shared data at any time point during a task’s execution. This might lead to data inconsistency
+in the presence of task preemption. A task that reads the same shared data at
+the beginning and the end of its execution might see two different values, if it is preempted
+between the two reads by another task that changes the value of the shared data. Conversely,
+the implicit communication model [13] essentially follows a read-before-execute paradigm to
+avoid data inconsistency. It mandates a task to make a local copy of the shared data at the
+beginning of its execution and to work on that copy throughout its execution.
+This paper assumes a periodic task model, as this simplifies timing analysis. Applications
+such as Cleanflight implement periodic tasks to sample data and perform control operations.
+Our system also adopts register-based, implicit communication for data freshness and consistency.
+
+3 End-to-end Communication Timing Analysis
+In this section, we first distinguish two different timing semantics for end-to-end communication,
+which will be used as the basis for separate timing analyses. Secondly, we develop
+a composable pipe model for communication, which is derived from separate latencies that
+influence end-to-end delay. Lastly, we use the pipe model to derive the worst case end-to-end
+communication time under various situations.
+3.1 Semantics of End-to-end Time
+To understanding the meaning of end-to-end time consider the following two constraints for
+a flight controller:
+Constraint 1: a change in motor speed must be within 2 ms of the gyro sensor reading
+that caused the change.
+Constraint 2: an update to a gyro sensor value must be within 2 ms of the corresponding
+update in motor speed.
+The values before and after a change differ, whereas they may stay the same before and after
+an update. These semantics lead to two different constraints. To appreciate the difference,
+imagine the two cases in Table 2. In Case 1, the task that reads the gyro runs every 10
+ms and the one that controls the motors runs every 1 ms. Case 1 is guaranteed to meet
+Constraint 1 because the motor task runs more than once within 2 ms, no matter whether
+the gyro reading changes. However, it fails Constraint 2 frequently as the gyro task is not
+likely to run even once in an interval of 2 ms. Conversely, Case 2 is guaranteed to meet
+Constraint 2 but fails Constraint 1 frequently.
+This example demonstrates the difference between the two semantics of end-to-end time,
+which leads to the following formal definitions:
+
+Reaction time is the time it takes for input data to flow through the system, and is
+affected by the period of each consumer in a pipeline. A reaction timing constraint
+bounds the time interval between a sensor input and the first corresponding actuator
+output.
+Freshness time is the time within which an instance of the input data has influence on
+the system, and is affected by the period of each producer in a pipeline. A freshness timing
+constraint bounds the time interval between a sensor input and the last corresponding
+actuator output.
+Constraint 1, above, is a constraint on reaction time, while Constraint 2 is on freshness time.
+We perform analysis of the two semantics of time in Section 3.5.2 and 3.5.3, respectively.
+3.2 Latency Contributors
+The end-to-end communication delay is influenced by several factors, which we will identify
+as part of our analysis. To begin, we first consider the end-to-end communication pipeline
+illustrated as a task chain in Figure 1. Task τ1 reads input data Din over channel Cin,
+processes it and produces data D1. Task τ2 reads D1 and produces D2, and τ3 eventually
+writes output Dout to channel Cout after reading and processing D2.
+Each task handles data in three stages, i.e., read, process and write. The end-to-end
+time should sum the latency of each stage in the task chain. Due to the asynchrony of
+communication, however, we also need to consider one less obvious latency, which is the
+waiting time it takes for an intermediate output to be read in as input, by the succeeding
+task in the chain. In summary, the latency contributors are classified as follows:
+Processing latency represents the time it takes for a task to translate a raw input
+to a processed output. The actual processing latency depends not only on the absolute
+processing time of a task without interruption, but also on the service constraints (i.e.,
+CPU budget and period of the VCPU) associated with the task.
+Communication latency represents the time to transfer data over a channel. The transfer
+data size, bandwidth and propagation delay of the communication channel, and the
+software overheads of the communication protocol all contribute to the overall latency.
+Since our communication model is asynchronous and register-based as described in Section
+2, queuing latency is not a concern of this work.
+Scheduling latency represents the time interval between the arrival of data on a channel
+from a sending task and when the receiving task begins reading that data. The
+scheduling latency depends on the order of execution of tasks in the system, and therefore
+has significant influence on the end-to-end communication delay.
+3.3 The Composable Pipe Model
+In Section 3.2, we identified the factors that influence end-to-end communication delay.
+Among them, the absolute processing time and the transfer data size are determined by the nature of the task in question. To capture the rest of the timing characteristics, we develop
+a composable pipe model, leveraging the scheduling approach described in Section 2.3. A
+task and pipe have a one-to-one relationship, as illustrated in Figure 2.
+
+3.3.1 Terminology
+A pipe is composed of three elements:
+Pipe Terminal. A pipe has one terminal, which is an encapsulation of the data processing
+power reserved for this pipe. A pipe terminal is represented by a VCPU and its
+timing characteristics are captured by the VCPU’s budget and period, thereby guaranteeing
+at least C units of execution time every T time units. Pipe terminals are associated
+with conventional tasks bound to Main VCPUs and kernel control paths (including interrupt
+handlers and device drivers) bound to I/O VCPUs, as described in Section 2.3.
+Pipe End. A pipe has two ends, one for input and one for output. A pipe end is an
+interface to a communication channel, which is either an I/O bus or shared memory.
+Theoretically, the physical timing characteristics of a pipe end consist of transmission
+delay and propagation delay. As this work focuses on embedded systems where communicating
+parties are typically located within close proximity, we neglect propagation
+delay. The transmission delay is modeled by the bandwidth parameter, W, of the communication
+channel. We also use a parameter δ to denote the software overheads of
+a communication protocol. Though we are aware that δ depends on the data transfer
+size, the time difference is negligible, compared to the time of actual data transfer and
+processing. Therefore, for the sake of simplicity, δ is a constant in our model.
+Note that in our definition of a single pipe there is only one terminal, not two at either
+end of the pipe. This differs from the idea of a POSIX pipe, which comprises at task at
+both sending and receiving ends. In our case, a pipe is represented by the single terminal
+that takes input and produces output.
+An example of two communicating pipes is shown in Figure 3. This is representative of a
+communication path between a gyro task and attitude calculation in Cleanflight on the Aero
+board. The gyro task is mapped to Pipe 1, whose input end is over the SPI bus connected
+to the gyro sensor and output end is over a region of memory shared with Pipe 2. Pipe 1’s
+terminal is an I/O VCPU because the gyro task is responsible for handling I/O interrupts
+generated from the SPI bus. On the contrary, the terminal of Pipe 2 is a Main VCPU as the
+AHRS task is CPU-intensive. The gyro task reads raw gyro readings from Pipe 1’s input end, processes them, and writes filtered gyro readings to Pipe 1’s output end. Similarly, the
+AHRS task reads the filtered gyro readings from Pipe 2’s input end and produces attitude
+data for its output end over shared memory.
+
+3.4 Reachability
+Before mathematically analyzing end-to-end time, we introduce the concept of reachability,
+inspired by the data-path reachability conditions proposed by Feiertag et al [11]. The necessity
+of introducing reachability is due to a subtle difference between our register-based
+asynchronous communication model and the traditional FIFO-based synchronous communication.
+In the latter, data is guaranteed to be transferred without loss or repetition. This
+way, end-to-end time is derived from the time interval between the arrival of a data input
+and the departure of its corresponding data output. Unfortunately, this might result in
+an infinitely large end-to-end time in the case of register-based asynchronous communication
+where not every input leads to an output. Instead, unprocessed input data might be
+discarded (overwritten) when newer input data is available, as explained in Section 2.4.
+An infinitely large end-to-end time, while mathematically correct, lacks practical use.
+Therefore, the following timing analysis ignores all input data that fails to “reach” the exit
+of the pipe chain it enters. Instead, only those data inputs that result in data outputs from
+the pipe chain are considered. We define this latter class of inputs as being reachable.
+3.5 Timing Analysis
+As alluded to above, the execution of a task is divided into three stages, involving (1) reading,
+(2) processing, and (3) writing data. To simplify the timing analysis, we assume that tasks
+are able to finish the read and write stages within one period of the pipe terminal, to which
+the task is mapped. This is not unrealistic for applications such as a flight controller, because:
+1) data to be transferred is usually small, and 2) all three stages are typically able to finish
+within one period. However, to maintain generality, we do not impose any restriction on the
+length of the processing stage.
+4 End-to-end Design
+There are significant challenges to porting a flight control firmware such as Cleanflight to
+run as a multithreaded application on a real-time operating system. One of the major
+issues is how to determine the period of each thread so that the application is able to
+meet its end-to-end timing constraints. A naive approach would be to start by choosing
+a tentative set of periods and use the timing analysis method in Section 3 to validate the
+timing correctness. Upon failure, the periods are heuristically adjusted and the validation
+step is repeated until end-to-end timing guarantees are met. This approach, however, is
+potentially time-consuming and labor-intensive when the number of tasks or end-to-end
+constraints increase.
+Inspired by Gerber et al [12], we derive task periods from end-to-end timing constraints,
+by combining the timing analysis of the pipe model with linear optimization techniques. In
+this section, we generalize our method for use with a broader spectrum of cyber-physical
+control applications.
+
+
+graph shown in Figure 7, in which there are six tasks mapped to six pipes. Tasks 1, 2 and
+3 read inputs from sensors, Tasks 4 and 6 write their outputs to actuators, and Task 5 is
+an intermediary responsible for complicated processing such as PID control or sensor data
+fusion. The timing characteristics of the tasks and pipes are shown in Table 3. Note that
+the execution times are assumed to be identical for all tasks. In practice this would not
+necessarily be the case but it does not affect the generality of the approach.
+
+In Step 2, we derive a list of inequations involving period variables from the given end-toend
+timing and scheduling constraints in Table 3. For simplicity, the scheduling constraint
+is shown as a rate-monotonic utilization bound on the six pipe tasks. However, for sensor
+inputs and some actuator outputs, our system would map those tasks to I/O VCPUs that
+have a different utilization bound, as described in our earlier work [9]. The derivation is based
+on Equations 9 and 14, and the composability property of the pipe model. According to the
+conditional equations, however, every two pipes with undetermined priority can lead to two
+possible inequations. This exponentially increases the search space for feasible periods. In
+order to prune the search space, our strategy is to always start with the case where T
+p > T c
+.
+This is based on the observation that tasks tend to over-sample inputs for the sake of better
+overall responsiveness
+
+Evaluation
+This section describes both simulations and experiments on the Intel Aero board with an
+Atom x7-Z8750 1.6 GHz 4-core processor and 4GB RAM.
+5.1 Simulation Experiments
+We developed simulations for both Linux and Quest, to predict the worst-case end-to-end
+time using the equations in Section 3. Each simulation consists of three tasks, τ1, τ2 and
+τ3, mapped to pipes, π1, π2 and π3, respectively. All three tasks search for prime numbers
+within a certain range and then communicate with one another to exchange their results. τ1
+communicates with τ2, which further communicates with τ3. The communication channel
+is shared memory with caches disabled and the data size is set to 6.7 KB to achieve a nonnegligible
+1 millisecond communication overhead. Each task is assigned a different search
+range and the profiled execution time is shown in Table 4 in milliseconds. The budget of
+each pipe is set to be slightly larger than the execution time of its corresponding task, to
+compensate for system overheads. The settings of each pipe terminal (PT) are also shown
+in Table 4, again in milliseconds. Apart from the three main tasks, the system is loaded
+with low priority background tasks that consume all the remaining CPU resources and serve
+as potential interferences.
+
+For each case, we measure the end-to-end reaction time and freshness time separately
+and compare them to corresponding theoretical bounds. Figure 8 shows the results after
+100,000 outputs are produced by τ3. C1(E) and C1(F) are the end-to-end reaction and
+freshness times, respectively, for Case 1 in Table 4, while C2(E) and C2(F) are for Case 2.
+As can be seen, the observed values are always within the prediction bounds. As reference,
+we also perform the two cases on Yocto Linux shipped with the Aero board. The kernel is
+version 4.4.76 and patched with the PREEMPT_RT patch. While running the simulation,
+the system also uncompresses Linux source code in the background. This places the same
+load on the system as the background tasks in Quest. Figure 9 shows all (not only worst case)
+end-to-end reaction and freshness times within the first 100 outputs. Compared to Linux,
+there is less variance shown by the end-to-end times on Quest. Additionally, the freshness
+and reaction times are generally lower with Quest than Linux. Figure 11 summarizes the
+worst case reaction time (WCR), maximum variance of WCR (MaxRV), worst case freshness
+time (WCF) and maximum variance of WCF (MaxFV) for both Quest and Linux.
+
+5.2 The Cleanflight Experiment
+Our next experiments apply the end-to-end design approach to determining the periods
+of each task in the re-implementation of Cleanflight. We decouple software components
+in the original Cleanflight firmware and re-build the flight controller as a multithreaded
+application running on the Intel Aero board. The hardware and software architecture is
+shown in Figure 10.
+Hardware. We currently only use Core 0 to run Cleanflight on Quest. The remaining
+three cores are reserved for our Quest-V separation kernel [41] to run a general purpose OS
+such as Linux. Apart from the main processor, the Aero board also has an FPGA-based
+I/O coprocessor. It provides FPGA-emulated I/O interfaces including analog-to-digital conversion
+(ADC), UART serial, and pulse-width modulation (PWM). Our system currently
+uses the I/O hub to send PWM signals to electronic speed controllers (ESCs) that alter
+motor and, hence, rotor speeds of the drone. We modified the FPGA logic to improve the
+timing resolution of PWM signals, as well as control their duty cycle and periods. We make
+additional use of an onboard Bosch BMI160 Inertial Measurement Unit (IMU). Both the
+I/O hub and the IMU are connected to the main processor via SPI bus.
+Software. To minimize the engineering efforts, we currently disable the auxiliary features
+of Cleanflight such as telemetry, blackbox data logging, and UART-based flight control
+configuration. The essential components are shown as circular tasks in Figure 10. The
+AHRS sensor fusion task takes the input readings of the accelerometer and gyroscope (in
+the BMI160 IMU) and calculates the current attitude of the drone. Then, the PID task
+compares the calculated and target attitudes, and feeds the difference to the PID control
+logic. In the original Cleanflight code, the target attitude is determined by radio-control
+signals from a human flying the drone. In an autonomous setting, the target attitude would
+be calculated according to on-board computations based on mission objectives and flight
+conditions. The output is nonetheless mixed with the desired throttle and read in by the
+PWM task, which translates it to motor commands. Motor commands are sent over the
+SPI bus and ultimately delivered as PWM signals to each ESC associated with a separate
+motor-rotor pair on the multirotor drone. We decouple all these tasks into separate threads.
+For safety reasons, the sensor tasks and the PWM task are given individual address spaces.
+To simplify the experiment setup, we instrument Cleanflight to use a synthetic radio input
+value (20% throttle and 0 degree pitch, roll, and yaw angle) instead of reading from the real
+radio driver. The tasks are profiled and execution times are shown in Table 5.
+As can be seen in Figure 10, there are currently three data paths, originating from the
+gyro, the accelerometer and the radio receiver, respectively. Unfortunately, there is little
+information available on what end-to-end timing constraints should be imposed on each
+path to guarantee a working drone. Most timing parameters in the original Cleanflight are
+determined by trial and error. On the other hand, instead of determining the optimum
+timing constraints, the focus of this paper is on guaranteeing given constraints. Therefore,
+we first port Cleanflight to Yocto Linux on the Aero board, as a reference implementation.
+The Linux version remains single-threaded and used to estimate the desired end-to-end time.
+For example, for the gyro path, the worst case reaction and freshness times are measured
+to be 9769 and 22972 µs, respectively. We round them to 10 and 23 ms, and use them
+as end-to-end timing constraints for the Quest flight controller implementation. Using the
+same approach, we determine end-to-end reaction and freshness times for the accelerometer
+path, which are set to 10 and 23 ms, respectively. Finally, for the radio path, we set the
+end-to-end reaction and freshness times to be 20 and 44 ms, respectively.
+Using the execution times in Table 5 and timing constraints above, we apply the end-toend
+design approach to derive the periods. The results for each task are shown in Table 6.
+
+Evaluation. To measure the actual end-to-end time, we focus on the longest pipe chain
+highlighted in Figure 10. We instrument the Cleanflight code to append every gyro reading
+with an incrementing ID, and also record a timestamp before the gyro input is read. The
+timestamp is then stored in an array indexed by the ID. Every task is further instrumented
+to maintain the ID when translating input data to output. This way, the ID is preserved
+along the pipe chain, from the input gyro reading to the output motor command. After the
+PWM task sends out motor commands, it looks up the timestamp using its ID and compares
+it to the current time. By doing this, we are able to log both the reaction and freshness
+end-to-end time for every input gyro reading. We then compare the observed end-to-end
+time with the given timing constraints, as well as the predicted worst case value. Results
+are shown in Figure 12. As can be seen, the observed values are always within the predicted
+bounds, and always meet the timing constraints.
+6 Related Work
+Feiertag et al. [11] distinguish four semantics of end-to-end time and provides a generic
+framework to determine all the valid data paths for each semantic. The authors do not
+perform timing analysis as no scheduling model is assumed. Hamann et al. also discuss
+end-to-end reaction and age time [13]. Their work focuses on integrating three different
+communication models, including the implicit communication model, into existing timing
+analysis tools such as SymTA/S [14]. While our composable pipe model is also based
+on implicit communication, we perform timing analysis using the Quest RTOS’s task and
+scheduling model. A large portion of end-to-end reaction time analysis is based on the
+synchronous data-flow graph (SDFG) [19] where inter-task communication is driven by the
+arrival of input data. In recent work [37], Singh et al. enhance the standard SDFG to allow
+the specification of an end-to-end latency constraint.
+Gerber et al. [12] propose a synthesis approach that determines tasks’ periods, offsets
+and deadlines from end-to-end timing constraints. Their work relies on task precedence
+constraints as there is no scheduling model used for the analysis. Our work uses a scheduling
+model based on Quest to perform end-to-end timing analysis. We then derive task periods
+and budgets to ensure specific reaction, freshness and schedulability constraints.
+There are also efforts to develop programming languages, such as Prelude [29] and
+Giotto [15], which are able to derive tasks’ periods based on user-specified timing constraints.
+Kirsch et al. [18] use Giotto to reimplement a helicopter control system. Others
+have developed data-triggered rather than time-triggered drone flight control using reactive
+programming languages [5].
+In general operating systems, Scout [26] exposes paths that are similar to pipe chains
+in our model, to offer Quality of Service guarantees to applications. Paths in Scout are
+non-preemptive schedulable entities ordered according to an EDF policy.
+Lastly, programming environments such as ROS [32], OROCOS [6] and LCM [16], already
+widely adopted in the design of robotics and autonomous cars, are changing the development
+of cyber-physical applications. Publisher-subscriber paradigms used by ROS, for example,
+have influenced our thinking in the design cyber-physical systems with modularity and
+robustness amongst software components. We aim to augment Cleanflight functionality
+with ROS-style services as part of our ongoing efforts to build autonomous drones.
+7 Conclusions and Future Work
+In this paper, we identify two semantics of end-to-end time, namely reaction and freshness
+time. We analyze them in the context of the Quest RTOS, for a port of the well-known
+Cleanflight flight control firmware implemented as a collection of user-level tasks. This
+paper describes a composable pipe model that is built on task, scheduling and communication
+abstractions. Using the pipe model, we derive the worst case end-to-end time for
+data flow through a chain of tasks under various conditions. We argue that end-to-end
+timing properties should be factored in at the early stage of application design. Thus, we
+provide a mathematical framework to derive feasible task periods and budgets using the
+Quest scheduling framework to satisfy a given set of end-to-end timing and schedulability
+constraints. We demonstrate the applicability of our design approach by using it to port the
+Cleanflight flight controller to Quest on the Intel Aero board.
+Future work will integrate the end-to-end design approach into our Quest-Arduino (Qduino
+[7]) development environment. This will provide the basis for the design and implementation
+of an autonomous multicore flight management system on our Quest-V separation
+kernel [41]. Quest-V enables non-time-critical tasks to run on a legacy Linux system in
+parallel with real-time tasks running on our Quest RTOS.
+
+References
+1 Nvidia Jetson Board, March 2017. http://www.nvidia.com/object/embeddedsystems.html.
+2 Qualcomm Snapdragon Flight Kit, March 2017. https://www.intrinsyc.com/verticaldevelopment-platforms/qualcomm-snapdragon-flight/.
+3 Amazon Prime Air. http://www.amazon.com/b?ie=UTF8&node=8037720011.
+4 S.P. Bradley, A.C. Hax, and T.L. Magnanti. Applied Mathematical Programming. AddisonWesley
+Publishing Company, 1977.
+5 Endri Bregu, Nicola Casamassima, Daniel Cantoni, Luca Mottola, and Kamin Whitehouse.
+Reactive Control of Autonomous Drones. In Proceedings of the 14th Annual International
+Conference on Mobile Systems, Applications, and Services, MobiSys ’16, pages 207–219,
+New York, NY, USA, 2016. ACM.
+6 H. Bruyninckx. Open Robot Control Software: the OROCOS Project. In Proceedings 2001
+ICRA. IEEE International Conference on Robotics and Automation (Cat. No.01CH37164),
+volume 3, pages 2523–2528 vol.3, 2001.
+7 Zhuoqun Cheng, Ye Li, and Richard West. Qduino: A Multithreaded Arduino System for
+Embedded Computing. In Proceedings of the 2015 IEEE Real-Time Systems Symposium
+(RTSS), RTSS ’15, pages 261–272, Washington, DC, USA, 2015. IEEE Computer Society.
+8 Cleanflight: http://cleanflight.com/.
+9 Matthew Danish, Ye Li, and Richard West. Virtual-CPU Scheduling in the Quest Operating
+System. In Proceedings of the 17th Real-Time and Embedded Technology and Applications
+Symposium, 2011.
+10 Robert I. Davis, Sebastian Altmeyer, Leandro Indrusiak, Claire Maiza, Vincent Nelis, and
+Jan Reineke. An Extensible Framework for Multicore Response Time Analysis. Real-Time
+Systems, 2017.
+11 Nico Feiertag, Kai Richter, Johan Nordlander, and Jan Jonsson. A Compositional Framework
+for End-to-End Path Delay Calculation of Automotive Systems under Different Path
+Semantics. In Proceedings of the IEEE Real-Time System Symposium - Workshop on
+Compositional Theory and Technology for Real-Time Embedded Systems, Barcelona, Spain,
+November 30, 2008.
+12 Richard Gerber, Seongsoo Hong, and Manas Saksena. Guaranteeing Real-Time Requirements
+With Resource-Based Calibration of Periodic Processes. IEEE Trans. Softw. Eng.,
+July 1995.
+13 Arne Hamann, Dakshina Dasari, Simon Kramer, Michael Pressler, and Falk Wurst. Communication
+Centric Design in Complex Automotive Embedded Systems. In 29th Euromicro
+Conference on Real-Time Systems (ECRTS 2017), Leibniz International Proceedings in Informatics
+(LIPIcs), Dagstuhl, Germany, 2017.
+14 Rafik Henia, Arne Hamann, Marek Jersak, Razvan Racu, Kai Richter, and Rolf Ernst. System
+Level Performance Analysis - the SymTA/S Approach. In IEEE Proceedings Computers
+and Digital Techniques, 2005.
+15 Thomas A. Henzinger, Benjamin Horowitz, and Christoph Meyer Kirsch. Giotto: A TimeTriggered
+Language for Embedded Programming, pages 166–184. Springer Berlin Heidelberg,
+Berlin, Heidelberg, 2001.
+16 Albert S. Huang, Edwin Olson, and David Moore. LCM: Lightweight Communications
+and Marshalling. In Proceedings of the IEEE/RSJ International Conference on Intelligent
+Robots and Systems (IROS), Taipei, Oct 2010.
+17 Jonathan Kelly and Gaurav S Sukhatme. Visual-Inertial Sensor Fusion: Localization, Mapping
+and Sensor-to-Sensor Self-calibration. The International Journal of Robotics Research,
+30(1):56–79, 2011.
+18 Christoph M. Kirsch, Marco A. A. Sanvido, Thomas A. Henzinger, and Wolfgang Pree. A
+Giotto-Based Helicopter Control System, pages 46–60. Springer Berlin Heidelberg, Berlin,
+Heidelberg, 2002.
+19 E. A. Lee and D. G. Messerschmitt. Synchronous data flow. Proceedings of the IEEE,
+75(9):1235–1245, Sept 1987.
+20 John Lehoczky, Lui Sha, and Ye Ding. The Rate Monotonic Scheduling Algorithm: Exact
+Characterization and Average Case Behavior. In Proceedings of the IEEE Real-Time
+Systems Symposium (RTSS), 1989.
+21 C. L. Liu and James W. Layland. Scheduling Algorithms for Multiprogramming in a Hard
+Real-Time Environment. Journal of the ACM, 20(1):46–61, 1973.
+22 Sebastian O.H. Madgwick. An Efficient Orientation Filter for Inertial and Inertial/Magnetic
+Sensor Arrays. Technical report, University of Bristol, 2010.
+23 Robert Mahony, Tarek Hamel, and Jean-Michel Pflimlin. Nonlinear Complementary Filters
+on the Special Orthogonal Group. IEEE Transactions on Automatic Control, 53, June 2008.
+24 Clifford W. Mercer, Stefan Savage, and Hideyuki Tokuda. Processor Capacity Reserves for
+Multimedia Operating Systems. Technical report, Pittsburgh, PA, USA, 1993.
+25 E. Missimer, K. Missimer, and R. West. Mixed-Criticality Scheduling with I/O. In 28th
+Euromicro Conference on Real-Time Systems (ECRTS), pages 120–130, July 2016.
+26 David Mosberger and Larry L. Peterson. Making Paths Explicit in the Scout Operating
+System. In Proceedings of the Second USENIX Symposium on Operating Systems Design
+and Implementation, OSDI ’96, pages 153–167, New York, NY, USA, 1996. ACM.
+27 BBC News. Disaster Drones: How Robot Teams can Help in a Crisis. goo.gl/6efliV.
+28 R. S. Oliver and G. Fohler. Probabilistic Estimation of End-to-end Path Latency in Wireless
+Sensor Networks. In 2009 IEEE 6th International Conference on Mobile Adhoc and Sensor
+Systems, pages 423–431, Oct 2009.
+29 Claire Pagetti, Julien Forget, Frédéric Boniol, Mikel Cordovilla, and David Lesens. Multitask
+Implementation of Multi-periodic Synchronous Programs. Discrete Event Dynamic
+Systems, Sep 2011.
+30 Bo Peng, Nathan Fisher, and Thidapat Chantem. MILP-based Deadline Assignment for
+End-to-End Flows in Distributed Real-Time Systems. In Proceedings of the 24th International
+Conference on Real-Time Networks and Systems, RTNS ’16, pages 13–22, New York,
+NY, USA, 2016. ACM.
+31 Quest RTOS: http://questos.org/.
+32 Morgan Quigley, Ken Conley, Brian P. Gerkey, Josh Faust, Tully Foote, Jeremy Leibs, Rob
+Wheeler, and Andrew Y. Ng. ROS: An Open-source Robot Operating System. In ICRA
+Workshop on Open Source Software, 2009.
+33 S. Quinton, T. T. Bone, J. Hennig, M. Neukirchner, M. Negrean, and R. Ernst. Typical
+Worst Case Response-time Analysis and its use in Automotive Network Design. In 2014
+51st ACM/EDAC/IEEE Design Automation Conference (DAC), pages 1–6, June 2014.
+34 J. L. Scharbarg, F. Ridouard, and C. Fraboul. A Probabilistic Analysis of End-To-End
+Delays on an AFDX Avionic Network. IEEE Transactions on Industrial Informatics,
+5(1):38–49, Feb 2009.
+35 Da-Jiang Innovations Science and Technology Co. DJI. http://dji.com/.
+36 H.R. Simpson. Four-slot Fully Asynchronous Communication Mechanism. IEEE Computers
+and Digital Techniques, 137:17–30, January 1990.
+37 Abhishek Singh, Pontus Ekberg, and Sanjoy Baruah. Applying Real-Time Scheduling Theory
+to the Synchronous Data Flow Model of Computation. In 29th Euromicro Conference
+on Real-Time Systems (ECRTS 2017), Leibniz International Proceedings in Informatics
+(LIPIcs), Dagstuhl, Germany, 2017.
+38 B. Sprunt. Scheduling Sporadic and Aperiodic Events in a Hard Real-Time System. Technical
+Report CMU/SEI-89-TR-011, Software Engineering Institute, Carnegie Mellon, 1989.
+39 K. P. Valavanis. Advances in Unmanned Aerial Vehicles. Springer Science and Business
+Media, 2008.
+40 Y. Wang, M. C. Vuran, and S. Goddard. Cross-Layer Analysis of the End-to-End Delay Distribution
+in Wireless Sensor Networks. In 2009 30th IEEE Real-Time Systems Symposium,
+pages 138–147, Dec 2009.
+41 Richard West, Ye Li, Eric Missimer, and Matthew Danish. A Virtualized Separation Kernel
+for Mixed-Criticality Systems. ACM Trans. Comput. Syst., 34(3):8:1–8:41, June 2016.
+42 P. M. Yomsi, D. Bertrand, N. Navet, and R. I. Davis. Controller Area Network (CAN):
+Response Time Analysis with Offsets. In 2012 9th IEEE International Workshop on Factory
+Communication Systems, pages 43–52, May 2012.
+
+

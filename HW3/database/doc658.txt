@@ -1,0 +1,20 @@
+How to Back Up iPhone Data to an External Drive
+By Kris Holt 
+May 16, 2018 7:00 AM PT
+
+A recent incident reminded me of the importance of backing up one's phone regularly. Soon after carrying my recycling out to the curbside, I realized I had misplaced my 6-month-old iPhone. Cue brief panic, followed by deep concern that I'd somehow tossed my device into that transparent bag I'd left outside for the world to see.
+
+That led me to yelling "Hey, Siri" a few times around my apartment until the familiar chime sounded, revealing my trusty phone was hiding on a stepladder underneath a coat. Phew.
+
+I have no idea how or why I managed to leave my phone there, but had I not found it, the situation could have been much worse: It had been months since I'd backed up my data. I was lucky to escape what could have been a potential disaster caused by my absent-minded tendencies.
+
+Save Main Drive Space
+I bought my current laptop a little over a year ago and actually had some trouble managing backups at first. My partner and I use the same computer for backing up our phones, but with ever-increasing device storage capacities and solid-state hard drives still somewhat expensive, despite featuring in more and more systems, space is at a premium.
+
+Apple demands a lot of storage for its backups, especially since it often stores multiple versions. A 256-GB hard drive to run one's system and keep data safe is just not enough anymore.
+
+The thing is, Apple does not make it easy to sync backups to an external drive automatically. Typically, iPhone owners will plug in their devices, and Apple will create a directory on the main hard drive and stuff the backup there. That's easy, and it's probably enough for most people. Forcing iTunes to store the backup elsewhere requires a redirect trick.
+
+Better Safe Than Sorry
+Even if you have a main hard drive large enough to handle your backups without any concern, shuttling your data to an external drive has its advantages. It can act as an off-system failsafe in case your computer's drive collapses beyond repair. It also frees up the main drive, which hopefully will keep your computer working snappily for a little longer.
+In either case, please remember to back up your phone regularly. And maybe don't put yourself in a situation where you wonder for 15 minutes if you tossed it out with the recycling.

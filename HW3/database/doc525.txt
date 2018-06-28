@@ -1,0 +1,20 @@
+Google emulates AirPlay with new YouTube for Android
+Updated app allows Android tablet to act as second screen and remote control for Google TV services
+By CAROLINE GABRIEL
+
+Published: 13 November, 2012
+
+READ MORE: Google | Applications | Mobile Content | Android
+
+
+ 
+Google has included features highly reminiscent of Apple's AirPlay in its new YouTube app for Android. This supports the most popular usage of larger screened tablets, as a second screen for TV services - users can find videos on their slates and then sent the content to Google TV with one click.
+
+This sees Google tying one of its most important web properties more tightly to its mobile operating system, as it struggles with the dilemma of whether to reserve its best app features for Android, boosting uptake of that platform, or to spread them widely, in order to stay dominant on other OSs, notably Apple's. Apple recently ended preloading of YouTube on iOS 6.
+
+
+The updated Android software will also aim to boost interest in the underperforming Google TV. The new app pairs the set-top box and the handset or tablet over the same Wi-Fi link to integrate viewing and allow the mobile gadget to act as a remote control. While the video plays on the TV, the smaller cloud-connected device can be used to browse the web or find more content. Multiple clients can also be linked.
+
+Having brought AirPlay-style functions to Android, Google hints the next step will be to expand the new YouTube features to iOS. Google released a standalone YouTube offering for the iPad and iPhone, with paid advertising, in September, after Apple ended preloading.
+
+Google recently said that YouTube mobile views have quadrupled during the past 18 months and mobile devices now generate 25% of all traffic across the video service. YouTube is also the largest source of mobile data traffic across all international markets, according to a study by Sandvine, and generates 27% of all north American data traffic.

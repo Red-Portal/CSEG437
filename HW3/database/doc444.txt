@@ -1,0 +1,46 @@
+Operating system
+
+See also: Linux on the PlayStation 3 and PlayStation 3 system software ? Compatible media formats
+System Software
+Main article: PlayStation 3 system software
+Sony has included the ability for the operating system, referred to as System Software, to be updated.[160] The updates can be acquired in several ways:
+If the PlayStation 3 has an active Internet connection, updates may be downloaded directly from the PlayStation Network to the PS3 and subsequently installed. Systems with active Internet will automatically check online for software updates each time the console is started.
+Using an external PC, a user may download the update from the official PlayStation website, transfer it to portable storage media and install it on the System.
+Some game discs come with system software updates on the disc. This may be due to the game requiring the update in order to run. If so, the software may be installed from the disc.[160]
+The original PlayStation 3 also included the ability to install other operating systems,[161] such as Linux.[162] This was not included in the newer slim models and was removed from all older PlayStation 3 consoles with the release of firmware update 3.21 in April 2010. The functionality is now only available to users of original consoles who choose not to update their system software beyond version 3.15.[163]
+Graphical user interface
+Main article: XrossMediaBar ? PlayStation 3 XMB
+The standard PlayStation 3 version of the XrossMediaBar (pronounced Cross Media Bar, or abbreviated XMB) includes nine categories of options. These are: Users, Settings, Photo, Music, Video, Game, Network, PlayStation Network and Friends (similar to the PlayStation Portable media bar). A tenth TV category is displayed between Music and Video if PlayTV or torne is installed or if the console meets certain criteria to access select catch-up television services. By default, the What's New section of PlayStation Network is displayed when the system starts up. The PS3 includes the ability to store various master and secondary user profiles, manage and explore photos with or without a musical slide show, play music and copy audio CD tracks to an attached data storage device, play movies and video files from the hard disk drive, an optical disc (Blu-ray Disc or DVD-Video) or an optional USB mass storage or Flash card, compatibility for a USB keyboard and mouse and a web browser supporting in/compatible file download function.[164] Additionally, UPnP media will appear in the respective audio/video/photo categories if a compatible media server or DLNA server is detected on the local network. The Friends menu allows mail with emoticon and attached picture features and video chat which requires an optional PlayStation Eye or EyeToy webcam.[165] The Network menu allows online shopping through the PlayStation Store and connectivity to the PlayStation Portable via Remote Play.[165]
+Digital Rights Management
+The PlayStation 3 console protects certain types of data and uses digital rights management to limit the data's use. Purchased games and content from the PlayStation Network store are governed by PlayStation's Network Digital Rights Management (NDRM). The NDRM allows users to access the data from up to 5 different PlayStation 3's that have been activated using a users PlayStation Network ID.[166] PlayStation 3 also limits the transfer of copy protected videos downloaded from its store to other machines and states that copy protected video "may not restore correctly" following certain actions after making a backup such as downloading a new copy protected movie.[167]
+Photo Management
+Photo Gallery
+
+
+Photo Gallery main menu
+Photo Gallery is an optional application to view, create and group photos from the PS3, which is installed separately from the system software at 105 MB. It was introduced in system software version 2.60 and provides a range of tools for sorting through and displaying the system's pictures. The key feature of this application is that it can organize photos into groups according to various criteria. Notable categorizations are colors, ages, or facial expressions of the people in the photos. Slideshows can be viewed with the application, along with music and playlists. The software was updated with the release of system software version 3.40 allowing users to upload and browse photos on Facebook and Picasa.[168]
+PlayMemories
+PlayMemories is an optional stereoscopic 3D (and also standard) photo viewing application,[169] which is installed from the PlayStation Store at 182 MB. The application is dedicated specifically to 3D photos and features the ability to zoom into 3D environments and change the angle and perspective of panoramas.[170] It requires system software 3.40 or higher; 3D photos; a 3D HDTV, and an HDMI cable for the 3D images to be viewed properly.
+Video Editor and Uploader
+A new application was released as part of system software version 3.40 which allows users to edit videos on the PlayStation 3 and upload them to the Internet. The software features basic video editing tools including the ability to cut videos and add music and captions. Videos can then be rendered and uploaded to video sharing websites such as Facebook and YouTube.[168]
+VidZone
+Main article: VidZone
+VidZone is an online music video download service, accessible from the Music category on the XMB, which allows for free streaming of music videos. The VidZone catalogue encompasses over 1.5 million tracks, 25,000 music videos and 15,000 realtones,[171] including full access to catalogues from Sony BMG[172] and EMI.[173]
+On June 11, 2009, VidZone¡¯s service was extended to the PlayStation 3 video game system in Europe and Australia, allowing users to watch music videos for on their PS3 or streamed to their PSP via Remote Play.[174]
+Catch Up TV
+See also: Internet Television
+Catch up TV services are IPTV streams of free to air broadcast programs specially formatted for display on the PS3. Where available select channels are accessible under a separate TV category on the XMB.
+Mubi
+Main article: Mubi (website)
+A Mubi application for the PlayStation 3 was announced in May 2010. The service integrates elements of social networking with video streaming, allowing users to watch and discuss films with other users.[175]
+PlayStation Portable connectivity
+
+
+Playing a PlayStation 3 game through the PSP
+Main articles: Remote Play and PlayStation Store (PC) for PSP
+The PlayStation Portable can connect with the PlayStation 3 in many ways, including in-game connectivity. For example, Formula One Championship Edition, a racing game, was shown at E3 2006 using a PSP as a real-time rear-view mirror.[176] In addition, users are able to download original PlayStation format games from the PlayStation Store, transfer and play them on the PSP as well as the PS3 itself.[177][178] It is also possible to use the Remote Play feature to play these and some PlayStation Network games, remotely on the PSP over a network or internet connection.
+Sony has also demonstrated the PSP playing back video content from the PlayStation 3 hard disk across an ad-hoc wireless network. This feature is referred to as Remote Play located under the browser icon on both the PlayStation 3 and the PlayStation Portable. Remote play has since expanded to allow remote access to the PS3 via PSP from any wireless access point in the world.[179]
+Removal of "OtherOS" support
+Among the changes made to the slim model was the removal of the OtherOS feature; the ability to install another operating system alongside the main system software. This was claimed to have been removed to focus on games and other content (new drivers etc. would have had to be written for the new hardware for use in the alternative OS), although it is possible that Sony discovered a vulnerability in the feature that would enable hacking of the console. Such a vulnerability was later found on the original (non-slim) versions by George Hotz, who created a hack that uses a combination of hardware modding and the OtherOS feature to take control of the hypervisor.[180]
+As of firmware version 3.21, installation of other OSs is not supported on any model and the option has been removed from the XMB.[181] The reason given by Sony was 'disabling the ¡°OtherOS¡± feature will help ensure that PS3 owners will continue to have access to the broad range of gaming and entertainment content from SCE and its content partners on a more secure system.'[182] Sony's main Linux developer has been reassigned, so any PS3 Linux development would have to be on his own time.[183] This has caused some controversy as in effect Sony is removing officially advertised features and support from already sold products.[184] This controversy has also sparked several class action lawsuits aimed at making Sony return the feature and/or to get some sort of compensation.[185][186][187]
+Firmware update 3.21 is mandatory for access to the PlayStation Network and as such many features such as online gaming and access to the PlayStation store are unavailable to those who choose not to update.

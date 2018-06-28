@@ -1,0 +1,37 @@
+HDTV - A History
+The movie industry is largely to thank for the introduction of HDTV 
+(High Definition TV) into the world of home entertainment.
+
+After the establishment of the widescreen film format, it was soon discovered that 
+audience members in the first few rows of the theater experienced a level of participation
+ and immersion in the movie-going experience previously unmatched. It was not long after 
+ that the idea of bringing this experience to television viewing and into the home was addressed.
+
+Sony and NHK developed a high definition TV system in the late 70's that was introduced 
+to producers in the film industry in the early 80's. Dubbed NHK Hi-Vision, this system 
+was capable of producing a picture that had the same clarity and level of detail as 35mm film.
+
+In 1987, US broadcasters petitioned the FCC (Federal Communications Commission) to reserve
+spectrum for HDTV broadcasting. Based on interest, the FCC formed an industry wide advisory
+committee to investigate options and select an HDTV standard. During this process, four 
+competing groups (one of which was NBC) each proposed their own digital HDTV approaches.
+Unable to reach a decision, in 1993 the FCC encouraged the competing groups to join forces
+and, as such, the "Grand Alliance" system was developed. This alliance resulted in the ATSC
+ (Advanced Television Systems Committee) standard, which was approved in December of 1996.
+
+One of the first to jump onto the DTV bandwagon was PBS who debuted its HDTV service in 1988. 
+Their first HDTV broadcast was a documentary on the glass artist Dale Chihuly and his 
+glassblowing tour. The documentary was produced by Seattle station KCTS which had been 
+pioneering the use of HDTV for years with a popular series of aerial travelogues.
+
+Seven public TV stations were on air by November 1998 and three more debuted in 1999. 
+Many others stations have jumped into HDTV broadcasting since then. All public TV stations 
+were required to have digital transmitters operational by May of 2003. May 2006 is the 
+deadline being enforced by the FCC requiring that all broadcasters switch to DTV signals. 
+However, this only pertains to over the air transmissions and does not address DTV through
+cable or satellite. Because of the large amount of bandwidth that HDTV requires, individual 
+cable companies are left to choose whether or not they will move from sending regular analog
+signals to true digital signals. This also allows for broadcasters to get away with sending
+signals that are of lower resolution than HDTV (Fox TV, for example, broadcasts in 480p in
+many areas).
+

@@ -1,0 +1,10 @@
+Computer displays have been mostly rectangular since they were analog. 
+Recently, smart watches running Android Wear have started to embrace circular displays. 
+However, the graphics stack -- from user interface (UI) libraries to GPU to display controller -- is kept oblivious to the display shape for engineering ease and compatibility; it still produces contents for a virtual square region that circumscribes the actual circular display. 
+To understand the implications on resource usage, we have tested eleven Android Wear apps on a cutting edge wearable device and examined the key layers of Android Wear's graphics stack. 
+We have found that while no significant amount of CPU/GPU operations are wasted, the obliviousness incurs excessive memory and display interface traffic, and thus leads to efficiency loss.
+
+To minimize such waste, we advocate for a new software layer at the OpenGL interface while keeping the other layers oblivious. 
+Following the idea, we propose a pilot solution that intercepts the OpenGL commands and rewrites the GPU shader programs on-the-fly. 
+Through running a hand-crafted app, we show a reduction in the GPU memory read by up to 22.4%.
+Overall, our experience suggests that it is both desirable and tractable to adapt the existing graphics stack for circular displays.

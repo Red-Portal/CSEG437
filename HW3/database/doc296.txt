@@ -1,0 +1,12 @@
+snapdragon-versus-ti-omap-and-hummingbird-smartphone-cpus-compared-on-camera-video
+
+
+We¡¯ve got a fresh comparison video courtesy of Pocketnow, one that focuses on the performance of the hottest CPUs embedded in smartphones right now. The handsets involved in the test are Motorola Droid X (TI OMAP CPU), Samsung Captivate (Samsung Hummingbird CPU) and Nexus One (Qualcomm Snapdragon CPU).
+
+Four methods are used for the comparison: a start up test, a web browsing speed analysis, Google Earth and YouTube streaming tests. As far as the startup speed is concerned, Nexus One is the first to come to life, followed by Captivate and a very slow Moto Droid X. The fact that Nexus One runs Froyo might give it a bit of edge.
+
+Next up, we see the Pocketnow site loading on all 3 devices, with Droid X beating the Nexus One and Samsung Captivate crashing. However, the latter gives the smoothest scrolling experience, while the Nexus One is the slowest handset in this area. During the Google Maps test, Google¡¯s phone was also choppy, while Captivate and Droid X were working smoothly.
+
+Samsung¡¯s smartphone really rocked, while the new Moto Droid felt choppy when loading a Google Earth location. Last, the YouTube buffering test shows that Samsung Captivate is the champ, followed by Nexus One. Not only the buffering speed, but also the quality of playback stand testimony to the performance of Captivate¡¯s CPU.
+
+Droid X felt a bit washed out¡¦

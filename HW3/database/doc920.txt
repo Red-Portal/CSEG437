@@ -1,0 +1,88 @@
+Apple's working on a powerful, wireless headset for both AR, VR
+
+The headset, which would straddle the two technologies and tap into Apple's own chips, is slated for 2020. It’s the biggest sign of Apple’s interest in virtual reality.
+
+Apple CEO Tim Cook has nothing but praise for augmented reality, saying it's a technology that's potentially as important as the iPhone. It turns out he may have big plans for virtual reality too.
+
+The company is working on a headset capable of running both AR and VR technology, according to a person familiar with Apple's plans. Plans so far call for an 8K display for each eye -- higher resolution than today's best TVs -- that would be untethered from a computer or smartphone, the person said.
+
+The project, codenamed T288, is still in its early stages but is slated for release in 2020. Apple still could change or scrap its plans.
+
+Apple declined to comment.
+
+
+Now Playing: Apple is developing a combo VR-AR headset
+1:35 
+It's notable that Apple is working on a headset that combines both AR and VR given its intense focus over the past year on pushing augmented reality in iPhones and iPads. Cook has said he sees bigger possibilities in AR than VR, partly because augmented reality allows you to be more present. Either way, it's vital for Apple to expand beyond its iPhones, currently its top moneymaker, and the slowing mobile market.
+
+The Cupertino, California, company has dabbled in smaller VR projects, but the headset marks a major investment in VR, a tech that transports you into a different, digitally created world when you don bulky goggles. Once touted as the next hot tech trend, VR has failed to resonate with consumers despite heavy investment from companies like Facebook's Oculus, Google and Samsung.
+
+SEE ALSO
+For Apple's iPhone X, is it time for 'full panic mode'?
+Apple's AR apps will finally be able to stick things on walls
+Apple bringing VR, external graphics and game engines to Mac
+The industry has increasingly sided with Cook when it comes to bullishness on augmented reality, which overlays digital images on the real world using special headsets or your phone. Many of the early examples of popular AR capabilities include games like Pokemon Go or filters and lenses that go over your face in photos on Instagram and Snapchat.
+
+Apple's headset would connect to a dedicated box using a high-speed, short-range wireless technology, according to a person familiar with the company's plans. The box, which would be powered by a custom Apple processor more powerful than anything currently available, would act as the brain for the AR/VR headset. In its current state, the box resembles a PC tower, but it won't be an actual Mac computer.
+
+And unlike with the HTC Vive, users wouldn't have to install special base stations in a room to detect their location. Everything would be built into Apple's headset and box, the person said.
+
+Apple's AR/VR potential
+VR and AR, while nascent markets today, are expected to explode over the next several years. Companies like the secretive Magic Leap have been pouring millions -- if not billions -- into development, with the promise that the formats will change the way we see the world. Facebook views AR and VR headsets as the future of computing and communication.
+
+Consumers are expected to buy 22 million VR and AR headsets and glasses this year, according to a report from CCS Insight. In 2022, the number should soar fivefold to 120 million units, the analyst firm said, noting the market could be worth nearly $10 billion at that point.
+
+Last year brought the first public efforts by Apple in AR and VR. At its June WWDC developer conference, Apple unveiled ARKit to let developers make augmented reality apps for iPhones and iPads. It also said it was working with Valve to bring the Steam VR platform to its desktop Macs. Previously, VR rigs didn't work with Apple computers.
+
+img-6722
+38
+The 29 best ARKit apps you can try right now
+When it comes to AR and VR hardware, though, Apple has stood on the sidelines while its competitors have released numerous devices. Samsung partnered with Oculus -- the VR headset pioneer bought by Facebook for more than $2 billion -- on virtual reality headsets that use Samsung smartphones. Microsoft has been working on its HoloLens augmented reality headset and Windows 10 mixed reality goggles. Google released do-it-yourself VR kits, called Cardboard, that make the tech more accessible to consumers, and two years ago added Daydream View headsets. And Magic Leap's upcoming AR system, which promises Star Wars-style holograms integrated into the wearer's real-world field of view, has captured the attention of everyone from tech companies to celebrities.
+
+While Apple hasn't done much publicly with AR and VR, it's been working behind the scenes. It's hired executives and acquired startups, as well as filed for patents related to both technologies. One patent application earlier this month aims to use VR to help alleviate motion sickness and boredom for passengers in a vehicle.
+
+Bloomberg reported in November that Apple aimed to have technology ready for an AR headset in 2019 and ship it as early as 2020. The device would have its own display and run on a new chip and operating system, the publication said.
+
+Goodbye wires
+One of the problems with VR in its current state is the hassle of setting up a system. Samsung's Gear VR requires a Galaxy smartphone to run, while powerful rigs from Sony, HTC, Oculus and others need to be powered by high-end PCs or game consoles.
+
+And then there are the wires. So many wires.
+
+SEE ALSO
+2018 may mark the start of a cord-free life, for real
+Magic Leap set to bring mixed-reality tech to the mobile world
+2018 could be the year VR cuts the cord
+The future of VR is expected to be cordless devices -- and Apple wants to bring its trademark simplicity to the setup. The box would use a wireless technology called 60GHz WiGig, the person familiar with Apple's plans said. A second-generation version, called 802.11ay, would boost speeds and range and make the technology more attractive for high-end VR headsets that aren't tethered to computers. A final version of WiGig 2.0 likely won't arrive until 2019.
+
+The box to power Apple's AR/VR headset also would use a 5-nanometer processor, which is industry lingo for how tightly transistors can be packed into a tiny space. How small are we talking about? According to the National Nanotechnology Initiative, a fingernail grows at a rate of about one nanometer -- or a billionth of a meter -- a second.
+
+In comparison, the iPhone X is powered by a 10-nanometer processor. And when it comes to chips, the smaller the number, the faster and more power efficient things get.
+
+2018 Tribeca Film Festival's Virtual Arcade
+25
+21 different ways VR is thriving as an indie art form
+Controlling its own fate
+Apple has been expanding into the components market as it seeks to control all the hardware and software in its devices. It now designs its own application processors that act as the brains of its mobile devices, a Bluetooth chip that quickly links its AirPods to its iPhones, and security chips that protect personal data and biometrics from hacking attempts.
+
+By building its own chips, Apple is able to better control the features it releases, as well as better manage the timeline for introducing new devices.
+
+It's been working on processors to replace Intel's chips in Mac computers as soon as 2020. The chips used in future Macs would be similar to what Apple would use in its T288 AR/VR project, said the person familiar with the company's plans.
+
+The 8K displays in Apple's new headset, meanwhile, would help the VR and AR images look more lifelike. The smaller, more powerful chip, combined with the extreme high-quality video, would be critical to creating experiences that won't make you vomit if things get too shaky or move around too much.
+
+CNET DAILY NEWS
+Get today's top news and reviews collected for you.
+
+Add your email
+I have read and agree to the CBS Interactive Terms of Use and Privacy Policy. I understand I will receive the CNET newsletter(s) I'm signing up for. I can opt out at any time.
+SIGN UP
+LG and Samsung earlier this year at CES showed off 8K TVs, but they're not yet on the market. And no one has released 8K VR goggles. A Chinese startup, Pimax, has sought crowdfunding to create an 8K virtual reality headset. In the case of that device, it would have a 4K display for each eye. Apple's aim is even higher resolution, with an 8K screen for each eye.
+
+Jony Ive, Apple's design chief, said at a New Yorker conference in October that "there are certain ideas that we have, and we are waiting for the technology to catch up with the idea," specifically calling out displays and semiconductors.
+
+Apple has made its mark by jumping into established markets -- smartphones, tablets, smartwatches -- with polished, dead-simple products. The company is likely hoping history repeats itself with AR and VR.
+
+Tech Enabled: CNET chronicles tech's role in providing new kinds of accessibility.
+
+Blockchain Decoded:  CNET looks at the tech powering bitcoin -- and soon, too, a myriad of services that will change your life.
+

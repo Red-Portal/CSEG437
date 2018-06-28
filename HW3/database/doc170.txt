@@ -1,0 +1,104 @@
+<Mobile Linux challenges Windows Mobile for cellphone dominance>
+
+Taking a page from Microsoft's playbook, MontaVista today announced an embedded Linux platform aimed specifically at mobile phones. 
+"Mobilinux" is based on a 2.6 kernel with real-time and power-management enhancements, and targets "feature-phones" as well as the higher-end devices 
+targeted by Microsoft with its Windows Mobile for Smartphones offering.
+
+MontaVista calls Mobilinux "the first optimized OS for mobile and wireless devices that can scale from smartphones to feature-phones," 
+and hopes the OS's versatility will appeal to phone vendors interested in standardizing on a single OS environment across multiple segments 
+of the phone market.
+
+
+- Zeroing in on feature-phones -
+
+Feature-phones -- camera-phones, multimedia-phones, game-phones, etc. -- are key to beating Microsoft and Symbian, MontaVista says. 
+The company thinks the biggest opportunity in mobile phones lies in the middle ground between simple "voice phones" and complex "smartphones." 
+The mid-tier feature-phone market includes camera phones, gaming phones, and phones that can play music or videos, but stops short of the high-end 
+smartphone market, comprised of phones with powerful multitasking operating systems and computer-like filesystems.
+
+"The typical consumer doesn't want a smartphone, because they're too complex," explains Jacob Lehrbaum, MontaVista's Product Manager for Mobile 
+and Wireless Software. "Most users just want to make phone calls, or maybe have a few multimedia capabilities. But they want a phone that's a phone, 
+rather than a PDA."
+
+According to Lehrbaum, Microsoft and Symbian either can't or have not been able to wedge their operating systems into the more resource-constrained 
+world of feature phone hardware. "Microsoft doesn't have the performance necessary or the features necessary to get there. Symbian has more of an 
+opportunity, and has been working on some real-time technology that they've been talking about for 12 months now, but it hasn't been adopted, and 
+there are no handsets on the market. They haven't proven they can do it," Lehrbaum said.
+
+Microsoft's current mobile phone stack may not fit into feature phones; however, Intrinsyc in February previewed its own phone stack for feature phones 
+based on the same Windows CE real-time operating system that underpins Microsoft's smartphone product.
+
+MontaVista expects Mobilinux to appeal to phone vendors wishing to avoid the single vendor lock-in associated with Microsoft and, to some extent, 
+with Symbian, 49 percent of which is owned by mobile phone marketshare leader Nokia. Mobilinux, in contrast, is based on open source technology 
+that could in theory be supported or even adopted by other embedded vendors. 
+
+
+
+- Mobilinux 4.0 -
+
+MontaVista chose to give Mobilinux a "4.0" version number, in its initial release, as a reflection of the product's origins in MontaVista's offering 
+for battery-powered devices, Linux Consumer Electronics Edition (CEE) 3.1, and its less expensive, more general purpose offering, 
+Professional Edition (Pro) 3.1, both of which have been used in mobile phone design wins. Mobilinux borrows CEE's power management technology, 
+along with a phone-oriented subset of Pro's approximately 200 applications. Unlike the company's 3x-series distributions, however, Mobilinux 
+includes a 2.6-series kernel with much better real-time performance, as well as a more modern C-library and compiler (glibc 2.3.3 and gcc 3.4.3), 
+the company claims.
+
+The real-time extensions in Mobilinux are based on technology from the "Open Source Real-time Linux Project" MontaVista launched last October. 
+MontaVista claims Mobilinux can achieve worst-case preemption response times below 150 microseconds, and reach 100 microseconds with optimization for 
+specific boards and drivers. By comparison, MontaVista's 2.4-series kernels have 5 millisecond performance, it says. Other commercial distributors, 
+including LynuxWorks, have claimed significant real-time performance for their 2.6 kernels.
+
+
+
+- Cost savings -
+
+MontaVista says Mobilinux's basis in open source technology will save customers money. Additionally, the company says it will save cost by supporting 
+single-chipset phone designs. Real-time determinism and the added performance afforded by modern compilers are central to Mobilinux's scalability, 
+according to Lehrbaum, and will enable the embedded OS to move downmarket into phones that handle both voice and application processing on a single 
+chipset, running a single OS, with a single bank of memory (and perhaps an external modem and DSP coprocessor).
+
+So far, phones capable of running complex OSes like Linux, Symbian, and Microsoft have used a dual-chipset architecture. One CPU runs a real-time OS 
+and handles voice processing, while another runs the complex OS and its applications. This dual-chipset approach has obvious drawbacks. 
+Dual-chipset designs add a lot of cost, development overhead, and power usage. It's very costly to go that approach," Lehrbaum said. 
+
+Single-chipset designs are pervasive in low-end voice phones, as well as in mid-market "feature phones," including camera phones, gaming phones, 
+and phones that play music or videos, an area representing the greatest immediate market opportunity, according to MontaVista.
+
+Lehrbaum says mobile chipsets are shipping today that are capable of running Mobilinux in single-chipset mobile phone designs. "There are silicon 
+options from TI, Philips, Freescale, and others. [For example], TI rolled out a product line back at 3GSM called OMAP Vox [story] which can be used 
+as a single chipset solution."
+
+
+
+- Increased focus on mobile devices -
+
+Interestingly, Mobilinux 4.0 is MontaVista's first Linux product offering based on the 2.6-series Linux kernel -- a fact that shows just how 
+aggressively the company is pursuing the mobile market. (The company has been slow to move to the 2.6 kernel.)
+
+Lehrbaum declined to comment about when the 2.6 kernel would appear in MontaVista's other products, such as Consumer Electronics Edition (CEE), 
+aimed at battery-powered devices, Carrier Grade Linux (CGE), aimed at telecom, and Professional Edition (Pro), its general-purpose product. 
+However, he acknowledged that most of MontaVista's resources are currently being directed at the communications market. CEE, which was last 
+updated more than a year ago, will continue to be available, but no release date has been set for a 2.6 version, Lehrbaum confirmed.
+
+With CEE taking a back seat, Mobilinux will be the product that supports mobile devices such as portable media players, high-end cameras, gaming handhelds, 
+and, of course, mobile phones. Non-mobile consumer devices such as IP set-top boxes, digital TVs, DVRs, and audio/video entertainment centers, 
+on the other hand, will be covered by Pro, the least expensive MontaVista product. Lehrbaum implied that Pro would see a 2.6 update long before CEE.
+
+
+
+- Early successes -
+
+In spite of the open source basis of its products, MontaVista believes it has a leadership position where Linux phones are concerned. 
+The company has 11 design wins (see photos, below), and over 2.5 million phones in the field, according to Lehrbaum.
+
+Additionally, MontaVista says it is working hard to build brand and a third party ecosystem around Mobilinux, through its Mobilinux Open 
+Framework initiative launched in February.
+
+"[Mobilinux] is certainly built around open source technology, much of it developed in cooperation with the open source community, or contributed 
+directly to the community by MontaVista. However, it's an actual product offering. It's not like you could go out there and download it and then you 
+could have Wind River Mobilinux," Lehrbaum stated. 
+
+More information about Mobilinux is available on the Mobilinux website. 
+
+
+

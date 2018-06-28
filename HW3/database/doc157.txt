@@ -1,0 +1,33 @@
+Mobile Operators Marketing Toolkit Preview  
+ 
+ The Mobile Operator Marketing Toolkit is designed to be a functional resource to help our partners build successful businesses with Windows Mobile. 
+ In addition to the information and suggestions for our mobile operator and distributor partners, we have included a wide array of tools and resources, including white papers, analyst reports, case studies, marketing collateral, sample sales presentations, business value calculator, and key Web sites and URLs. 
+ 
+* Whats in the Marketing Toolkit?  
+ Introduction to Windows Mobile
+ With the latest Windows Mobile release, version 5.0, Microsoft is significantly increasing the platform¡¯s ability to  penetrate the business and mobile information worker market. This section includes:   
+ The Microsoft Commitment to Mobility
+ Windows Mobile 5.0: What¡¯s New?  
+ 
+* Offering solutions  
+ Mobile operators can expand the number of subscribers who use mobile messaging services, going beyond executives to include the broad base mobile information workers within businesses. This section includes:  
+ Offering Mobile Messaging Solutions Based on the Messaging and Security Feature Pack (MSFP)
+Offering Line-of-Business (LOB) Solutions with Windows Mobile  
+ 
+* Going to market  
+ The Microsoft Windows Mobile 5.0 platform, together with the Messaging and Security Feature Pack, provides a compelling value proposition for penetrating the enterprise sector. This section includes:  
+ Targeting Enterprises 
+ Targeting Mid-size Businesses
+ Targeting Small Businesses
+ Targeting Mobile Information Workers   
+ 
+* Additional support  
+ We believe that users who learn about applications and device personalization at the point of sale may have potentially high satisfaction and retention rates. This section includes:  
+
+* Windows Mobile Brand 87
+Applications for Windows Mobile 90
+Technical Resources   
+ 
+* Tools  
+ In the tools section you will find training materials, sales tools, case studies, white papers and more to help you make your device a success. 
+ 

@@ -1,0 +1,27 @@
+Report from CES 2006
+
+If the Miss America Pageant can move to the Aladdin, we can move the Labs, Weather, & Sports Desk to the MGM Grand. So the huge hotel/casino's swanky, small-roomed West Wing served as our base of operations while covering last week's Consumer Electronics Show (CES) in Las Vegas. Not that we spent much time in the room: With gear ranging from PC cases to car audio, from GPS navigators to gigantic flat-panel TVs, organizers boasted that the annual convention was the busiest yet, with 150,000 attendees checking out new and near-future products from over 2,500 exhibitors. 
+
+Over 40 percent of which sold iPod covers. 
+
+Sorry, exaggeration, couldn't help ourselves. But Apple's totemic music player definitely loomed large over the CES landscape, with handheld entertainment on display in devices ranging from video and MP3 players to smart phones. Perhaps the only technology with a bigger share of exhibit space was VoIP or Internet telephony, with both router (Linksys and D-Link) and retail vendors (cordless phones from Panasonic and Uniden) offering products based on Vonage's broadband service. 
+
+Similarly, a number of companies showed off hardware alternatives to sitting at a PC with a headset for Skype's free VoIP software. Creative's Internet PhonePlus connects directly to a broadband router with no need for a PC, while Netgear plans a first-quarter release of a mobile phone that works anywhere there's a WiFi hotspot. Actiontec introduced both a USB phone and a USB-powered VoSky Call Center that lets any phone in your house connect to either Skype or your usual landline service -- simply pressing ## gets the former. VoSky Exchange is a four-line Skype-to-PBX connection for small offices. 
+
+Wireless USB was also stirring to life, with Belkin planning April shipments of a $130 four-port hub and dongle that cut the cable between a PC and any USB 2.0 device (except those that use USB for power as well as data transfer). Silicon supplier Freescale touted its and Belkin's Ultra Wideband port of USB as a simpler alternative to the WiMedia Alliance approach backed by Intel, which requires a rewritten USB stack and drivers. 
+
+Dynamic Duo
+On the PC side, of course, the big news was Intel's announcement of its dual-core, 65-nanometer-process Core Duo CPU, revised Centrino Duo specification for portable platforms, and Viiv spec for broadband home entertainment, with Intel CEO Paul Otellini joined onstage by luminaries ranging from Michael Dell (showing a prototype 20-inch-screen, fold-up-keyboard portfolio) to Morgan Freeman and Tom Hanks. 
+
+Numerous notebook vendors were quick to unveil their Core Duo-based products, most of them in the weighty 17-inch-screened Media Center and desktop-replacement segments -- for instance, Dell's Inspiron E1705 and Fujitsu's LifeBook N6410. HP, however, promised February shipment of a Core Duo- and Webcam-equipped refresh of its 5.3-pound Pavilion DV1000. The slimline will also sport an improved version of HP's Linux-kernel-booting QuickPlay technology, for launching a DVD or audio CD within 15 seconds rather than waiting for Windows XP. 
+
+It would be nice if OQO replaced its handy handheld's slow Transmeta Crusoe processor with a Core Duo, but the company displayed a different upgrade to its paperback-novel-sized, thumb-keyboard-equipped Model 01+: A convertible Windows XP Tablet PC edition, priced just $100 above the $1,999 sticker of the plain Win XP Professional model. 
+
+The march of progress in peripherals continues, with Samsung showing the CLP-300, an adorably small (a cube less than 15 inches on each side), adorably affordable ($300 and up) color laser printer capable of 17 pages per minute in black and white and 4 ppm in color. 
+
+And LCD monitor manufacturers' boasts of ever-faster response times for ghost- or streak-free, high-speed gaming -- 16 milliseconds, then 8ms, then 4ms, then 2ms with 1ms in the pipeline -- are frankly getting as breathless as their boasts of ever-wider viewing angles -- 170 degrees, then 175, then 178, then 179. 
+
+Ditto for ever-sharper digital cameras -- Samsung, along with introducing a credit-card-sized 6-megapixel model, launched an 8-megapixel Pro815 model with the largest LCD monitor (3.5 inches) and optical zoom (15X) to date. Kodak raised eyebrows with the EasyShare V570, a 5-megapixel camera with both wide-angle and zoom lenses, shipping later this month for $399. 
+
+Showgoers have discovered the Las Vegas Monorail that we praised in our 2005 report, so the hotels-to-convention-center shuttle had long lines outside and sardine-packed riders inside. It's still better than waiting for a taxi, but last year's $3 ticket has jumped to $5. 
+

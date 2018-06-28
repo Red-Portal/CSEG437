@@ -1,0 +1,15 @@
+cellular generations
+
+The evolution of cellular communication systems is commonly known by 1G, 2G and 3G designations, the latest being 3G, which is designed for high-speed data transmission. See also wireless LAN and wireless glossary.
+
+4G - Movies and TV
+Expected first from NTT DoCoMo in Japan in the 2006-2007 time frame, 4G cellphones will support all the services of the 3G generation with the addition of movies and TV. DoCoMo's 4G service is based on WCDMA; however, carriers in the U.S. and Europe are expected to offer 4G services at a later date and may use other technologies. See NTT DoCoMo and WCDMA.
+
+3G - Digital Multimedia
+The third generation is designed for high-speed multimedia data with speeds ranging from 128 Kbps to several megabits per second. Defined by the ITU under the IMT-2000 global framework, 3G is implemented regionally in Europe (UMTS), North America (CDMA2000) and Japan (NTT DoCoMo). 3G is also expected to provide advanced global roaming, which means being able to travel anywhere and automatically be handed off to whichever wireless system is available (inhouse phone system, cellular, satellite, etc.). See CDMA2000, UMTS and 3GPP.
+
+2G - Digital
+The second generation refers to digital voice cellphone systems deployed in the 1990s, which are GSM, TDMA and CDMA. Several so-called 2G+, or 2.5G, technologies have provided e-mail and Internet access. These include GPRS and EDGE for GSM and TDMA systems and IS-95B for CDMA. See GPRS, EDGE and IS-95.
+
+1G - Analog
+Introduced in the late 1970s and early 1980s, the first cellular systems were analog. They were used for data like an ordinary telephone line is used with an analog modem. With an adapter, one could plug a laptop modem into some cellphone models and transfer data while traveling. See AMPS, TACS and NMT.

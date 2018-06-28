@@ -1,0 +1,12 @@
+Corona SDK
+
+Corona SDK is a cross-platform 2D game development kit used for games development for mobile platforms as well as Apple TV & Android TV. 
+It uses Lua as its scripting language which is popular among game developers because of a short learning curve. 
+Corona SDK is available for Mac as well as Windows operating systems. 
+It comes with over 500 APIs for a range of functions from animations to networking. 
+With real-time testing in Corona, you can easily ideate, code and validate in one go.
+Another major perk of using Corona for mobile game development is its pricing. 
+With a free plan Corona has attracted many developers and in turn, has created a huge support community. 
+While the basic version is free, it also comes with an enterprise solution costing $79/month, and another version priced a little higher at $199/month. 
+One downside with Corona is that it can only be used for 2D game development. It has limited to no capabilities in 3D gaming, VR or AR. 
+If you are planning to create an AAA game then this platform might feel a little limiting.

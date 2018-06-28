@@ -1,0 +1,29 @@
+Apple Pay launches today
+
+Apple Pay is finally here.
+The new mobile payments system for the iPhone 6 and 6 Plus will be up and running this afternoon following the release of a software update for Apple's iOS mobile operating system. Here's a quick primer on the technology that could one day (but not today) render physical credit cards obsolete.
+
+How does it work? There are two ways to use Apple Pay.
+
+Apple Pay will let iPhone 6 and iPhone 6 Plus owners spend money at participating brick and mortar stores simply by using their phones' fingerprint scanner and holding the device up to the register.
+
+Apple Pay works by sending payment information via short-range radio waves. The message goes from a special chip inside the iPhone 6 to the register. It's called NFC, short for Near Field Communication. But NFC is only available in the newest iPhones.
+
+Related: Inside the head of Apple's top designer
+
+The charge goes straight to your credit or debit card -- whatever you've set up with Apple.
+
+Where can I use it? Starting Monday, Apple Pay will be accepted at 23 online stores and roughly 220,000 store locations, including chains like Bloomingdale's, Macy's (M), McDonald's (MCD), Staples (SPLS), Subway and Whole Foods (WFM).
+
+That figure represents only about 5% of retail locations in the U.S., so it will be a while before you can feel confident leaving those credit cards at home. It also doesn't yet work with store-branded cards, corporate cards or prepaid cards.
+
+The system works with credit and debit cards from Visa (V), MasterCard (MA) and American Express (AXP) that have been issued by the following banks: Chase (JPM), Citi (C), Wells Fargo (WFC), Capital One (COF) and Bank of America (BAC). That list will expand to around 500 banks in the months to come.
+ Related: EU slams Apple's Irish tax deal
+
+Is it safe? It's safer than a credit card.
+
+That's thanks in part to the TouchID system, which relies on your fingerprint rather than a crackable PIN number.
+
+At checkout, Apple Pay sends retailers a one-time-use, unique code -- not your credit card information. The bank verifies the code. Apple and other mobile wallet companies never get any information about your transactions.
+
+Even if hackers steal the codes, they're useless. They won't work twice. It's a major improvement over the static, easy-to-copy information on your current credit card.

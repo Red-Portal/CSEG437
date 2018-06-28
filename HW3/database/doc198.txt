@@ -1,0 +1,28 @@
+Cables and Interconnects
+
+A cable, or interconnect, should be ?transparent? to the signal traveling over it. In other words, it should pass the signal along in its pure original form and add nothing. Poor quality cabling will introduce distortions such as
+
+Frequency Distortions.
+
+If you analyze the physical construction of any cable, you find a textbook example of a passive filter network. The diagram above shows this. The effect of having a filter network in line with an electrical signal is to attenuate (reduce) the different signal frequencies in differing amounts. For example: with a video cable, the video image would lose sharpness because the higher frequencies are reduced. With an audio cable, you would lose the higher frequency sounds (Note: it is often said that cables act as ?tone controls? in an audio system. Frequency distortion is the reason for this.) Unfortunately, there is no way to eliminate these effects entirely, but through proper engineering the frequency attenuation effects can be reduced to imperceptible levels. 
+
+Phase Distortions.
+
+Because cables act like passive filters, they also impart phase (time) distortions. Because signals of different frequencies travel through wires at different speeds, the effect is that higher frequencies actually arrive at the end before lower frequencies do! The diagram below illustrates this.
+
+There are two fronts on which to attack this problem. First, engineers can design the cable so that the values of R, L and C are as low as possible. Second, they can design the cable so that the higher frequencies are slowed down to match the lower frequencies. This is what is done with most high end cables.  
+
+
+Local Interference Distortions.
+
+ The cables and wires used in a home theater system are, in essence, long pieces of wire, and long pieces of wire act like antennas to various noise sources. The two most common noise sources in the average home are local broadcast stations and AC power wiring. Local broadcast stations are of different types. The most common are local television stations, AM and FM radio stations, Ham radio and other RF (Radio Frequency) sources. These sources of interference can be very powerful and can easily radiate into your A/V system to cause wavy lines throughout the video picture (see the diagram on the previous page.) AC power wiring, on the other hand, can induce ?60Hz? hum throughout a A/V system and can be heard in the audio, as well as seen in the video.  
+
+
+Termination Distortions.
+
+All cables have a certain impedance (resistance to current flow.) For example, the impedance of RG-6 coax cable is supposed to be exactly 75 Ohms. The manufacturers of Audio/Video equipment design their units to match the impedance of the cables connected. The problem is that some cables are ?not to spec? and do not match the equipment impedance. The result is a signal reflection that appears as ghosts and other nasty distortions. Another way that termination distortions can occur is when interconnect plugs oxidize. That is why the best cables have gold plated connectors.
+ 
+
+The Following illustrates the typical cables and interconnects in a home entertainment system. Suggested cable internal construction details for high performance and immunity to interference are shown.
+
+ 

@@ -1,0 +1,46 @@
+﻿5G: What is it good for?
+
+5G, or 5th generation mobile, is the next big leap in wireless communications. You’ve probably heard about it in commercials or seen it in headlines. But much of the discussion about the new technology has been focused on its engineering features, infrastructure requirements and public policy considerations. With technical buzzwords like “network slicing,” “beamforming,” and “multi-access edge computing,” it may be hard to really understand what 5G is all about and why we should care.
+
+Here, then, is a brief explanation of how 5G will be used and what it will mean for your online experience — and  your everyday life.
+
+Existing applications
+
+5G, which will supplement rather than replace today’s 4G networks, will radically improve the bandwidth, capacity and reliability of mobile broadband, much more than in previous generational shifts. How? In part by packing thousands of small antennae onto cell towers, utility poles and buildings, 5G will push mobile speeds from 100 Mbps to upward of 10 Gbps, a thousand-fold increase that will make next-generation wireless competitive with even the fastest fiber-optic wired networks.
+
+
+With all that new capacity, expect to be watching even more high-definition video on your smartphone or tablet, including ultra-high-definition movies and emerging technologies such as augmented- and virtual-reality applications (think of Pokémon Go as a prototype).
+
+The benefits to come
+
+But the real excitement over 5G comes with new uses that simply aren’t possible with today’s networks. Many of these involve the revolution in sensors, low-cost transmitters and cloud-based software known as the Internet of Things (IoT), or “connected” or “smart” devices.
+
+Right now, IoT products include stand-alone devices such as fitness monitors, smart thermostats, programmable door locks and lightbulbs, connected appliances, and other gadgets. But as billions more things go online over the next several years, they will be using 5G networks to send and receive massive amounts of new data.
+
+Uses for that information will scale up from the personal to the global — connecting you, your home and your community.
+
+
+At the human level, for example, 5G will be used for connecting smart clothing, prosthetic devices and even ingestible health monitors. Consider start-up Veristride, which has been working since 2012 on smart shoe technology. That might sound silly, but not to the millions of Americans with temporary or permanent mobility issues, for whom constant feedback from onboard sensors could help teach them to walk again after a stroke or surgery.
+
+At home, 5G networks will move beyond the cliche of refrigerators that automatically reorder milk to fully integrated living spaces that adjust to the needs of every member of the family, providing home security, optimizing power and water usage, and personalizing entertainment. Smart homes will be much more energy-efficient. But more important for an aging population, 5G networks will help seniors to age in place, monitoring their medications, connecting them to telehealth services and tracking indicators from sleep to insulin levels.
+
+Rural users will benefit as well, as 5G enables smart agriculture, communicating with sensors in the ground, in crops, and on livestock and farm machinery. Along with weather satellites and drones, these technologies will help farmers know when and how much to water, fertilize and apply pesticides in more effective and environmentally friendly ways. Smart farming may also drive the case for deploying 5G networks to rural areas more rapidly, closing what remains of the digital divide as a happy side effect.
+
+
+In cities and across national borders, finally, 5G’s ultralow transmission delay (or “latency”) will be crucial for autonomous vehicles, smart energy grids and connected infrastructure. These will not only improve the quality of government and utility services but also enhance public safety, health and sustainability. Already, smart-city technology in such places as Barcelona, Singapore and Columbus, Ohio, is being used for instant crime reporting, smart streetlights, and sensors that monitor things like air quality, parking spaces and garbage collection.
+
+Columbus, working with a $40 million competitive grant from the U.S. Department of Transportation, is connecting vehicles, roads and other transportation infrastructure. A variety of applications will test the potential for reducing traffic congestion, automatically reporting needed road repairs and, for self-driving cars and trucks, vehicle-to-vehicle communications that will allow traffic to flow in coordinated groups in what is known as “platooning.”
+
+
+As with other 5G applications, the benefits to taxpayers of smart cities are widespread, including lower capital, insurance and operating costs, coupled with improvements in health, safety and the environment. In the United States, for example, according to the Transportation Department, nearly 40,000 people are killed annually in vehicle-related accidents, many the result of human error. It theory, the sooner we deploy reliable self-driving technology and connect it with next-generation mobile broadband, the sooner more lives can be saved.
+
+
+Of course, with all that new data being collected and analyzed, governments and entrepreneurs will need to work together to address heightened privacy and safety concerns.
+
+Deploying 5G networks will require the coordination of nearly every federal, state and local agency. The Federal Communications Commission, for example, is working to make available the vast new radio frequencies that 5G relies on and to ensure that local governments don’t unduly delay installation of new infrastructure. Congress recently passed legislation to encourage deployments on federal lands.
+
+With the potential to remake and revitalize local industries including education, health care, manufacturing, energy, entertainment and agriculture, it’s no surprise that network operators, equipment providers and forward-thinking policymakers are fully engaged in the coming 5G revolution.
+
+Wall Street, on the other hand, is skeptical. It’s estimated that deploying 5G technology will cost upward of $200 billion a year for the next five to 10 years in the United States alone — nearly all of it coming from private investors. Until it’s more widely understood how much and to whom the benefits of 5G applications will flow, build-out may not proceed fast enough to compete with other early-adopting countries, notably China.
+
+That’s another reason to engage consumers on the benefits of 5G beyond better and speedier  smartphones. The technology’s very vocal advocates need to boost the bandwidth of public education well beyond the buzzwords. And taking a cue from the technology itself, they need to do it a lot faster.

@@ -1,0 +1,78 @@
+﻿Dual Camera Technology in Smartphone: Explained and detailed list
+
+What is a dual camera in the smartphone?
+The dual camera on smartphone implies a smartphone with dual lens either on its front or rear end which looks exactly similar to human eyes. Dual camera technology was introduced by Apple at its 2016 release of iPhone 7 Plus.
+
+Despite the presence of bump on the rear end of the smartphone, the quality of the pictures taken by dual camera looks splendid. After Apple, all the smartphone manufacturers are running behind introducing dual camera or dual lens at the rear end for their respective upcoming smartphones. Oppo crossed the line and introduced dual front camera in Oppo F3. The competitors include
+
+Huawei Honor 6X, Huawei P9, Huawei Mate 9, Huawei Honor 8 from Huawei
+LG G5, LG X Cam, LG V20 from LG
+Lenovo Phab 2 Plus
+Coolpad Cool 1
+Asus Zenfone 3 Zoom
+The main theme behind introducing this dual camera technology is to match the camera vision exactly with human vision.
+
+Chromatic Variations (Dual Camera Technology):
+
+One camera is provided with RGB sensor and the other with a monochromatic sensor. The camera with RGB sensor is used to capture color photos and the other camera with a monochrome sensor is used to capture black and white scenes.
+
+How was the final output crafted beautifully using a dual camera on the smartphone?
+
+The picture captured by a camera provided with RGB sensor filters the colors. By doing so, the intensity of the light reduces. But the camera with a monochromatic sensor is primarily targeted to capture the intensity of light and sharpness at any given point of time.
+
+That sounds good. But how do they contribute to the final output of the picture?
+
+Here come the hardcore image processing experts who can develop giant algorithms to process the image to extremities. This will definitely make sure the final quality of the image captured as pretty decent by blending both the outputs.
+
+Focal Length Variations (Dual Camera Technology):
+The dual lens in dual camera is extremely different compared to each other. This is not only because they use different sensors to capture the images but also the type of lens used.
+
+One camera is provided with a wide-angle lens and the other camera with telephoto lens. The classification is based on the focal length property of the lens. On a given day, the lens with less focal length can spot distant objects very clearly. This is how they are different from normal lens
+
+Wide angle lens refers to the lens with focal length less than that of normal lens. Mostly used for landscape photography
+Telephoto lens refers to the lens whose physical length is less than focal length. Mostly used for portrait captures.
+Wide-angle lens helps to cover vast area while taking a photograph, as said earlier. A camera with wide-angle lens will surely get a better picture without using panorama. Telephoto lens support zooming feature of the digital camera. Due to its narrow view and longer focal length, telephoto lens always helps you to see objects closer than they appear.
+
+When both these lens operates simultaneously, we can get a picture which can cover wide area as well as stay focused on goals.
+
+Apple iPhone 7 Plus is the one which is currently using both the techniques like color sensor and focal length. The next release of Plus series from Apple will definitely make this dual camera feature n-times better. The added advantage for iPhone 7 plus is their optical image stabilization, which can take better pictures in motion compared to its competitors.
+
+How does dual camera technology work in Apple smartphones?
+Apple iPhone 7 plus implemented this technology with two different lenses in 2016. The two camera lens distributed the features of focal length and chromatic sensors between them.
+
+One of the lenses uses the monochromatic sensor and concentrates on sharpness and intensity of light, while the other ensures the color filters are applied. Apple labels one with 23 mm wide-angle lens to capture landscapes and other with 56 mm telephoto lens to capture portrait shots.
+
+The combo of both these will make iPhone 7 Plus in producing excellent images which make photographers forget their DSLR’s frequently.
+
+How does dual camera technology work in LG smartphones?
+Even before iPhone comes up with dual camera technology, LG experimented with it while introducing G5. Even though the results of launching G5 seems bitter, LG doesn't want to give up introducing this dual camera feature in G6.
+
+The difference in implementation of dual camera technology between Apple and LG is the focal lengths of the lens used. LG provides two different chromatic sensors for the dual lens, but there is not much difference in the focal lengths. The final output of the photograph taken from this dual camera provides a significant amount of distortion at the edges. This is because of usage of dual wide angle camera lens.
+
+How does dual camera technology work in Oppo smartphones?
+One of the highlight specs of Oppo’s latest smartphone (Oppo F3) is the dual front camera. Many smartphone manufacturers experimented with the dual rear camera, but oppo has taken initiative in introducing dual front camera.
+
+Yet this is not the perfect implementation of the dual camera technology. Because the front camera mainly concentrates on selfies and groupfies. The emphasis was majorly on capturing the wide angle images. The normal lens comes into picture while taking selfie and the wide angle camera lens comes into picture for taking groupfie.
+
+Advantages of the dual camera in a smartphone:
+1. Focus
+This can be achieved before taking an image as well as after taking the image. The sharp auto-focus feature helps while shooting a picture, the re-focus option helps you set the focus even after taking the picture.
+
+2. Perfect Bokeh effect
+bokeh effect in photography
+Best recommended feature by digital photographers. It requires a huge set of hardware to be carried by the photographers to get this kind of images. But with the stitching of two different techniques and the professional image processing algorithms, this becomes as simple as choosing an effect from the displayed list.
+
+3. Zoom
+The telephoto lens helps to focus an object at infinity. The same helps here to provide distortion less optical zoom up to 2X and digital zoom up to 12X
+
+4. Image quality
+With the two chromatic sensor cousins side by side, no human vision can be better than theirs. The final impact of the gigantic image processing algorithms on the captured image will pacify the viewers.
+
+Disadvantages of the dual camera in a smartphone:
+Looks bulky (camera region)
+dual camera bump and bulky design
+Incorporating two camera lens at the rear end of the smartphone will definitely require hardware design changes. On first look, it gives the bulky appearance. But going forward, with the brainstorming of the innovative design teams at tech giants will surely come up with better placement. Let’s wait for new releases from Apple as well as its counterparts before compromising on the look of the smartphone.
+
+Conclusion for dual camera smartphones
+
+Come out of the illusion, dual camera = 1 front camera + 1 rear camera. Since the dual camera in the smartphone is the cutting edge technology which is trending and challenging feature for all the smartphone manufacturers to incorporate. Having a thorough understanding of this dual camera technology will surely help you in choosing the trending smartphone available in the market. Hope you are clear with this dual camera technology. Raise your voice in the comments section, we will definitely help you out.

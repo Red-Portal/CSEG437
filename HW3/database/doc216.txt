@@ -1,0 +1,11 @@
+Standard-definition television
+
+SDTV redirects here. For Arizona State University's campus channel, see Sun Devil Television. 
+Standard-definition television or SDTV refers to television systems that have a resolution that meets standards but not considered high definition. The term is usually used in reference to digital television, in particular when broadcasting at the same (or similar) resolution as analog systems.
+
+In ATSC, SDTV can be broadcast in 704 pixels ¡¿ 480 lines with 16:9 aspect ratio (40:33 rectangular pixel), 704 pixels ¡¿ 480 lines with 4:3 aspect ratio (10:11 rectangular pixel) or 640 pixels ¡¿ 480 lines with 4:3 ratio (and square pixels). The refresh rate can be any of 24, 30 or 60 pictures per second.
+
+Digital SDTV in 4:3 aspect ratio has the same appearance as the regular analog TV (NTSC, PAL, PAL2, SECAM) minus the ghosting, snowy images and static noises. However, if the reception is poor, one may encounter various other artifacts such as blockiness and stuttering.
+
+Standards that can broadcast digital SDTV include DVB, ATSC and ISDB. The latter two were originally developed for HDTV, but they have proved to be more often used for their ability to deliver multiple SD video and audio streams via multiplexing, than to use the entire bitstream for one HD channel.
+

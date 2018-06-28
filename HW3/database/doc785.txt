@@ -1,0 +1,15 @@
+Helping connect people across the globe
+Mobile Devices
+Mobile phones represent the largest global market in terms of volume and number of applications on a single platform today. Every year more than 1.5 billion phones leave manufacturing plants to find new homes in the palm of consumers¡¯ hands. Recently, tablets and wearables such as smartwatches joined the mobile devices category, introducing both new opportunities and new challenges.
+
+Semiconductor-driven functions on mobile devices
+The primary wireless functions of smartphones include a 2G/3G/4G cellular modem, and wireless connectivity systems such as Wireless Local Area Network (WLAN), Global Navigation Satellite System (GNSS), broadcasting receivers and near field communication (NFC). What¡¯s more, the latest mobile devices feature a growing number of applications, all integrated on a single platform. This has pushed RF components towards smaller ICs, a higher level of integration, an increased number of bands and modes, and a single multi-functional antenna.
+
+As the center of communication today, mobile devices must deal with complex applications, store and manage sensitive data, and act as the entry point to corporate networks and private information. This introduces novel convenience features for users and creates innovative business models, but it also presents new security concerns.
+
+While these advances are exciting, designers and mobile phone manufactures alike are challenged to stay ahead of the game. A reliable partner like Infineon can deliver the latest technologies for the mobile device market¡¯s ever evolving demands.
+
+High performance, secure, low consumption solutions
+Infineon is equipped to support all your mobile device applications. We thoroughly understand the mobile devices industry as well as the challenges you currently face. Our components are engineered to perform to your requirements: efficient, compact and secure. They enable a high degree of linearity, ideal for mobile video streaming.
+
+We also offer you the key building blocks for RF front-end systems as well as components tailored to ESD and interface protection. Furthermore, you¡¯ll find solutions for security applications, including NFC, mobile payment, embedded Secure Element (eSE) and Trusted Platform Module (TPM). Explore the mobile device application you¡¯re interested in to gain a closer look at our solutions.

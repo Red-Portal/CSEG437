@@ -1,0 +1,18 @@
+Uploading videos on Google`s video sharing website YouTube could be blocked from iPhones, industry sources said yesterday.
+
+According to officials at KT Corp., the only local mobile carrier to offer iPhones, the company is negotiating with Apple Inc. about blocking the use of the YouTube application to upload videos onto the website using iPhones.
+
+"This is not a voluntary development, and the negotiations began as it concerns a regulatory problem and there has been some pressure (from the government to do so)," a KT official said.
+
+"But it has not been decided whether the function will be blocked yet, and how we will go about blocking the function will also have to be discussed if the decision to block the function is made."
+
+The KT official declined comment on the reason for the function not being blocked earlier or before the iPhone was launched.
+
+In contrast, uploading videos to YouTube from the Motorola smartphone Motoroi, which runs on Google`s Android operating system, was blocked before the device was launched on SK Telecom.
+
+
+
+Uploading videos to YouTube has been blocked from the site`s Korean version since early last year after Google refused to comply with local regulations dictating that only users whose real name and citizen registration number has been verified can upload materials on the internet. Although the upload function is blocked on the Korean YouTube site, users can bypass the measure by logging into overseas versions of the website. From iPhones, however, there have been no such restrictions and iPhone users are able to upload videos freely using the YouTube application.
+
+However, the loophole that allows local iPhone users to upload videos on YouTube by accessing overseas version of the website rather than the application will remain even if Apple and KT agree to introduce a block. 
+

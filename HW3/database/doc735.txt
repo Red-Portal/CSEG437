@@ -1,0 +1,27 @@
+Qualcomm Reveals the World¡¯s First Dedicated XR Platform
+
+ualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated (NASDAQ:QCOM), debuted the Qualcomm¢ç Snapdragon¢â XR1 Platform, the world¡¯s first dedicated Extended Reality (XR) platform during a launch event leading up to the Augmented World Expo (AWE).
+
+XR1 is a next-generation platform offering mainstream users high-quality XR experiences while enabling OEMs to develop mainstream devices. The XR1 platform also has special optimizations for Augmented Reality (AR) experiences with Artificial Intelligence (AI) capabilities offering better interactivity, power consumption and thermal efficiency.
+
+Qualcomm Technologies also announced that Original Equipment Manufacturers (OEMs) Meta, VIVE, Vuzix and Picoare already developing on the first dedicated XR1 platform.
+
+¡°As technology evolves and consumer demand grows, we envision XR devices playing a wider variety of roles in consumers¡¯ and workers¡¯ daily lives,¡± said Alex Katouzian, senior vice president and general manager, Mobile Business Unit, Qualcomm Technologies, Inc. ¡°By integrating powerful visuals, high-fidelity audio, and rich interactive experiences, XR1 will help create a new era of high-quality, mainstream XR devices for consumers.¡±
+
+XR1 integrates Qualcomm Technologies¡¯ heterogeneous compute architecture, including the ARM-based multicore Central Processing Unit (CPU), vector processor, Graphics Processing Unit (GPU) and Qualcomm¢ç AI Engine. Other key features include an advanced XR software service layer, machine learning, the Snapdragon XR Software Development Kit (SDK) and Qualcomm Technologies connectivity and security technologies.
+
+The XR1 platform also provides an AI engine for on-device processing. This engine provides customers the ability to process AI-use cases and run high performing, power efficient machine learning based computer vision algorithms that can help with key AR use cases like better pose prediction, object classification, etc.
+
+Visual Technology
+
+The XR1 platform will enable consumers to be immersed in their favorite movies, programs and sports by supporting Ultra high-definition 4K video resolution at up to 60 frames per second for high-quality VR HMDs. New dedicated hardware and software algorithms within its Qualcomm Spectra¢â Image Signal Processor (ISP) can help significantly reduce unwanted noise from snapshots producing a substantially improved final picture in high-quality AR headsets. The integrated display processor provides a range of display options with hardware accelerated composition, dual-display support, 3D overlays and support for leading graphics Application Programming Interfaces (API), including OpenGL, OpenCL and Vulkan. The platform also features advanced vision processing capabilities fundamental for technologies like Visual Inertial Odometry (VIO), which lets users move around in the virtual world or interact with augmented objects in an AR experience.
+
+Audio
+
+The XR1 platform uses Qualcomm Technologies 3D Audio Suite, Qualcomm Aqstic¢â Audio Technologies, and Qualcomm¢ç aptX¢â Audio for high-fidelity audio experiences and ¡°always-on, always-listening¡± voice assistance as well as Bluetooth playback. XR1¡¯s head-related transfer functions (HRTF) enable users¡¯ ears to synthesize binaural sound that feels like it comes from a specific point in space.
+
+Interaction
+
+With three- and six-degrees of freedom (3DoF, 6DoF) head tracking and controller capabilities for XR devices, XR1 opens a whole new XR playground for mainstream users, letting them not only move freely in the virtual world like never before but also interact and play within it. An integrated sensor hub and optimized sensor fusion abilities allows users to experience rich interactions with motion to photon latencies well below the scientifically required 20ms.
+
+AWE attendees can find Qualcomm Technologies Inc., at booth number 213 in the Santa Clara Convention Center.

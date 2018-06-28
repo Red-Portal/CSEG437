@@ -1,0 +1,41 @@
+Windows Phone 7
+
+Let's start with the fact that Microsoft have failed incredibly in the mobile phone market. Windows devices were poor and far behind their rivals Android and iPhone.
+
+Windows Mobile 6.5 was a little better and enjoyed a very brief period of praise before getting pulverised once again due to Android 2.2 and iPhone iOS4.
+
+So what has changed?? Absolutely everything. Don't make the mistake of thinking Windows Phone 7 is an update of Windows Mobile 6.5. It's a completely new operating system.
+
+Windows Phone 7 home screen, called the Start screen, is made up of 'Tiles'. Tiles can be linked to anything including apps, features, functions and things like individual items 
+
+(such as contacts, web pages, applications or media items).
+
+Tiles can be added, rearranged or removed. The Tiles are dynamic and update in real time - for example, the tile for an email account would display the number of unread messages or
+
+ a Tile could display Facebook updates.
+
+Similar to Android, Windows Phone 7 has features with 'Hubs'. Hubs combine content on the phone with online content, so if you have pictures on Facebook then your photo album will
+
+ show pictures from both. Same goes for contacts, music and video (using the Zune store), Games (which integrates with Xbox LIVE), Windows Phone Marketplace, and Microsoft Office.
+
+Microsoft thought long and hard when they developed Windows Phone 7. They needed something truly unique to bring them up against iPhone and Android.
+
+They came up with Xbox LIVE.
+
+Xbox Live on Windows Phone 7 will bring Console-like gaming experience to phones by displaying the user's avatar in 3D, the same way it appears on the Xbox 360.
+
+The user will be able to interact with the avatar, view gamerscore and leaderboards, message Xbox LIVE friends, and Spotlight. Multiplayer (turn-based) gaming
+
+ with live multiplayer will be released after launch.
+
+Microsoft has unveiled more than 50 premium Windows Phone 7 Games titles that will make use of Xbox LIVE on mobile.
+
+They have also specified that Xbox LIVE on Windows Phone 7 will not have real-time multiplayer games at launch, instead opting for turn based gaming, but is currently
+
+ working on real-time multiplayer integration between Windows Phone 7 and Xbox 360 games. 
+
+These include the ability to be signed in simultaneously on the console and phone, send and receive messages between Console and Phone,
+
+ unique gamer points only available by purchasing the gaming title on the phone, etc.
+
+It's these clever additions that make Windows Phone 7 a real contender.

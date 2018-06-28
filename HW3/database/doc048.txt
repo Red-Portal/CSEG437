@@ -1,0 +1,34 @@
+TeleNav Review
+From Eric Bernatchez,
+Your Guide to Cell Phones.
+FREE Newsletter. Sign Up Now!
+Guide Rating - 
+The Bottom Line
+Telenav is clearly better than nothing, it undoubtedly enhanced my driving experience, but it needs improvements and at 10$ per month plus the data plan, it's pretty expensive. $5 would be more reasonable. I would recommend it for occasional subscription, for example if you are making one special trip once or twice a year (then don't forget to cancel it until the next trip). But if you are always on the road, get yourself a standalone GPS navigator in a heartbeat! At close to 20$ per month, you'll reimburse it in slightly more than one year.
+Pros
+On screen maps are very clear, even on a small display
+Never fails to find the shortest route
+Comes with a series of "along the road" services like restaurants, WiFi spots and gas stations!
+Cons
+Sometimes gets stuck while recomputing a route
+Usability is not good enough for people in a rush and on the road
+
+Description
+GPS Navigation software for cell phones, requires a built-in GPS receiver or a Bluetooth-enabled phone with an external GPS.
+Free to download but requires a monthly subscription of 10$ for unlimited use plus a data plan (typically also 10$).
+Displays 2D maps (Also 3D maps on Sprint) and speaks real time road directions.
+GPS Navigation software for cell phones, requires a built-in GPS receiver or a Bluetooth-enabled phone with an external GPS.
+Lets you orally dictate an address by calling a special number from within the software.
+Currently offered on Cingular and Sprint, and more carriers. They are developping a Brew version for Verizon Wireless.
+Guide Review - TeleNav Review
+I tested Telenav on Sprint, with a Sanyo Katana. Usage is simple: type in an address (even partial) and listen to voice instructions coupled with turn signs and a map with your route outlined. Still, I managed to get lost more than once: When Telenav loses GPS signal temporarily, it estimates your position, not accurate enough! It made me miss a few turns. 
+Usability
+Usability could be improved. When I wanted to make a call, getting back on the road forced me to go through selecting options again, waiting for a re-upload of the latest routes, etc. Why not just prompt me with "Resume latest route?" There is also no way to have the audio guides repeat so when they announce an upcoming turn and you were absent minded, it is just too bad. 
+
+Recomputing Route, Really?
+That said, Telenav was pretty handy. And now I know the trick is to never rely totally on it. It is quite good at computing the best and shortest route between two points, I never felt it was misguiding me. But when it goes into limbo while trying to recompute a route... In one case, it abandonned me in a city while trying to find my hotel. I had to rely on the usual "ask a pedestrian" tactic as Telenav was "recomputing" but stuck at 96%! Heck, just 4% away from success. Telenav failed to recompute my route about 50% of times.
+
+Telenav has an extensive series of "along the road" searches such as restaurants, WiFi and even gas stations by price! But that feature needs improvements: I was looking for the closest gas station and those it picked were 5 or 6 miles away while there was a Sunoco right where I was standing. When I tried "gas by price", it directed me to the right exit but then misguided me to a private driveway with a bungalow, but no gas... I found it myself. 
+
+When Telenav works, it does marvels. But it is not bullet proof.
+

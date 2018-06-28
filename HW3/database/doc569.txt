@@ -1,0 +1,62 @@
+Goko Shows Its Hand
+ 
+By Peter Suciu
+TechNewsWorld
+08/16/12 2:32 PM PT
+ 
+At the core of Goko's strategy is its bet on HTML5, which is the next evolution of the Web. The games being Web-based will allow for cross-platform play; they'll be available to any device that supports HTML5. "We're beginning to see more developers enter the HTML5 ecosystem, and as the ecosystem grows, more tools and better tools will become available," said Brian Howell, Goko's VP of marketing.
+ 
+
+Startup game company Goko emerged from its 2011 stealth launch on Thursday, officially unveiling its HTML5-based lineup. The company, which also has released its software development kits to independent developers interested in publishing and monetizing games for the HTML5 platform, has held its cards closely until now.
+ 
+Fittingly -- as the company is focused on social board and card-based games -- it has revealed its hand, now looking to launch its titles to multiple platforms including Facebook, iOS, Android, Google+, Windows 8 and the Web. In essence, Goko is playing the "social experience" card, and it looks like it could score big.
+ 
+"Board and card games are traditionally social games -- sitting around the dining room table, playing with family and friends," said Brian Howell, Goko's VP of marketing. "This makes them the ideal games to bring into the realm of social games, since they are instinctively social. Bringing these games to online and mobile social gaming combines the nostalgia of board games with the modern technology that we are accustomed to -- something that we think players will really relate to and appreciate."
+ 
+
+
+
+HTML5 Filling Flash Void 
+
+At the core of its business strategy is the bet on HTML5, which is the next evolution of the Web. It could also see the end of the Flash-based era, but whether it proves to be an era free of the errors and issues associated with Flash is yet to be seen.
+ 
+"There have been concerns, but we think HTML5 is ready for a large amount of gaming content," Howell told TechNewsWorld. "The benefits of developing in HTML5 are clear: reduced development resources for multiple platforms, over the air content updates, and vast distribution reach."
+ 
+"As developers, we think it's important to be on the front lines when an evolving technology starts to mature," he added. "HTML5 is going to get better and better with every passing year, and we think it's important to help lead the charge. Concerns about HTML5 development should continue to dissipate as more great games are developed in HTML5 -- the proof is in the pudding."
+ 
+However, whether HTML5 is actually ready for prime time remains an issue, and betting on it without a back-up plan could be a risky move. Still, where there is big risk, there sometimes follows big reward.
+ 
+"HTML has a lot of promise," said George T. Chronis, editor, DFC Dossier and DFC Intelligence.
+ 
+"But as a programming environment, it still is a work in progress compared to Flash, which is a much more mature platform," he noted. "That said, HTML5's big advantage is that it makes it very much easier to create [and] publish cross-platform games swiftly. That's a critical business consideration these days as the number of active gaming platforms proliferates."
+ 
+Social Rather Than Hardcore 
+
+The games being Web-based will allow for cross-platform play; they'll be available to any device that supports HTML5. This will also put a cap on how cutting-edge the games will be, however. At launch, Goko is looking at delivering titles based on -- and even direct digital versions of -- popular board and card games, notably the blockbuster "Settlers of Catan."
+ 
+"I was struck by the fact that you could see that they went after some really good games," said Andre Vrignaud, chief consultant at Hit Detection. "They really grabbed one of the big up-and-coming titles as well with 'Dominion.'"
+ 
+These games also apparently solve one of the bigger issues with browser-based games: latency. Because the games are designed to follow the turn-based gameplay of their table-top counterparts, lag and latency won't become an issue.
+ 
+Yet unlike the Steam, Xbox Live, or various custom game networks from Electronic Arts and Ubisoft, communications among players could still be an issue to tackle.
+ 
+"With Facebook, it is easier to type a message, but there isn't an integrated voice stack across the platform," said Vrignaud.
+ 
+While gamers could use Bluetooth headsets to communicate via voice chat, the question remains how many people will do so. The lack of communication options is just one issue for HTML5 in the short term.
+ 
+Not About Graphics 
+
+Thanks to gaming on the PC and consoles with large monitors and even larger TVs, hardcore action games -- notably shooters -- have become very focused on cutting-edge graphics and physics -- things browser-based games probably can't handle for some time.
+ 
+How long remains the question.
+ 
+"As for high-end graphics capability, expectations are that HTML5 games will benefit as more developers work in the environment," added Chronis. "Any potential downsides are that HTML5 is new, and there is a learning curve. But developers tell us that curve is not a major one."
+ 
+Given that the curve isn't that significant and that this is just the beginning, the possibilities for Goko on HTML5 have yet to be seen.
+ 
+"Over time, HTML5 has the ability to be very disruptive," said Vrignaud. Goko's creators "are trying to build a PlayStation Network or Xbox Live. They want to include a store, leader boards and much more."
+ 
+Building something from scratch should have challenges, but if they succeed, there will also be rewards.
+ 
+"We saw a gap and have sought out to fill it by providing tools that will help developers build great games and pave the way for others to develop with HTML5," said Howell. "We're beginning to see more developers enter the HTML5 ecosystem, and as the ecosystem grows, more tools and better tools will become available, making development with HTML5 easier."
+ 

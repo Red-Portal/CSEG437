@@ -1,0 +1,22 @@
+Samsung speeds up 64GB smartphone memory
+New chip will allow handset makers to boost capacity and margins, while Korean firm looks ahead to 128GB chips
+By CAROLINE GABRIEL
+
+Published: 16 November, 2012
+
+READ MORE: Samsung | Memory | Semiconductor | Handset
+
+
+ 
+Samsung is seeking to maintain its lead in memory chips, by staying ahead of the industry in the high growth mobile segment. The Korean firm has released a smaller and faster 64Gbytes memory specifically for smartphones.
+
+The new NAND flash modules are 20% smaller and 33% faster than conventional alternatives, says Samsung. The 64GB eMMC (embedded multimedia card) reads data sequentially at up to 260Mbps, almost twice the rate of the vendor's previous Pro Class 1500 NAND chip, though the write rate has not changed, at 50Mbps peak. However, that speed is 10 times faster than that of Class-10 external memory cards.
+
+
+The chips are manufactured using 10nm process, which reduces size and power consumption, and went into production last month.
+
+Smartphones with 64Gbytes of integrated memory are a small percentage of the market and this capability can still be presented as a premium feature by vendors, and one that can boost margins. Most models still have external slots to allow users to add more capacity, though another rising option is to store a great deal of apps and content in the cloud.
+
+Apple's top-end iPhone 5 has 64Gbytes of memory, and in the US costs $200 more than its 16Gbytes stablemate. Samsung's handset unit, of course, gets immediate access to its sister company's innovations and it recently released a Galaxy S III model with 64Gbytes of on-board memory.
+
+Samsung is looking well beyond 64Gbytes for future mobile device memories. In September, it previewed a 128Gbytes eMMC part which should appear in handsets and other gadgets next year.

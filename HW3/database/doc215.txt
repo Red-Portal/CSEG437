@@ -1,0 +1,8 @@
+Recording and compression
+Main article: High-definition pre-recorded media and compression
+HDTV can be recorded to D-VHS (Data-VHS), W-VHS (analog only), to a HDTV-capable digital video recorder (for example DirecTV's high-definition TiVo or SkyHD's set-top box), a HDTV-ready Windows Media Center, DirecTV's Plus HD DVR H20 or Dish Network's DVR 921, 942 or VIP622.
+
+The massive amount of data storage required to archive uncompressed streams make it unlikely that an uncompressed storage option will appear in the consumer market soon. Realtime MPEG-2 compression of an uncompressed digital HDTV signal is also prohibitively expensive for the consumer market at this time, but should become inexpensive within several years (although this is more relevant for consumer HD camcorders than recording HDTV). Analog tape recorders with bandwidth capable of recording analog HD signals such as W-VHS recorders are no longer produced for the consumer market and are both expensive and scarce in the secondary market.
+
+In the USA, as part of the FCC's "plug and play" agreement, cable companies are required to provide customers that rent HD set-top boxes with a set-top box with "functional" Firewire (IEEE 1394) upon request. None of the direct broadcast satellite providers have offered this feature on any of their supported boxes, but some cable TV companies have. As of July 2004, boxes are not included in the FCC mandate. This content is protected by encryption known as 5C. [2]. This encryption can prevent someone from recording content at all or simply limit the number of copies.
+

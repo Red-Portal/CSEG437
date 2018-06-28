@@ -1,0 +1,384 @@
+﻿Discovery-based Games for Learning Software
+Tao Dong,1 Mira Dontcheva,2 Diana Joseph,3 Karrie Karahalios,4 Mark W. Newman,1
+Mark S. Ackerman1
+1 School of Information
+University of Michigan
+Ann Arbor, MI 48109
+{dongtao, mwnewman,
+ackerm}@umich.edu
+2 Advanced
+Technology Labs
+Adobe Systems,
+San Francisco, CA 94103
+mirad@adobe.com
+3 Community Help
+and Learning
+Adobe Systems,
+San Jose, CA 95110
+dmjoseph@adobe.com
+4 Department of
+Computer Science
+University of Illinois,
+Urbana, IL 61801
+kkarahal@cs.uiuc.edu
+ABSTRACT
+We propose using discovery-based learning games to teach
+people how to use complex software. Specifically, we
+developed Jigsaw, a learning game that asks players to
+solve virtual jigsaw puzzles using tools in Adobe
+Photoshop. We conducted an eleven-person lab study of the
+prototype, and found the game to be an effective learning
+medium that can complement demonstration-based
+tutorials. Not only did the participants learn about new tools
+and techniques while actively solving the puzzles in Jigsaw,
+but they also recalled techniques that they had learned
+previously but had forgotten.
+Author Keywords
+Discovery Learning; Learning Games; Software Training
+ACM Classification Keywords
+H.5.2 [Information Interfaces And Presentation]: User
+Interfaces - Training, help, and documentation;
+INTRODUCTION
+When learning how to use software applications users often
+switch back and forth between two strategies: trial-anderror
+and searching for help [9]. Tutorials are a popular
+form of help content, as they offer step-by-step instructions
+for how to accomplish a task. But step-by-step
+demonstrations do not encourage deep understanding and
+do not facilitate transfer of skills to new contexts.
+The work described in this paper demonstrates that games
+designed for guided discovery learning can supplement
+tutorials as an effective learning aid for software
+applications. We study this approach in the context of a
+complex photo editing application, Adobe Photoshop. The
+photo-editing domain is a particularly interesting one, as
+non-experts are often interested in using professional
+quality software.
+To study how games can encourage discovery-based
+learning of software applications, we built Jigsaw, a virtual
+jigsaw puzzle game, and embedded it inside of Adobe
+Photoshop. Each puzzle in Jigsaw focuses on a specific set
+of Photoshop tools. Some puzzles are exact virtual analogs
+of physical jigsaw puzzles, and the user is expected to
+restore a picture that has been broken into multiple pieces
+using selection and transformation tools (see Figure 1a).
+Other puzzles ask the user to adjust some puzzle pieces to
+match the rest of the image (see Figure 1b). Although each
+puzzle offers hints on tools that might be appropriate, the
+user is free to solve the puzzle using any technique.
+We observed 11 participants as they played Jigsaw and
+found that not only did the participants learn about new
+tools and techniques while tinkering with the puzzles, but
+they also recalled techniques that they had forgotten. In the
+following sections, we describe the related research, the
+design of Jigsaw, and our preliminary evaluation.
+RELATED WORK
+Discovery-based learning encourages learning by exploring
+and interacting with the environment, wrestling with
+questions, and performing experiments [2]. Research has
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that copies
+bear this notice and the full citation on the first page. To copy otherwise,
+or republish, to post on servers or to redistribute to lists, requires prior
+specific permission and/or a fee.
+CHI’12, May 5–10, 2012, Austin, Texas, USA.
+Copyright 2012 ACM 978-1-4503-1015-4/12/05...$10.00.
+Figure 1. Jigsaw includes two types of puzzles. a) Some puzzles ask the user to put the image together by selecting and
+transforming pieces. b) Others ask the user to adjust the colors of certain puzzle pieces to match the rest of the image.
+shown that when sufficient guidance is present, selfdirected
+learning results in better recall and promotes deep
+learning [4,8] especially for those with some background
+knowledge [10]. The software learnability community has
+taken this approach to develop a number of training tools
+such as Guided Exploration cards, the Minimal Manual, and
+Training Wheels, which were empirically found to be more
+effective than learning from software manuals [3].
+Although there are many games that embrace discovery
+learning [1], there are few examples emphasizing learning
+of software applications. The two games that stand out are
+Microsoft Ribbon Hero and The Monkey Wrench
+Conspiracy, which provide a narrative story that leads users
+through small tasks to help them accomplish a broader goal.
+While there is some exploration in these games, users are
+encouraged to solve tasks using a specific strategy or
+technique. In Jigsaw, we allow users to solve each puzzle
+with any strategy. In a related but sufficiently different
+domain, RoboCode [7] encourages users to learn how to
+program by asking them to program the behavior of battle
+tanks. Though its success was an inspiration to us,
+RoboCode was designed for a very technical and highly
+motivated community. We focus on software environments
+that are used by people with varied levels of expertise.
+JIGSAW DESIGN
+By combining design principles in educational games [6]
+and guided discovery learning for software [3], we designed
+Jigsaw with the following goals in mind:
+• provide a clear goal
+• allow multiple paths to success
+• structure and guide exploration
+• give feedback on progress
+• and make it fun!
+Clear goal and multiple paths to success
+The benefit of building on top of an existing game is that
+anyone who is familiar with jigsaw puzzles will
+immediately understand the goal of playing Jigsaw: to
+match the target image. Although Jigsaw extends the
+original gameplay by introducing more manipulations to
+puzzle pieces (e.g. scaling, color adjustment, light
+adjustment, etc.), the fundamental goal remains the same.
+Jigsaw does not prescribe how players should solve each
+puzzle. An advanced user might experiment freely to find
+the most efficient way of solving a puzzle, while a beginner
+can follow the hints and tutorials to pursue a safer path. For
+those who want a challenge, Jigsaw offers the Speedrun
+mode, which requires that a puzzle be solved in under a few
+minutes, and the Blacklist mode, which requires that the
+puzzle be solved without certain tools. The Blacklist mode
+encourages users to find alternative techniques for tasks that
+they already know how to do.
+Structured and guided exploration
+Jigsaw structures the learning experience by focusing on
+one set of tools in each puzzle and systematically ordering
+the puzzles to prepare users for more challenges. Moreover,
+Jigsaw provides customized hints for each puzzle. There are
+three different types of hints, and they serve different
+purposes. First, the brief instructions printed directly on the
+puzzle canvas explain the goal of the puzzle and suggest the
+tools that the player should use. Second, the player can
+click on Hints (Figure 2) to find links to external tutorials
+describing the tools suggested by the puzzle. Finally,
+complete beginners can open a step-by-step video that
+demonstrates how to solve one piece of the puzzle.
+Feedback
+Providing feedback is regarded as one of the most
+important features in both play and learning [6]. To this
+end, Jigsaw analyzes the player’s puzzle and reports on the
+number of correct and incorrect puzzle pieces (Figure 2).
+Each correct puzzle piece results in skill points for the
+player. To analyze the player’s puzzle and find correct
+pieces, Jigsaw compares the user’s puzzle to a solution file
+and computes the mean squared error (MSE) of the RGB
+pixel values for each piece. If the error is below a threshold,
+the puzzle piece is considered correct. Although this
+technique is simple, it works reasonably well for many
+images. Jigsaw is implemented as an Adobe Photoshop
+extension using the Adobe Creative Suite SDK. The game
+user interface is a Photoshop panel that allows users to
+browse and open available puzzles, get feedback and hints,
+and track their points.
+PRELIMINARY USER EVALUATION
+Based on Kirkpatrick’s four levels for evaluating training
+[5], we conducted an eleven-person within-subjects lab
+study to examine:
+• Reaction: how do users react to Jigsaw?
+• Learning: what do users learn, and how do they
+learn by playing Jigsaw?
+• Behavior: can users transfer what they learn to
+realistic tasks?
+The study did not cover the Results level in Kirkpatrick’s
+model, because it tests for long-term improvement. We
+recruited 11 students (6 males, 5 females, 10 graduate, 1
+undergraduate) through a mailing list at a large public
+Figure 2. Jigsaw automatically evaluates the user's progress.
+university. All participants had at least some prior exposure
+to Photoshop but were not experts.
+Each study session consisted of five components and lasted
+for one hour. (1) First, we conducted a background
+interview to learn about the participants’ experience with
+Photoshop, their general learning styles, and their gaming
+experience. (2) We then assessed the participants’ existing
+knowledge of Photoshop with 9 sets of before-and-after
+images. We asked each participant to describe a strategy for
+turning each before image into the corresponding after
+image. Each of the 9 image sets required manipulations
+with tools that corresponded to a puzzle in Jigsaw. This
+initial assessment allowed us to establish a baseline for
+tracking participants’ development of Photoshop skills
+throughout the session. (3) Next, we had the participants
+play Jigsaw. All participants started with the puzzle about
+layers, one of the most fundamental features in Photoshop,
+and then played more puzzles of their choice. We asked
+participants to think aloud as they were solving the puzzles.
+(4) To evaluate whether the participants could transfer what
+they learned in Jigsaw to real tasks, the study moderator
+asked them to complete the before-and-after tasks for which
+they had provided unsatisfactory answers in the initial
+assessment. The session ended with a discussion about
+learning outcomes, engagement with Jigsaw, and user
+interface improvements.
+Reaction: effectiveness and engagement
+All participants reported that playing Jigsaw was an
+effective and fun learning exercise, and most of them
+recognized the unique value of the discovery learning
+experience Jigsaw provided. For example:
+“I would recommend it to other active learners like me. It
+supports trial-and-error learning.” (P1)
+“The puzzles gave me an objective and a goal… It
+definitely helped me learn something that I probably
+would have missed.” (P10)
+While participants did not feel interacting with Jigsaw was
+as fun as pure gaming, they considered it an engaging
+learning experience. First of all, the metaphor of jigsaw
+puzzles was attractive to participants who like leisure
+games. P4, a self-identified Sudoku fan, made the following
+comment while she was rotating and scaling puzzle pieces:
+“This is one of those things where I could get very
+obsessive about getting it exactly right.”(p4)
+Second, the feedback provided by the auto-grader (Figure
+2) was considered to be “great” (P4), “smart” (P6), and
+“rewarding” (P7).
+Third, novel setup of puzzles could serve as the catalyst of
+engagement. For example P5 liked a puzzle that revealed
+the right pieces only when the layer order was right:
+“You really need to figure out what’s going on, [and]
+what’s the secret. It’s more interesting and challenging
+[than other puzzles].” (P5)
+However, we also found that engagement diminished when
+the task was too challenging or the help content was not
+effective. For example, P8 did not follow the puzzle
+progression and jumped to the advanced selection puzzle
+before completing some of the easier puzzles. Also, he
+chose to play in the Speedrun game mode. However, he did
+not know how to complete the puzzle and looked for help in
+a text tutorial. It would not have been possible for any
+participant to read all of the text and complete the puzzle in
+the fast-paced Speedrun mode. P8 was not successful in
+completing the advanced selection puzzle and had to go
+back to more basic puzzles. In contrast, participants who
+followed the systematically designed sequence of puzzles
+and viewed the step-by-step demonstration videos appeared
+to have a more satisfactory experience.
+Learning: what and how
+The participants exhibited visible improvements in many
+aspects of Photoshop expertise: understanding operation
+dependencies (e.g. activating the right layer before applying
+any operations on it), awareness of functionality (e.g. the
+Grow command that can expand a selection), locating
+hidden tools (e.g. the Quick Selection tool is hidden under
+the Magic Wand tool), understanding functionality (e.g.
+how the sliders of a Levels Adjustment Layer work), and
+adopting shortcuts (e.g. holding the Shift key to make
+additive selections).
+Those improvements were achieved by three main
+mechanisms of learning facilitated by Jigsaw: discovering
+by exploration, actively following demonstrations, and
+refreshing skills.
+Discovering by exploration
+From our observations, both successful attempts and
+mistakes led to discovery of new facts and techniques. For
+example, when P6 was using the Magnetic Lasso tool for
+the first time, he made a lucky guess that led to successful
+completion of the puzzle:
+“Now I'm kind of confused. There is a cursor here, but
+also a line there. I don't know which one is the starting
+point. Is the upper-left corner or the bottom-left corner? I
+think it looks like the bottom-left corner, so… (P6 clicked
+the left button of the mouse) Yes, I was right!” (P6)
+On the other hand, P1 was not as lucky in his first few
+attempts with the Quick Selection tool, but he finally
+figured out that he had to activate the right layer before he
+could use the Quick Selection tool properly.
+We found that the participants’ general knowledge about
+how complex applications work could make their
+explorations more fruitful and efficient:
+“I know this from my previous experience. Because in
+Windows or Mac, when you want to select more than one
+thing, you press Shift.” (P6)
+The hints in Jigsaw effectively helped raise participants’
+awareness of features and guided their exploration:
+“What it told me in the question mark thing [the hints]
+was enough to get me going. Then I could figure out the
+details.” (P7)
+The techniques the participants learned through exploration
+were reinforced through practice in subsequent puzzles.
+Actively following demonstrations
+Eight participants viewed the tutorials embedded in the
+game panel. While some participants considered tutorials as
+their last resort and avoided them until they were really
+stuck, others viewed tutorials before attempting to solve the
+puzzle. The different preferences in consulting tutorials
+were consistent with the participants’ general learning
+styles as stated in the background interviews.
+The tutorials and puzzles supplemented each other
+effectively. Jigsaw motivated participants to apply the
+content of tutorials immediately after viewing. This
+facilitated the transformation of the operations they knew to
+techniques they could employ.
+Refreshing skills
+In addition to the discovery of new facts and techniques
+about Photoshop, playing Jigsaw also helped participants
+recall operations they had forgotten. Interestingly,
+participants often did not realize that they knew an
+operation until they performed it. For instance, one of the
+puzzles asked participants to reorder layers to make all
+black and white pieces visible. P5 was staring at the Layers
+panel, and said, “Actually I don’t know how to reorder the
+layers.” But immediately after he said that, he dragged a
+layer and moved it above. “Oh, Okay!” He seemed to be
+pleased by the fact that dragging worked. Later when he
+was asked whether he previously knew that he could drag
+layers, he said, “I think I did. I just forgot.”
+Behavior: transfer of skills
+In Kirkpatrick’s training evaluation model, the Behavior
+level is concerned with the ability to apply acquired
+knowledge and skills to new contexts. To assess
+knowledge transfer we asked participants to complete one
+or more of the before-after tasks they did not know how to
+do at the start of the study. Using the skills they developed
+playing Jigsaw, all of the participants were able to complete
+tasks they did not know how to do at the start of the study.
+DISCUSSION
+The results of our preliminary user testing of Jigsaw show
+that drawing on the familiar concept of Jigsaw puzzles and
+providing feedback using an automatic grader has
+effectively transformed an otherwise serious training
+activity into an active game-like experience for learning
+complex software applications, such as Adobe Photoshop.
+Moreover, we found that Jigsaw’s progressive challenge
+levels and the embedded hints are both important and
+helpful in creating a supportive environment for users to
+engage in discovery-based learning.
+Nonetheless, our observations also suggest that we need to
+improve the timeliness of hinting, the granularity of
+feedback, and the level of engagement to make Jigsaw more
+effective and fun. We plan to explore just-in-time hinting to
+encourage more exploration and prevent frustration. Also,
+we hope to offer feedback on the process in addition to the
+results, as the less-experienced participants requested more
+granular feedback for new tools. Last, we want to support
+collaborative play, which will allow players to learn new
+editing techniques from one another.
+ACKNOWLEDGEMENTS
+We thank Raschin Fatemi, Will Riley, and our participants
+for their help and contributions.
+REFERENCES
+1. Bruckman, A. Can Educational Be Fun? Game
+Developer’s Conference, San Jose, California, (1999).
+2. Bruner, J.S. The act of discovery. Harvard Educational
+Review, (1961).
+3. Carroll, J.M. An overview of minimalist instruction.
+Proc. HICSS 1990, IEEE (1990), 210-219 vol.4.
+4. Hmelo-Silver, C.E., Duncan, R.G., and Chinn, C.A.
+Scaffolding and achievement in problem-based and
+inquiry learning: A response to Kirschner, Sweller, and
+Clark (2006). Educational Psychologist 42, 2 (2007),
+99–107.
+5. Kirkpatrick, D.L. Evaluating training programs: the four
+levels. Berrett-Koehler ; Publishers Group West
+[distributor], San Francisco : Emeryville, CA, 1994.
+6. Linehan, C., Kirman, B., Lawson, S., and Chan, G.
+Practical, appropriate, empirically-validated guidelines
+for designing educational games. Proc. CHI 2011, ACM
+(2011), 1979-1988.
+7. Long, J. Just For Fun: Using Programming Games in
+Software Programming Training and Education-A Field
+Study of IBM Robocode Community. Journal of
+Information Technology Education 6, (2007), 280–290.
+8. Mayer, R.E. Should There Be a Three-Strikes Rule
+Against Pure Discovery Learning? American
+Psychologist 59, 1 (2004), 14.
+9. Rieman, J. A field study of exploratory learning
+strategies. TOCHI 3, 3 (1996), 189–218.
+10. Roblyer, M.D. Integrating Educational Technology into
+Teaching. Prentice Hall, 2005.

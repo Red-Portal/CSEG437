@@ -1,0 +1,25 @@
+Which smartphone system is right for you? - Windows Phone 8
+
+
+WINDOWS PHONE 8
+
+Windows Phone 8 is fresh and fun, but relies heavily on big text.HEATHER KELLY/CNN
+This is the second generation of Microsoft's Windows Phone operating system, which began in 2010. Windows Phone 8 was launched in October, and Microsoft hopes the expensive marketing campaign and improved features will help it climb up from fifth place. Last quarter, only 2% of phones sold in the world were Windows Phone devices.
+Interface
+Instead of icons, the Windows Phone 8 home screen is covered with a quilt of brightly colored squares and rectangles. Each tile can display live information, such as a photo album or your newest e-mail, which can save you a trip into the sometimes jumbled innards of the operating system.
+A swipe to the left brings up an alphabetical list of installed apps. Tap and hold on an app to place it, or "pin" it, on the start screen. Tap a tile and hold to change its size or placement.
+There are some odd design choices, such as allowing text to be cut off randomly to make the most of the smartphone screen. Overall, the design relies on flat, simple images and a lot of large text. By default, the text is mostly white on black, which is jarring but saves battery life. You can switch it to black on white and change the color of your tiles.
+It's possible to display personalized information on the lock screen, such as your most recent calendar event, e-mail, text message or missed phone call.
+Apps and content
+The current app selection on Windows Phone 8 is the smallest of the three platforms, but Microsoft is working hard to woo developers. The system shares its underlying framework with Windows 8, so that may make it easier for developers to make apps for both platforms.
+Like Android phones, there is usually some preinstalled clutter -- apps from carriers and manufacturers -- on Windows Phones, but these can be deleted easily.
+Tunes are available in the Xbox music store, but you have to sync movies and TV shows over from a desktop application. Pandora radio comes preinstalled along with a free year of ad-free service. Nokia phones have the Nokia Music service installed.
+Key features
+The main screen is the winning ingredient for Windows Phone 8. It's simple, fun and easy to understand, and it does a great job of surfacing important information.
+Kids Corner is nice touch for parents. It creates a separate profile for kids, limiting them to approved apps and keeping them out of your personal accounts. Data Sense is a new feature Microsoft claims will help optimize the amount of data you use.
+As part of its latest marketing push, Microsoft has been talking up the "people" angle of the phone for consumers (for example, the Rooms feature is a nice way to communicate with custom groups of people, such as family members). However, the company might be better off promoting Windows Phone's business side. Working with Office documents and syncing them across devices is much easier, and there are built-in features for large companies that need to support phones for employees.
+Hardware
+The new version of Windows Phone adds support for more advanced hardware than its predecessor, including phones with higher resolution screens, multicore processors and near field communication. So far, there are only a handful of Windows 8 phones available, from HTC, Samsung and Nokia. The most anticipated of the bunch is the Nokia 920, which features a powerful camera.
+Unfortunately, people who already own a device running Windows Phone 7 will not be able to upgrade to the new operating system. To upgrade the OS, they must purchase a new phone.
+Who it's for
+Windows is the most used operating system in the world, and Microsoft CEO Steve Ballmer has said he thinks 500 million people will be using Windows 8, the newest PC/tablet operating system, by the end of 2013. Windows Phone 8 will be best as a companion device for people using Windows 8 on a PC. It's also a nice choice for people who want a simple and customizable interface; heavy Microsoft Office users; parents; and anyone who likes to root for (the corporate overlord version of) the underdog.

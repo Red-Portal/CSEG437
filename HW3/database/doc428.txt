@@ -1,0 +1,39 @@
+How to upgrade your video card
+
+current crop of popular PC games has shown us that the video card has now become the most important component in a gaming system. The CPU and the video card used to be of equal importance in the past, but games have become increasingly dependent on video cards as developers have been cranking up the graphics levels. 
+
+In recent games like Call of Duty 2, F.E.A.R., and Quake 4, a strong video card improves game performance and image quality much more than a strong CPU does. Newer games also default down to uglier graphics if the game detects an older card. And some games remove support for older cards altogether. When a highly anticipated game like Battlefield 2 no longer supports GeForce 4 level or older cards, it's time to consider starting on that long-overdue upgrade. 
+
+
+Do I have PCI Express or AGP?
+Before you run off to buy that graphics upgrade, you have to find out if your current system will be able to handle a new video card. Video card requirements have changed over the years, and older PC systems might not have the necessary hardware to be compatible with the latest video cards. 
+
+Take a look at your system motherboard to see if it has an AGP or PCI Express card slot (it will be the topmost expansion slot on the motherboard--your monitor should be connected to the card currently sitting there). Older systems have AGP card slots, but more recent systems (made in the past two years) have PCI Express card slots. 
+
+If your system has a PCI Express slot, you're in luck. All the latest video cards use the PCI Express form factor. Your upgrade options will be much more limited if you find an AGP slot staring back at you. All the best cards come out in PCI Express first, followed months later by scaled-back AGP versions, if they're made at all. Consider upgrading to a PCI Express motherboard if you want to get the most powerful video card options. If your system is more than 5 years old, you might have an ancient PCI slot for graphics. In this case, the best thing to do would be to put that Pentium II out to pasture and upgrade to a completely new system. 
+
+
+
+SLI and CrossFire systems can support two matching video cards, but you need to have an SLI-ready or CrossFire-approved motherboard.
+
+Note that newer systems might also have two PCI Express slots for dual video card configurations. However, for the purpose of this guide we're going to assume that you have an older system that doesn't have two video card slots, since anyone with an Nvidia SLI or ATI CrossFire system should be playing F.E.A.R. at 1600x1200 with all the settings maxed out instead of reading this guide. 
+
+While you're looking at the video card slot, check to see how much space is available beneath the card slot, as some video cards have extra-large cooling units that double the height of the card. If you only have room for a normal-sized card, consider moving the card located directly beneath the video card to a lower slot if possible. However, if that isn't possible, or if you have a small form factor system that only has room for a single-slot video card, then you'll have to make sure your new video card is a single-slotter. 
+
+How much power do I have?
+After determining what kind of card slot and how much space you have for it, you'll need to find out the power rating on your system power supply. Today's performance video cards require lots of power, and some power supplies might not have the wattage to support a system loaded with extra drives, a fast processor, and a new power-hungry video card. If you're lucky, the power supply will have its maximum wattage listed on the back, visible from outside the case. 
+
+
+
+Find out if your power supply has enough juice to handle the video card you want.
+
+Otherwise you'll have to crack open the case and look for the rating sticker on the power supply. The bare-minimum wattage you're looking for is 350W, but you'll be able to get a more powerful card with a 400W or 450W power supply, and you'll need 500W or more for a dual-card setup. Check the power supply requirements printed on the outside of the video card box to make sure your system can support the card. 
+
+The hardest part about upgrading your video card is actually just figuring out what kind of card your system can handle. Check out our recent Call of Duty 2 and F.E.A.R. hardware performance guides to see how the current graphics cards compare. 
+
+Assuming you did your homework and picked a card that's compatible with your system, installing the card is very easy. First, switch off the system and unplug the computer. Use a Phillips-head screwdriver to open up your case and unscrew the video card. The video card might have a retention mechanism located at the base of the slot, and you should be able to jiggle it open and slide out the card without a problem. Next, plug in your new video card and replace the screw to secure the card in place. 
+
+If you have a power-hungry card, you'll need to plug an auxiliary power source into the board, usually one or two 4-pin hard drive power connectors or a 6-pin PCI Express power connector. Video card manufacturers will often package a power splitter or a dual 4-pin to 6-pin adapter with the card in case your system doesn't have enough free power connectors, but you can order the cables online for less than $5 in case you get a bare-bones card bundle. 
+
+Replace the case cover, attach the monitor, plug in the power cable, and fire the system up. 
+

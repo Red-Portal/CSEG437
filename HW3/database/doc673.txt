@@ -1,0 +1,10 @@
+We present a novel external sorting algorithm using graphics processors (GPUs) on large databases composed of billions of records and wide keys. 
+Our algorithm uses the data parallelism within a GPU along with task parallelism by scheduling some of the memory-intensive and compute-intensive threads on the GPU. 
+Our new sorting architecture provides multiple memory interfaces on the same PC -- a fast and dedicated memory interface on the GPU along with the main memory interface for CPU computations. 
+As a result, we achieve higher memory bandwidth as compared to CPU-based algorithms running on commodity PCs. 
+Our approach takes into account the limited communication bandwidth between the CPU and the GPU, and reduces the data communication between the two processors. 
+Our algorithm also improves the performance of disk transfers and achieves close to peak I/O performance. 
+We have tested the performance of our algorithm on the SortBenchmark and applied it to large databases composed of a few hundred Gigabytes of data. 
+Our results on a 3 GHz Pentium IV PC with $300 NVIDIA 7800 GT GPU indicate a significant performance improvement over optimized CPU-based algorithms on high-end PCs with 3.6 GHz Dual Xeon processors. 
+Our implementation is able to outperform the current high-end PennySort benchmark and results in a higher performance to price ratio. 
+Overall, our results indicate that using a GPU as a co-processor can significantly improve the performance of sorting algorithms on large databases.

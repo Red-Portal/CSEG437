@@ -1,0 +1,12 @@
+Notation
+In the context of HDTV, the formats of the broadcasts are referred to using a notation describing:
+
+The number of lines in the vertical display resolution. 
+Whether progressive frames (p) or interlaced fields (i) are used. 
+The number of frames or fields per second. 
+For example, the format 720p60 is 1280 ¡¿ 720 pixels, progressive encoding with 60 frames per second (60 Hz). The format 1080i50 is 1920 ¡¿ 1080 pixels, interlaced encoding with 50 fields (25 frames) per second. Often the frame or field rate is left out, indicating only the resolution and type of the frames or fields. Sometimes the rate is then to be inferred from the context, in which case it can usually be assumed to be either 50 or 60, except for 1080p which is often used to denote either 1080p24, 1080p25 or 1080p30 at present but will also denote 1080p50 and 1080p60 in the future.
+
+A frame or field rate can also be specified without a resolution. For example 24p means 24 progressive frames per second and 50i means 25 interlaced frames per second, consisting of 50 interlaced fields per second.
+
+Most HDTV systems support some standard resolutions and frame or field rates. The most common are noted below.
+

@@ -1,0 +1,33 @@
+Mobile Computing Device Information Central
+
+What is a mobile device? 
+A mobile computing device (hereafter referred to simply as a mobile device) is a small, portable computer that allows you to store, organize, and access information. A mobile device can run on a number of operating environments, including a compact version of Microsoft Windows and Linux, as well as operating environments that are not available on desktop computers, such as the Palm OS and Research in Motion's RIM OS.
+
+A mobile device may feature a scaled-down keyboard, a pen-like stylus, or both. Mobile devices are powered by batteries and need to be charged for use. They range in size from a stack of business cards to a paperback book.
+
+
+What can I do with one? 
+With a mobile device you can update a task list, view your address book, check your calendar, and take notes, among other applications. With some devices, you can also run mobile versions of popular office software, play games, or listen to music. A mobile device is not a laptop, as it does not have the general purpose hardware and software capabilities that a laptop does and it is not as large. Some wireless phones can perform similar functions to mobile devices, but they will not be categorized with them for the purposes of this Web site.
+
+Some mobile devices allow you to check your e-mail and surf the Web via a conventional or wireless modem, though some Internet features that are available to most desktop computer users may not be available on a mobile device. For example, you may not be able to view information in certain file formats, or use some multimedia programs such as Shockwave or Real Player.
+
+Most mobile devices allow you to synchronize data with a desktop or laptop computer. Additionally, some mobile devices can share data and software with each other through infrared transfer. You may have to purchase additional accessories to add these capabilities. 
+
+
+A mobile device by any other name 
+You may have seen mobile devices referred to as a
+
+pocket PC 
+personal PC 
+handheld PC 
+Palm 
+palmtop 
+wireless device 
+mobile device 
+personal information manager (PIM) 
+personal digital assistant (PDA) 
+There is no standard nomenclature for mobile devices. Most Web sites and store displays use the terms above interchangeably, which can be misleading. Palm is not a generic term for any mobile device, but refers specifically to a Palm brand device which runs on the Palm operating environment. However, a mobile device described as a palmtop may not necessarily run on the Palm operating environment. Also, not every mobile computing device is wireless. A mobile device needs to have a wireless networking card or modem in order to remotely access the Internet. You purchase these items separately, along with an account with a wireless service provider. Finally, pocket PC is both a term used for certain mobile devices as well as a Microsoft operating environment for mobile devices.
+
+Microsoft defines pocket PC and handheld PC in stricter terms, though not everyone agrees with or has adopted their usage. They define a pocket PC as "a class of device that has a quarter VGA (320x240) screen and contains a consistent package of integrated applications, wireless and wired connectivity options, and Win32 APIs for developers" and a handheld PC as "a class of devices that have half VGA (640x240) or full size (640x480 or 800x600) screens with or without an integrated keyboard and contain a consistent package of integrated applications, wireless and wired connectivity options, and Win32 APIs for developers." 
+
+Within these pages we refer to any small, portable computer (excepting wireless phones) as a mobile device, and categorize mobile devices by their operating environment.

@@ -1,0 +1,217 @@
+﻿SECTION IINTRODUCTION
+In recent years, multicast communications have bean widely studied. Multicast communication enables the distribution of digital content from a single source to a large audience via a public channel such as the Internet. Broadcasting has applications in sensor networks, pay-TV, smart grid, software updates and military defense systems to name a few [1]. As these applications will distribute private or sensitive information, multicast protocols must provide data origin authentication as well as data confidentiality.
+
+The delay of information exchange requires very urgent for most of multicast communication applications. Such pay-TV, according to a study in 2009, by new online video analytic group Tubemogul, more than 81 percent of online video watchers will abandon a stream if it buffers a single time [2].
+
+In some scenarios, poor delay not only lead to inefficient communication, and even affect the robustness of the system. Unfortunately, the existing multicast authentication protocols can not satisfy the requirements. A good example is smart grid.
+
+The crux lies in timely information exchange among various smart grid equipments, such that flexible and ubiquitous supervisory control and data acquisition can be readily deployed [3]. In order to protect the integrity and authenticity of automation systems (SAS) messages between interconnected power equipments to leverage multicast data origin authentication protocols were recommended [7], [8], [9]. However, these schemes are not applicable when practically deployed in the SAS due to application and setup constraints in substations, including limited device computation capabilities, multicasted device messages, stringent timing requirements, and high-rate data sampling [10]. The most critical “trip” message in the SAS must be securely delivered in 3ms [11]. Otherwise, the message will be obsolete to be missed by the destination, which may force entire systems to endure excessive current probably as high as 300% of its rating value till a validated message arrives. Unfortunately, our results show that the proposed solutions can not handle such a scenario with satisfactory performances of both QoS and security.
+
+One designing a authentication protocol is always hopes that using less secret keys to signature more messages, and ensuring the security of them. Obviously, in communications, the fewer rekeying, or the more messages is signed with the same key, the higher efficiency for communication. Unfortunately, according to Shannon's theorem [12], The “equivocation” of key Formula and Formula are a non increasing function of N (length of possible messages). That means it will become more insecure with the increasing communication numbers n for signing messages with the same key K [13]. Thus, how to trade off between Security and Efficiency in such scenarios?
+
+In this paper, we present a Game Model of Multicast Data Origin Authentication (GMMDOA), to describe the relationship between security and efficiency for the time-critical multicast communication, contraposing the TV-HORS scheme. By analyzing our model with Shannons information and game theory, we propose an optimization scheme for update the private key. Through the security analysis of our model, the signature valid time is negligible compared with the adversary attacking time. Thus, the security of our scheme is still secure even in the lowest risk-level parameter. We present measurement results from experiments and discuss performance comparisons. It shows that, our scheme does significantly to promote the efficiency of multicast data origin authentication.
+
+The remainder of this paper is organized as follows: Section 2 introduces some related works. Section 3 explains our assumptions and the GMMDOA. Section 4 analyzes the model to prove the Nash equilibrium is existent in our model and propose the Re- keying strategy. Security and efficiency analysis and the simulation experiments appear in Section 5 and conclusions appear in Section 6.
+
+SECTION IIRELATED WORK
+In this section, we briefly review several important data origin authentication mechanisms as solution candidates for protections of time-critical multicast messages, which are either recommended solutions in standards and literatures, such as RSA [7] and one-time-signature-based schemes [9], [14], or promising approaches that have been verified in other networks, such as message-authentication-code-based schemes [8], [15], [16].
+
+(A). RSA
+RSA is the most commonly used public key cryptography scheme, which is based on the presumed difficulty of factoring large integers [17]. In many scenarios, RSA is the primary choice of data authenticity and integrity protections via the generated RSA digital signature.
+
+However, RSA is not a suitable choice to secure time-critical multicast data origin authentication scheme. Since the operations of RSA are about large number, for the same level of security, the operation time of RSA is about 1000 times slower than symmetric ciphers. Even in the best case RSA is much slower than DES. For the sake of an intuitive understanding, in smart grid, SEL-3530 real-time automation controller, a popular IED production as the device controller, is furnished with a 533MHz processor. Such a controller cannot sign and verify a RSA-signed message in 3ms, and the 3ms is the maximum delay time of the multicast message in smart grid. The fasted time of sign and verify a RSA-signed message is 10ms.
+
+(B). Message Authentication Code
+MAC is a widely adopted symmetric-key cryptography scheme, which relies on a small fixed-size block of data to authenticate a message. To calculate an MAC, communication entities need to share a secret key since the MAC is a function of an arbitrary-length message and the shared key. Two typical MAC-based schemes are: (i) Incomplete-key-set scheme [15]: it is proposed to prevent malicious message forgeries in multicast scenarios. (ii) Timed efficient stream loss-tolerant authentication (TESLA) [16]: it is characterized with an excellent computation efficiency and a low-communication overhead.
+
+However, MAC-attached is not a suitable choice to secure time-critical multicast data origin authentication scheme too. Two reasons are given:
+
+MAC-based scheme lies in how to remain the message security in a multicast scenario. MAC is a symmetric-key cryptography, that is, the sender and the receiver share the same key material, MAC-based schemes have to seek other ways to achieve the envisioned asymmetry for the multicast scenario.
+The large validation size of MAC-attached schemes are reduces the efficiency of multicast. MAC-attached messages are able to transmit 75 bytes in the original payload in the 1 Mbps transmission rate, whereas HORS-signed messages can deliver 30 bytes contents when using the same rate.
+(C). One-Time Signature
+One-time signature [18] features a higher computation efficiency based on one-way functions without a trapdoor, which makes it suitable for fast message authentications. Since the idea was invented, a multitude of OTS algorithms [19], [20], [21] were proposed to overcome two intrinsic drawbacks, including the larger signature size, and the one timedness that means one key can only sign one message. Figure 1-(A) shows an example of the general TV-OTS model.
+
+Figure 1
+Figure 1. TV-OTS model & Network Setting
+View All | Next
+
+Researchers have proposed some advanced techniques [22], [23], to extend standard OTS into multiple-time signatures. These approaches are valuable in a theoretical sense but hard to use in practice due to their substantial overheads and potential security problems. For example, in the case of HORS, OTS [19], Pieprzyk, et al. A simpler and more efficient approach is reusing the same key to sign v different messages as suggested in [19].
+
+The nice features of HORS are further adopted in a time valid HORS (TV-HORS) scheme [9], which is specifically designed for integrity protections of time-critical messages in the power system. In the TV-HORS, one HORS key is reused to generate multiple signatures in a predetermined time period. Since the key reuse leads to a rapid decrease of the security level, which entails that an attacker gains more possibilities to forge a signature, it is necessary to ensure that the decreased security level is still strong enough to resist attacks. To this end, [9] illustrated a quantity relationship between achieved security levels and the allowable reuse number of one key. Nevertheless, the multiple exposed signatures leak some information of Senders private key and consequently reduce the hardness of forging a signature. The more messages are signed, the more easily Adv can fabricate the signature.
+
+In the following sections, we present a Game Model of Multicast Data Origin Authentication (GMMDOA), to describe the relationship between security and efficiency for the time-critical multicast communication, contraposing the TV-HORS scheme. Now we present this GMMDOA model in detail.
+
+SECTION IIIGAME MODEL OF MULTICAST DATA ORIGIN AUTHENTICATION (GMMDOA)
+(A) Network Setting
+We consider a classical multicast group involving one sender (S) and a potentially large number of receivers (R). Each message is delivered from S to each R through a lossy and insecure network, such as the Internet (see Figure1-(B)).
+
+We consider a class of applications where 1) each generated message is unknown to S until it is ready to send; 2) the desired end-to-end delay on each packet is short and upper bounded by; 3) a sender timestamp is embedded into each packet so that R can check if the received packet has expired; 4) S (resp. R) signs (resp. verifies) the message once it appears; 5) packets are transmitted using the UDP/IP protocol, and there is no feedback or retransmission mechanism provided.
+
+(B) Security Goals
+Our goal is to achieve the security property that R can verify the fact that received data originates from S and was not altered on the way. In particular, if the received packet was injected or modified by a malicious adversary (Adv), R can recognize and discard it; if the packet is really sent by S and arrives intactly, it can be authenticated by R.
+
+(C) Attack Setting
+The goal of Adv is to inject a malicious message and convince R that the message was sent by S, or to modify the packet sent by S without being detected. We consider a strong threat setting (Figure 1-(B)).
+
+Adv has full control over the network. Adv can selectively eavesdrop, capture, drop, resend, delay, and alter arbitrary packets.
+Adv has access to a fast network with negligible delay.
+The computation power of Adv is limited, but not bounded to that of S or R. Adv can use more powerful devices.
+Adv can compromise arbitrary number of Formula and learn any secrets that R knows.
+As aforementioned, the sender want to send more signed messages with reusable private keys and to achieve the security goals; the adversary want to achieve the attack goal. Therefore, we consider the Sender and the Adversary as a two-player game in multicast data origin authentication protocol process. Now we present this two-player game in detail.
+
+A. The Utility Function of Sender
+The strategy of the sender can be expressed as Re-private-key (RK) when the key reuse v times, and it is denoted by Formula. This is shown in Table I. Formula denotes the utility function of Sender, and Formula is a function of v.
+
+Table 1
+TABLE I STRATEGY AND UTILITY FUNCTION OF SENDER
+We have the utility function of Sender is
+FormulaTeX Source
+
+The costs of generating a group private keys agreement is denoted by Formula. Formula denotes the benefits of sender send a message to recipients with the current private key to sign the message once. If the sender achieve the security goals, it is equivalent to complete a task when sender send a signed message to recipients and that is why we define Formula as benefits.
+
+Formula denotes the costs of the broken security goals, usually it is a negative. Formula denotes the probability of it, when the number of sent messages with the used private key signature is v. ‘broken’ here is also means that the adversary achieve the attack goal.
+
+N is the total number of signature length with the same private key. Since the output size (HS) of most hash function is stable, such as SHA-0 and SHA-1 are 160 bits. We get  Formula. In [12], Shannon's have proved theorem “the equivocation of key Formula is a non-increasing function of N”. So, according to Shannon's theorem, Formula is a non-decreasing function of v. This will be indicated explicitly by writing Formula.
+FormulaTeX Source
+
+Sine we assume the computation power of Adv is limited, but not bounded to that of S or R, and Adv can use more powerful devices. For further analysis, we need to review a concept “entropy”. The entropy is a measure of average missing information content when one does not know the random variable value. The concept was introduced by Claude E. Shannon in [24]. In [12], let D is the letter redundancy of original language, Formula. Formula is considered as a function of N. The number Formula of letters was called the unicity distance.
+
+According to [12], if Formula, then Formula. It means that the key K can be identified uniquely. And by a similar argument the equivocation of message can be calculated as
+FormulaTeX Sourcewhere Formula, G is the number of letters in the alphabet, Formula is the function with N scale reduced by factor of Formula.
+
+In this case, we consider that if the security goal was broken, and set Formula. n is the total number of elements in a private key. So far, the only known way to find a (second-preimage) partial hash collision is brute force. The number of hash computations needed to find a 1-bit partial collision is Formula on average. If Formula, sometimes it is called one-time signature. The security of is equivalent to find a partial hash collision. In [9], the best case for Adv is that any two of these v signatures do not have an overlapping SAGE. In this scenario, the probability that Adv can find a proper collision by one round hash computation is Formula. tindicates the number of exposed private key elements in one signature. So, Formula. Obviously, Formula, and Formula is a non-decreasing function of v.
+FormulaTeX SourceFormula is a negligible value. For simplification, we use a linear function to instead Formula approximately. And we set Formula.
+
+So, the utility function Formula can be calculated approximately as:
+FormulaTeX Source
+$$\eqalignno{ U_{S}(v)\approx & P_{GK}+(\theta_{A}(v-1)+\theta_{B})\cdot P_{SB}+(1-(\theta_{A}(v-1)+\theta_{B}))\cr & \cdot v\cdot P_{OE}, \quad 1\leq v\leq{N_{0}\over HS}, v\in {\BBN}&\hbox{(III.3)}}$$
+
+To calculate the approximate maximum value of Formula, we temporarily expand the domain of Formula to Formula. So, set Formula, then Formula is a quadratic function of v. Thus, Formula is a continuous function of v, and exists the first-order derivative in domain everywhere. So, we get the first-order derivative of function Formula is:
+FormulaTeX Source The function Formula reach to the maximum value Formula, if Formula.
+
+So, we set
+FormulaTeX Source
+
+We set the domain of Formula back to Formula. For security communications consideration, we set Formula, the approximate maximum value of utility function Formula, denoted by Formula.
+
+For the Sender, the utility function Formula can approximately reach to the maximum payoff value Formula, if the re-keying strategy is Formula. So the strategy Formula is the best strategy for the Sender to update the group of private keys.
+
+B. The Utility Function of Adversary
+The strategy of the adversary can be expressed as wiretapping or controlling multicast channel and finding useful information to achieve the attack goal. Formula denotes wiretapping v times messages continuously from the sender through the multicast channel, and the messages are signed with same group private keys. Formula denotes of the utility function of the adversary, which is a function of v. This is shown in Table II.
+
+Table 2
+TABLE II STRATEGY AND UTILITY FUNCTION FOR ADVERSARY
+For the adversary, to control the multicast network and to do some preparatory works are need to take some costs, which are denoted by Formula denotes the probability of adversary to achieving the attack goal when receive signed messages with the same group private keys v times, and Formula denotes the benefits of it. Formula denotes the benefits of adversary to receiving one signed message from the sender. Each signed message contain some information about private keys. Such as TV-HORS scheme, the signature contain a part of the private keys. So we have the utility function Formula for adversary:
+FormulaTeX Source
+
+In [9], the best case for adversary is that any two of these v signatures do not have an overlapping SAGE. So, the probability that adversary can find a proper collision by one round hash computation is Formula. So,Formula. Thus we get the utility function of adversary Formula is
+FormulaTeX Source Thus, we get the first-order derivative of utility function Formula about parameter v.
+FormulaTeX Source
+
+Obviously, Formula, the benefit of faking a signature successfully much than obtain some information about the hash function or private keys from a signed message. Therefore, Formula, and Formula is an increasing function. The best strategy of adversary is receipting the message and the signature as much as possible, then analyzing. This is consistent with our observation, the adversary always receives the signature and the message sent by the sender, until who can achieve the attack goal.
+
+SECTION IVMODEL ANALYSIS
+In previous section, we described the GMMDOA. Moreover, we propose the utility functions of the sender and the adversary. In this section, we prove the Nash equilibrium is existent in GMMDOA. Then we propose the re-keying strategy according to the Nash equilibrium.
+
+A. Nash equilibrium in GMMDOA
+Theorem IV.1
+(Nash equilibrium is existent in GMMDOA). In the GMMDOA, if the sender and the adversary are rational, there exists at least one Formula and Formula, which enables the sender and the adversary to reach the (pure-strategy) Nash equilibrium point. Formula represents executing the update the group of private keys operation when private keys have been reused Formula times.
+
+Proof of theorem IV.1
+According to the previous section, we know that:
+
+The approximate maximum value of utility function Formula is Formula, and Formula is an increasing function where Formula.
+The utility function Formula is an increasing function where Formula.
+So, the utility function Formula and Formula are increasing function where Formula.
+
+For the rational sender, the best strategy is update the group of private keys after it is reused Formula-th times. At this time, the utility function Formula and Formula both reach to maximum value. And after that time, the utility function Formula and Formula both need to be recalculated, since the sender has executed the private keys. Set Formula, we have the table below for the correlation utility function of sender and the adversary.
+
+Table 3
+TABLE III CORRELATION UTILITY FUNCTION IN GMMDOA
+Obviously, in the GMMDOA, the Formula where Formula, is meaningless, hence wiretapped messages can not large in numbers than that be sent by sender.
+FormulaTeX Source
+
+Consequently, according to the definition of Nash equilibrium [25], set Formula, sender and adversary reached the (pure-strategy) Nash equilibrium point Formula, and Formula is the utility function. ■
+
+B. Risk-level
+In order to commence the re-keying strategy, first we need to introduce a concept. The value Risk-level Parameter is rely on the costs values Formula and Formula.
+
+Definition IV.1
+(Risk-level Parameter) In GMMDOA, The risk-level parameter is denoted by Formula, and
+
+FormulaTeX SourceWhere, Formula denotes the benefits of the sender send one signed message with the current key. Formula denotes the costs of breaking security goals.
+
+The sender can choose the values of Formula and Formula according to the security requirement of system. In the other word, sender can choose the values of risk-level parameter Formula flexibly according to the security requirement of system.
+
+The private keys Formula, and values of k selected are probable equivalently. The probability value of it is Formula. So, we have
+FormulaTeX Source
+
+The messages sent by the sender is meaning and can be expressed as binary strings. Although as the hash function, the input message size could be a variable, but the maximum message size (MMS) of it is fixed. Such as SHA-0 and SHA-1 are Formula. For a rational sender and a time-critical multicast application, the sender must adopt the maximum message size as the message size to be sent, and the last message can be with no meaning of ‘0’ to complete. Thus, we can calculate the total redundancy [12] Formula. G is the total number of messages of length N. So, Formula. We can regard G as equal to v, since if the sender execute the update private keys operation, the rest of the message can be regarded as another message. As aforementioned, the best strategy for sender to update the key is after reuse V times (Theorem IV.1).
+FormulaTeX Source
+
+Thus, for each signature, we obtains the unicity distance Formula.
+FormulaTeX Source
+
+Therefore, we get
+FormulaTeX Source
+
+The solution of approximate Equation IV.6 is
+FormulaTeX Source
+
+Where the lambertw is a Lambert W function. Therefore, it can not be expressive as a elementary function. For using easily, we need to find a approximate solution of the equation. The best case for the sender is all messages can be sent with reuse private keys V times. In this scenario, the best case for Adv is that any two of these v signatures do not have an overlapping SAGE. So, Formula. Thus, we get
+FormulaTeX Source
+
+The equation above shows that Formula is a function of n, t, and Formula. This will be indicated explicitly by writing Formula, which is named re-keying-strategy function and will be introduced in following part.
+
+C. Re-Keying Strategy
+Since the purpose of designing a multicast authentication protocol is secure multicast messages, the sender at least send one message and signature to the recipient. That means Formula. We use Formula to denote the private key exposed rate in one signature. Thus, the definition of re-keying-strategy function is:
+
+Definition IV.2
+(Re-keying-Strategy Function) The re-keying-strategy function is denoted by
+FormulaTeX Source
+
+where, Formula is the total number of elements in a private key, Formula indicates the number of exposed private key elements in one signature, and Formula is Risk-level Parameter.
+
+The definition of re-keying-strategy function shows that the best strategy is to re-key the group private keys after the Formula-th messages and signatures been transmitted. Formula is shown in Figure 2.
+
+Figure 2
+Figure 2. RKF Formula
+Previous | View All | Next
+
+SECTION VSECURITY AND EFFICIENCY ANALYSIS
+A. Traditional Attacks
+For Brute Force Attack, the simplest attacking strategy of the adversary can adopt is brute force. Similarly with TV-HORS scheme, adversary can inject a fake message only when it can find a proper second-preimage partial hash collision with computing time less than Formula[9], that is on the order of several minutes (where Formula is on the order of seconds or milliseconds, Formula is on the order of minutes, and Formula is no more than several seconds). Even with the minimum risk-level parameter, i.e. Formula, according to the Equation IV.2, the best strategy for the sender is Rekeying private key after reused Formula.
+
+As comparison, for Formula. That means a workstation level machine needs to continuously compute hash functions for about 90 days on average, and the probability to find a matching second-preimage collision within 133.6min is only 0.104%. In the case of Formula, even if Adv has a cluster of 10000 workstation level machines, the average calculation time to find a proper collision is 9.76 days that is still significantly larger than 13min.
+
+Our scheme is also immune DoS Attack, Delay and Drop Packet Attack, and Replay Attack, similar with the TV-HORS scheme, since only the reuse times of private keys is adjusted in our scheme.
+
+B. Key Depletion Attacks
+For the sake of an intuitive understanding, we take a concrete parameter set as the example Formula, and Formula, which is shown in [9]. In this setting, one private key can be reused at most 9 times to ensure that the resulting security level is not less than 44. In terms of GOOSE messages, which is usually used to report alarms, 9 times are high enough since fault occurrences are discrete in a low frequency. Accordingly, the key reuses can be allocated separately into multiple fault alarms. However, the story is totally different in SMV messages, which features continuous transmissions in a high sampling rate. For example, for protection operations, the sampling rate of three phase currents and voltages can achieve 4800 samples per second, each of which should be contained in one message [9], [39]. It means that the merging units are expected to multicast 4800 messages every second to the relay [10]. At this rate, 9 times key reuse can last at most 1.9 ms, that is, a key update occurs every 1.9 ms. The corresponding key update frequency is 526 times per second. From this point, it can be hijacked by attacker to launch a Key Depletion Attack.
+
+Table 4
+TABLE IV KEY GENERATION TIME ON DIFFERENT DEVICES
+Table IV illustrates capabilities of key generations on different devices. It is obvious that the key generation speed is slower than the consumption speed. With the mismatched speed, attacker can easily achieve a key depletion attack to exhaust stored keys and compromise the entire integrity protection system by a large amount of bogus messages. However, if adopt our scheme, for Formula, the reuse time of keys is 22; for Formula, the reuse time of keys is 72. The security of our scheme has been described earlier. Although key depletion attacks is not been solved, our scheme greatly mitigate the harm of such an attack.
+
+C. Efficiency Analysis and Comparison with TV-HORS
+For TV-HORS multicast authentication scheme, [9] propose the concept Security-Level (L), is such a security parameter that adversary has to compute Formula hash computations on average to obtain a valid signature for a new message (that is not sent by the sender) in the case that adversary is able to obtain signatures on v messages of its choice. And it show that the relationship among L, v, t, and n, is Formula. If we adopt the original scheme of TV-HORS insist, the equation below shows that the relationship between Risk-Level Formula and Security-Level L. Obviously, the update private key scheme of TV-HORS is a special case of our scheme, if and only if Risk-Level Formula satisfies the following equation.
+FormulaTeX Source
+
+It is shown in Figure 3-(A).
+
+Figure 3
+Figure 3.
+Previous | View All
+
+According to [9], for TV-HORS scheme, the parameters settings of n and t for different Security-level (L) are shown in table below.
+
+Table 5
+TABLE V PARAMETERS SETTINGS OF TV-HORS
+For the sake of an intuitive comparison, Figure 3-(B) shows the efficiency comparison between TV-HORS scheme and the most efficient strategy of our scheme.
+
+Furthermore, Figure 3-(B) shows that the sender can flexibly adjust the multicast private key re-keying strategy by referencing the re-keying-strategy function according to the private key exposed rate (ER) and system required Risk-Level Formula. It does significantly improve the efficiency of multicast data origin authentication. And our scheme still has high security features even in the lowest level of risk, which is shown in security analysis section.
+
+SECTION VICONCLUSIONS
+In this paper, we present a Game Model of Multicast Data Origin Authentication (GMMDOA), to describe the relationship between security and efficiency for the time-critical multicast communication, contraposing the TV-HORS scheme. By analyzing our model with Shannons information and game theory, we prove the Nash-equilibrium is existent in our model and propose an optimization scheme for update the private key. The sender can flexibly adjust the update private key strategy by referencing the re-keying-strategy function (RKF) according to private key exposed rate (ER) and required system risk-level parameter Formula.
+
+Through the security analysis of our model, the signature valid time is negligible compared with the adversary attacking time. Thus, the security of our scheme is still secure even in the lowest risk-level parameter. We present measurement results from experiments and discuss performance comparisons. It shows that, our scheme does significantly to promote the efficiency of multicast data origin authentication. In the best case, our scheme can promote the efficiency about 8 9 times than the TV-HORS. Although our scheme greatly mitigate the harm of the key depletion attacks, such problem is not been solved. Therefore, there is an acute need for better cryptography algorithm or protocol solutions to improving private generation speed or reduce the number of consumption speed

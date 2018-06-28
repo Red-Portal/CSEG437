@@ -1,0 +1,18 @@
+Software for students
+Microsoft software available for dirt cheap at Campus Bookstore
+
+So midterms are coming and you've got a big presentation for your class. Your teacher wants it on Microsoft PowerPoint 2010 and if you don't do it exactly how they want it, you'll fail. Problem is, you don't have Microsoft Office 2010 and you can't afford to drop the $150 on it.
+
+You're left with a few options: Get OpenOffice, a freeware office program that is compatible with Microsoft, and hope it has everything your teacher wants. You can try doing the same with Google Documents, which does presentations that are compatible. You can also turn to your old friend BitTorrent (don't lie to me, you know you have it on your computer), and illegally download the software and hope you don't get a virus, or worse, get caught by Microsoft.
+
+There is a fourth option however. As a student of Rhode Island College, you can go to the Campus Bookstore in the Student Union, and use your RIC ID to buy a subsidized copy of Microsoft Office 2010 for $15. For those of you who are terrible at math, that's a 90 percent discount on Microsoft Office just for going to this college.
+
+While that is impressive in itself, Microsoft Office 2010 isn't the only subsidized software the college has available. They have Microsoft 2008 for $15 (as opposed to $150 normally) for Mac users.
+
+They also have a slew of Microsoft Operating Systems (OS) all for $15, from the new Windows 7 Ultimate to the old reliable Windows XP. They also have Vista Ultimate for you masochists. All three systems come in 32-bit or 64-bit. 64-bit is what you want if you have a computer that comes with a 64-bit processor, which most new computers have. If you don't have one or don't know, go with the 32-bit. Each version (with the exception of XP, which has both 32- and 64-bit) comes separately so make sure you get the right one. A bit of advice for those who buy XP: even if you have a 64-bit processor, install 32-bit because XP 64-bit is horrible.
+
+Please note that both Windows 7 and Vista come with both 32-bit and 64-bit versions but you only get one key (therefore you can only install it on one computer). Also, Vista is not for sale by Microsoft from what I could see, which is why I included the Amazon price.
+
+You can also get Microsoft SharePoint 2007, which allows you to create a Web site where you and others can share information, collaborate on projects and more. Normally it is $65 (was more but now SharePoint 2010 is out), and the campus will charge you $30. Also, for $30 is Visual Studio 2008 and 2005. Visual Studio can be used to design applications for Windows, Web sites and more. The Standard Edition for 2008 is around $200, depending where you get it from, and 2005 is around $100.
+
+The Campus Bookstore's hours are Monday ? Thursday, from 8:45 a.m. to 7 p.m.,  and Friday from 8:45 a.m. to 4:15 p.m. You can only own one copy per software, (so you can't buy Windows 7 for yourself and your parents), and you must have your RIC ID. For more information, see http://www.ric.edu/MSsoftware/avail.php.

@@ -1,0 +1,32 @@
+Asus is starting off Computex 2018 on a high-spec note with the announcement of its ROG Phone. 
+Bearing the Republic of Gamers branding and an unmistakably gamer-oriented design, the ROG Phone is Asus’ 
+answer to the Razer Phone. This is the second phone after Razer’s to offer a 90Hz display — meaning its 
+screen refreshes 90 times per second, delivering smoother animations — and Asus throws in the added bit 
+of gamer pride by powering each ROG Phone with a specially selected 2.96GHz Qualcomm Snapdragon 845 chip. 
+Yes, these will definitely be the fastest Snapdragons around.
+
+I got to see engineering samples of the ROG Phone for myself here at Computex, and I walked away 
+feeling more impressed by the actual hardware than I expected, though the premise of an Android smartphone 
+for hardcore gamers still feels like it’s off the mark. Android doesn’t have any games demanding enough 
+to tax the regular Snapdragon 845, never mind an overclocked variant with vapor cooling and a special 
+attachable fan accessory, which is what the ROG Phone offers. What I see in this device is a bizarre 
+transplantation of the traditional PC gamer’s aesthetic and performance priorities into the mobile realm. 
+Even as I question who this device might be for, I am also deeply intrigued by its design, customizations, 
+and deluge of gaming-centric attachments.
+
+You’ll find the full set of ROG Phone specs in the sidebar, and they’re predictably maxed out. 
+Nobody has offered a phone with more than 8GB of RAM, no one has a faster Snapdragon inside their phone, 
+and other than the Porsche Design variant of the Huawei P20 Pro, I know of no other phone with a 512GB storage option.
+Asus ticks the “best-specced Android phone ever” box.
+
+To activate the maximum performance of its speed-binned chips, Asus lets you switch into “X Mode” by squeezing 
+the sides of the phone. The squeeze works exactly as it does in HTC’s Edge Sense system, with a red glow showing 
+up at the sides where you apply pressure. Once you give it a strong squeeze, the phone’s entire UI skin transforms 
+from a cool blue to a deep and ominous red. X Mode is more than mere cosmetics, though, as it automatically optimizes 
+performance for gaming by shutting down background processes and prioritizing whatever you’re playing for both RAM 
+allocation and data transfer precedence. X Mode also controls the AeroActive Cooler, which is what Asus calls the 
+additional fan accessory it offers for this phone.
+
+Asus goes an extra step with its phone-edge interactions by giving players two so-called AirTriggers, 
+residing in the spots of the usual shoulder buttons on game controllers. These are user-programmable 
+and should help keep the screen clear of controls while gaming.

@@ -1,0 +1,21 @@
+PictSync Photo Sharing Between Digital Cameras, Phones and PMPs
+
+More news on top companies working together to make popular digital products user friendly. Epson, HP, IDS, Olympus, PortalPlayer and Samsung Electronics are working together as the PictSync Promoters Group, to jointly develop guidelines to increase interoperability between digital cameras, camera phones and portable media players (PMP). 
+
+PictSync is expected to make it easier to transfer digital photos between two portable devices that are able to capture or store images, without requiring a personal computer.  PictSync will enable compliant devices to successfully recognize all photo content along with all metadata. PictSync enabled devices will also transfer and/or synchronize all photo content and metadata from compliant capture devices to compliant playback devices.
+
+
+ 
+
+Initially, two classes of device have been defined: a PictSync device, capable of serving as a USB host, and PictSource, a USB device.  In addition, five primary usage models for PictSync interoperability have been defined, as listed below.  The base use case for each is to connect two devices together and synchronize their contents.     
+
+1.  PictSync Device connected to a digital camera
+
+2.  PictSync Device connected to a camera phone     
+
+3.  PictSync Device connected to another PictSync Device like a Personal Media Player (PMP)/USB storage device     
+
+4.  Memory Card inserted in a PictSync Device     
+
+5.  PictSync/PictSource Device connected to a PC using MPV-enabled software
+

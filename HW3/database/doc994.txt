@@ -1,0 +1,45 @@
+There are a lot of things to consider when buying a smartphone--operating system, screen size, keyboard or no keyboard, camera--but one feature that more people are starting to pay attention to is the processor. This is, no doubt, in part due to the recent influx of dual-core smartphones like the Motorola Photon 4G, HTC Sensation 4G, and Samsung Galaxy S II.
+
+Samsung Galaxy S II
+The Samsung Galaxy S II is one of a number of smartphones today to feature a dual-core processor, but what does that mean for you?
+Josh Miller/CNET
+With everyone from carriers to handset manufacturers to tech sites talking up dual-core processors, you probably get the idea that having a dual-core processor is a good thing, but for the uninitiated, it might not be apparent why, and for some, the whole subject of processors might be a mystery. It's easy to understand why; it's a spec that gets thrown around a lot, along with various names like Nvidia Tegra 2, Qualcomm Snapdragon, and TI OMAP, but it's a feature that's never fully explained and frankly, the business of processors can get pretty complicated and technical.
+
+For this month's column, I'm going to take a general approach to the topic and explain the processor's function, explain the different parts, how they affect your smartphone's performance, and give you a glimpse of what's to come in the future. I'll also introduce the various chipset makers, but there's quite a bit of variation in how each of the companies design processors and this is where things can get a bit complicated, so I'll save the comparison of each for a future column. That said, hopefully, this will serve as a good starting point to better understanding the world of smartphone processors.
+
+What's in a processor? 
+Nowadays, smartphones are so much more than phones and personal organizers. They're music and video players; they're mobile Web browsers; and they're cameras and camcorders. However, in order to do all those things, there needs to be a part of the system that can process and carry out those functions, which is where the processor enters the picture.
+
+"The processor is the brain of the smartphone," explains Nick Stam, director of technical marketing at Nvidia. "Just like a regular desktop or laptop, these devices are, at the highest level, computers, and like computers, they have a processor to do all the basic calculations and to execute code."
+
+Of course, with smartphones, you're dealing with a smaller form factor, so the design of the processor is somewhat different than what you'd find on your computer. On your desktop, you've got different elements, such as your central processor unit (CPU), graphics processing unit (GPU), memory, and peripheral buses, that all connect to the motherboard.
+
+On a smartphone, you've got similar components, as well as other sub-processors, but they're integrated onto a single chipset, referred to as System-on-a-Chip (SoC), since there isn't room to have different chipsets with the battery taking up so much space. So technically, when we talk about processors, we're really talking about the SoC, but for pretty obvious reasons,
+
+
+Inside Nvidia's Tegra 2 chipset, or System-on-a-Chip, lies multiple components, including two CPUs, a GPU, and video encoders and decoders.
+Screenshot by Bonnie Cha/CNET
+A key component of the SoC is the CPU. Most companies use a CPU based a design from a company called ARM, and it handles most things you experience on your smartphone, from running the OS to touch-screen functions. When people talk about whether a phone has an 800MHz processor or a 1GHz processor, they're referring to the speed of the CPU. Additionally, single-core or dual-core refers to the number of CPU cores.
+
+Another element of the SoC is the GPU. The GPU processes graphical and visual data, so it's responsible for such things as rendering Web pages and gameplay. Having a dedicated GPU is much more efficient than letting the CPU handle it, since it allows for lower power consumption while offering such benefits as better image processing and anti-aliasing and geometric realism. The better the GPU, the better experience you'll have viewing complex Web sites and 3D video games.
+
+Finally, the SoC incorporates a number of other sub-processors, such as video encoders and decoders, camera operation, and audio playback, so your smartphone can perform such tasks. Some companies also incorporate a phone's modem (Wi-Fi, Bluetooth, GPS, 3G/4G, etc.) into the SoC, while others keep them separate, which leads to the next topic.
+
+Not all processors are created equal 
+Now, just because two smartphones both have 1GHz processors doesn't mean you're going to get the same kind of performance from both. This is because different chipset makers take different approaches to designing their processors or SoC.
+
+There are four major players in the mobile processing world, Nvidia, Qualcomm, Texas Instruments, and Samsung, but they all have one thing in common: ARM. ARM is the company that provides the architecture for mobile processors, and these companies use it as the basis for developing their chipsets. So what's the reason for variation?
+
+This is because some companies license ARM's CPU design and use it as is, while others only license the instruction set and create their own CPU based on the guidelines provided by ARM. Qualcomm is an example of the latter, which is why you see some of its dual-core processors clocked at higher speeds, such as 1.2GHz. Add to that different kinds of GPUs and various integrations of sub-processors and modems, and you're going to get some different results.
+
+Again, I'll compare each of the manufacturers processors in a future column, but for the sake of sticking with the basics for this article, I left it out.
+
+Dual-core and beyond 
+As I mentioned earlier, smartphones already do a lot of things, but the advent of dual-core processors has allowed them to do even more, such as 3D and 1080p HD video capture and playback. These chipsets consist of two CPU cores, running at 1GHz to 1.2GHz each, depending on the maker, but it would be a mistake to think that a dual-core processor equals double the speed of a single-core phone. The difference isn't quite that dramatic.
+
+
+Qualcomm plans to offer quad-core processors in Q1 2012.
+Qualcomm
+That said, you should enjoy faster Web browsing, smoother game play, quicker multitasking, and even improved battery life.
+
+"When you have a single CPU core, you need to raise of the voltage of the CPU, which consumes a lot of power," said Sridhar Ramaswamy, senior technical marketing manager for Tegra at Nvidia. "With two cores, you're basically processing at half the frequency and not maxing out, so it better handles multitasking and multithreaded applications."

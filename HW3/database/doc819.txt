@@ -1,0 +1,124 @@
+﻿SECTION I.Introduction
+Cloud Gaming or in other words, gaming on demand has recently gained momentum in replacing the traditional gaming system. Cloud-based Video games provide an affordable, flexible, cost-efficient and high-performance gaming experience to the users who have constrained computing resource available at their end. Fig. 1 depicts the cloud gaming architecture. This new standard of gaming service brings many benefits by expanding the user base to many less powerful devices, especially smartphones and tablets.
+
+One or multiple data centers host cloud gaming platform. The computer game programs running on cloud gaming platform can be categorized into two components: (i) game logic which converts game commands into game interaction, and (ii) scene render which produces game scenes in real time. The command interpreter sends the gamer commands to game logic, and Video capturer converts the game scenes into videos which are then processed by a video encoder for encoding and compression. The command interpreter, video capturer and video encoder are all implemented as parts of the cloud gaming platform [1].
+
+Figure 1
+Fig. 1:
+Cloud gaming architecture.
+
+View All
+
+As shown in the Fig. 1, the cloud gaming platform receives gaming commands from the user and using the Game logic, it renders the video scenes, which is then encoded and compressed by the video encoder. At the user end, the video frames are decoded by the video decoder and displayed on the screen. It is called a thin client because it uses only two less sophisticated components, namely: (i) command receiver, which gets the input from gaming devices like keyboard, mouse, joystick etc. and, (ii) Video decoder, which can be made using decoder ICs.
+
+SECTION II.Motivation
+GPU processing and CPU computation determine the frame per second (FPS). Fig. 2 shows the GPU computation model for various application which includes gaming. The GPU computation model is processed in an infinite loop, in which each frame is determined by exactly one loop.
+
+Here, the UploadComputeKernel function sends the computation program to the Graphical Processing Unit and the DeclareThreadsGrid identifies the number of threads. After this step, each iteration of the loop performs a job such as a frame drawing. There are three stages involved in each iteration. (i) Data is generated for CPUComputation method such as calculating the number of objects in the frame using the game logic. (ii). That data is copied from the memory and Queued to the GPU buffer for scheduling the threads to perform the rendering of the frame using DisapatchComputation function (iii) The Frame is rendered in the VGA buffer and the output is displayed on the screen using DisplayBuffer function. [2].
+
+Figure 2
+Fig. 2:
+Flowchart depicting GPU computation model
+
+View All
+
+A. The Incompetence of the Default GPU Sharing Algorithm
+GPU virtualization is not extensively applied in cloud server due to its inferior performance of the default resource sheduling algorithm. For example, VMware player default GPU sharing mechanism allocates resources in the first-come-first-serve basis. Therefore, Service Level Agreement(SLA) of the VMs may not be able to satisfy. Another reason is that VMs are required to run on the single server; hence they suffer performance variation in cloud gaming platform [3]. While GPU cards have been virtualized to a certain degree, their performance is not up to the mark. This is because when multiple virtual Machines try to access a single GPU, they require high memory bandwidth and multitasking make a virtualized GPU a poor performer [4].
+
+B. GPU Passthrough Experiments
+Some experiments are performed to show the inefficiency of the GPU sharing mechanism. Window 10 is chosen as host for evaluating the performance of each workload. For benchmarking, Futuremark's widely deployed 3DMark6 benchmarking tool is used. Specifically, we use GT-1(Firefly Forest) module and GT-2(Return to Proxycon) which is a benchmark making use of DirectX feature of windows that emphases not only the 3-D rendering of the frame but also on the CPU computation [5]. The entire benchmark was run twice and the average Frame per second is Calculated. First, the benchmark is made to run on our bare metal window server to get a base value of Frame per second, then perform benchmarking on a virtual machine, assigning each VM, dedicated 1 GB of GPU memory and 8 GB of RAM. The test is performed on one VM, then on two VMs concurrently, then on three VMs concurrently, then on four VMs concurrently and finally on five VMs by concurrently running the 3Dmark06 Benchmarking.
+
+Fig. 3 shows the performance results. Firstly, looking at the average frame rate of Return To proxycon module on our bare metal, which achieves 62.82 Frames/sec. On our single VM experiment, Return To proxycon module achieves a frame rate of 55.7 frames/sec, which is a 11% degradation in performance. The two-VM case running concurrently the Return the proxycon Module gives average frame rate of 40.54 frames/sec, which is 35.47% degradation in performance as compared to bare metal. Three and four VMs running concurrently gives an average frame rate of 30.66 frames per second and 28.54 frames per second respectively. Five VMs running concurrently gives an average frame rate and 21.45 frames per second, which is 65.85% degradation in performance as compared to Bare Metal.
+
+Figure 3
+Fig. 3:
+Performance frame rate on running different number of VMs simultaneously
+
+View All
+
+Similarly, the firefly forest module achieves an average frame rate of 51.45 frames/sec when running on Bare Metal. On one-VM, it achieves an average frame rate of 41.5 frames/sec, which is 19.33% degradation in performance. In two-VM, the performance further degrades by 42.7% achieving an average frame rate of 29.49 frames/sec. Three and four VMs running concurrently gives an average frame rate of 26.9 frames per second and 23.76 frames per second respectively. Five VMs running concurrently gives an average frame rate of 20.27 frames per second, which is 60.6% degradation in performance as compared to bare metal.
+
+SECTION III.Related Work
+To cope up with the increasing demand of large number of online gaming users, high quality, sustainable and robust cloud gaming infrastructure is required. Many research have been done in this field on different domain of cloud gaming.
+
+A. Gaming Over Cloud
+In paper [6], De Winter et al. have designed a framework for streaming and interacting games on thin clients. This system locally renders some of the game scenes hence saving the bandwidth requirement. To understand the performance of these thin clients, Chang et al. have proposed a method to find the performance even on closed sourced gaming platforms [7]. A follow-up study was carried on latency issues of thin clients by Lee et al. on a different configuration of network and bandwidth [8]. In paper [9], a recent study on commercially available cloud gaming platform, OnLive [10], has been analyzed its bit rates, size of packets and Round-trip delay(RTT). Further in paper [11], Shea et al. have measured the performance of OnLive under the different realtime condition such as bandwidth and network, identifying vital aspects of deploying cloud gaming. In paper [12] and [13], Chen et al., and Vankeirsbilck et al. have proposed various measurement to assess the quality of service of cloud application including cloud gaming. A lot of work has also been done in optimizing the deployment of cloud gaming [14]–[15][16]. Looking at commercial cloud gaming system, research paper [17], Lee et al. have proposed a design that delivers real time gaming activity despite network latencies. In paper [18], Huang et al. have developed an open source gaming platform known as GamingAnywhere, which can be deployed on Android OS also.
+
+B. Resource Allocation
+Significant work has been done on both Cloud Scheduling and VMs' placement, to enhance the quality of experience of gaming service. In paper [19], Wang et al. shows that with appropriate scheduling of different instances of cloud, cloud gaming servers could be made wireless networking aware. Their simulation results demonstrate an increase in performance and decrease in cost for cloud gaming platforms. In paper [20], Hong et al. have developed a VM placement strategy for cloud gaming which is Quality of Experience(QOE) aware. Moreover, research has been done for increasing the proper utilization of resource allocation and distribution on Massive multi-player online games(MMOG) [21]. A resource allocation policy [22] is proposed based on the end timing of each game session. This strategy reduces the number of instances required to meet client need hence decreasing the operation cost. They also stated that conventional placement algorithm such as first-fit and best-fit algorithm are not effective for cloud gaming.
+
+C. Virtualization Techniques
+Even though a dedicated GPU is not required for cloud computing workloads, cloud gaming servers need to render 3-D scenes, hence they require access to such devices. As such VM and GPU virtualization have been studied to guarantee adequate GPU resource is available to cloud gaming servers. An architecture for multiple-view rendering approach for cloud gaming servers sharing a single Graphical Processing Unit(GPU) is proposed in paper [23]. Ground-breaking research has also been done on GPU sharing and resource allocation in cloud gaming data centers [2], [3]. This research shows that with proper utilization of resources, we can enhance the GPU virtualization performance for the users, while sharing only a single GPU. In paper [24], Hong et al. have performed a series of experiments where they discovered that the issue with frame rate present in virtualized cloud gaming platform can be solved by applying a mediated pass-through.
+
+SECTION IV.Methodology
+A. GPU Paravirtualization
+There are several virtualization techniques such as Platform Virtualization, GPU virtualization and GPU Pass-through. All these techniques aim to accomplish proper use of GPU in a virtualized platform. First, talking about Platform Virtualization, it emphases on creating Virtual Machines and keep them running in isolation. It has two types, namely, Paravirtualization Machine and Hardware Virtual Machine. Paravirtualization Machine is one of the first implemented version of Platform virtualization and is still used extensively. It needs special kernels and drivers to dispatch privileged system calls, hence it requires modified Operating System to function properly with Hypervisor. In contrast, HVM does not require modified Operating System [5].
+
+Paravirtualization provides a Virtual machine with a software interface which is very dissimilar from its underlying hardware counterpart. This interface decreases the operating cost of the process which is harder to run in a Virtualized environment. The guest Operating System should be modified to use the latest interface, but in the case of proprietary OS, this cannot be done. Therefore, it is done using paravirtualization aware device drivers. Fig. 4 shows a GPU paravirtualization architecture.
+
+Figure 4
+Fig. 4:
+GPU parairtualization architecture
+
+View All
+
+Following are the steps in which the GPU rendering task is done [2]:
+
+A standard GPU rendering API is called by the Virtual machine.
+
+GPU library such as OpenGL or Diret3D of the guest GPU prepares the content of GPU buffer and issue GPU command packets.
+
+The Packets are then queued into the virtual GPU I/O which are handled by the HostOps dispatch in the host system.
+
+Then, it transmits the command to the device driver in the host.
+
+The Adaptive scheduler will work at the host level and intercepts the GPU HostOps Dispatch. Adaptive scheduler will consist of a scheduling controller, monitor, VM scheduler, VM list and process ids. The scheduler receives feedback from the virtual machines running. The new architecture is shown in Fig. 5.
+
+Figure 5
+Fig. 5:
+Adaptive scheduler architecture based on paravirtualization technology
+
+View All
+
+B. Algorithm Overview
+Algorithm 1 Adaptive Scheduling Algorithm
+Algorithm 
+SECTION V.Implementation
+As shown in the Fig. 5, the adaptive scheduler resides on host Operating System. It intercepts the Direct3D library calls. Intercepting library calls becomes a key issue in Commercial Operating system where modification is not allowed for graphics libraries present in the Guest operating system and host operating system and on the graphic card driver.
+
+There are few methods for Graphics Library interception on Windows OS:
+
+Intercepting Direct3D API on windows can be done by modifying the hypervisor of VMs. Hypervisor which supports paravirtualization, redirect the graphics calls from the 3-D application to the corresponding Application Programming Interface on the host [2]. By modifying the redirection procedure and inserting adaptive scheduling policies, we can achieve the task.
+
+Alternative approach to intercept library calls is by exploiting the message handling mechanism of Windows Operating System. The technology is known as Hook. It monitors the message loop of the application running in Windows OS [2].
+
+In our implementation, the second strategy is used known as hook technology. The greatest advantage of this is that there is no need of modification of hypervisor, Host Operating System and graphic device drivers. In hook technique, an application can intercept a system call and specify another function to deal with it before it is sent to windows application [2].
+
+Hook Technique
+A hook is a window technique via which one can intercept messages and events such as mouse event of any application. It intercepts a window application by SetWindowHookEx system Call. The parameter of this system call is the event which should be intercepted. UnHookWindowHookEx is another system call which removes the hook from the hooked window application.
+
+A global queue of messages is maintained by the system in case of every event and activities such as Right mouse clicking, or pressing from the keyboard. All these messages are enqueued in the global queue. The windows dispatch these messages one by one to their respective application. The windows application also maintains a local queue to store these messages and then it processes these messages from the local queue using a loop. The loop ends when an exit message is sent by the application. In each loop iteration, one message is picked from the local queue and callback function is called to process it. Hook technique just exploits the loop by intercepting the messages prior to the default loop process of the application process it.
+
+With the help of window's hook technology, it first calls SetWindowHookEx in the InstallHook function. This function hooks the process either by given name or process ID. The address of the DisplayBuffer is then passed from graphics library and the hook procedure to SetWindowHookEx function. Thus, now one can monitor all the virtual machine running on window OS. When the VMs invoke a DislayBuffer Function to render its frame, HookProcedure function is called. Important information like current frame per second is collected by the monitor from all the VMs.
+
+AdaptiveScheduling function specifies the scheduling policy being implemented. After scheduling is done, DisplayBuffer is again called just to make sure that original frame rendering mechanism is correctly functioning. Finally, a UninstallHook function is invoked to remove the Hook procedure from the VMs.
+
+SECTION VI.Results
+After implementing the adaptive algorithm using Easy Hook, 3DMark06 Benchmark was tested on all five VMs running simultaneously. Results are given in Table I. Return to Proxycon module and Firefly Forest module were tested on all the five VMs running simultaneously. The performance of both module is shown in Fig. 6.
+
+Table I: Average frame rate after scheduling on five VMs
+Table I:
+Figure 6
+Fig. 6:
+VMs performance after adaptive scheduling
+
+View All
+
+Return to proxycon module gave an average Frame rate of 32.26 FPS. Similarly, Firefly Forest module gave an average frame rate of 26.52 FPS. The results are within the 10–20% range of the performance shown when two VMs were running simultaneously. The criteria set of 25 FPS is being fulfilled by both the modules. On comparing with bare metal performance, both module have achieved 48% of average frame rate while all five VMs were running simultaneously sharing a single GPU.
+
+SECTION VII.Conclusion and Future Work
+In his paper, an adaptive scheduling algorithm is presented. The work done so far is done on single GPU sharing and the resolution was set at 720p (1280×1024 resolution). By examining the performance on VMware Workstation 12 by simultaneously running five VMs sharing a single GPU resource, the platform achieved 90% of the optimal performance equivalent of two VMs running simultaneously.
+
+Cloud Gaming is quickly evolving, specifically towards higher resolution such as 1080p (1920×1080 resolution) and 4K Ultra High Definition (3840×2160 resolution). Future work involves enabling 4K enabled cloud gaming servers using virtualization for a high immersive gaming experience. Also, GPU resource scheduling can be tested on more traffic intense and HD gaming on cloud and to work on other critical systems in cloud gaming such as video encoding and decoding, Quality of Experience and Adaptive transmission in real time streaming.
+
+Cloud Containers has also gained some momentum in recent time replacing the traditional virtualization technology. In container technology, the operating system remains common but all the application is made to run in isolation, thus reducing some overheads of system calls. Research can be done on deploying cloud gaming on Containers and evaluating their performance for sharing a single GPU.

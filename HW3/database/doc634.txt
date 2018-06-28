@@ -1,0 +1,25 @@
+How to Use Your Cell Phone As a Wi-Fi Hotspot
+
+Did you know you could use your cell phone as a wireless router to provide internet access to your laptop, tablet, and other Wi-Fi devices? Android and iOS devices have this Wi-Fi hotspot feature built right in with the software.
+
+Once the hotspot is configured, devices can connect to it just as easy as they can when connecting to any wireless network. They'll see the SSID and will need the custom password you chose during the hotspot setup.
+
+Wi-Fi Hotspot Features
+The Wi-Fi hotspot capabilities on the iPhone and Android are a type of tethering, but unlike other tethering options that work over USB or Bluetooth, you can connect multiple devices simultaneously.
+
+Cost: To use the service, your cell phone needs to have a data plan on its own. Some wireless carriers include hotspot features for free (such as Verizon) but others might charge a separate tethering or hotspot plan, which might run you around $15/month. However, sometimes you can get around this extra charge by rooting or jailbreaking your smartphone and using a tethering app to turn it into a wireless mobile hotspot.
+
+Here are the details for hotspot costs for some of the major cell phone carriers: AT&T, Verizon, T-Mobile, Sprint and U.S. Cellular.
+
+Security: By default, the wireless network you set up with your smartphone is usually encrypted with strong WPA2 security, so unauthorized users can't connect to your devices. For added security, if you're not prompted to set up a password, go into the settings to add or change the password.
+
+Downside: Using your phone as a wireless modem drains the battery life, so make sure you turn the Wi-Fi hotspot feature off after you're done using it. Also, see some other ways you can save battery when your phone is working as a hotspot.
+
+Where to Find the Wi-Fi Hotspot Settings
+The hotspot capability on smartphones are typically in the same area of the settings, and let you change similar options like the network name and password, and maybe even the security protocol.
+
+Android: The hotspot feature on Androids is called Portable Wi-Fi Hotspot or Tethering and Mobile HotSpot, and is normally found in Settings > Connections.
+iPhone: For iPhones, it's labeled as Personal Hotspot on the front page of the Settings app. Older versions of iOS might need to go into Settings > General > Network first. See how to use your iPhone as a hotspot if you need help.
+BlackBerry: Look for the setting in Manage Connections > Wi-Fi > Mobile hotspot. To make changes to the settings might require you to access Options > Network and Connections > Mobile Hotspot Connections > Options.
+BlackBerry's give you finer control over the hotspot options, like letting you alter the wireless band, allow/disallow file transfers between the clients and auto-shutdown of the hotspot.
+Windows Phone: The hotspot section on Windows Phone is in Settings > Internet Sharing.

@@ -1,0 +1,38 @@
+The technology that wants to replace your smartphone is going to be everywhere in just a few weeks
+
+In the 10 years since the modern smartphone era began, the same question has been on everyone's mind: "What's next?"
+
+The smartphone hasn't even reached maturity, but everyone seems obsessed with killing it off in favor of something new.
+
+For awhile, it was thought to be wearables, with smartwatches finally helping us break our smartphone addiction. That one didn't shake out. And with the exception of the Apple Watch, smartwatches are mostly toast.
+
+Today, it's augmented reality (AR) that has the tech world hyperventilating. This is the concept that puts digital images on top of the real world. If you've ever played Pokémon GO or made a video with Snapchat's dancing hot dog, then you've experienced AR.
+
+But a lot of companies think it can go further than that. From Facebook to Apple to Google to startups like Magic Leap, there are more and more ideas about how AR could not only replace the smartphone, but every other screen we use.
+
+Facebook CEO Mark Zuckerberg summed up that theory pretty well in an April interview with The New York Times: "Think about how many of the things around us don't actually need to be physical," he said. "Instead of a $500 TV sitting in front of us, what's to keep us from one day having it be a $1 app?"
+
+That vision won't shake out for another several years, when technology has caught up to the point where people can wear computerized glasses all day without looking like goofballs. In the meantime, the technology that may end up killing the smartphone is finding a new life on those very same devices. You're going to see an explosion of new AR apps this fall on your smartphone, but it's not going to be the revolution promised by Zuckerberg, Apple CEO Tim Cook, and others.
+
+In a few weeks, Apple will release iOS 11, the new version of the iPhone and iPad operating system. The key feature: ARKit, which includes new tools that make it easy for developers to add AR to their apps. Before ARKit came along, developers needed a lot of resources to make AR work well on the iPhone. That was fine for the Snapchats and Facebooks of the world that have truckloads of money and armies of engineers, but not for the smaller shops that make the majority of the apps you find in the App Store.
+Now, anyone can bring AR to life on iOS. When iOS 11 launches, tens of millions of iPhones and iPads will suddenly be AR-ready, making iOS the largest AR platform in the world overnight.
+
+Apple isn't alone. On Tuesday, Google announced its own AR developer tool for Android called ARCore, which will only work with a few Android phones at first as developers build out their apps. Google plans to enable AR on about 100 million Android devices by the end of the year, and just about every new Android phone will be AR-ready out of the box by this time next year.
+
+There's already a hunger to start experimenting. Since Apple released ARKit to developers in June, we've seen a wide variety of clever AR apps. The other day, I tried Ikea's new shopping app for iOS 11 that lets you digitally place a piece of furniture you might want to buy in your home to see if it fits. No more tape measures or guessing. You can literally see what that couch will look like in your living room before you click the buy button.
+
+Then there are other experiments, like virtual tape measures and this cool "portal" concept that lets your walk through a doorway into a virtual world. (You can follow the Twitter account @madewithARKit for even more great examples in the works for iOS 11.) I'm sure Apple will have some other cool third-party AR apps to demo during the iPhone 8 event in a few weeks.
+
+AR isn't new to Android phones though. I've also been playing around with an Android phone that's powered by Google's Tango AR platform, which uses advanced sensors to scan your surroundings and create even more detailed environments than what you see with devices that just rely on the camera. But since Tango requires specialized hardware, the app selection is pretty pitiful, and most of it feels experimental. ARCore and ARKit will entice developers to get finally get creative and release their apps on a massive scale.
+
+"I think phones are the most widely distributed computer there is," Google's director of product for AR Nikhil Chandhok told me in an interview this week. "There are 3 to 5 billion phones in the world. There are market forces at work. Everyone is going to push on that access to innovation to get more out of the phone. AR is one manifestation."
+
+But so far, AR on the phone feels niche. It's great for goofy stuff like gaming and some practical tasks like shopping, but the limitations of the smartphone keeps the technology from being as disruptive as many have predicted. You'll still be using "normal" apps for just about everything for the foreseeable future.
+
+We're in the experimental phase for AR. People I've spoken to at Apple and Google don't even know how it'll play out. They figure they can release the tools developers need to make AR apps on the phone, and eventually someone will stumble onto something amazing. Maybe the next Instagram. Maybe the next Minecraft. Maybe nothing.
+
+Chandhok was bullish on the prospects of AR, saying it could enhance a lot of things we already do on the smartphone, like shopping, gaming, and even search. (This is Google, after all.)
+
+"So far, AR has only been talked about in the context of Snapchat... essentially toys," he said. "Very soon it can become very obvious for high-value scenarios, things people do every day that can be made better with AR."
+
+Apple and Google's AR push is a good first step, and lays the foundation for a few years from now when AR headsets no longer look like something out of a bad sci-fi movie. For now, the smartphone isn't going anywhere.

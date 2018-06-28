@@ -1,0 +1,35 @@
+Breakthroughs in AI will make your smartphone even smarter in 2018
+
+More and more smartphone users are using virtual assistants such as Google Assistant to enhance their mobile experiences. These voice-powered artificial intelligence (AI)-enhanced assistants are making it easier and faster to gain access to a wide range of services and information via your phone.
+
+Utilising your voice, you are able to ask your smartphone to compose a text message, read the news headlines or weather forecast as well as identify a song playing in the background or look up a quick fact on the web and so much more. We can expect to see AI and machine learning (computer systems that learn from the user’s experience without being programmed) become more advanced, allowing us to do even more with our mobile devices.
+
+There are two prevalent trends coming to the fore that promise to take AI and machine learning to the next level in 2018. The first of these is the integration of dedicated AI processors into smartphone hardware platforms, allowing mobile devices to handle the processing of AI-related tasks such as image and voice recognition more quickly and efficiently.
+
+The hardware will also enable smartphones to crunch machine learning algorithms and complete many complex AI tasks without connecting to the Internet. For example, an AI-powered app on your smartphone will soon allow you to translate speech or writing in real-time, even if you’re in a foreign country and don’t have access to an Internet connection.
+
+Gartner predicts that 80% of smartphones will be equipped with on-device AI capabilities by 2022, up from less than 10% right now.
+
+The second trend relates to tools that make it easier for software developers to embed AI and machine learning into their applications—for example, they will be able to use these tools to create algorithms that let their apps learn from and adapt to your behaviour. Oreo, the latest version of the Android operating system, for instance, includes an application programming interface (API), which helps developers to take advantage of AI hardware to execute AI and machine learning tasks.
+
+Some examples of the features and functionality we can expect on our smartphones in the next few months include:
+
+Enhanced augmented reality (AR) apps: AI will play an important role in unlocking the potential of AR—a technology that captures the world through a mobile device camera and puts a digital overlay on the video and image the user sees on the display. Google, for example, is bringing the Google Lens AR technology and Google Assistant closer together.
+
+One example of an application that blends AR and AI is using Google Assistant to identify a flower which the user has pointed his or her camera to. Or imagine walking through a shopping mall and getting user reviews and informational annotations about the restaurants around you on your smartphone’s display.
+
+A helping hand with your photography: Smart software has helped to improve smartphone photography by leaps and bounds over the last few years. But new AI and machine learning features will help anyone take photos like a pro in the years to come. For example, it will become increasingly common for AI to help you adjust your photography settings according to the subject in the camera frame, be it a night scene, a landscape, a picture of your dinner or a selfie.
+
+AI will also be able to do touch-ups for you in real-time, such as enhancing facial features. Google and MIT have already announced a system that uses machine learning to retouch smartphone photos, before you even take the snap. While you’re framing the photo, the technology displays what the final, touched-up version will look like. Such a system could, potentially, learn about your aesthetic tastes and suggest appropriate tweaks to your pics.
+
+A phone that adapts to your needs: Virtual assistants will soon become more proactive about organising your life and your device. Your smartphone might learn how you switch to silent before you go to bed at 9pm, turn notifications on when you leave for work at 7am on weekday mornings, and turn Bluetooth on when you get into your car at around 7:30am. It may also track how and when you use apps, cueing your fitness monitor when you head for the gym at 5:30pm.
+
+As the smartphone monitors and learns from your behaviour, it will automate many tasks for you rather than you worrying about configuring the settings. It could, perhaps, even dramatically optimise the performance and efficiency of your battery, data and processor usage in response to your behaviour.
+
+The potential becomes even more amazing when one starts to think about how your smart home and smart car devices could interact with your smartphone in the future. For example, what if your smartphone alerted your home thermostat when you were on your way home, so that it could adjust the temperature in anticipation of your arrival?
+
+More accurate and responsive biometric recognition: Improvements to AI will make features such as facial and voice recognition smoother, faster and more accurate. That will make features such as unlocking your phone with voice or facial recognition a lot snappier, which could mean the end of remembering pin codes and passwords to secure your phone.
+
+Gartner Research Director, CK Lu, sums up the future potential of AI like this: “Future AI capabilities will allow smartphones to learn, plan and solve problems for users. This isn’t just about making the smartphone smarter, but providing a more advanced user experience and reducing users’ cognitive load.” It may be early days for AI, but the next few years will see it change our lives for the better.
+
+By Ernst Wittmann, Regional Manager – Southern and East Africa at TCL

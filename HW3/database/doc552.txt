@@ -1,0 +1,11 @@
+Nvidia pushes further into mainstream computing. Nvidia announces new chip architecture. Focuses further on servers and mobile computing
+By Ian Sherr and Clare Baldwin. Nvidia Corp (NVDA.O) said it will ship its new chip architecture in the next few months, strengthening its position in computer processing while promising improved graphics performance across its chip offerings.
+The company, which made its name selling specialty computer graphics chips designed for gaming, on Wednesday demonstrated a new chip architecture code-named "Fermi," which Nvidia's Chief Executive Jen-Hsun Huang said will roll out in the next few months across the company's GeForce, Quadro and Tesla graphics processors.
+"It's a brand new architecture which is designed to be a computer first," Huang said at a computer developer conference in San Jose.
+Fermi's list of features include support for more programming languages such as Microsoft Corp's (MSFT.O) Visual Studio and the C++ programming language, and an eight-fold increase in so-called "peak double precision arithmetic," which the company said is critical for applications such as linear algebra, numerical simulation, and quantum chemistry.
+"We call it a supercomputer with the soul of a GPU (Graphics Processing Unit)," Huang said, adding that the new chip architecture will perform both graphics and computer processes equally, while delivering still better performance.
+Over the past few years, Nvidia has shifted its emphasis from desktop graphics to high-end servers and supercomputers with the release of its Tesla chips, and to low-end markets like netbooks, and mobile devices like Microsoft's new Zune HD media player.
+"We have 100 percent share of a $10 million business," Huang said of the company's Tesla chips, which he said netted the company $10 million in the last quarter.
+He added that he sees "GPU-computing" as a new multibillion-dollar business opportunity in the next few years.
+"The PC has matured," Huang said of his core business market. "All of the interesting stuff is in the cloud (servers) or in little devices."
+He added, "Hopefully we can create a brand new market of multiple billions of users of computing devices spread out all over the globe, all over the Internet." (Editing by Lincoln Feast)

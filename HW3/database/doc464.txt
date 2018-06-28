@@ -1,0 +1,19 @@
+Samsung releases smaller, faster 64GB smartphone memory
+
+Samsung on Thursday announced a new 64GB memory chip for smartphones and tablets, which it says is 20 percent smaller and a third faster than current technology.
+
+The company said its new 64GB eMMC (embedded multimedia card) reads data sequentially at up to 260 megabytes per second and writes at up to 50 megabytes per second, 10 times faster than Class-10 rated external memory cards.
+
+The chips are made using Samsung¡¯s 10-nanometer class fabrication, and the company said it began production late last month. Shrinking the size of components allows for more efficient manufacturing and parts that draw less power.
+
+Smartphones with 64GB of memory are still relatively rare, and most phones have an external memory slot for more storage. High-speed data networks are also allowing more data to be stored online, although most high-definition content is still downloaded and viewed locally.
+
+For phone manufacturers, adding more memory is a way to increase margins. Apple¡¯s top-end iPhone has 64GB of memory, and in the U.S. costs $200 more than its 16GB version. Samsung recently released a version of its flagship Galaxy SIII with 64GB of built-in memory.
+
+Samsung said the latest memory chip is called the ¡°64GB eMMC Pro Class 2000,¡± a level up from the current ¡°Pro Class 1500¡± chips. The slower class reads data at up to 140 megabytes per second and writes it at up to 50 megabytes per second.
+
+The new memory chip measures 11.5mm by 13mm, compared to 12mm by 16mm for previous iterations.
+
+In September, Samsung announced a massive 128GB eMMC chip for smartphones and other mobile devices, which is expected to begin appearing in phones for next year. That chips is part of its Pro Class 1500 lineup.
+
+The company said it can manufacture the latest chips on its existing factory lines used for previous generations of chips, making its operations more efficient.

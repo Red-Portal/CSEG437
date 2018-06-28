@@ -1,0 +1,79 @@
+Department of Computer Science
+Lund University
+
+
+Game Engine Technology
+EDA046/DATN13 - 2009   
+
+ 
+ 
+
+Introduction
+In this course you will study real-time computer graphics engines, also called game engines. The game engine is the fundamental piece of software necessary for simulating and rendering virtual worlds. It deals with issues of scene graph management, providing efficient input to a renderer, today usually a hardware implementation of the OpenGL or Direct3D API. It must provide the ability to simulate complex and moving objects in a physically realistic way. It usually also supports collision detection, curved surfaces as well as polygonal models, animation of characters, geometric level of detail, terrain management and culling techniques. 
+
+
+
+Prerequisites
+LTH EDA221 Computer Graphics 
+NatFak    DATE12 Computer Graphics 
+
+
+
+Lectures
+All lectures take place on Wednesdays 10-12 in E:1406. 
+1   21/1   Introduction 
+2  28/1  Visibility management 
+3   4/2  Physics and collision detection 
+4  11/2  Character support, AI 
+5  18/2  Networked multiplayer issues 
+6    -  
+7  4/3  Summary 
+
+
+
+Programming assignments and seminars
+Through a number of programming assignments you will get hands-on experience with the software modules typically found in modern game engines. As a basis for the assignments we will use a simple game engine written in Python. 
+
+All seminars take place on Thursdays 10-12 in E:C. The schedule for the assignments and seminars is as follows: 
+1     Self studies. No assignment.     Seminar 22/1  
+2     Visibility management & Project introduction.     Seminar 29/1  
+3     Physics and collision detection     Seminar 5/2  
+4     Character support and AI     Seminar 12/2  
+5     Network support     Seminar 19/2  
+6     -  
+7     Project approval     Guest lecture. Calle Lejdfors, IO Interactive 5/3  
+
+The first assignment is presented in week one with a deadline in week three. From there on each assignment is presented the week before its deadline. You can work on the assignments on the computers in rooms Saturnus and Pluto which have the relevant software installed. If you want to work on the assignments on your own computer just follow this guide for installing Python and all relevant packages and tools.
+
+Assignments 1-3 are to be presented for approval in Pluto computer room on Tuesdays 8-12 and 13-17 and assignment 4 Tuesday 8-12 in Saturnus and Uranus. Seats must be booked in advance, which you can do here. The assignments are to be completed in pairs.
+
+You must strictly make the deadlines for the assignments in order to pass the course. In case you run into problems with a deadline for some assignment you need to make an agreement in advance with the course coordinator. The assignments are to be done in pairs.
+
+
+Project
+The course also includes a project assignment. In the project work you implement a computer game of your own design using the knowledge and techniques you have acquired during the course. More information about the project can be found here. The projects are to be presented on Tuesday 8-12 in the last week of the course in Saturnus and Uranus 
+
+The projects of this year's course are collected here. 
+Course literature
+Watt & Policarpo, 3D Games - Real-time rendering and Software Technology, Addison-Wesley, 2000. ISBN: 0-201-619210-0. 
+
+
+News and notifications
+Notifications from teachers and news in general regarding the course will be posted on this rss feed. Make sure you either subscribe to it or check it regularly. 
+Teachers
+Lennart Ohlsson, lecturer. Room: E2191 
+
+
+Examination
+The examination on this course is by means of a written exam. To take the exam you need to have the four mandatory assignments approved.
+
+The exam takes place on March 11, 8-13 in Gasque. Make-up exam is April 20. The exam is available here.
+
+Here are the exams of 
+March 2008 and August 2008. 
+March 2007 and April 2007. 
+March 2006 and April 2006. 
+March 2005 and August 2005. 
+March 2004 and April 2004. 
+March 2003 and April 2003. 
+English versions of March 2005 and March 2006. 

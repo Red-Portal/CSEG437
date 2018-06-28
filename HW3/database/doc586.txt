@@ -1,0 +1,81 @@
+﻿What is ARKit 2? Here's what you need to know about Apple's latest AR update
+
+Apple's big WWDC 2018 keynote introduced iOS 12 to the world, and one of the key new features of the updated mobile operating system is ARKit 2.
+
+ARKit 2 is the newest version of ARKit, the framework Apple announced at last year's WWDC that allows developers to create augmented reality (AR) apps and games for the iPhone and iPad.
+
+The first ARKit instantly turned hundreds of millions of iPhones and iPads into AR-compatible machines as users could suddenly overlay digital objects onto the real world – with the right applications, of course. 
+
+With ARKit 2, Apple is going even further. We've outlined the big changes ARKit 2 brings forth below. We'll also dive into what the updated framework could mean for Apple's AR ambitions going forward.
+
+Shared experiences
+The ARKit 2 feature that users will get the most enjoyment out of is shared experiences. This means that two or more people can see and interact with the same AR app or game using different devices at the same time. 
+
+Think of shared experiences as multiplayer for AR.
+
+To demonstrate ARKit 2's multiplayer powers, Lego Director of Innovation Martin Sanders came on stage to show how an ordinary Lego play set could be amplified by the new framework. 
+
+To take it up a few more notches someone else from the brand joined Sanders, and the two (armed with iPads) began adding characters like Lego Batman and buildings to the same AR scene.  
+
+Not only could each player add characters and other elements that the other could see and interact with, but they were also able to conduct a rescue mission together. 
+
+Upon successfully completing the mission, the game unlocked a new car for the two players. 
+
+ARKit 2
+
+Shared experiences is an important addition to ARKit because it means AR on the iPhone and iPad is no longer a solitary experience. 
+
+Never again does a friend have to peer over your shoulder to see the AR world you're seeing; with ARKit 2 apps, you and your friends can see the same worlds and play together. 
+
+This has huge implications for games like Pokemon Go and others that could let you interact with, work with or compete against your friends in real-time.
+
+Google announced similar capabilities for its AR platform in the form of Cloud Anchors at this year's IO conference, so ARKit 2 brings Apple more closely in line with its biggest rival. 
+
+This is all neat, of course, but we'll have to wait and see how users take to shared experiences in ARKit when it becomes available with iOS 12 in September.
+
+Persistent tracking
+Another new ARKit 2 feature today's Lego demonstration served to highlight is persistent tracking. 
+
+Now, when you've placed a 3D object into an AR world, the object will stay there. Other users will be able to see it and interact with it, adding another level of immersion and player-to-player interaction.
+
+ARKit 2
+
+Of course, you can also see the objects you've left behind and tinker with them yourself. You can be a little selfish with ARKit 2, if that's the sort of thing that's been holding you back from entering the virtual world.
+
+Measure app and 3D object detection
+Also making its way in ARKit 2 is an app called Measure that, well, lets you measure stuff. 
+
+The neat thing about this app is that it shows off ARKit 2's improved object detection powers. It can sense and take accurate measurements of items like suitcases and even the dimensions of a photo, all with a drag of your finger across the screen.
+
+And with 3D object detection, ARKit 2 can pick up objects of varying shapes and sizes with much greater accuracy. 
+
+The first version of ARKit could detect flat items like tables well enough, but 3D object detection lets the framework know when it's looking at something that's got more than two sides. 
+
+A new file format
+Before you glaze over this section, know that ARKit 2's new file format means you can send AR objects across multiple platforms, which makes creating apps with cool animations that much easier. 
+
+Co-developed with Pixar, the new format is called Universal Scene Description (USDZ) and is optimized for sharing, Apple says. Adobe also plans to support USDZ, making it much easier to use the new format.
+
+ARKit 2
+
+With USDZ, AR-generated images can be sent over Messages or Mail, then viewed through a phone or tablet in the real-world. 
+
+This could greatly expand the reach of AR experiences; image saving and sharing something you created over Messages, then mailing it to a friend who can view it and start manipulating it through their phone. Pretty nifty. 
+
+What does ARKit 2 mean for Apple's AR future?
+
+Apple is not slowing down when it comes to AR development, as evidenced by ARKit 2 and all the new features coming with it. 
+
+This is good news for those who are looking forward to a future where we're using our phones and tablets for much than blankly clicking and tapping on a 2D screen.
+
+With ARKit 2, Apple is setting an AR course for the next several years, a course that, crucially, revolves around AR being a social experience. 
+
+Apple CEO Tim Cook has previously stated that he prefers AR over virtual reality because the former lets you stay present in the real world while also enhancing it. VR, by contrast, is defined by blocking out what's around you to fully immerse you in a digitally rendered realm.
+
+ARKit 2's shared experiences hit on exactly what Cook wants to achieve; a digital enhancement to the real-world that lets you interact with another person, both IRL and in AR.
+
+This could come to the fore in Apple's rumored AR glasses; users will be able to see the same scene through their lenses, each manipulating it in their own way. 
+
+At the same time, an Apple VR headset with AR capabilities is said to be in the works, so how Apple reconciles the stark differences between the two technologies remains to be seen.
+
+What we can say is that social interaction in AR is clearly important to Apple, so chances are we'll see features that support social features front and center whenever Apple makes its own glasses or headset... or both.

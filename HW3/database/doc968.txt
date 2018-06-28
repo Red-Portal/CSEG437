@@ -1,0 +1,17 @@
+iOS 12 will reportedly fix the iPhone X's most annoying quirks
+No, not the notch. That's on you.
+
+Ever noticed your iPhone X's camera roll filling up with unintentional screenshots -- because you accidentally press the physical buttons when fishing it out of your pocket or purse? Ever wondered why it's so hard to force-close an app?
+
+Reportedly, both of these issues will be fixed when iOS 12 arrives this fall (likely September). Because in addition to all the features Apple mentioned during its WWDC keynote, and a whole bunch of features it didn't, developers have reportedly discovered that:
+
+1) The iPhone X now won't take screenshots unless the screen has already been on for a while (Reddit via Mashable)
+
+2) You can simply swipe up on apps to force-close them, instead of holding down on the screen first (Dom Esposito, also via Mashable)
+
+You might be wondering: Are these issues really a big deal? Well, CNET's Shara Tibken told me she takes "about 500 accidental screenshots a day," which is probably a slight exaggeration but to be fair she was trying to get my attention in a hurry. Meanwhile, Gizmodo called it "the worst thing about the iPhone X," linking to half a dozen annoyed forum posts as evidence. 
+
+I think a better question is the one Dom Esposito suggests in the tweet above: why wasn't it this way all along?
+
+Apple didn't immediately reply to a request for comment.
+

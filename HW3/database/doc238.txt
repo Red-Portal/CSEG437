@@ -1,0 +1,12 @@
+Malware for Mobiles Coming, Say ResearchersBy Mimi Li
+Epoch Times Staff Created: Oct 6, 2010 Last Updated: Oct 6, 2010
+
+Malware for mobile phones will arrive in the near future, computer analysts said. (Kim Jae-Hwan/AFP/Getty Images) Malware exploits are being created and will target smartphones in the near future, computer analysts said at a meeting of the Messaging Anti-Abuse Working Group this week.
+
+Mobile malware detections have been on the rise since last year and an outbreak "might actually, finally, [happen this] year," Tim Armstrong, analyst with cybersecurity company Kaspersky Lab, said.
+
+Malware, or malicious software, attempts to access a technological device?in this case, smartphones?without the user's consent, to activate viruses, spyware, or other detrimental programs.
+
+Although mobile malware attempts have been unsuccessful thus far, analysts say that future malware might be more complex and harder to fix.
+
+"It's only a matter of time before we see some really huge malware infections," Armstrong said.

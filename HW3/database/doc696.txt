@@ -1,0 +1,52 @@
+The impossible has happened: Testing Radeon and GeForce together in DirectX 12
+The weather forecast for hell is snow. And, yes, those are pigs taking flight. Indeed, one of the most unthinkable events in PC gaming is underway thanks to DirectX 12: GeForce and Radeon cards can run side-by-side in a single PC.
+
+The long-touted, but not quite public feature in DX12 that makes this possible is Explicit Multi-GPU. It lets games parcel out graphics chores to any GPU that supports a multi-GPU mode.
+
+Why this matters: For anyone who doesn’t follow gaming hardware that closely, the feature is akin to running Apple iOS on a Samsung Galaxy S7, or even more unlikely, a combined Yankees/Red Sox team cheered on by a harmonious New York/Boston crowd.
+
+Explicit Multi-GPU mode has been teased before in previews, and while it's still technically in beta, the feature will make its debut in Stardock’s Ashes of the Singularity when the game launches next month.
+
+The game has been the showcase for all the wonders that are possible in DirectX 12. Last year I used an older preview to test how insanely DirectX 12 will scale with multicore CPUs.This time, Ashes is back with its Beta II build that enables Explicit Multi-GPU with the simple click of a checkbox.
+
+To run different DX12 GPUs, a game must support the option, which you can see here in Ashes of the Singularity.
+How I tested
+As the game is heavily multithreaded, Stardock recommends testing with a quad-core CPU at a minimum, and at least 16GB of RAM. For my test, I used an 8-core Core i7-5960X, 32GB of RAM, and Windows 10. For drivers, I used the latest public WHQL drivers for each brand of card. AMD actually forwarded a driver that enables yet another performance mode called Asynchronous Compute. I didn’t have time to test that mode but once I do, I’ll update my story.
+
+For GPUs, I selected a pair of stock Nvidia GeForce GTX 980 GPUs and a stock AMD Fury X. Note: The test I’m running is not to compare a $500 GeForce GTX 980 card against a $650 Fury X in performance, it’s to see what you get when you mix the two together. Repeat: This is not a test of GeForce GTX 980 vs. Fury X.
+
+The game runs through a typical RTS game with a Dan Bilzerian amount of units on the screen. As the game touts itself as “planetary warfare on a massive scale” that’s no surprise.
+
+Ashes of the Singularity is the showcase title for what will be possible with DirectX 12 games.
+For my test run, I picked the “Crazy” preset and a fairly sedate resolution of 2560x1600, or  4 megapixels, which is about half that of an Ultra HD 4K monitor. I ran two GeForce GTX 980s with SLI, a single GeForce GTX 980 and a single Fury X, and finally, the Radeon and GeForce combined. First up is the proof that the impossible is now possible: Bam!
+
+Proof: a GeForce and Radeon actually working together!
+
+When you’ve been around the Nvidia and AMD rivalry as long as I have, it’s hard to imagine a reality free of worry about which camp to side with. It's a real heartwarming, “Can’t we all just get along moment,” right?
+
+Of course, none of this matters if the performance isn’t there so here are the results:
+
+Ashes of The Singularity allows GPUs of any manufacture to work together
+
+I'll channel Captain Obvious here and say that the more expensive Fury X is faster than the GeForce GTX 980 card. What’s of actual interest is the scaling between the brands. The chart above shows reasonable scaling in my setup by adding the Radeon to the GeForce: just under a 46 percent increase when the GeForce GTX 980 is combined with the Fury X. That seems like a pretty decent achievement when you consider that going from one to two GeForce GTX 980s scales at roughly 55 percent. In other words, there isn't a huge disadvantage to using the two different brands. 
+
+Also of interest is performance in SLI vs. Ashes’ Multiple GPU setting. I ran with SLI enabled and disabled in the Nvidia drivers and actually saw better performance with SLI switched off and the game’s Multiple GPU mode on. 
+
+While scaling with SLI was 55 percent, I saw closer to 75 percent scaling with Multiple GPU on and SLI off. That’s pretty close to Stardock’s own predictions: The company says you should see 70 percent, but only when using two cards of the same make and model. I’ve reached out to Stardock for an explanation of the differences between its settings and SLI but haven’t heard back yet.
+
+One caveat with Explicit Multi-GPU support is it requires developer support to enable it, as with Ashes of the Singularity.
+
+
+Don’t jump for joy just yet
+If you’re jumping for joy at not being shackled to the old model of buying the same make/model for a CrossFire or SLI setup, you should temper your excitement. While DirectX 12 enables Explicit Multi-GPU support, it’s entirely up to developers to support it. Yes, Stardock’s Ashes of the Singularity will support it when released next month but that doesn’t mean everyone else will right away, or even at all.
+
+If you roll with a GeForce GTX 980 Ti and decide to buy a Fury X to pair with it, you’d only really see a performance gain in one game, and less so than if you doubled up on the same make and model. I assume other developers will support the feature, but it’s pretty hard to justify a configuration that’s so limited today. 
+
+Conclusion
+I don’t want to be too much of a party pooper here because Explicit Multi-GPU is a big deal in the long term and here’s why:
+
+The last time we were able to combine different makes and models of GPUs was Lucidlogix’s Hydra technology in 2009. Its vendor-agnostic GPU support used a wonky hardware and software solution, but it kinda sorta worked. Hydra even had the funding of Intel. But trying to get Nvidia and AMD to go along with it ended as badly as expected. There’s even a reasonable rationale for it, too. After all, when things don’t work on a combined GeForce and Radeon PC, whose fault is it and who do you nag for support?
+
+The difference with Explicit Multi-GPU is it’s now baked into DirectX 12 as a standard. By default, that means AMD and Nvidia have to support it to an extent. If more developers support Explicit Multi-GPU’s  mix-and-match capability, it may soon be feasible to buy whatever GPU is on sale to meet your needs.
+
+Certainly, buying the same make and model is always optimal, but that doesn't always work out. Maybe someone gives you a hand-me-down GPU, or maybe you see a price that’s too good to pass up. That flexibility is perhaps the best feature of Explicit Multi-GPU.

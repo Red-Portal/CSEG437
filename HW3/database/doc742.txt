@@ -1,0 +1,19 @@
+Unreal Engine
+
+Unreal Engine 4 (UE4) is the next version of UDK (Unreal Development Kit). 
+It is brand new engine released by Epic Games. 
+This game development kit comes with immense options for mobile, PC as well as console game development. 
+UE4 encompasses stunning graphical capabilities like advanced dynamic lighting 
+and a new particle system that can handle up to a million particles in a scene simultaneously. 
+This is a definite treat for any 3D game developer.
+The new Unreal Engine 4 comes with many changes from its predecessor. 
+Unlike UDK, Unreal Engine 4 uses C++ as the scripting language, completely replacing the popular UnrealScript. 
+Also, the Kismet is replaced with a more user-friendly Blueprint system. 
+Because of these changes, even experienced game designers will go through a learning curve to master the updated version.
+There is also a change in pricing from $19/mo to a 5% royalty whenever the game is shipped. 
+This royalty will only apply if the earnings per game are more than $3000 per quarter. 
+These changes have made Unreal Engine 4 free for many developers which would likely increase market penetration of the tool. 
+Apart from Android and iOS, it can also be used for PC, Mac, Xbox One and PlayStation 4 game development. 
+It also comes with tools to leverage virtual reality and augmented reality technologies for mobile game development. 
+The versatility and capabilities of this tool can help you develop stunning games of any size 
+and quality making it an ideal choice for many mobile game developers.

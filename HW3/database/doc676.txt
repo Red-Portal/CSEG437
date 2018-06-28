@@ -1,0 +1,41 @@
+Energy Savings from Using Mobile Smart Technologies
+
+This paper presents the most recent results of energy saving benefits from the convergence of consumer products into a multi-function smart device,
+ such as a smartphone or tablet, compared to single-function products (e.g., an electronic clock). 
+The energy consumption of selected smart devices was tested using 42 frequently used applications and utilities (e.g., portable gaming, scanning, music players, etc.). 
+A range of Operating Systems (OS) were selected for testing: Android OS (Google), Blackberry OS (RIM), iOS (Apple), and Windows 7 OS (Microsoft). 
+Testing was conducted using the following smartphones: Blackberry Curve 9300, iPhone 4, Samsung Focus, Samsung Galaxy S; and tablets: iPad 2 and Samsung Galaxy Tablet 7".
+In order to investigate the battery consumption, two programs were developed in-house for iOS and Android platforms. 
+For the Windows phone, the built-in program was utilized, while a third-party application was used for the Blackberry phone. 
+To further test the battery, each device was also decoupled from its battery and hooked up through a measuring device and experiments were then repeated. 
+This study shows smart devices save consumers up to $150 annually compared to single-function devices in a range of applications. 
+The results from this study demonstrate how smart devices are transforming our society by providing superior functionality at a lesser cost in energy, 
+paving the way for other technologies to be integrated into smart devices, and energy reduction to continue.
+
+Index Terms -- Smartphone, Tablet, Smart Device, Energy Consumption, Energy Efficiency, Consumer Electronics, Mobile Technology.
+
+I.  INTRODUCTION
+Traditional consumer electronics were designed to perform a single function, and were rarely designed to act as multi-function devices. 
+Many single-function devices draw power constantly, even when turned off (e.g., stand-by, hibernation, or sleep mode), creating an increase in energy consumption [1], 
+and thus an increase in the monetary burden of the product. 
+The advent of smart devices has allowed software developers to create applications that reduce the necessity of owning many single-function devices.
+Replacing electronic products with software applications could effectively reduce household energy consumption, and simplify product purchasing and product maintenance.
+For this research, 4 smart-phones and 2 tablets were tested (see Table I) to validate the stated hypothesis: that there is a significant energy saving benefit by using a smart device versus several single-function devices;
+namely for smartphones: Samsung Focus, Samsung Galaxy S, Blackberry Curve 9300, iPhone 4; 
+and for tablets: Samsung Galaxy Tablet 
+Smart devices were chosen based on the U.S. market share of their OS in mid-2011 (Figure 1) [2]. 
+Android was shown to have the largest share of the market at approximately 36% followed by iOS at 26%. 
+Two devices were tested using each of these operating systems (i.e., smartphones and tablets). 
+Blackberry held 23% of the market in 2011 but the majority of their phones were not comparable with Android and iOS, as many did not support applications, 
+and were therefore not considered ¡°smart¡±. The Windows 7 OS did not hold a significant share of the market, so only one device was tested.
+
+All smart devices were subjected to invasive and non-invasive testing (using an internal software application as indicated in Table I). 
+The Samsung Focus (Windows 7 OS) had a built-in application for measuring energy consumption. 
+However, to non-invasively measure all smart devices in this study, several comparable applications had to be developed in-house to include those smart devices running Android and iOS. 
+The Blackberry Curve 9300 had a third-party application which was used to non-invasively measure battery consumption . 
+Figure 2 depicts the screen shots of all the applications used for non-invasive measurements.
+Three parameters were monitored during non-invasive testing to include battery life, battery temperature, and battery voltage. 
+Not all parameters could be tested on each device due to OS restrictions. Table II identifies those parameters supported by each device and application.
+
+A total of 42 applications were selected from a number of more popular applications reflecting a range of categories to include business, news, games, utilities, etc. 
+It was not possible to test all devices against all the applications. Nevertheless, a large number of applications were tested across most of the devices (see Table VI & VII).

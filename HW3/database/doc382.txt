@@ -1,0 +1,36 @@
+Game Developers Adopt Intel Technology to Enable Enhanced Graphics for Leading-Edge 3D Games
+
+SAN JOSE, Calif.--(BUSINESS WIRE)--March 17, 1999--
+
+Digimation, DreamWorks Interactive, Pandemic Studios
+
+and Valve License Intel Architecture Labs'
+
+Multi-Resolution Mesh Software
+
+Intel Corporation today announced delivery of its multi-resolution mesh (MRM) software technology to a key 3-D tool publisher and three leading game developers, allowing them to lower the cost and shorten the development time involved in creating compelling three-dimensional graphics in games.
+
+The technology, developed in the Intel Architecture Labs, enables game developers to easily create 3-D content that is authored once and automatically maximizes graphics performance and resolution to the available processing power on end user's PCs.
+
+Related Results
+Provision Interactive and MAKO Games Partner on Revolutionary Air Touch... 
+A Game Plan For Networking 
+Game Trading Technologies, Inc. Expands the Spectrum of GameBook Mobile to... 
+Gaming Partners International and International Game Technology Enter Into... 
+AVT Develops New Automated Game Redemption Machine 
+Intel has licensed its MRM technology to Digimation, a worldwide publisher and distributor of 3-D animation software, for inclusion in its MultiRes 1.0(a) plug-in for Kinetix 3D Studio MAX(a) and its MultiRes Software Toolkit. The Digimation MultiRes plug-in also supports the MetaStream(a) 3-D open file format, which was jointly developed by Intel and MetaCreations, in order to broadly enable streaming 3-D objects on the web.
+
+In addition, Intel has licensed its MRM software technology directly to leading game companies including Valve, Pandemic Studios, and DreamWorks Interactive, all of which will be releasing titles incorporating MRM technology later this year.
+
+"Intel's MRM technology is by far the most technically sophisticated, full featured, and easy to use level of detail technology available," said Ken Birdwell, senior developer at Valve, makers of the hit game Half-Life.(a) "Combined with our skeletal and parametric animation systems, MRM will allow us to create a Team Fortress 2(a) game that not only looks great on existing hardware but automatically adapts to future versions of hardware that we can only dream about today."
+
+"We are excited to incorporate this leading-edge technology into our tools, allowing developers greater control over their content creation," said David Avgikos, president of Digimation. "This will result in longer shelf life for game titles, since they'll continue to look better as higher performance processors reach the marketplace."
+
+"This technology allows developers to create scalable game titles that best utilize the power of the gamer's system, be it the highest end Pentium(R) III processor-based computer or a basic PC system," said David P. Ryan, director of marketing for the Intel Architecture Labs. "Our work with game developers is an example of our continued commitment to accelerate the industry's delivery of innovative software technology."
+
+Intel Architecture Labs has furthered MRM research by creating core technologies that maintain the highest quality 3-D content, even at very low resolution. The MRM technology also enables a simple, fast solution that is easy to integrate into a developer's game engine. Thus the developer has greater control over desired game performance and can even develop titles targeting the future's highest performance systems that will automatically adjust performance when viewed on today's PCs. Additional information about Intel Architecture Labs and MRM can be found at developer.intel.com/ial/.
+
+Intel, the world's largest chip maker, is also a leading manufacturer of computer, networking and communications products. Additional information about Intel is available at www.intel.com/pressroom.> Note to Editors: (a) Third party marks and brands are property of their respective holders.
+
+COPYRIGHT 1999 Business Wire 
+COPYRIGHT 2008 Gale, Cengage Learning 

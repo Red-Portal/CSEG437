@@ -1,0 +1,31 @@
+Starcraft 1.5 3D Conversion Maps
+
+Starcraft 1.5 is a totally converted modification for Warcraft III: The Frozen Throne. The project consists of single player and multiplayer maps designed and based on the original and newest Starcraft games. 
+
+Starcraft has become one of the most played games in the world and being a fan i took it upon myself to create totally converted Warcraft III: The Frozen Throne maps to look, and feel just like the Starcraft we all know and love.  The main difference with this project is I have added aspects of as many starcraft games that are out there and this is what I wish Starcraft to be like.
+
+I originally started this project with the goal of making a more balanced game, from my own point of view. As the years pasted the project's goal changed and i began to want to recreate the Starcraft game as it was original intended by Blizzard but with my own little tweaks to not just have fun with but to differentiate my project from all the other Starcraft projects around today.  
+
+ Features:
+- Three completely distinct races: Protoss, Terran, and Zerg 
+- Full multiplayer support with resource trading (no AI Scripting available yet) 
+- Material from Starcraft (Demo), Starcraft (Original), Starcraft: Brood War, Starcraft Ghost and Starcraft 2: Wings of Liberty included in the multiplayer maps.
+- Fast-paced, hard-hitting, tightly balanced competitive real-time strategy game play that recaptures and improves on the magic of the original Starcraft game. 
+- Recreated single-player campaign missions from the original and expansion games 
+ Starcraft (Demo) Material:
+- The Boot Camp Tutorial Campaign Mission
+ Starcraft (Original) Material:
+- Majority of the classic units and buildings from the original Starcraft game are present for Terran, Zerg and Protoss.
+ Starcraft: Brood War Material:
+- The Zerg Lurker unit is available for the Zerg race
+- The Protoss Dark Templar unit is available Protoss race
+ Starcraft Ghost Material:
+- The Grenade Launcher ability is available for Terran Marines
+- The Protoss Vindiccator unit is available for the Protoss race
+ Starcraft 2: Wings of Liberty Material:
+- The Terran Medivac Dropship unit is available for the Terran race
+- The Protoss Stalker unit is available for the Protoss race
+ Requirements:
+- Warcraft 3: Reign Of Chaos
+- Warcraft 3: The Frozen Throne (Expansion Set)
+- The latest's patches for Warcraft 3: TFT (current patch 1.24c)

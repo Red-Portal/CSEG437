@@ -1,0 +1,34 @@
+Smart-Phone IQ Test
+
+Testing smart phones is tough, because many of the phones have different operating systems and widely different feature sets. That makes an apples-to-apples performance comparison complicated.
+
+Rising to the challenge, we designed a slew of tests to gauge the intelligence of these phones. Our tests measure both basic phone features, such as audio quality and ringtones, and smart-phone features, such as office applications that take cell phones to the next level as PDA replacements.
+
+
+Our scorecard (page 98) boils down the 97 tests we performed on each phone. Some tests mark the presence of features, such as high-speed data transfer, voice commands, a camera flash, or external volume buttons. Other tests offer even more insight: talk times, the quality of their cameras, and their ability to use the phone with a Bluetooth modem.
+
+Spmark04 for Symbian Os Smart Phones
+
+For the six smart phones in our roundup running Symbian, we used a new testing suite called SPMark04 from FutureMark?maker of the 3DMark and PCMark benchmark tests we use for PC testing.
+
+SPMark04 produces three sets of results. System Score includes the 2D and PIM tests. The 3D score comes from only the 3D tests; so if you must have a phone that plays games, this is important. Beware, though, that best-in-the-industry 3D performance these days is still pretty poor. The SPMark04 score combines the two to give an overall performance impression. The Nokia 6620 achieved the best overall score, contributing to its selection as our Editors' Choice for phones without a keyboard.
+
+For gaming, the benchmark test measures the speed of 3D games by running a simulated helicopter game.
+
+For business, the tests calculate the speed of basic PIM features by inserting and deleting entries in a phone's contacts and calendar databases. The Nokia 6620's 150-MHz processor pushed that phone way ahead of the pack on business application tests.
+
+For photos, SPMark04 tests a phone's ability to scale and encode JPEG images used by the phone's camera and gallery applications. There, the Nokia 7610 posted far better scores than the other phones, because of hardware associated with its 1-megapixel (MP) camera. In addition, SPMark04 measures a phone's general 2D graphics performance, relevant for general UI performance. Both the Nokia 7610, with its advanced camera hardware, and the 6620, with its fast processor, did very well on the 2D tests.
+
+Battery Life Tests
+
+For our battery life score, we considered both our own lab-tested talk time and the manufacturer's estimated standby time; the final score was weighted 70/30 in favor of talk time. For our talk time test, we find a location where each phone has maximum signal strength, and call a special landline that recites a set of sentences continuously until each phone goes dead.
+
+Our test will typically give much longer talk time results than normal day-to-day use, where the average call length is about three minutes. Connecting calls uses more juice than making one ongoing call, and making many short calls lights up the phone's battery-gobbling backlight more often than our test does.) Yet it's still a good indication of how the phone will fare, and how it compares on a level playing field with the other phones.
+
+For example, we found that phones with Windows Smartphone have much shorter battery lives than other phones.
+
+Jury Tests
+
+Many of our tests require analysis; for example, we judge and compare sound quality by listening to a scripted message that we leave on an answering machine using each phone. And we photograph a simulated daylight scene in our photo lab using each phone's camera, then compare the quality of those photos.
+
+The Nokia 7610 came out best in our camera tests, and not just because of its 1-MP resolution; it had a truer, wider range of colors than any other phone

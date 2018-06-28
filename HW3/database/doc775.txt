@@ -1,0 +1,21 @@
+Dirac: High-Fidelity Audio for Your Smartphone
+
+The company¡¯s software minimizes the limitations of small speakers and headphones
+
+In the years since the iPhone was launched, in 2007, smartphone manufacturers have competed primarily on the size and resolution of their screens, touting display capabilities sometimes to the exclusion of anything else. But as mobile display technology matures, manufacturers are looking to other areas to distinguish themselves, such as sound.
+
+This is good news for a company like Dirac, which provides algorithmic audio-optimization tools. A few of the bigger brands around the world that already include Dirac¡¯s optimizations are Alcatel, Huawei, Infinix, Motorola, and Tecno. So when Dirac offered IEEE Spectrum a chance to try out its demo suite, I took it. I wanted to see if these tools really made a noticeable difference.
+
+First, I am not someone who could be considered, under any reasonable definition of the term, an audiophile. If anyone tries to talk to me about high fidelity, I¡¯m likely to just tune out. That¡¯s why I was so surprised when testing Dirac¡¯s tools. Not only was the audio difference arresting, but it was so superior that I was moderately bummed about going back to my own smartphone and earbuds.
+
+The problem with acoustic drivers?the components that actually vibrate in speakers and headphones to produce sound?is that as a general rule, going smaller results in compromising sound quality, particularly for lower tones like bass notes. Dirac has created optimizations for small drivers that improve audio quality, both for built-in smartphone speakers and external speakers.
+
+These optimizations come in two flavors. Dirac claims to be able to provide a surround sound?like experience with its Panorama Sound tuning, using just your phone¡¯s speakers. Meanwhile, its Power Sound tuning is supposed to improve clarity, especially by bringing out lower bass registers that are often lost with built-in smartphone speakers.
+
+Both settings do improve sound quality. Without Dirac¡¯s tuning, listening to the provided clips of rain-forest and city noises on a Huawei Nexus 6p smartphone was underwhelming, to say the least. An audio clip of a lion growling and roaring was tinny and weak. In fact, without knowing that the file in question was named ¡°Water Rain Lion Roar.wav,¡± I would have assumed I was listening to a pig snorting during a light afternoon shower. With Dirac¡¯s Panorama Sound, the lower tones of the lion¡¯s roar came out much clearer and stronger.
+
+Of course, clever software alone can¡¯t provide a true panoramic sound. After all, you¡¯re still limited to the smartphone¡¯s speakers. But it does widen the effect, making it seem as though the sound is originating from outside the speakers. It also makes the different tracks in a song¡¯s mix more discernible. It becomes clear how jumbled Madonna¡¯s recording of ¡°Hey Mr. D.J.¡± sounds without the tuning activated, once you¡¯ve heard it with the tuning on. Without it, everything other than Madonna¡¯s vocals falls into the background and is nearly lost.
+
+Unlike the Panorama Sound tuning, Dirac¡¯s Power Sound tuning emphasizes loudness without distortion, especially for bass-heavy songs. It handles songs like Daft Punk¡¯s hit ¡°Get Lucky¡± better even than Panorama Sound, where the bass is still slightly washed out compared with the guitar and vocals. But with Power Sound, the bass comes through clearly without being overwhelming.
+
+The last trick Dirac has up its sleeve is for headphones and earbuds. Dirac¡¯s filters for specific headphones and earbuds try to compensate for the particular foibles of specific models. A pair of Marshall Monitor headphones were provided, and without any of Dirac¡¯s filters activated, ¡°Get Lucky¡± boomed and echoed in a way that was dissatisfying after I listened to it with the Dirac filter designed for the Marshalls. Testing other filters, such as the Apple EarPods filter, with the same headphones made the song more unpleasant to listen to than with no filter at all. The EarPods filter in particular gave ¡°Get Lucky¡± an actively unpleasant amount of bass reverb in the Marshall headphones that drowned out the lead guitar, suggesting that each filter does indeed adjust the sound to correct for the specific shortcomings of different earbuds.

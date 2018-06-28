@@ -1,0 +1,8 @@
+﻿StarCraft II only takes advantage of dual cores, but still processing power plays a major role in this game. For example, the Core i3 540 processor only has half the L3 cache of the Core i5 750 and this makes the latter 27% faster when comparing the clock for clock data at 3.70GHz.
+The extra threads of the Core i7 920 processor are no advantage when compared to the Core i5 750 in this game, but the additional memory capacity and bandwidth is. The Core i7 920 was 11% faster when comparing the clock for clock data at 3.70GHz which is quite significant.
+An older processor like the Core 2 Quad Q6600 suffers compared to the other CPUs tested, serving as a bottleneck to a high-end GPU such as the GeForce GTX 480. The Phenom II processors delivered average performance and we saw no real difference between the Phenom II X2 (dual-core) and Phenom II X4 (quad-core processors).
+It is a shame that StarCraft II can only utilize two cores, as this really hurts older quad-core processors such as the Core 2 Quad Q6600. Furthermore this will also mean that those with budget quad-core processors, such as the Athlon II X4, will also suffer.
+
+The graph above shows multi-core performance by measuring the CPU utilization of our 8 player test on the Core i5 750 processor. As we had found when testing the beta of StarCraft II, this game is only optimized to use two cores at best, which is disappointing to say the least.
+
+	

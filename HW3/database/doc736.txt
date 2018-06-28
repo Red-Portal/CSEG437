@@ -1,0 +1,23 @@
+iOS 11.4 brings stereo pairs and multi-room audio with AirPlay 2
+
+HomePod Arrives in Canada, France and Germany Starting June 18
+
+HomePod, the breakthrough wireless speaker from Apple, now delivers an even more immersive listening experience throughout the home with support for HomePod stereo pairs and a new multi-room audio system in iOS 11.4. This free software update introduces the most advanced, easy to use, wireless multi-room audio system using AirPlay 2 to play music in any room from any room, move music from one room to another or play the same song everywhere using an iOS device, HomePod, Apple TV or by asking Siri. HomePod is available in the US, UK and Australia and arrives in Canada, France and Germany starting June 18.
+
+HomePod combines Apple-engineered audio technology and advanced software to set a new audio quality standard for a small speaker, delivering high-fidelity sound and a wide soundstage. Featuring a large, Apple-designed woofer for deep, clean bass, a custom array of seven beamforming tweeters that provide pure high frequency acoustics with incredible directional control and powerful technologies built right in, HomePod is able to preserve the richness and intent of the original recordings.
+
+With two HomePod speakers set up as a stereo pair, this soundstage gets even wider, delivering room-filling sound that is more spacious than a traditional stereo pair from a speaker that¡¯s just under 7-inches tall. Using spatial awareness to sense their location in the room, each HomePod automatically adjusts the audio to sound great wherever it is placed and sound great together, using an Apple-designed wireless peer-to-peer direct link to communicate with each other and play music completely in sync.
+
+With an A8 chip in each speaker, each HomePod is able to play its own audio channel ? left or right ? while separating out both the ambient and direct energy. This innovative stereo sound provides a wide, almost three dimensional soundstage for an incredible listening experience anywhere in the room. A HomePod stereo pair creates room filling sound with greater bass extension, resulting in a deeper, more accurate reproduction of low frequencies.
+
+Setting up a stereo pair is simple. When a second HomePod is set up in the same room, the user is prompted whether they would like to form a stereo pair, and in just a matter of minutes, the room is filled with amazing audio. Even though these two speakers act as one, each HomePod communicates with each other so that only one speaker responds to Siri requests.
+
+AirPlay 2 and Multi-Room Audio
+
+AirPlay 2 enables the most advanced, wireless multi-room audio system, creating an effortless way for people to stream music or podcasts anywhere in the home to different devices, all in-sync. While listening to music, it¡¯s as easy as selecting or unselecting where the music is playing in Control Center, or users can ask Siri to play music in any room, a group of rooms, or everywhere in the home. For HomePod, AirPlay 2 features are automatically supported and music can be streamed around the house without the need to manually group speakers.
+
+AirPlay 2 controls are available across iOS within any app and in Control Center for quick access to what¡¯s playing in every room, on every speaker. Apple Music subscribers can also ask Siri to play different songs in different rooms or the same song everywhere, without ever leaving the room. Just like iPhone and iPad, HomePod will be able to communicate with other AirPlay 2-enabled speakers when they become available, so Siri can control music playing on speakers from Bang & Olufsen, Bluesound, Bose, Bowers & Wilkins, Denon, Libratone, Marantz, Marshall, Naim, Pioneer and Sonos.
+
+Siri, now actively used on over half a billion devices, has a deep knowledge of music and understands personal preferences and tastes. With personal requests turned on for HomePod, Siri can send a message, add reminders and notes and check calendar appointments.2 Siri can set a timer, play a podcast, check the news, sports, traffic and weather, and control a wide range of HomeKit smart home accessories.
+
+To learn more ways to get the most out of iOS 11.4, users can visit the Tips app on iPhone or iPad. For details on how to update HomePod, visit Apple Support.

@@ -1,0 +1,61 @@
+Game Boy Camera (Pocket Camera in Japan) is a Nintendo accessory for the handheld Game Boy gaming console which was released in 1998. The camera could take basic black & white, often grainy, digital images using the 4-color palette of the Game Boy system. It interfaced with the Game Boy Printer, which utilized heat-sensitive paper to "burn" any saved images, making a hardcopy. Both items were marketed by Nintendo as light-hearted entertainment devices (aimed mainly at children), in all three major videogame regions of the world: Japan, USA, and Europe. "N64 Magazine" (which is its full title; it was published by Future Publishing and has since been superseded by NGamer) dedicated a monthly section to the device. The Game Boy Camera comes in 4 different colors,(yellow, red, blue and green) as well as a limited edition The Legend of Zelda gold version, which contains different stamps from the standard camera.
+
+The game has numerous references to other Nintendo products. Also, there are a few differences between the North American and Japanese versions, including the unlockable B album pictures and the stamps that can be placed on pictures. [1]
+
+The camera's built-in software was developed by Game Freak, which explains the appearance of some Pokemon characters as "stamps" you can put on pictures (Game Freak also developed the Pokemon series of games).
+
+Nintendo reportedly had plans to release a successor to the Game Boy Camera called the Gameeye for the Game Boy Advance, which took color photos and featured connectivity with the Nintendo GameCube, but the Gameeye never saw release.
+
+The camera takes greyscale (2 bits per pixel) 128x112 pixel pictures
+Detectable Illumination Range (Faceplate) : 1lx ~ 10000lx
+Exposure Time Range : 16 ¥ìsec ~ 1sec
+Frame Rate : 10fps ~ 30fps
+
+Gameplay
+There are 3 main parts of the "game":
+
+Shoot 
+View 
+Play 
+
+Shoot
+Shoot contains the following choices:
+
+Shoot (take pictures) 
+Items (Self-Timer or Time-Lapse) 
+Magic (Trick Lenses, montage, panorama, Game Face) 
+Check (checks the album stored in memory) 
+The Game Face game is notable in that the picture taken will appear at least once in every game on the camera, usually as the main character.
+
+
+Play
+Play is a built-in Space Fever II game. At the beginning, 2 spaceships will appear. One of them will send players to a music sequencer known as "Trippy-H" if shot at, where one can mix sounds and loops. This feature makes simple chiptunes. The other one will send players to Ball, which is also available through shoot. If enough is done in the game, a third spaceship will appear in the middle, and if that is shot at players will be sent to a racing mini-game known as Run! Run! Run!, which is listed as "?" on the left side of the screen.
+
+In the actual Space Fever II game the player is attacked by spaceships and then attacked by bosses at the end of each group of smaller ones. The first boss is a giant face of a man with horns, the second boss is a giant face of a mustachioed man, and the third boss's face depends on the pictures taken in "Game Face". Once all 3 of the bosses are beaten, the cycle will start over again, only harder. If this is the first time through, Run! Run! Run! will be unlocked.
+
+
+View
+View contains the following choices:
+
+Slide Show (displays slide show of the current album.) 
+Animation (Where players can put together pictures to make it look like they are moving. This is done by pressing select on main screen, then going to edit, then animation.) 
+Hot-Spot (Where one can link 2 different pictures together by clicking on certain spots of the picture)
+
+Hot-Spot (see paragraph below) 
+Hot-Spot is especially good for creating a game where one can go from one photo of a room to another in a house by pressing certain spots (that players can set up) on the photo that will send the player there. One do this by pressing "Select" on the main screen, going to special, and choosing "Hot-Spot" (see list below). Each picture will have 5 One-eyed blobs that can be put on it. Each blob can be programmed to go to send the player to a different photo. Then, in Hot-Spot mode, the places where the player put the blobs will send one to other photos when clicked.
+
+
+"Start" and "Select" options
+The following are options that appear when select is pressed on the main screen:
+
+Link (print, transfer photos) 
+Special (Hot-Spot, compose) (see paragraph above for Hot-Spot) 
+Edit (Album, Animation) 
+Doodle (Paint, stamp on pictures) 
+The following are options that appear when start is pressed on the main screen:
+
+Username (make one's own username) 
+Record 
+High Score 
+Credits 
+The start options appear as planets and asteroids.

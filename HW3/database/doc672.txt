@@ -1,0 +1,12 @@
+The interaction with 3D scenes is an essential requirement of computer applications ranging from engineering and entertainment to architecture and social networks. 
+Traditionally 3D scenes are rendered by projecting them onto a 2-dimensional surface such as a monitor or projector screen. 
+This process results in the loss of several depth cues important for immersion into the scene. 
+An improved 3D perception can be achieved by using immersive Virtual Reality equipment or modern 3D display devices. 
+However, most of these devices are expensive and many 3D applications, such as modelling and animation tools, do not produce the output necessary for these devices. 
+In this paper we explore the use of cheap consumer-level hardware to simulate 3D displays. 
+We present technologies for adding stereoscopic 3D and motion parallax to 3D applications, without having to modify the source code. 
+The developed algorithms work with any program that uses the OpenGL fixed-function pipeline. 
+We have successfully applied the technique to the popular 3D modelling tool Blender. 
+Our user tests show that stereoscopic 3D improves user's perception of depth in a virtual 3D environment more than head coupled perspective. 
+However, the latter is perceived as more comfortable. 
+A combination of both techniques achieves the best 3D perception, and has a similar comfort rating as stereoscopic 3D.

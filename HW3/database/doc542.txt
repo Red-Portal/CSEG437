@@ -1,0 +1,28 @@
+NVIDIA TECHNOLOGIES
+3D VISION Surround Technology
+NVIDIA¢ç 3D Vision¢â Surround technology expands your gaming real estate across three monitors in Full HD 3D for a completely immersive gaming experience. Now you can broaden your peripheral view of in-game 3D action, letting you see enemies sooner, get a complete survey of strategy games, and race your car even faster on your GeForce GTX 400 and 200 series GPUs.
+
+CUDA Architecture
+NVIDIA CUDA¢â is a revolutionary parallel computing architecture. As an enabling hardware and software technology, CUDA makes it possible to use the many computing cores in a graphics processor to perform general-purpose mathematical calculations, achieving dramatic speedups in computing performance.
+
+NVIDIA GPUDirect¢â
+NVIDIA GPUDirect¢â technology enables faster communication between the GPU and other devices on the PCIe bus by removing unnecessary overhead on the CPU. GPUDirect v1.0 allows 3rd party device drivers (e.g. for InfiniBand adaptors) to communicate directly with the CUDA driver, eliminating the overhead of copying data around on the CPU. GPUDirect v2.0 enables peer-to-peer (P2P) communication between GPUs in the same system, avoiding additional CPU overhead. More¡¦
+
+Optimus
+NVIDIA¢ç Optimus¢â Technology intelligently optimizes your notebook PC, providing the outstanding graphics performance you need, when you need it, all the while extending battery life for longer enjoyment.
+
+PhysX
+NVIDIA¢ç PhysX¢â is a powerful physics engine enabling real-time physics in leading edge PC and console games. PhysX software is widely adopted by over 150 games, is used by more than 10,000 developers of all types and is supported on Sony Playstation 3, Microsoft Xbox 360, Nintendo Wii and PC.
+
+PureVideo
+NVIDIA PureVideo¢â technology is a combination of the GeForce 6, 7 and 8 Series GPUs¡¯ high-definition video processor and NVIDIA video decode software that delivers unprecedented picture clarity, smooth video, accurate color, and precise image scaling for all video content on any display.
+
+SLI
+A revolutionary approach to scalability?combining multiple graphics cards in a PC to scale performance?NVIDIA¢ç SLI¢â technology takes advantage of the increased bandwidth of the PCI Express¢â bus architecture, and features intelligent hardware and software solutions that allow multiple NVIDIA GPUs to efficiently work together to deliver earth-shattering performance.
+
+INDUSTRY TECHNOLOGIES
+MXM
+MXM (Mobile PCI Express Module), the result of a joint design effort between NVIDIA and the industry¡¯s leading notebook manufacturers, provides a consistent interface for mobile PCI Express graphics.
+
+Windows 8
+NVIDIA¢ç is ready for Windows¢ç 8. NVIDIA supports Microsoft Windows¢ç 8 Consumer Preview across all kinds of NVIDIA GPU-based systems, including those with NVIDIA¢ç GeForce ¢ç and Quadro ¢ç GPUs.

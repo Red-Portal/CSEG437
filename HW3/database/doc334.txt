@@ -1,0 +1,31 @@
+The Truth about Mobile Application Stores
+
+At the recent Mobile World Congress 2010, Dutch app store analytics firm Distimo presented their findings on the six largest mobile application stores in existence today: the iTunes App Store, BlackBerry App World, Google Android Market, Nokia Ovi Store, Palm App Catalog and Windows Marketplace for Mobile. In their presentation, they analyzed everything including store size, store growth, the most popular applications and where you can find the best deal. They recently shared some of the highlights from that presentation by way of a slideshow embedded on their blog. 
+
+For mobile industry insiders, some of the findings won't be all that shocking, just common knowledge paired with statistics. However, there were a few surprises that caught us off guard, maybe they will you too. 
+
+Distimo collects public application data from app stores and also offers developers an analytics tool which is used to monitor their apps and those belonging to their competitors. After examining and analyzing the data, the company releases market reports detailing their findings. 
+
+Free Vs. Paid Apps
+One of their most recent reports looked at which application stores have the highest percentage of free apps. Not surprisingly, the Android Market was the winner here. In an interview with Venture Beat, Distimo co-founder and CEO Vincent Hoogsteder said this was due to multiple factors: the nature of the open-source operating system from Google attracts the sort of developers that enjoy giving away their works and the open nature of the application- approval process (that is, no review board middleman exists between app creation and public release) makes it easier for casual developers to launch. Also, anecdotal evidence points to developers' dissatisfaction with Google Checkout - paid Android apps are required to implement this payment method for purchase, a much slower process than Apple's 1-click buying process. 
+
+The different ratios of free apps versus paid was one of the findings presented during MWC 2010. In the chart below, you can see the varying percentages by store. (Note that Distimo's findings were focused on the U.S. market only). Android has the most free applications (57% free) and Nokia has the most paid (85% paid). The next closest store to Android in terms of free is Palm, followed by Apple, Blackberry, Windows Phone, and finally Nokia. 
+
+
+
+Another interesting finding had to do with the prices for the paid applications. Apple, Android and Palm were all in the same range when it came to the average price for paid apps ($3.27 to $3.62). However, RIM and Microsoft were more than twice as high ($8.26 and $6.99, respectively). This didn't necessarily have to do with the different types of applications available in each store - sometimes, the exact same app was just priced higher on other platforms. For example, Tetris was $4.99 on Apple and $6.99 on Windows. IM+ was $4.99 on Apple and $29.99 on Blackberry. 
+
+
+
+Store Size and Growth: Look Out for Android! 
+Android is now the second-largest application store, reports Distimo, with 19, 297 apps. It's still a far cry from Apple's 150,998 apps, though. And other competitors are farther still. Ovi, we were surprised to discover, is the third largest with 6,118 apps available while Blackberry has a respectable 4,756. Palm has only 1,492 and Windows has 693. Apple is also the fastest growing store with a shocking 13,865 new applications added per month. Android's growth is picking up too - they now have 3,005 new apps per month (15%). Relative to the number of apps housed, Android is actually the fastest growing store. 
+
+
+
+
+
+Games, Games, Games
+Also discussed were the popularity of applications by category. On Apple's store, games and entertainment were the most popular categories (58% and 18%, respectively). Somewhat more surprising was the popularity of games on Blackberry, the platform often used more by enterprise and SMBs than by consumers. Here, games were also in the lead with 29% popularity to only 18% for utilities. One would have thought that would be the other way around - that corporate users would be more likely download apps that helped them work, not play. Apparently, that's not the case.
+
+For more details on this presentation, you can view the entire slideshow on Slideshare or contact the company itself for a more in-depth marketing report. 
+

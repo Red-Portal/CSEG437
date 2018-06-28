@@ -1,0 +1,3 @@
+A phone system comprises multiple telephones used in an interconnected fashion that allows for advanced telephony features such as call handling and transferring, conference calling, call metering and accounting, private and shared voice message boxes, and so on. A telephone system can range from just a few telephones in a home or small business up to a complex private branch exchange (PBX) system used by mid-sized and large businesses.
+
+Phone systems can function over the Public Switched Telephone Network (PSTN), over the Internet (Internet telephony or VoIP), or over a combination of the two. Business telephone systems can also be delivered as a hosted service (typically referred to as a centrex), which can free companies from having to invest in costly equipment.

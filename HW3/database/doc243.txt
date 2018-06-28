@@ -1,0 +1,65 @@
+Smartphone Display Comparison
+Written by Thanasis Friday 23 July 2010 - 23:58 | Tags: amoled, lcd, Retina display
+
+The Smartphone market is growing fast due to increased demand, new models hit the selves every few days an even though they perform the same basic functions (Email, web browsing, GPS navigation, multimedia playback, running a bevy of specialised add-on apps, etc), each has a different specialty.
+
+
+Smartphones vary in many ways; from the numerous types of operating systems, ( Android, BlackBerry OS, iPhone OS, Palm webOS, Windows Phone) that give their genius, to the display type that customers have to be attentive about. When you look at specs on new smartphones you find out that there are some different types of screens used, from LCD and AMOLED, to Super AMOLED or Retina.
+
+
+Now that you can surf the web, watch videos and movies, read emails the screen quality on your mobile device is very important and the first thing you'll probably notice if you place the latest smartphones side by side is that all displays vary in quality, contrast, brightness. As there¡¯s been a lot of talk recently about new screen technologies in terms of their strengths and weaknesses Techonnect had a look at all smartphone displays and is here to tell you what it thinks of them.
+
+
+
+When Steve Jobs introduced the iPhone 4 to the world he detailed that the device will make use of the Retina Display which is claimed to be the sharpest, highest-resolution phone screen ever. During the iPhone 4¡¯s presentation, Jobs said that, after a certain point, the human eyes fails to distinguish individual pixels, the magical number of the threshold being 300ppi (pixels per inch). Retina is the first smartphone display to pass the 300ppi mark, the screen having a resolution of 960x480 on 3.5 inches and thus 326ppi.
+
+
+Retina¡¯s ¡®eye-breaking¡¯ ppi level is much higher than the iPhone 3GS which has a 480x320 resolution providing 163 pixels per inch and significantly more than newer competitors like the Motorola Droid (854x480, 265ppi) and the Nexus One (800x480, 252 ppi). Now, while higher resolutions are good they won¡¯t do anything for standard definition, for example a typical YouTube video on the new iPhone 4 won't benefit from the extra pixels, just like watching a DVD on a high-definition TV.
+
+
+In-Plane Switching (IPS) technology, used in the Apple LED Cinema Display and the iPad, and LED backlighting, are also present in Retina to improve viewing angles beyond those capable on typical LCDs and to enhance color display. The screen is manufactured from materials used in helicopters and high-speed trains, making the glass more scratch resistant, while an oil-resistant coating helps keep the screen clean. In addition, the Retina display produces four times the contrast ratio (800:1) of previous models, enabling brighter whites, and darker blacks but still an OLED version, which has the advantage of no backlight, looks a bit purer.
+
+In spite of Apple¡¯s praise and bragging, the Retina display has received criticism, with a Samsung rep saying that ¡°quadrupling the resolution on the screen would only increase the clarity at most only three to five percent¡± , adding ¡°that this type of display is too power-hungry, draining it almost 30 percent faster than Samsung¡¯s Super AMOLED technology¡±.
+
+Even if you ignore Samsung¡¯s claims there¡¯s a problem that cannot be denied about the higher-res and that is the (rather slow speed) of developers trying to upgrade their apps. As of today, only some 20% of the 3rd party iPhone apps have been updated for the iPhone 4. So non upgraded apps still have the low-resolution app icons, which looks positively ugly on the high-res screen.
+
+
+
+AMOLED stands for Active-matrix organic light-emitting diode and is a technology that can be used be used for everything from small display (2"-4") devices to larger applications like TV screens. OLED displays carry a price premium over LCDs, but unlike traditional LCDs, OLEDs are self-luminous and do not require backlighting, diffusers, polarizers, or any of the other baggage that goes with liquid crystal displays, and for that reason consume almost fifty percent less power than an LCD, making it ideal for battery powered gadgets .
+
+
+The beauty of this technology is that it produces thinner, brighter and more vivid displays and that each pixel on an AMOLED display can be turned on and off more than three times faster than the speed of an LCD panel, which is great for having fluid, full-motion video. The technology also boasts of an RGB separated Gamma adjustment feature that is capable of providing more lifelike videos and still images with superior and stable colors.
+
+
+One of the chief complaints about AMOLED and OLED display technologies is that they do not perform as well under direct sunlight as their LCD counterpart. Indoors, the screen's brightness is impressive, but the display is almost impossible to see in sunlight. In order to fix the problem that makes OLED displays so vulnerable when outside Samsung introduced the Samsung i9000 Galaxy S which comes with a new Super AMOLED technology promising an unrivalled screen experience .
+
+This technology appears to have fixed the outdoor readability issue while bettering the features that made us fall in love with AMOLEDs in the first place. Compared with the first-generation AMOLED, the Super AMOLED claimed advantages are, 20% brighter screen, 80% less sunlight reflection and 20% reduced power consumption.
+
+
+The advantages of Super AMOLED have pushed Samsung to dedicate more production resources for it, hurting AMOLED supply and, consequently, forcing HTC to use LCDs for its Desire model which had one of the the best AMOLED displays with a 94mm (3.7-inch) screen sporting a 480x800-pixel resolution.
+
+Super AMOLED differs from TFT LCD and traditional AMOLED touchscreen displays in that the touch sensors are now integrated into the screen rather than being overlaid on top. The thickness of the touch sensor is just 0.001mm, allowing the screen to provide better images and to have great visibility even in direct sunlight (Samsung says that they perform 20% better than regular touch AMOLED outdoors). Even the viewing angle has been improved providing users with 180 degrees of viewing, which practically means you can hold the display at eye level and see the screen's images without blurring or distortion. Super-AMOLEDs also have better lifetime than regular AMOLED and are very responsive to touch - even better than the iPhone's display.
+
+The only Super AMOLED screen which can be found right now offers much brighter, clearer images and is less reflective than an AMOLED screen, featuring a high WVGA (800x480 pixels) resolution, and a 16 mDNIe (mobile Digital Natural Image engine) technology, based on the proven display DNIe technology which Samsung uses in its LCD TV and LED TV lineups. The 100,000 to 1 contrast ratio which promises unmatched vivid colors and clarity, is closest to the current HDTV standard.
+
+
+
+Liquid Crystal Displays or LCD is a fairly old technology found in calculator screens, mobile phones, PDAs, computers, and a lot more applications. In LCDs each individual pixel is divided into three cells, or subpixels, which are colored red, green, and blue, each subpixel can be controlled independently to yield thousands or millions of possible colors for each pixel. In order to improve color LCDs many companies have adopted the Thin Film Transistor (TFT) technology.
+
+
+LCDs are common because they offer some real advantages over other display technologies especially when viewed in direct sunlight, an LCD remains readable in bright sunshine, although much of the color detail is lost. While Samsung¡¯s Super AMOLED screen handles direct sunlight better than an AMOLED, compared to an LCD though it makes it hard to tell the difference.
+
+
+The oldest and most obvious problem with LCDs is that black do not appear like those in normal life, it¡¯s not very dark and in some cases it looks more grey than black. This is because the black in an LCD has a light behind it and hence it cannot be totally dark, whereas for LED displays, the pixel which is supposed to display black becomes an ¡°off-pixel¡±(that spot turns off),so blacks are sharp and very dark. Due to this, LCD screens are not a good option if you use them in dark areas. Brightness, contrast, gamma and color mixtures also depend on the viewing angle.
+
+Even though LCD is cheaper than AMOLED the price difference does not amount to much considering the small size of displays on mobile phones, furthermore LCDs consume more power due to the presence of a backlight.
+
+
+
+AMOLED displays are better than LCD displays in almost every aspect, they have larger contrast ratios, wider viewing angle, provide more vivid colors, brighter displays and darker blacks and, consume less power. The slightly higher cost of AMOLED displays of mobile phones as compared to TFT LCD screens and shorter shelf life are not an issue.
+
+
+The iPhone 4 panel is considered one of the most advanced displays both for its "invisible pixel" effect and for overcoming most of the perceived drawbacks of LCD, covering a very wide color pallet and providing much wider viewing angles than the often cheap LCDs used in other phones. When viewed outside Super-AMOLED and the Retina screen perform quite similar, but when it comes to resolution the Retina is on a field of its own. The Super-AMOLED despite it provides stronger color saturation and sharper definition, it looks pixelated compared to the iPhone's display.
+
+
+Overall the Retina display is much brighter than the Super AMOLED on the Galaxy S. The color output on a Super AMOLED panel is good too, but it can¡¯t match the crisp ¡°pixel-less¡± image on the Retina screen. You should keep in mind, however, that the difference between the two when you stick them right next to your eye is nowhere near as superefficient in real world use. There is no clear winner between Apple¡¯s Retina and Samsung¡¯s Super AMOLED. But we can say for sure that both displays are the best you can find on the market right now.

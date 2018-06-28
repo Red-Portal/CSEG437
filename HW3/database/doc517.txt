@@ -1,0 +1,21 @@
+You can watch television programming on a modern LCD TV and connect it to a computer as a monitor. You need to connect the TV and computer with the correct cable type and change a few settings. TVs and computer support several different high-definition connection types, including HDMI and DVI.
+
+Items you will need
+Video Cables
+Adapters, optional
+
+Step 1
+Look at your computer's ports to determine which types of cables can be used to connect the two devices. The computer may have VGA output, DVI or HDMI outputs.
+
+Step 2
+Check your LCD TV to determine what types of inputs are available. Decide which type of cable you will use that can connect to both the TV and the computer.
+
+Step 3
+Plug one end of the cable into the computer and the other end into the LCD TV.
+
+Step 4
+Click the Start button and "Control Panel." Select "Display" and click "Display Settings" in the left pane.
+
+Step 5
+Select the TV as the output device and save the setting.
+

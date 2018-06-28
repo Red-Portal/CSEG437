@@ -1,0 +1,7 @@
+Neuros Wants You To Help Design Next PMP
+ExtremeTech,  October, 2005  by LinuxDevices.com Staff
+Neuros Audio has asked readers to help define its next product, a Linux-based handheld portable media player/recorder (PMP/R) featuring audiophile-quality sound. The company says feedback is easiest to respond to early in the design, and calls its approach "the next step" in developing devices with open-source software. 
+
+Neuros is best known for its 442 portable media recorder and player, a $400 device with a 40GB harddrive that can capture MPEG-4 video from DVD players, satellite TV, and other sources, and play it back on a 3.6-inch LCD, or to an external device. The company also makes "The Recorder" , a similar device in a set-top box form factor. 
+
+Neuros is currently designing a successor to the 442 portable media player, and has published the specifications for a development board that it calls the "first prototype." Neuros invites hackers, open source software authors, and interested readers to review and weigh in on the design, which is expected to be finalized in about a week. 

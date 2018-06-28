@@ -1,0 +1,111 @@
+HOW TO CONNECT YOUR ANDROID PHONE OR TABLET TO YOUR HDTV
+View your mobile device media on your big screen.
+               
+Michael Ansaldo By Michael Ansaldo
+Freelance contributor, TechHive | APR 24, 2018 3:00 AM PT
+
+sony bravia a1e with samsung galaxy s9
+Sony/Samsung
+
+More like this
+displayvshdmi primary resized
+HDMI vs. DisplayPort: Which display interface reigns supreme?
+sonic carrier primary
+X-Fi Sonic Carrier review: Home theater of the absurd
+Apple TV 4th gen
+Apple TV 4K and tvOS 11: Everything you need to know about Apple's digital...
+hdmi coupler
+DEALPOSTS
+47% off HDMI Female to Female Coupler 2-Pack, Gold Plated High Speed Adapter -...
+
+No matter how big your Android smartphone or tablet display, there are times when you¡¯ll want to view your photos and videos on something even bigger. Good news: There are several ways to share your media on your TV, even if it¡¯s not the latest model. All you¡¯ll need are some inexpensive apps or adapters and to get started.
+
+Wired options
+Arguably the simplest, cheapest, and most hassle-free way to connect your Android device to your TV is a wired connection via its HDMI port. HDMI transmits uncompressed video and audio in a single cable, dramatically simplifying your setup. It will also deliver the most reliable connection, without the buffering and freezing potential of wireless streaming.
+
+In most cases, you¡¯ll only be able to mirror your device¡¯s display on your TV?in which case, forget about using your phone or or other apps while you¡¯re watching that flick?but some apps like Amazon Prime and Netflix might also offer playback controls, essentially turning your phone into a remote. Note, however that Hulu currently does not offer HDMI-out support for Android.
+
+[ Check out Amazon's CES Showcase, happening right now, for great deals on everything from home automation products to PC's. ]
+HDMI
+Not long ago, it was fairly common for Android devices to include an HDMI port. These weren¡¯t the full-size ports you find on TVs and laptops, but rather a a Mini HDMI or a Micro HDMI port. If you have one of these older devices, all you have to do is buy the corresponding cable?HDMI to Mini-HDMI or HDMI to Micro-HDMI, which can be had for $5-$10 on Amazon?and plug one end into your device and the other into your TV. Then set the TV to the appropriate input source and fire up your favorite streaming-service app or media file.
+
+hdmi
+Amazon
+If your Android device has a Micro HDMI port, you can use Micro-HDMI-to-HDMI cable like this one from BlueRigger to connect it to your TV.
+ 
+
+
+USB-to-HDMI
+It¡¯s far more likely, however, that your device is equipped with only a microUSB port and you¡¯ll need to use it as the output. For this, you¡¯ll need to purchase a USB-to-HDMI converter to convert the signals from your phone into something your TV can display. USB-to-HDMI converters come in two flavors: Mobile High-Definition Link (MHL) and Slimport.
+
+MHL is the older standard, and MHL adapters and cables are available in two types?passive and active. Passive cables don¡¯t convert the signal themselves because they¡¯re meant to be used with MHL-enabled TVs, a breed rapidly going the way of the Dodo thanks to the rise of wireless screen casting. (If you want to see if you have an MHL-enabled TV, though, look for the letters ¡°MHL¡± next to one of its HDMI ports or check this comprehensive list for your model.)
+
+If your TV is not MHL-enabled, you¡¯ll need an active cable. These do do the actual conversion and so can be used with any modern TV. But because they handle this heavy lifting, they also require their own power source, typically in the form of a USB power adapter. In a typical scenario, the adapter connects to your device¡¯s microUSB port, your TV¡¯s HDMI port, and a USB cable connected to a wall socket. 
+
+lg g flex 2 Amazon
+A Slimport adapter like this one for the LG G Flex 2 smartphone can enable you to connect to your TV even if your device doesn¡¯t have an HDMI port.
+
+
+There are adapters that don¡¯t require external power (they draw a little from your device), such as the Slimport adapter for the LG G Flex 2, which can convert signals for VGA, DVI, and DisplayPort displays as well as HDMI.
+
+You can find both types of converters in the $15-$25 range. The challenge with both these standards is that support varies considerably across manufacturers. Make sure you research what wired options are available for your particular device before buying an adapter.
+
+Wireless options 
+MENTIONED IN THIS ARTICLE
+
+Google Chromecast (2015 model)
+ 
+Read TechHive's review
+Learn Moreon Best Buy
+If you¡¯d rather not be tethered to your TV, there are a number of ways to connect your Android device wirelessly. In addition to allowing you to move with your device freely, they also shift the playback of your media from your phone or tablet to the TV rather than just mirroring its display, so you can continue to multitask if you want.
+
+Chromecast
+chromecast
+Michael Ansaldo/IDGWith Chromecast, you can cast media from services like Netflix from your phone to your TV and use your phone as a remote control.
+The most user-friendly way to wirelessly connect your device is with Google¡¯s own Chromecast. This $35 dongle attaches to your TV and allows you to ¡°cast¡± your Android phone¡¯s or tablet¡¯s display. But that¡¯s all it does. Unlike with a Roku or other streaming box, your device (literally) runs the show.
+
+Setting it up is dead simple. Plug the Chromecast into one of your TV¡¯s HDMI ports and its USB cable into a power source. Download the Google Home app and follow the prompts to connect the Chromecast your Wi-Fi. In supported apps like Netflix and Hulu you¡¯ll see see a Cast icon in the upper-right or lower-right of the screen. Tap it, then select your Chromecast from the device list. The media will playback on your TV, and you¡¯ll be able to continue to use your device and its apps.
+
+While any device running Android v4.4.2 or higher supports the Cast Screen feature, some do it better than others. Check this list of cast-optimized devices to see if yours is one of them.
+
+Miracast 
+MENTIONED IN THIS ARTICLE
+
+Amazon Fire TV Stick with Alexa Voice Remote (2016)
+ 
+Read TechHive's review
+$39.99See Iton Amazon
+Miracast is an older wireless standard but still a viable alternative if your device runs Android 4.2 (KitKat) or Android 5 (Lollipop). (Google dropped native Miracast support in Android 6 [Marshmallow] and later.) Miracast support is built in to some TVs and Blu-ray players, and employed in Amazon¡¯s Fire TV and Fire TV Stick. If you don¡¯t have one of these, you can buy Miracast dongle for around $20.
+
+To use Miracast, go to your device¡¯s Settings menu, then choose Display > Wireless display. Toggle ¡°Wireless display¡± ON at the top of the page and it will scan for your Miracast device. When it pops up, select it. Either your Miracast device will connect, or it will ask you to enter a PIN code. Once you¡¯re connected, your screen will be mirrored on your TV.
+
+firetvstick
+Jared Newman / TechHive
+Miracast support is built into Amazon¡¯s FireTV Stick.
+
+
+One advantage of MIracast is that it supports Digital Rights Management, so when you encounter the occasional media that still enforces DRM restrictions, you¡¯ll be able to cast it without a problem.
+
+Roku 
+MENTIONED IN THIS ARTICLE
+
+Roku Streaming Stick (2017)
+ 
+Read TechHive's review
+$39.99See Iton Amazon
+If you have a Roku streaming device, you may be able to use it to cast your Android device¡¯s display to your TV. Roku says most of its current generation of products support screen mirroring (though there are a few specific-model exceptions) and it's automatically enabled.
+
+Whether or not you can cast to your Roku depends more on your Android device. In theory, it should be good to go if it¡¯s running Android 4.2 or later. But with so many Android-device manufacturers and models out there, it really pays to research whether or not yours supports screen mirroring and how to enable and use it.
+
+allcast
+Michael Ansaldo/IDGAllCast lets you display your personal media through any DLNA device.
+DLNA
+This 15-year-old technology has been overshadowed by newer streaming methods. But DLNA, which allows you to wirelessly stream media files from one device to another over your home network, has been integrated into so many types of devices over the years you may already have one in your home you can use.
+
+To take advantage of DLNA, you¡¯ll need to download an app to your Android device that can stream the photos, video, and music files on it to your TV through a DLNA-equipped device. Google Play is chock-full of DLNA apps but one of the best is AllCast, which can cast to Chromecast; Amazon FireTV; Xbox 360; Xbox One; Roku; and Samsung, Sony, and Panasonic Smart TVs.
+
+AllCast automatically detects any DLNA device on your network. Just select the one you want to stream your media through then select the media file you want to play on the TV.
+
+AllCast is free to use, but it features prominent ads, and there¡¯s a five-minute viewing limit on pictures and videos. You can remove both by upgrading to the premium version for $5.
+
+This story, "How to connect your Android phone or tablet to your HDTV" was originally published by TechHive.

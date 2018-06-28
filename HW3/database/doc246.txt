@@ -1,0 +1,90 @@
+Smartphone Camera Battle: iPhone 4 vs. the Android Army
+Which new blockbuster smartphone shoots the best photos and videos? We put Apple's iPhone 4, Motorola's Droid X, HTC's EVO 4G, and Samsung's Galaxy to the test. There's a clear-cut winner.
+By Tim Moynihan, PCWorld
+Jun 26, 2010 12:08 am
+
+
+Updated 6/25/2010 to offer greater detail on our testing methodology and add sample video clips from each phone to the video comparison section.
+
+If a picture really is worth a thousand words, this summer's camera-equipped smartphone pack should save you several minutes on your monthly voice plan.
+
+The megapixel wars have officially migrated to the phone world: Sprint's HTC Evo 4G and Verizon's Motorola Droid X both sport 8-megapixel cameras, while AT&T's Apple iPhone 4 and T-Mobile's Samsung Galaxy S offer shooters going up to 5 megapixels. All four phones also boast 720p high-definition video capture at 30 frames per second.
+
+But as any camera buff will tell you, megapixel counts and boasts of "HD video capture" rarely mean a thing in terms of performance--especially when it comes to small-sensored camera phones and point-and-shoot cameras. We wanted to see how each of these four superphones performed, as cameras, in the real world.
+
+We ran them through the gauntlet of the PCWorld Labs' subjective testing for still image and video performance. Here's how the Droid X, Evo 4G, iPhone 4, and Samsung Galaxy S stacked up to one another in our formal tests for color accuracy, exposure quality, sharpness, distortion, video quality in bright and low lighting, and audio capture.
+
+How We Tested
+
+
+With each phone, we used a truncated version of our regular testing methodology for point-and-shoot cameras. We affixed each phone to a tripod and shot two images with the flash turned off. All images were taken using full auto mode with no post-processing, using the maximum resolution for each device:
+
+1. One still-life scene with a color chart and delightful random objects to rate exposure quality and color accuracy. Daylight-balanced 6500k lights were used to light the set. (see example at left).
+
+2. A target chart and printed text to evaluate sharpness and distortion levels (see example below).
+
+
+
+We use print-outs of each image to rate each component of image quality. All test images were printed using a Fujifilm Pictrography 3500 Silver Halide Printer, and the printer was recalibrated after printing each set of test shots. A panel of five judges examined each photo and video, then rated each of them independently for color, exposure, sharpness, and distortion.
+
+For video testing, we shot a moving scene twice from a tripod with each phone. While shooting each test clip, we played the same audio clip through speakers to evaluate how well each phone picked up sound. In the first test video clip, we shot in bright indoor lighting. In the second test video clip, we shot with the overhead lights turned off and a floor lamp turned on behind the camera to evaluate low-light footage.
+
+To rate the quality of each clip, the videos were viewed on a 30-inch-diagonal LCD monitor that was calibrated to a color temperature of 6500k using a Spyder calibrator. Each clip was evaluated by the same panel of five judges.
+
+
+
+The Winners: Overall Image Quality
+1. Apple iPhone 4 (Image Quality Score: Good)
+
+2. Motorola Droid X (Image Quality Score: Good)
+
+3. HTC EVO 4G (Image Quality Score: Fair)
+
+4. Samsung Galaxy (Image Quality Score: Fair)
+
+Here's evidence that megapixel counts rarely matter: Apple's 5-megapixel iPhone 4 led the pack for overall image quality in our tests, serving up well-exposed, brightly colored images in our evaluations.
+
+In fact, the iPhone 4 actually bested two full-fledged point-and-shoot cameras when it came to two testing categories: We included sample images from the Samsung HZ35W and Sony Cyber-shot DSC-WX1 in our image-evaluation pool, and the iPhone 4 outscored both of them in terms of exposure quality and color accuracy.
+
+However, the iPhone 4's image quality was far less impressive in two categories: sharpness and distortion. It trailed the Droid X in terms of image sharpness, and those Sony and Samsung point-and-shoots finished far ahead of it. The iPhone 4 finished in a dead heat with the Droid X and Samsung Galaxy S in terms of image distortion. All in all, though, the iPhone 4's photos looked more colorful and had better white balance than pictures taken with the other phones in this comparison.
+
+The 8-megapixel Droid X was right behind the iPhone 4 in terms of overall image quality, finishing in second place for exposure quality and color accuracy, and outscoring the iPhone 4 in our sharpness tests.
+
+HTC's Evo 4G finished third in our jury evaluations for image quality; it had the lowest-rated exposure quality of the phones we tested, but it was judged to have the least-distorted images in the test field.
+
+Taking up the rear for overall image quality was Samsung's Galaxy S phone, which finished ahead of the Evo 4G in terms of exposure quality, but finished in last place in our color accuracy, sharpness, and distortion tests.
+
+If you'd rather trust your own eyeballs, you can see the sample images from the PCWorld Labs' subjective imaging tests for each of the four camera phones here: Exposure and Color Accuracy Tests | Sharpness and Distortion Tests
+
+
+
+The iPhone 4 also led the charge when it came to video quality, and this part of the battle wasn't even close. Video quality shot with the iPhone 4 in bright light was rated as Very Good, showing smooth motion, bright colors, and accurate white balance.
+
+But low-light video shot with the iPhone 4 is the real story, as its ratings didn't just run circles around the low-light video performance of the other smartphones, but also of the Samsung and Sony point-and-shoot cameras. The iPhone's low-light footage exhibited smooth motion with good contrast, but its video did have a noticeable yellow tint. The latter factor knocked its low-light video rating down to Good.
+
+The only device to outperform the iPhone 4 in our low-light test pool? The second-generation Flip Video MinoHD, which we tested alongside the video footage from these smartphones and the two point-and-shoot cameras. The Flip showed sharper and more-colorful footage in low light, but when it comes to phones (and even some full point-and-shoot cameras), the iPhone 4 is a go-to device for low-light video.
+
+The Samsung Galaxy S finished second in our video comparison, and its performance was skewed heavily toward good performance in bright light. Bright-light footage looks a bit underexposed and slightly grainy in a full-screen view, but great at smaller sizes. The Galaxy S's auto-focus searches a bit before locking onto a crisp image. Its microphone actually picks up audio a bit too well: our audio clip sounded far too loud and blown-out, while it was barely picked up at all by some of the other smartphones in this comparison. In low light, the footage was a bit too murky and undefined to earn a better rating.
+
+The Droid X finished third in our video smackdown, capturing pixellated footage that wasn't very smooth or very detailed, and showed oversaturated colors. Low-light footage was surprisingly decent, finishing second among the smartphones, but still lacking detail.
+
+Heading up the rear in our video tests was the Evo 4G, which couldn't even top the video capture on the iPhone 3GS. It finished dead last in video quality on both ends of the lighting spectrum, thanks to footage that was choppy, murky, and overblown in bright light, and bright but super-grainy in low light.
+
+
+
+Head to Head: The Top Two Camera Phones
+After some extensive hands-on time with the iPhone 4 and Droid X over the past few days, I'm ready to give the nod to the iPhone 4 as having the best camera of the two smartphones. It goes beyond image quality, too, as the new iPhone brings more than that to the table.
+
+Shutter lag is non-existent, image and video quality are solid, and the unique extras that the iPhone 4 has in its bag of tricks (tap-to-focus switching while shooting video, quick switching between the front-facing and back-facing camera, scrubbing a timeline to jump forward and back during clip playback, and a 5X digital zoom) take it a step above the competition in both speed and usability.
+
+That 5X digital zoom, which you operate by simply swiping your finger over an on-screen scroll bar, is nicely implemented and quick to react to touch; as with any digital zoom, however, image quality suffers the more you zoom in.
+
+In short, everything works much faster, much more responsively, and with much better results than in previous generations of the iPhone camera. If you find yourself taking a lot of photos and videos with your current phone, the iPhone 4's imaging improvements alone might be worth the jump.
+
+Although the Droid X's ease-of-use and overall image and video quality lag behind those of the iPhone 4, its camera does have a few things going for it. The Droid X has a handful of basic scene modes that you can adjust based on the shooting environment: Landscape, Portrait, Macro, Sports, Steady Shot, Sunset, and Night Portrait. There's also a digital image stabilization setting, but it didn't always do an effective job of combatting hand shake.
+
+The performance of the scene modes is about in line with a lower-end point-and-shoot camera: They're good to have, but don't expect miracles. In Landscape, Sports, and Sunset modes, the flash is forced off; in Portrait, Macro, Steady Shot, and Night Portrait modes, the flash is forced on.
+
+Alas, with the Droid X shutter lag is a major drawback: the physical shutter button on the Droid X isn't quite responsive enough, and even after you press it, you need to wait about a second or so for the phone to capture a shot. A half-press feels like a full press of the shutter button; you really have to press and hold the shutter button to get it to take a photo.
+
+All in all, the Droid X had too many quirks and not enough imaging punch to win this battle. The combination of a lightning-quick shutter release, versatile focusing, good image quality, and top-notch low-light performance make the iPhone 4 the top pick as a camera that's also a phone.

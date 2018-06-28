@@ -1,0 +1,13 @@
+Technical details
+ 
+One of the first DVB-S2 tuner cards.MPEG-2 is most commonly used as the compression codec for digital HDTV broadcasts. Although MPEG-2 supports up to 4:2:2 YCbCr chroma subsampling and 10-bit quantization, HD broadcasts use 4:2:0 and 8-bit quantization to save bandwidth. Some broadcasters also plan to use MPEG-4 AVC, such as the BBC which is trialling such a system via satellite broadcast, which save considerable bandwidth compared to MPEG-2 systems. Some German broadcasters already use MPEG-4 together with DVB-S2 (ProSieben, Sat1 and Three Premiere Channels). Although MPEG-2 is more widely used at present, it seems likely that in the future all European HDTV may be MPEG-4, and Ireland and Norway, which have not yet begun any digital television broadcasts, are considering MPEG4 for SD Digital as well as HDTV on terrestrial broadcasts.
+
+HDTV is capable of "theater-quality" audio because it uses the Dolby Digital (AC-3) format to support "5.1" surround sound.
+
+The pixel aspect ratio of native HD signals is a "square" 1.0, or 1 pixel length = 1 pixel width. New HD compression and recording formats such as HDV use rectangular pixels for more efficient compression and to open HDTV acquisition for the consumer market.
+
+For more technical details see the articles on HDV, ATSC, DVB, and ISDB.
+
+Within television studios and other production and distribution facilities, HD-SDI SMPTE 292M interconnect standard (a nominally 1.485 Gbit/s, 75-ohm serial digital interface) is used to route uncompressed HDTV signals. The native bitrate of HDTV formats cannot be supported by 6-8MHz standard-definition television channels for over-the-air broadcast and consumer distribution media, hence the widespread use of compression in consumer applications. SMPTE 292M interconnects are generally unavailable in consumer equipment, partially due to the expense involved in supporting this format, and partially because consumer electronics manufacturers are required (typically by licensing agreements) to provide encrypted digital outputs on consumer video equipment, for fear that this would aggravate the issue of video piracy.
+
+Newer dual-link HD-SDI signals are needed for the latest 4:4:4 camera systems (Sony HDC-F950 & Thomson Viper), where one link/coax cable contains the 4:2:2 YCbCr info and the other link/coax cable contains the additional 0:2:2 CbCr information.

@@ -1,0 +1,110 @@
+Cortex-A8 Processor
+ The ARM Cortex¢â-A8 processor is based on the ARMv7 architecture and has the ability to scale in speed from 600MHz to greater than 1GHz. The Cortex-A8 processor can meet the requirements for power-optimized mobile devices needing operation in less than 300mW; and performance-optimized consumer applications requiring 2000 Dhrystone MIPS.
+
+
+Why Cortex-A8?PerformanceSpecificationsRelated ProductsResources
+OverviewThe Cortex-A8 high-performance processor is proven in end devices today.  From high-end feature phones to netbooks, DTVs, printers and automotive-infotainment, the Cortex-A8 processor offers a proven high-performance solution with millions of units shipped annually.
+The processor is particularly suited to high-performance applications.
+?Frequency from 600MHz to 1GHz and above?High-performance, Superscalar microarchitecture?NEON¢âtechnology for multi-media and SIMD processing?Binary compatibility with ARM926, ARM1136, and ARM1176 ProcessorsApplicationsThe Cortex-A8 is designed to meet the needs of markets requiring high performance with power-efficiency, often integrating web connectivity, including:
+
+Product Type Application  
+Smartphone Application processor running fully featured mobile OS 
+Netbook Power-efficient main processor running desktop OS 
+Set-top Box Main processor for managing Rich OS, Multi-format A/V and UI 
+Digital TV  Processor for managing Rich OS, UI, browser 
+Home Networking Control processor for system management 
+Storage Networking (HDD, SSD) Control processor to manage traffic flow 
+Printer High-performance integrated processor 
+
+
+High-PerformanceHigh performance processor to run in complex systems
+?Symmetric, superscalar pipeline for full dual-issue capability?High-frequency through efficient, deep pipeline?Advanced branch prediction unit with >95% accuracy?Integrated Level 2 Cache for optimal performance in high-performance systemsMedia processing Media processing in software with NEON Technology
+?128-bit SIMD data engine?2x the performance of v6SIMD?Power-saving through efficient media processing?Flexibility to handle the media formats of the future?Easily integrate multiple codecs in software with NEON Technology on the Cortex-A8?Enhance user interfaces
+
+   65nm LP process 65nm G+ process 
+  Optimized  Synthesized  Optimized  Synthesized  
+ Frequency (MHz)  600 500  1 GHz  750  
+ Frequency conditions  at ss, 1.08v, 125 C
+  at SS, 0.9v, 125C
+ 
+ Area with L1 Cache  (mm2)  <4  <4  <4  <4 
+ Cache Size (I/D)  32K/32K 32K/32K  32K/32K   32K/32K 
+Optimized instances of Advantage RAMS
+Area includes L1 RAMS, L2 control.
+Excludes NEON, ETM, L2 RAMS
+Frequency estimates using 12T RVt cells, 50ps clock jitter, 10%OCV
+Worst case SI
+
+
+
+Specifications
+
+  Cortex-A8
+ 
+Architecture  ARMv7-A Cortex  
+Dhrystone Performance 2.0 DMIPS / MHz  
+Multicore  No - Single core only  
+ISA Support ?ARM
+?Thumb¢ç-2/ Thumb
+?NEON¢â
+?VFPv3 Floating Point 
+ 
+Memory Management Memory Management Unit (MMU)  
+Debug and Trace CoreSight DK-A8 (available separately) 
+
+
+Cortex-A8 Feature Feature Description 
+NEON 128-bit SIMD engine enables high performance media processing.  Using NEON for some Audio, Video, and Graphics workloads eases the burden of supporting more dedicated accelerators across the SoC and enables the system to support the standards of tomorrow 
+Optimized Level 1 cache The Level 1 cache is integrated tightly into the processor with a single-cycle access time.  The caches combine minimal access latency with hash way determination to maximize performance and minimize power consumption. 
+Integrated Level 2 cache The Level 2 cache is integrated into the core for ease of integration, power efficiency, and optimal performance.  Built using standard compiled RAMs, the cache is configurable from 0K ? 1MB.  The cache can be built using compiled memories and has programmable delay to accommodate different array characteristics 
+Thumb-2 Technology Delivers the peak performance of traditional ARM code while also providing up to a 30% reduction in memory required to store instructions. 
+Dynamic Branch Prediction To minimize branch wrong prediction penalties, the dynamic branch predictor achieves 95% accuracy across a wide range of industry benchmarks.  The Predictor is enabled by branch target and global history buffers.  The replay mechanism minimizes miss-predict penalty. 
+Memory Management Unit A full MMU enables the Cortex-A8 to run rich operating systems in a variety of Applications 
+Jazelle-RCT 
+Technology RCT Java-acceleration technology to optimize Just In Time (JIT) and Dynamic Adaptive Compilation (DAC), and reduce memory footprint by up to three times 
+Memory System Optimized for power-efficiency and high-performance.  Hash array in the L1 cache limits activation of the memories to when they are likely to be needed.  Direct interface between the integrated, configurable L2 cache and the NEON media unit for data streaming.  Banked L2 cache design that enables only one bank at a time.  Support for multiple outstanding transactions to the L3 memory to fully utilize the CPU. 
+TrustZone Technology Allows for secure transactions and Digital Rights Management (DRM) 
+
+
+The Cortex-A8 processor is intended to be integrated with other IP blocks including interconnect IP, memory controllers, and graphics processors.System IPSystem IP components are essential for building complex system on chips and by utilizing System IP components developers can significantly reduce development and validation cycles, saving cost and reducing time to market.
+
+Description AMBA Bus System IP Components 
+Advanced AMBA 3 Interconnect IP AXI
+ NIC-301, PL301
+ 
+Dynamic Memory Controller
+ AXI
+ DMC-34x 
+Adaptive Verification IP
+ AXI
+ AVIP
+ 
+DMA Controller AXI
+ DMA-330
+ 
+CoreSight¢â Embedded Debug and Trace 
+ ATB
+ DK-A8 
+
+
+Media Processors 
+The Mali¢â family of products combine to provide the complete graphics stack for all embedded graphics needs, enabling device manufacturers and content developers to deliver the highest quality, cutting edge graphics solutions across the broadest range of consumer devices. 
+Mali-400 GPU World's first OpenGL ES 2.0 conformant multi-core GPU provides 2D and 3D acceleration with performance scalable up to 1080p resolution 
+Mali-200 GPU High performance graphical processor providing advanced 2D and 3D acceleration. Supports OpenGL ES 2.0 
+Mali-55 GPU The world¡¯s smallest and most power efficient GPU brings hardware graphics acceleration to the most cost-sensitive markets. 
+Mali-VE6 High definition video engine supports a range of codecs including all Blu-ray and DVD standards, H.264 HP, VC-1 AP, MPEG-2 MP, as well as other popular video and still image codecs such as MPEG-4 ASP, DivX, H.263 and (M)JPEG. 
+Mali-VE3 Standard definition video engine fully supports H.264 Base Profile, both encode and decode up to D1 resolution NTSC (720x480) at 30fps and PAL (720x576) at 25fps.Standard definition video engine fully supports H.264 Base Profile, both encode and decode up to D1 resolution NTSC (720x480) at 30fps and PAL (720x576) at 25fps. 
+
+ 
+
+Physical IP
+ 
+ARM¢ç Physical IP Platforms deliver process optimized IP, for best-in-class implementations of the Cortex-A8 processor at 40nm and below. 
+Standard Cell Logic Libraries Available in a variety of different architectures ARM Standard Cell Libraries support a wide performance range for all types of SoC designs. Designers can choose between different libraries and optimize their designs for speed, power and/or area 
+Memory Compilers and Registers A broad array of silicon proven SRAM, Register File and ROM memory compilers for all types of SoC designs ranging from performance critical to cost sensitive and low power applications. 
+Interface Libraries A broad portfolio of silicon-proven Interface IP designed to meet varying system architectures and standards. General Purpose I/O, Specialty I/O, High Speed DDR and Serial Interfaces are optimized to deliver high data throughput performance with low pin counts. 
+
+ 
+Tools SupportAll ARM processors are supported by the ARM RealView¢ç portfolio of development tools, as well as a wide range of third party tools, operating system and EDA vendors. ARM RealView tools are unique in their ability to provide solutions that span the complete development process from concept to final product deployment.
+Related Processors includeARM1176JZ-SCortex-A9Cortex-A5 
+
